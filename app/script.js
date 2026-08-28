@@ -240,6 +240,8 @@ analyzeButton.addEventListener(
 
 function displayResult(data) {
 
+    const confidence = Number(data.confidence);
+
     let output = `
 
         <h2>
@@ -266,6 +268,24 @@ function displayResult(data) {
         </h3>
 
     `;
+
+
+    if (confidence < 40) {
+
+        output += `
+
+            <h3>
+                ⚠️ Low Confidence Result
+            </h3>
+
+            <p>
+                The AI is uncertain about this image because the class
+                probabilities are close. This result is not a medical diagnosis.
+            </p>
+
+        `;
+
+    }
 
 
     // ======================================
