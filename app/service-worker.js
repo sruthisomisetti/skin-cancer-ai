@@ -1,4 +1,4 @@
-const CACHE_NAME = "skin-cancer-ai-v2";
+const CACHE_NAME = "skin-cancer-ai-v3";
 
 const LOCAL_FILES = [
     "./",
@@ -7,13 +7,7 @@ const LOCAL_FILES = [
     "./script.js",
     "./manifest.json",
     "./icon-192.png",
-    "./icon-512.png",
-    "./skin_cancer_efficientnet.tflite"
-];
-
-const CDN_FILES = [
-    "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js",
-    "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-tflite@0.0.1-alpha.10/dist/tf-tflite.min.js"
+    "./icon-512.png"
 ];
 
 
@@ -32,35 +26,6 @@ self.addEventListener("install", event => {
 
                 // Cache local application files
                 await cache.addAll(LOCAL_FILES);
-
-                // Try to cache TensorFlow libraries
-                for (const url of CDN_FILES) {
-
-                    try {
-
-                        const response = await fetch(url);
-
-                        if (response.ok) {
-
-                            await cache.put(url, response);
-
-                            console.log(
-                                "Cached:",
-                                url
-                            );
-
-                        }
-
-                    } catch (error) {
-
-                        console.log(
-                            "Could not cache:",
-                            url
-                        );
-
-                    }
-
-                }
 
             })
 

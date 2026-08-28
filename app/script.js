@@ -143,7 +143,7 @@ analyzeButton.addEventListener(
             // ==================================
 
             const response = await fetch(
-                "/predict",
+                "http://127.0.0.1:5000/predict",
                 {
                     method: "POST",
                     body: formData
@@ -161,8 +161,22 @@ analyzeButton.addEventListener(
             // READ RESPONSE
             // ==================================
 
-            const data =
-                await response.json();
+            const responseText =
+                await response.text();
+
+            let data;
+
+            try {
+
+                data = JSON.parse(responseText);
+
+            } catch (parseError) {
+
+                throw new Error(
+                    `API returned non-JSON response (HTTP ${response.status}): ${responseText}`
+                );
+
+            }
 
 
             console.log(
@@ -178,9 +192,11 @@ analyzeButton.addEventListener(
             if (!response.ok) {
 
                 throw new Error(
-                    data.error ||
-                    data.details ||
-                    "AI prediction failed."
+                    `HTTP ${response.status}: ${
+                        data.error ||
+                        data.details ||
+                        responseText
+                    }`
                 );
 
             }
@@ -251,6 +267,11 @@ function displayResult(data) {
         <div class="prediction">
 
             <h3>
+                🛡️ Overall AI Screening Result:
+                ${data.screening_result || "Needs attention"}
+            </h3>
+
+            <h3>
                 🧬 ${data.prediction}
             </h3>
 
@@ -260,6 +281,16 @@ function displayResult(data) {
             </p>
 
         </div>
+
+        <p>
+            <strong>Combined Suspicious Score:</strong>
+            ${Number(data.suspicious_score || 0).toFixed(2)}%
+        </p>
+
+        <p>
+            <strong>Model Explanation:</strong>
+            ${data.explanation || "The result is based only on the model output."}
+        </p>
 
         <hr>
 
@@ -280,7 +311,7 @@ function displayResult(data) {
 
             <p>
                 The AI is uncertain about this image because the class
-                probabilities are close. This result is not a medical diagnosis.
+                probabilities are close. This is not medical advice.
             </p>
 
         `;
@@ -358,7 +389,7 @@ const translations = {
         title: "AI Analysis Result",
         prediction: "Prediction",
         confidence: "Confidence",
-        warning: "This AI prediction is for research/demo purposes only and is not a medical diagnosis. Please consult a qualified healthcare professional."
+        warning: "This AI prediction is for research/demo purposes only and is not a substitute for professional medical advice. Please consult a qualified healthcare professional."
     },
 
     "te-IN": {
@@ -622,6 +653,11 @@ function translateResult() {
         <div class="prediction">
 
             <h3>
+                🛡️ Overall AI Screening Result:
+                ${lastResult.screening_result || "Needs attention"}
+            </h3>
+
+            <h3>
                 🧬 ${translation.prediction}:
                 ${lastResult.prediction}
             </h3>
@@ -639,6 +675,16 @@ function translateResult() {
             </p>
 
         </div>
+
+        <p>
+            <strong>Combined Suspicious Score:</strong>
+            ${Number(lastResult.suspicious_score || 0).toFixed(2)}%
+        </p>
+
+        <p>
+            <strong>Model Explanation:</strong>
+            ${lastResult.explanation || "The result is based only on the model output."}
+        </p>
 
         <hr>
 

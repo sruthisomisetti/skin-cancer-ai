@@ -38,14 +38,16 @@ CORS(app)
 # ============================================================
 
 CLASS_NAMES = [
-    "Actinic keratoses (akiec)",
-    "Basal cell carcinoma (bcc)",
-    "Benign keratosis (bkl)",
-    "Dermatofibroma (df)",
-    "Melanoma (mel)",
     "Melanocytic nevi (nv)",
-    "Vascular lesions (vasc)"
+    "Melanoma (mel)",
+    "Benign keratosis (bkl)",
+    "Basal cell carcinoma (bcc)",
+    "Actinic keratoses (akiec)",
+    "Vascular lesions (vasc)",
+    "Dermatofibroma (df)"
 ]
+
+SUSPICIOUS_CLASS_INDICES = {1, 3, 4}
 
 
 # ============================================================
@@ -154,13 +156,6 @@ def predict():
 
 
         # ----------------------------------------------------
-        # NORMALIZE IMAGE
-        # ----------------------------------------------------
-
-        image_array = image_array / 255.0
-
-
-        # ----------------------------------------------------
         # ADD BATCH DIMENSION
         # ----------------------------------------------------
 
@@ -195,15 +190,6 @@ def predict():
 
 
         # ----------------------------------------------------
-        # SOFTMAX
-        # ----------------------------------------------------
-
-        probabilities = tf.nn.softmax(
-            probabilities
-        ).numpy()
-
-
-        # ----------------------------------------------------
         # FIND PREDICTION
         # ----------------------------------------------------
 
@@ -219,6 +205,26 @@ def predict():
 
         confidence = float(
             probabilities[predicted_index] * 100
+        )
+
+        suspicious_score = float(
+            sum(
+                probabilities[index]
+                for index in SUSPICIOUS_CLASS_INDICES
+            ) * 100
+        )
+
+        screening_result = (
+            "Suspicious pattern"
+            if predicted_index in SUSPICIOUS_CLASS_INDICES
+            else "Lower concern"
+        )
+
+        explanation = (
+            f"The model assigned the highest output to {predicted_class} "
+            f"with {confidence:.2f}% model confidence. The combined "
+            f"suspicious score is {suspicious_score:.2f}%, based only on "
+            "the mel, bcc, and akiec model outputs."
         )
 
 
@@ -243,7 +249,7 @@ def predict():
         warning = (
             "This AI prediction is for research and "
             "demonstration purposes only. It is not a "
-            "medical diagnosis. Please consult a qualified "
+            "substitute for professional medical advice. Please consult a qualified "
             "healthcare professional for proper evaluation."
         )
 
@@ -278,6 +284,15 @@ def predict():
                 confidence,
                 2
             ),
+
+            "screening_result": screening_result,
+
+            "suspicious_score": round(
+                suspicious_score,
+                2
+            ),
+
+            "explanation": explanation,
 
             "probabilities":
                 probability_results,
