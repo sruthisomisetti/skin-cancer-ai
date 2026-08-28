@@ -1,0 +1,37 @@
+# Local environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Python cache and tooling output
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+build/
+
+# Training data and generated datasets
+dataset/
+*.csv
+*.jpg
+*.jpeg
+
+# Training checkpoints and source model files
+models/
+*.keras
+*.h5
+
+# Keep deployment assets in app/ available to Git
+*.png
+!app/*.png
+
+# Archives, logs, and editor files
+*.zip
+*.log
+.vscode/

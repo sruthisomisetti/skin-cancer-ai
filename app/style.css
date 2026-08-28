@@ -1,0 +1,644 @@
+/* =====================================
+   GLOBAL
+   ===================================== */
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+
+    margin: 0;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background:
+        #f4f7fb;
+
+    color:
+        #222;
+
+    min-height:
+        100vh;
+}
+
+
+/* =====================================
+   MAIN CONTAINER
+   ===================================== */
+
+.container {
+
+    width: 100%;
+
+    max-width: 900px;
+
+    margin: 0 auto;
+
+    padding: 25px;
+}
+
+
+/* =====================================
+   HEADER
+   ===================================== */
+
+header {
+
+    text-align: center;
+
+    margin-bottom: 25px;
+}
+
+
+header h1 {
+
+    margin-bottom: 8px;
+
+    font-size: 34px;
+}
+
+
+header p {
+
+    margin: 5px 0;
+
+}
+
+
+.subtitle {
+
+    font-size: 14px;
+
+    opacity: 0.7;
+}
+
+
+/* =====================================
+   SAFETY NOTICE
+   ===================================== */
+
+.safety-notice {
+
+    background:
+        #fff8e6;
+
+    border:
+        1px solid #e5c76b;
+
+    border-radius:
+        15px;
+
+    padding:
+        20px;
+
+    margin-bottom:
+        20px;
+
+    line-height:
+        1.6;
+}
+
+
+.safety-notice h2 {
+
+    margin-top: 0;
+
+    font-size: 22px;
+}
+
+
+.consent-label {
+
+    display:
+        flex;
+
+    align-items:
+        flex-start;
+
+    gap:
+        10px;
+
+    margin-top:
+        18px;
+
+    font-weight:
+        bold;
+
+    cursor:
+        pointer;
+}
+
+
+#safetyConsent {
+
+    width:
+        19px;
+
+    height:
+        19px;
+
+    margin-top:
+        3px;
+
+    flex-shrink:
+        0;
+}
+
+
+/* =====================================
+   CARDS
+   ===================================== */
+
+.upload-card,
+.result-card,
+.history-card {
+
+    background:
+        white;
+
+    border-radius:
+        15px;
+
+    padding:
+        25px;
+
+    margin-bottom:
+        20px;
+
+    box-shadow:
+        0 4px 15px
+        rgba(0, 0, 0, 0.08);
+}
+
+
+/* =====================================
+   IMAGE BUTTONS
+   ===================================== */
+
+.image-buttons {
+
+    display:
+        flex;
+
+    gap:
+        15px;
+
+    flex-wrap:
+        wrap;
+
+    margin:
+        20px 0;
+}
+
+
+.upload-button {
+
+    flex:
+        1;
+
+    min-width:
+        180px;
+
+    padding:
+        15px;
+
+    border-radius:
+        10px;
+
+    background:
+        #eef3ff;
+
+    text-align:
+        center;
+
+    cursor:
+        pointer;
+
+    font-weight:
+        bold;
+
+    transition:
+        0.2s;
+}
+
+
+.upload-button:hover {
+
+    transform:
+        translateY(-2px);
+}
+
+
+/* =====================================
+   IMAGE PREVIEW
+   ===================================== */
+
+.preview-container {
+
+    width:
+        100%;
+
+    text-align:
+        center;
+
+    margin:
+        20px 0;
+}
+
+
+#previewImage {
+
+    display:
+        none;
+
+    width:
+        100%;
+
+    max-width:
+        500px;
+
+    max-height:
+        500px;
+
+    object-fit:
+        contain;
+
+    margin:
+        auto;
+
+    border-radius:
+        12px;
+}
+
+
+/* =====================================
+   ANALYZE BUTTON
+   ===================================== */
+
+#analyzeButton {
+
+    width:
+        100%;
+
+    padding:
+        16px;
+
+    border:
+        none;
+
+    border-radius:
+        10px;
+
+    font-size:
+        17px;
+
+    font-weight:
+        bold;
+
+    cursor:
+        pointer;
+
+    background:
+        #e8edf5;
+
+}
+
+
+#analyzeButton:not(:disabled):hover {
+
+    transform:
+        translateY(-1px);
+}
+
+
+#analyzeButton:disabled {
+
+    cursor:
+        not-allowed;
+
+    opacity:
+        0.6;
+}
+
+
+/* =====================================
+   LANGUAGE
+   ===================================== */
+
+.language-section {
+
+    background:
+        white;
+
+    padding:
+        20px;
+
+    border-radius:
+        15px;
+
+    margin-bottom:
+        20px;
+
+    box-shadow:
+        0 4px 15px
+        rgba(0, 0, 0, 0.06);
+}
+
+
+#languageSelect {
+
+    width:
+        100%;
+
+    padding:
+        13px;
+
+    margin-top:
+        8px;
+
+    border-radius:
+        8px;
+
+    font-size:
+        16px;
+}
+
+
+/* =====================================
+   RESULT
+   ===================================== */
+
+.result-card {
+
+    overflow-wrap:
+        break-word;
+}
+
+
+.prediction {
+
+    padding:
+        15px;
+
+    border-radius:
+        10px;
+
+    background:
+        #f1f6ff;
+
+}
+
+
+.medical-warning {
+
+    padding:
+        15px;
+
+    border-radius:
+        10px;
+
+    background:
+        #fff4f4;
+
+    line-height:
+        1.6;
+}
+
+
+/* =====================================
+   VOICE BUTTON
+   ===================================== */
+
+.voice-button {
+
+    width:
+        100%;
+
+    padding:
+        14px;
+
+    margin-top:
+        15px;
+
+    border:
+        none;
+
+    border-radius:
+        10px;
+
+    font-size:
+        16px;
+
+    font-weight:
+        bold;
+
+    cursor:
+        pointer;
+
+}
+
+
+/* =====================================
+   HISTORY
+   ===================================== */
+
+.history-header {
+
+    display:
+        flex;
+
+    justify-content:
+        space-between;
+
+    align-items:
+        center;
+
+    gap:
+        15px;
+
+    flex-wrap:
+        wrap;
+}
+
+
+.clear-button {
+
+    padding:
+        9px 13px;
+
+    border:
+        none;
+
+    border-radius:
+        7px;
+
+    cursor:
+        pointer;
+
+}
+
+
+.history-item {
+
+    margin-top:
+        15px;
+
+    padding:
+        15px;
+
+    border-radius:
+        10px;
+
+    background:
+        #f5f6f8;
+
+    overflow-wrap:
+        break-word;
+}
+
+
+.history-item p {
+
+    margin:
+        6px 0;
+}
+
+
+.history-date {
+
+    font-size:
+        13px;
+
+    opacity:
+        0.7;
+}
+
+
+/* =====================================
+   WARNING
+   ===================================== */
+
+.warning {
+
+    padding:
+        20px;
+
+    margin-bottom:
+        20px;
+
+    border-radius:
+        12px;
+
+    background:
+        #fff8e6;
+
+    line-height:
+        1.6;
+}
+
+
+/* =====================================
+   MOBILE
+   ===================================== */
+
+@media (max-width: 600px) {
+
+    .container {
+
+        padding:
+            12px;
+    }
+
+
+    header h1 {
+
+        font-size:
+            26px;
+    }
+
+
+    .upload-card,
+    .result-card,
+    .history-card {
+
+        padding:
+            18px;
+
+        border-radius:
+            12px;
+    }
+
+
+    .image-buttons {
+
+        flex-direction:
+            column;
+    }
+
+
+    .upload-button {
+
+        width:
+            100%;
+
+        min-width:
+            0;
+    }
+
+
+    #previewImage {
+
+        max-height:
+            350px;
+    }
+
+
+    .history-header {
+
+        align-items:
+            stretch;
+    }
+
+
+    .clear-button {
+
+        width:
+            100%;
+    }
+
+
+    .safety-notice {
+
+        padding:
+            16px;
+    }
+
+}
+/* =====================================
+   INSTALL APP
+   ===================================== */
+
+.install-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.install-button {
+    padding: 12px 22px;
+    border: none;
+    border-radius: 10px;
+    background: #1976d2;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.install-button:hover {
+    opacity: 0.9;
+}

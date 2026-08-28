@@ -1,0 +1,22 @@
+{
+  "name": "Skin Cancer AI",
+  "short_name": "SkinCancer AI",
+  "description": "AI-powered skin lesion analysis using EfficientNet and TensorFlow Lite.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
