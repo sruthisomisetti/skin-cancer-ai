@@ -2,20 +2,69 @@
 // SKIN CANCER AI - MAIN SCRIPT
 // ==========================================
 
-const imageInput = document.getElementById("imageInput");
-const cameraInput = document.getElementById("cameraInput");
-const previewImage = document.getElementById("previewImage");
-const analyzeButton = document.getElementById("analyzeButton");
-const result = document.getElementById("result");
-const voiceButton = document.getElementById("voiceButton");
-const languageSelect = document.getElementById("languageSelect");
+
+// ==========================================
+// ELEMENTS
+// ==========================================
+
+const imageInput =
+    document.getElementById("imageInput");
+
+const cameraInput =
+    document.getElementById("cameraInput");
+
+const previewImage =
+    document.getElementById("previewImage");
+
+const analyzeButton =
+    document.getElementById("analyzeButton");
+
+const result =
+    document.getElementById("result");
+
+const voiceButton =
+    document.getElementById("voiceButton");
+
+const languageSelect =
+    document.getElementById("languageSelect");
+
+const historyList =
+    document.getElementById("historyList");
+
+const clearHistoryButton =
+    document.getElementById("clearHistoryButton");
+
+const loading =
+    document.getElementById("loading");
+
 
 let selectedImage = null;
+
 let lastResult = null;
 
 
 // ==========================================
-// IMAGE PREVIEW FUNCTION
+// API URL
+// ==========================================
+
+// LOCAL DEVELOPMENT
+// Flask server:
+// http://127.0.0.1:5000
+
+const API_URL =
+    "http://127.0.0.1:5000/predict";
+
+
+// ==========================================
+// HISTORY STORAGE
+// ==========================================
+
+const HISTORY_KEY =
+    "skinCancerAI_history";
+
+
+// ==========================================
+// IMAGE PREVIEW
 // ==========================================
 
 function showSelectedImage(file) {
@@ -24,60 +73,85 @@ function showSelectedImage(file) {
         return;
     }
 
+
     selectedImage = file;
 
-    const imageURL = URL.createObjectURL(file);
 
-    previewImage.src = imageURL;
-    previewImage.style.display = "block";
+    const imageURL =
+        URL.createObjectURL(file);
 
-    analyzeButton.disabled = false;
+
+    previewImage.src =
+        imageURL;
+
+
+    previewImage.style.display =
+        "block";
+
+
+    analyzeButton.disabled =
+        false;
+
 
     result.innerHTML = `
-        <h2>📊 Analysis Result</h2>
+
+        <h2>
+            📊 Analysis Result
+        </h2>
 
         <p>
             ✅ Image selected successfully.
         </p>
 
         <p>
-            Click <strong>Analyze Image</strong>
+            Click
+            <strong>Analyze Image</strong>
             to start the AI analysis.
         </p>
+
     `;
+
 }
 
 
 // ==========================================
-// GALLERY IMAGE
+// GALLERY
 // ==========================================
 
 if (imageInput) {
 
-    imageInput.addEventListener("change", function () {
+    imageInput.addEventListener(
+        "change",
+        function () {
 
-        const file = imageInput.files[0];
+            const file =
+                imageInput.files[0];
 
-        showSelectedImage(file);
+            showSelectedImage(file);
 
-    });
+        }
+    );
 
 }
 
 
 // ==========================================
-// CAMERA IMAGE
+// CAMERA
 // ==========================================
 
 if (cameraInput) {
 
-    cameraInput.addEventListener("change", function () {
+    cameraInput.addEventListener(
+        "change",
+        function () {
 
-        const file = cameraInput.files[0];
+            const file =
+                cameraInput.files[0];
 
-        showSelectedImage(file);
+            showSelectedImage(file);
 
-    });
+        }
+    );
 
 }
 
@@ -86,140 +160,41 @@ if (cameraInput) {
 // ANALYZE IMAGE
 // ==========================================
 
-analyzeButton.addEventListener(
-    "click",
-    async function () {
+if (analyzeButton) {
 
-        if (!selectedImage) {
-
-            result.innerHTML = `
-                <h2>📊 Analysis Result</h2>
-
-                <p>
-                    ⚠️ Please select or take a photo first.
-                </p>
-            `;
-
-            return;
-        }
+    analyzeButton.addEventListener(
+        "click",
+        async function () {
 
 
-        // Show loading
+            if (!selectedImage) {
 
-        result.innerHTML = `
-            <h2>📊 Analysis Result</h2>
+                result.innerHTML = `
 
-            <h3>
-                🔬 Analyzing image...
-            </h3>
+                    <h2>
+                        📊 Analysis Result
+                    </h2>
 
-            <p>
-                Please wait while the AI examines the image.
-            </p>
-        `;
+                    <p>
+                        ⚠️ Please select or take a photo first.
+                    </p>
 
+                `;
 
-        try {
-
-            // ==================================
-            // CREATE FORM DATA
-            // ==================================
-
-            const formData = new FormData();
-
-            formData.append(
-                "image",
-                selectedImage
-            );
-
-
-            console.log(
-                "Sending image to Python AI..."
-            );
-
-
-            // ==================================
-            // SEND TO PYTHON API
-            // ==================================
-
-            const response = await fetch(
-            "/predict",
-                {
-                    method: "POST",
-                    body: formData
-                }
-            );
-
-
-            console.log(
-                "API status:",
-                response.status
-            );
-
-
-            // ==================================
-            // READ RESPONSE
-            // ==================================
-
-            const responseText =
-                await response.text();
-
-            let data;
-
-            try {
-
-                data = JSON.parse(responseText);
-
-            } catch (parseError) {
-
-                throw new Error(
-                    `API returned non-JSON response (HTTP ${response.status}): ${responseText}`
-                );
-
+                return;
             }
 
 
-            console.log(
-                "AI response:",
-                data
-            );
-
-
             // ==================================
-            // ERROR CHECK
+            // SHOW LOADING
             // ==================================
 
-            if (!response.ok) {
+            if (loading) {
 
-                throw new Error(
-                    `HTTP ${response.status}: ${
-                        data.error ||
-                        data.details ||
-                        responseText
-                    }`
-                );
+                loading.style.display =
+                    "block";
 
             }
-
-
-            // Save result
-
-            lastResult = data;
-
-
-            // ==================================
-            // DISPLAY RESULT
-            // ==================================
-
-            displayResult(data);
-
-
-        } catch (error) {
-
-            console.error(
-                "Prediction error:",
-                error
-            );
 
 
             result.innerHTML = `
@@ -228,26 +203,199 @@ analyzeButton.addEventListener(
                     📊 Analysis Result
                 </h2>
 
-                <p>
-                    ❌ Unable to analyze this image.
-                </p>
+                <h3>
+                    🔬 Analyzing image...
+                </h3>
 
                 <p>
-                    <strong>Error:</strong>
-                    ${error.message}
-                </p>
-
-                <p>
-                    Please make sure the
-                    Python AI server is running.
+                    Please wait while the AI examines the image.
                 </p>
 
             `;
 
-        }
 
-    }
-);
+            analyzeButton.disabled =
+                true;
+
+
+            try {
+
+
+                // ==================================
+                // FORM DATA
+                // ==================================
+
+                const formData =
+                    new FormData();
+
+
+                formData.append(
+                    "image",
+                    selectedImage
+                );
+
+
+                console.log(
+                    "Sending image to Python AI..."
+                );
+
+
+                console.log(
+                    "API URL:",
+                    API_URL
+                );
+
+
+                // ==================================
+                // SEND REQUEST
+                // ==================================
+
+                const response =
+                    await fetch(
+                        API_URL,
+                        {
+                            method: "POST",
+                            body: formData
+                        }
+                    );
+
+
+                console.log(
+                    "API status:",
+                    response.status
+                );
+
+
+                // ==================================
+                // READ RESPONSE
+                // ==================================
+
+                const responseText =
+                    await response.text();
+
+
+                let data;
+
+
+                try {
+
+                    data =
+                        JSON.parse(
+                            responseText
+                        );
+
+                } catch (parseError) {
+
+                    throw new Error(
+                        `API returned non-JSON response (HTTP ${response.status}): ${responseText}`
+                    );
+
+                }
+
+
+                console.log(
+                    "AI response:",
+                    data
+                );
+
+
+                // ==================================
+                // API ERROR
+                // ==================================
+
+                if (!response.ok) {
+
+                    throw new Error(
+                        `HTTP ${response.status}: ${
+                            data.error ||
+                            data.details ||
+                            responseText
+                        }`
+                    );
+
+                }
+
+
+                // ==================================
+                // SAVE RESULT
+                // ==================================
+
+                lastResult =
+                    data;
+
+
+                saveAnalysisToHistory(
+                    data
+                );
+
+
+                // ==================================
+                // DISPLAY RESULT
+                // ==================================
+
+                displayResult(
+                    data
+                );
+
+
+                // ==================================
+                // REFRESH HISTORY
+                // ==================================
+
+                loadHistory();
+
+
+            } catch (error) {
+
+
+                console.error(
+                    "Prediction error:",
+                    error
+                );
+
+
+                result.innerHTML = `
+
+                    <h2>
+                        📊 Analysis Result
+                    </h2>
+
+                    <p>
+                        ❌ Unable to analyze this image.
+                    </p>
+
+                    <p>
+                        <strong>Error:</strong>
+                        ${escapeHTML(error.message)}
+                    </p>
+
+                    <p>
+                        Please make sure the Python AI
+                        server is running.
+                    </p>
+
+                `;
+
+            } finally {
+
+
+                if (loading) {
+
+                    loading.style.display =
+                        "none";
+
+                }
+
+
+                analyzeButton.disabled =
+                    false;
+
+            }
+
+        }
+    );
+
+}
 
 
 // ==========================================
@@ -256,7 +404,12 @@ analyzeButton.addEventListener(
 
 function displayResult(data) {
 
-    const confidence = Number(data.confidence);
+
+    const confidence =
+        Number(
+            data.confidence
+        );
+
 
     let output = `
 
@@ -268,31 +421,62 @@ function displayResult(data) {
 
             <h3>
                 🛡️ Overall AI Screening Result:
-                ${data.screening_result || "Needs attention"}
+                ${escapeHTML(
+                    data.screening_result ||
+                    "Needs attention"
+                )}
             </h3>
 
             <h3>
-                🧬 ${data.prediction}
+                🧬
+                ${escapeHTML(
+                    data.prediction ||
+                    "Unknown"
+                )}
             </h3>
 
             <p>
-                <strong>Confidence:</strong>
-                ${Number(data.confidence).toFixed(2)}%
+
+                <strong>
+                    Confidence:
+                </strong>
+
+                ${confidence.toFixed(2)}%
+
             </p>
 
         </div>
 
-        <p>
-            <strong>Combined Suspicious Score:</strong>
-            ${Number(data.suspicious_score || 0).toFixed(2)}%
-        </p>
 
         <p>
-            <strong>Model Explanation:</strong>
-            ${data.explanation || "The result is based only on the model output."}
+
+            <strong>
+                Combined Suspicious Score:
+            </strong>
+
+            ${Number(
+                data.suspicious_score || 0
+            ).toFixed(2)}%
+
         </p>
+
+
+        <p>
+
+            <strong>
+                Model Explanation:
+            </strong>
+
+            ${escapeHTML(
+                data.explanation ||
+                "The result is based only on the model output."
+            )}
+
+        </p>
+
 
         <hr>
+
 
         <h3>
             📈 Class Probabilities
@@ -301,18 +485,30 @@ function displayResult(data) {
     `;
 
 
+    // ======================================
+    // LOW CONFIDENCE
+    // ======================================
+
     if (confidence < 40) {
 
         output += `
 
-            <h3>
-                ⚠️ Low Confidence Result
-            </h3>
+            <div class="medical-warning">
 
-            <p>
-                The AI is uncertain about this image because the class
-                probabilities are close. This is not medical advice.
-            </p>
+                <h3>
+                    ⚠️ Low Confidence Result
+                </h3>
+
+                <p>
+
+                    The AI is uncertain about this image
+                    because the class probabilities are close.
+
+                    This is not medical advice.
+
+                </p>
+
+            </div>
 
         `;
 
@@ -325,10 +521,14 @@ function displayResult(data) {
 
     if (data.probabilities) {
 
+
         for (
             const [name, value]
-            of Object.entries(data.probabilities)
+            of Object.entries(
+                data.probabilities
+            )
         ) {
+
 
             output += `
 
@@ -337,11 +537,14 @@ function displayResult(data) {
                     <p>
 
                         <strong>
-                            ${name}
+                            ${escapeHTML(name)}
                         </strong>
 
                         :
-                        ${Number(value).toFixed(2)}%
+
+                        ${Number(
+                            value
+                        ).toFixed(2)}%
 
                     </p>
 
@@ -364,17 +567,382 @@ function displayResult(data) {
 
         <p class="medical-warning">
 
-            ⚠️ ${
+            ⚠️
+
+            ${escapeHTML(
                 data.warning ||
                 "This AI prediction is not a medical diagnosis. Please consult a qualified healthcare professional."
-            }
+            )}
 
         </p>
 
     `;
 
 
-    result.innerHTML = output;
+    result.innerHTML =
+        output;
+
+}
+
+
+// ==========================================
+// SAVE HISTORY
+// ==========================================
+
+function saveAnalysisToHistory(data) {
+
+
+    try {
+
+
+        const history =
+            getHistory();
+
+
+        const historyItem = {
+
+            prediction:
+                data.prediction || "Unknown",
+
+            confidence:
+                Number(
+                    data.confidence || 0
+                ),
+
+            screening_result:
+                data.screening_result ||
+                "Needs attention",
+
+            suspicious_score:
+                Number(
+                    data.suspicious_score || 0
+                ),
+
+            explanation:
+                data.explanation || "",
+
+            probabilities:
+                data.probabilities || {},
+
+            timestamp:
+                new Date().toISOString()
+
+        };
+
+
+        history.unshift(
+            historyItem
+        );
+
+
+        // Keep latest 20 results
+
+        const limitedHistory =
+            history.slice(
+                0,
+                20
+            );
+
+
+        localStorage.setItem(
+            HISTORY_KEY,
+            JSON.stringify(
+                limitedHistory
+            )
+        );
+
+
+        console.log(
+            "Analysis saved to history."
+        );
+
+
+    } catch (error) {
+
+        console.error(
+            "Unable to save history:",
+            error
+        );
+
+    }
+
+}
+
+
+// ==========================================
+// GET HISTORY
+// ==========================================
+
+function getHistory() {
+
+
+    try {
+
+
+        const saved =
+            localStorage.getItem(
+                HISTORY_KEY
+            );
+
+
+        if (!saved) {
+
+            return [];
+
+        }
+
+
+        const history =
+            JSON.parse(
+                saved
+            );
+
+
+        return Array.isArray(history)
+            ? history
+            : [];
+
+
+    } catch (error) {
+
+
+        console.error(
+            "Unable to read history:",
+            error
+        );
+
+
+        return [];
+
+    }
+
+}
+
+
+// ==========================================
+// LOAD HISTORY
+// ==========================================
+
+function loadHistory() {
+
+
+    if (!historyList) {
+        return;
+    }
+
+
+    const history =
+        getHistory();
+
+
+    if (history.length === 0) {
+
+
+        historyList.innerHTML = `
+
+            <p>
+                No previous analyses yet.
+            </p>
+
+        `;
+
+        return;
+
+    }
+
+
+    let output = "";
+
+
+    history.forEach(
+        function (item, index) {
+
+
+            const date =
+                formatHistoryDate(
+                    item.timestamp
+                );
+
+
+            output += `
+
+                <div class="history-item">
+
+                    <p>
+                        <strong>
+                            #${index + 1}
+                        </strong>
+                    </p>
+
+                    <p>
+                        🧬
+                        <strong>
+                            ${escapeHTML(
+                                item.prediction
+                            )}
+                        </strong>
+                    </p>
+
+                    <p>
+                        🛡️
+                        <strong>
+                            Screening:
+                        </strong>
+
+                        ${escapeHTML(
+                            item.screening_result
+                        )}
+                    </p>
+
+                    <p>
+                        📊
+                        <strong>
+                            Confidence:
+                        </strong>
+
+                        ${Number(
+                            item.confidence
+                        ).toFixed(2)}%
+                    </p>
+
+                    <p>
+                        ⚠️
+                        <strong>
+                            Suspicious Score:
+                        </strong>
+
+                        ${Number(
+                            item.suspicious_score
+                        ).toFixed(2)}%
+                    </p>
+
+                    <p class="history-date">
+                        🕒 ${escapeHTML(date)}
+                    </p>
+
+                </div>
+
+            `;
+
+        }
+    );
+
+
+    historyList.innerHTML =
+        output;
+
+}
+
+
+// ==========================================
+// FORMAT HISTORY DATE
+// ==========================================
+
+function formatHistoryDate(timestamp) {
+
+
+    try {
+
+
+        const date =
+            new Date(
+                timestamp
+            );
+
+
+        return date.toLocaleString();
+
+
+    } catch (error) {
+
+
+        return "Unknown date";
+
+    }
+
+}
+
+
+// ==========================================
+// CLEAR HISTORY
+// ==========================================
+
+if (clearHistoryButton) {
+
+
+    clearHistoryButton.addEventListener(
+        "click",
+        function () {
+
+
+            const history =
+                getHistory();
+
+
+            if (history.length === 0) {
+
+
+                alert(
+                    "There is no analysis history to clear."
+                );
+
+
+                return;
+
+            }
+
+
+            const confirmed =
+                confirm(
+                    "Are you sure you want to clear all previous analyses?"
+                );
+
+
+            if (!confirmed) {
+
+                return;
+
+            }
+
+
+            localStorage.removeItem(
+                HISTORY_KEY
+            );
+
+
+            loadHistory();
+
+
+            console.log(
+                "Analysis history cleared."
+            );
+
+        }
+    );
+
+}
+
+
+// ==========================================
+// ESCAPE HTML
+// ==========================================
+
+function escapeHTML(value) {
+
+
+    const div =
+        document.createElement(
+            "div"
+        );
+
+
+    div.textContent =
+        String(
+            value ?? ""
+        );
+
+
+    return div.innerHTML;
 
 }
 
@@ -386,164 +954,393 @@ function displayResult(data) {
 const translations = {
 
     "en-US": {
-        title: "AI Analysis Result",
-        prediction: "Prediction",
-        confidence: "Confidence",
-        warning: "This AI prediction is for research/demo purposes only and is not a substitute for professional medical advice. Please consult a qualified healthcare professional."
+
+        title:
+            "AI Analysis Result",
+
+        prediction:
+            "Prediction",
+
+        confidence:
+            "Confidence",
+
+        warning:
+            "This AI prediction is for research/demo purposes only and is not a substitute for professional medical advice. Please consult a qualified healthcare professional."
+
     },
+
 
     "te-IN": {
-        title: "AI విశ్లేషణ ఫలితం",
-        prediction: "అంచనా",
-        confidence: "నమ్మక స్థాయి",
-        warning: "ఈ AI అంచనా పరిశోధన/డెమో ప్రయోజనాల కోసం మాత్రమే. ఇది వైద్య నిర్ధారణ కాదు. దయచేసి అర్హత కలిగిన వైద్య నిపుణుడిని సంప్రదించండి."
+
+        title:
+            "AI విశ్లేషణ ఫలితం",
+
+        prediction:
+            "అంచనా",
+
+        confidence:
+            "నమ్మక స్థాయి",
+
+        warning:
+            "ఈ AI అంచనా పరిశోధన/డెమో ప్రయోజనాల కోసం మాత్రమే. ఇది వైద్య నిర్ధారణ కాదు. దయచేసి అర్హత కలిగిన వైద్య నిపుణుడిని సంప్రదించండి."
+
     },
+
 
     "hi-IN": {
-        title: "AI विश्लेषण परिणाम",
-        prediction: "पूर्वानुमान",
-        confidence: "विश्वास स्तर",
-        warning: "यह AI परिणाम केवल शोध/डेमो के लिए है। यह चिकित्सीय निदान नहीं है। कृपया योग्य स्वास्थ्य विशेषज्ञ से परामर्श करें।"
+
+        title:
+            "AI विश्लेषण परिणाम",
+
+        prediction:
+            "पूर्वानुमान",
+
+        confidence:
+            "विश्वास स्तर",
+
+        warning:
+            "यह AI परिणाम केवल शोध/डेमो के लिए है। यह चिकित्सीय निदान नहीं है। कृपया योग्य स्वास्थ्य विशेषज्ञ से परामर्श करें।"
+
     },
+
 
     "ta-IN": {
-        title: "AI பகுப்பாய்வு முடிவு",
-        prediction: "கணிப்பு",
-        confidence: "நம்பகத்தன்மை",
-        warning: "இந்த AI கணிப்பு ஆராய்ச்சி/டெமோ நோக்கங்களுக்காக மட்டுமே. இது மருத்துவ நோயறிதல் அல்ல. தகுதியான மருத்துவரை அணுகவும்."
+
+        title:
+            "AI பகுப்பாய்வு முடிவு",
+
+        prediction:
+            "கணிப்பு",
+
+        confidence:
+            "நம்பகத்தன்மை",
+
+        warning:
+            "இந்த AI கணிப்பு ஆராய்ச்சி/டெமோ நோக்கங்களுக்காக மட்டுமே. இது மருத்துவ நோயறிதல் அல்ல. தகுதியான மருத்துவரை அணுகவும்."
+
     },
+
 
     "kn-IN": {
-        title: "AI ವಿಶ್ಲೇಷಣೆಯ ಫಲಿತಾಂಶ",
-        prediction: "ಅಂದಾಜು",
-        confidence: "ವಿಶ್ವಾಸ ಮಟ್ಟ",
-        warning: "ಈ AI ಫಲಿತಾಂಶವು ಸಂಶೋಧನೆ/ಡೆಮೊ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ. ಇದು ವೈದ್ಯಕೀಯ ರೋಗನಿರ್ಣಯವಲ್ಲ. ಅರ್ಹ ವೈದ್ಯಕೀಯ ತಜ್ಞರನ್ನು ಸಂಪರ್ಕಿಸಿ."
+
+        title:
+            "AI ವಿಶ್ಲೇಷಣೆಯ ಫಲಿತಾಂಶ",
+
+        prediction:
+            "ಅಂದಾಜು",
+
+        confidence:
+            "ವಿಶ್ವಾಸ ಮಟ್ಟ",
+
+        warning:
+            "ಈ AI ಫಲಿತಾಂಶವು ಸಂಶೋಧನೆ/ಡೆಮೊ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ. ಇದು ವೈದ್ಯಕೀಯ ರೋಗನಿರ್ಣಯವಲ್ಲ. ಅರ್ಹ ವೈದ್ಯಕೀಯ ತಜ್ಞರನ್ನು ಸಂಪರ್ಕಿಸಿ."
+
     },
+
 
     "ml-IN": {
-        title: "AI വിശകലന ഫലം",
-        prediction: "പ്രവചനം",
-        confidence: "വിശ്വാസ്യത",
-        warning: "ഈ AI ഫലം ഗവേഷണ/ഡെമോ ആവശ്യങ്ങൾക്ക് മാത്രമുള്ളതാണ്. ഇത് മെഡിക്കൽ രോഗനിർണയമല്ല. യോഗ്യനായ ആരോഗ്യ വിദഗ്ധനെ സമീപിക്കുക."
+
+        title:
+            "AI വിശകലന ഫലം",
+
+        prediction:
+            "പ്രവചനം",
+
+        confidence:
+            "വിശ്വാസ്യത",
+
+        warning:
+            "ഈ AI ഫലം ഗവേഷണ/ഡെമോ ആവശ്യങ്ങൾക്ക് മാത്രമുള്ളതാണ്. ഇത് മെഡിക്കൽ രോഗനിർണയമല്ല. യോഗ്യനായ ആരോഗ്യ വിദഗ്ധനെ സമീപിക്കുക."
+
     },
+
 
     "mr-IN": {
-        title: "AI विश्लेषण निकाल",
-        prediction: "अंदाज",
-        confidence: "विश्वास पातळी",
-        warning: "हा AI अंदाज फक्त संशोधन/डेमोसाठी आहे. हे वैद्यकीय निदान नाही. कृपया पात्र आरोग्य तज्ञांचा सल्ला घ्या."
+
+        title:
+            "AI विश्लेषण निकाल",
+
+        prediction:
+            "अंदाज",
+
+        confidence:
+            "विश्वास पातळी",
+
+        warning:
+            "हा AI अंदाज फक्त संशोधन/डेमोसाठी आहे. हे वैद्यकीय निदान नाही. कृपया पात्र आरोग्य तज्ञांचा सल्ला घ्या."
+
     },
+
 
     "bn-IN": {
-        title: "AI বিশ্লেষণের ফলাফল",
-        prediction: "অনুমান",
-        confidence: "বিশ্বাসের মাত্রা",
-        warning: "এই AI ফলাফল শুধুমাত্র গবেষণা/ডেমোর জন্য। এটি চিকিৎসা নির্ণয় নয়। অনুগ্রহ করে যোগ্য স্বাস্থ্য বিশেষজ্ঞের পরামর্শ নিন।"
+
+        title:
+            "AI বিশ্লেষণের ফলাফল",
+
+        prediction:
+            "অনুমান",
+
+        confidence:
+            "বিশ্বাসের মাত্রা",
+
+        warning:
+            "এই AI ফলাফল শুধুমাত্র গবেষণা/ডেমোর জন্য। এটি চিকিৎসা নির্ণয় নয়। অনুগ্রহ করে যোগ্য স্বাস্থ্য বিশেষজ্ঞের পরামর্শ নিন।"
+
     },
+
 
     "gu-IN": {
-        title: "AI વિશ્લેષણ પરિણામ",
-        prediction: "અંદાજ",
-        confidence: "વિશ્વાસ સ્તર",
-        warning: "આ AI પરિણામ માત્ર સંશોધન/ડેમો માટે છે. આ તબીબી નિદાન નથી. કૃપા કરીને યોગ્ય આરોગ્ય નિષ્ણાતની સલાહ લો."
+
+        title:
+            "AI વિશ્લેષણ પરિણામ",
+
+        prediction:
+            "અંદાજ",
+
+        confidence:
+            "વિશ્વાસ સ્તર",
+
+        warning:
+            "આ AI પરિણામ માત્ર સંશોધન/ડેમો માટે છે. આ તબીબી નિદાન નથી. કૃપા કરીને યોગ્ય આરોગ્ય નિષ્ણાતની સલાહ લો."
+
     },
+
 
     "pa-IN": {
-        title: "AI ਵਿਸ਼ਲੇਸ਼ਣ ਨਤੀਜਾ",
-        prediction: "ਅਨੁਮਾਨ",
-        confidence: "ਭਰੋਸੇ ਦਾ ਪੱਧਰ",
-        warning: "ਇਹ AI ਨਤੀਜਾ ਸਿਰਫ਼ ਖੋਜ/ਡੈਮੋ ਲਈ ਹੈ। ਇਹ ਡਾਕਟਰੀ ਨਿਦਾਨ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਯੋਗ ਸਿਹਤ ਮਾਹਿਰ ਨਾਲ ਸਲਾਹ ਕਰੋ।"
+
+        title:
+            "AI ਵਿਸ਼ਲੇਸ਼ਣ ਨਤੀਜਾ",
+
+        prediction:
+            "ਅਨੁਮਾਨ",
+
+        confidence:
+            "ਭਰੋਸੇ ਦਾ ਪੱਧਰ",
+
+        warning:
+            "ਇਹ AI ਨਤੀਜਾ ਸਿਰਫ਼ ਖੋਜ/ਡੈਮੋ ਲਈ ਹੈ। ਇਹ ਡਾਕਟਰੀ ਨਿਦਾਨ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਯੋਗ ਸਿਹਤ ਮਾਹਿਰ ਨਾਲ ਸਲਾਹ ਕਰੋ।"
+
     },
+
 
     "ur-IN": {
-        title: "AI تجزیہ کا نتیجہ",
-        prediction: "پیش گوئی",
-        confidence: "اعتماد کی سطح",
-        warning: "یہ AI نتیجہ صرف تحقیق/ڈیمو کے لیے ہے۔ یہ طبی تشخیص نہیں ہے۔ براہ کرم کسی مستند طبی ماہر سے مشورہ کریں۔"
+
+        title:
+            "AI تجزیہ کا نتیجہ",
+
+        prediction:
+            "پیش گوئی",
+
+        confidence:
+            "اعتماد کی سطح",
+
+        warning:
+            "یہ AI نتیجہ صرف تحقیق/ڈیمو کے لیے ہے۔ یہ طبی تشخیص نہیں ہے۔ براہ کرم کسی مستند طبی ماہر سے مشورہ کریں۔"
+
     },
+
 
     "or-IN": {
-        title: "AI ବିଶ୍ଳେଷଣ ଫଳାଫଳ",
-        prediction: "ଅନୁମାନ",
-        confidence: "ବିଶ୍ୱାସ ସ୍ତର",
-        warning: "ଏହି AI ଫଳାଫଳ କେବଳ ଗବେଷଣା/ଡେମୋ ପାଇଁ। ଏହା ଡାକ୍ତରୀ ନିର୍ଣ୍ଣୟ ନୁହେଁ। ଦୟାକରି ଯୋଗ୍ୟ ସ୍ୱାସ୍ଥ୍ୟ ବିଶେଷଜ୍ଞଙ୍କ ସହ ପରାମର୍ଶ କରନ୍ତୁ।"
+
+        title:
+            "AI ବିଶ୍ଳେଷଣ ଫଳାଫଳ",
+
+        prediction:
+            "ଅନୁମାନ",
+
+        confidence:
+            "ବିଶ୍ୱାସ ସ୍ତର",
+
+        warning:
+            "ଏହି AI ଫଳାଫଳ କେବଳ ଗବେଷଣା/ଡେମୋ ପାଇଁ। ଏହା ଡାକ୍ତରୀ ନିର୍ଣ୍ଣୟ ନୁହେଁ। ଦୟାକରି ଯୋଗ୍ୟ ସ୍ୱାସ୍ଥ୍ୟ ବିଶେଷଜ୍ଞଙ୍କ ସହ ପରାମର୍ଶ କରନ୍ତୁ।"
+
     },
+
 
     "as-IN": {
-        title: "AI বিশ্লেষণ ফলাফল",
-        prediction: "অনুমান",
-        confidence: "বিশ্বাসৰ স্তৰ",
-        warning: "এই AI ফলাফল কেৱল গৱেষণা/ডেমোৰ বাবে। এইটো চিকিৎসা নিৰ্ণয় নহয়। অনুগ্ৰহ কৰি যোগ্য স্বাস্থ্য বিশেষজ্ঞৰ পৰামৰ্শ লওক।"
+
+        title:
+            "AI বিশ্লেষণ ফলাফল",
+
+        prediction:
+            "অনুমান",
+
+        confidence:
+            "বিশ্বাসৰ স্তৰ",
+
+        warning:
+            "এই AI ফলাফল কেৱল গৱেষণা/ডেমোৰ বাবে। এইটো চিকিৎসা নিৰ্ণয় নহয়। অনুগ্ৰহ কৰি যোগ্য স্বাস্থ্য বিশেষজ্ঞৰ পৰামৰ্শ লওক।"
+
     },
+
 
     "fr-FR": {
-        title: "Résultat de l'analyse IA",
-        prediction: "Prédiction",
-        confidence: "Niveau de confiance",
-        warning: "Cette prédiction IA est uniquement destinée à la recherche/démonstration et ne constitue pas un diagnostic médical. Consultez un professionnel de santé qualifié."
+
+        title:
+            "Résultat de l'analyse IA",
+
+        prediction:
+            "Prédiction",
+
+        confidence:
+            "Niveau de confiance",
+
+        warning:
+            "Cette prédiction IA est uniquement destinée à la recherche/démonstration et ne constitue pas un diagnostic médical. Consultez un professionnel de santé qualifié."
+
     },
+
 
     "es-ES": {
-        title: "Resultado del análisis de IA",
-        prediction: "Predicción",
-        confidence: "Nivel de confianza",
-        warning: "Esta predicción de IA es solo para investigación/demostración y no constituye un diagnóstico médico. Consulte a un profesional sanitario cualificado."
+
+        title:
+            "Resultado del análisis de IA",
+
+        prediction:
+            "Predicción",
+
+        confidence:
+            "Nivel de confianza",
+
+        warning:
+            "Esta predicción de IA es solo para investigación/demostración y no constituye un diagnóstico médico. Consulte a un profesional sanitario cualificado."
+
     },
+
 
     "de-DE": {
-        title: "KI-Analyseergebnis",
-        prediction: "Vorhersage",
-        confidence: "Vertrauensniveau",
-        warning: "Diese KI-Vorhersage dient nur Forschungs-/Demonstrationszwecken und ist keine medizinische Diagnose. Bitte wenden Sie sich an qualifiziertes medizinisches Fachpersonal."
+
+        title:
+            "KI-Analyseergebnis",
+
+        prediction:
+            "Vorhersage",
+
+        confidence:
+            "Vertrauensniveau",
+
+        warning:
+            "Diese KI-Vorhersage dient nur Forschungs-/Demonstrationszwecken und ist keine medizinische Diagnose. Bitte wenden Sie sich an qualifiziertes medizinisches Fachpersonal."
+
     },
+
 
     "it-IT": {
-        title: "Risultato dell'analisi IA",
-        prediction: "Previsione",
-        confidence: "Livello di affidabilità",
-        warning: "Questa previsione IA è solo a scopo di ricerca/dimostrazione e non costituisce una diagnosi medica. Consultare un professionista sanitario qualificato."
+
+        title:
+            "Risultato dell'analisi IA",
+
+        prediction:
+            "Previsione",
+
+        confidence:
+            "Livello di affidabilità",
+
+        warning:
+            "Questa previsione IA è solo a scopo di ricerca/dimostrazione e non costituisce una diagnosi medica. Consultare un professionista sanitario qualificato."
+
     },
+
 
     "pt-PT": {
-        title: "Resultado da análise de IA",
-        prediction: "Previsão",
-        confidence: "Nível de confiança",
-        warning: "Esta previsão de IA destina-se apenas a investigação/demonstração e não constitui um diagnóstico médico. Consulte um profissional de saúde qualificado."
+
+        title:
+            "Resultado da análise de IA",
+
+        prediction:
+            "Previsão",
+
+        confidence:
+            "Nível de confiança",
+
+        warning:
+            "Esta previsão de IA destina-se apenas a investigação/demonstração e não constitui um diagnóstico médico. Consulte um profissional de saúde qualificado."
+
     },
+
 
     "ja-JP": {
-        title: "AI分析結果",
-        prediction: "予測",
-        confidence: "信頼度",
-        warning: "このAI予測は研究・デモ目的のみであり、医学的診断ではありません。資格のある医療専門家にご相談ください。"
+
+        title:
+            "AI分析結果",
+
+        prediction:
+            "予測",
+
+        confidence:
+            "信頼度",
+
+        warning:
+            "このAI予測は研究・デモ目的のみであり、医学的診断ではありません。資格のある医療専門家にご相談ください。"
+
     },
+
 
     "ko-KR": {
-        title: "AI 분석 결과",
-        prediction: "예측",
-        confidence: "신뢰도",
-        warning: "이 AI 예측은 연구/데모 목적으로만 제공되며 의학적 진단이 아닙니다. 자격을 갖춘 의료 전문가와 상담하십시오."
+
+        title:
+            "AI 분석 결과",
+
+        prediction:
+            "예측",
+
+        confidence:
+            "신뢰도",
+
+        warning:
+            "이 AI 예측은 연구/데모 목적으로만 제공되며 의학적 진단이 아닙니다. 자격을 갖춘 의료 전문가와 상담하십시오."
+
     },
+
 
     "zh-CN": {
-        title: "AI 分析结果",
-        prediction: "预测",
-        confidence: "置信度",
-        warning: "此 AI 预测仅用于研究/演示，不构成医学诊断。请咨询合格的医疗专业人员。"
+
+        title:
+            "AI 分析结果",
+
+        prediction:
+            "预测",
+
+        confidence:
+            "置信度",
+
+        warning:
+            "此 AI 预测仅用于研究/演示，不构成医学诊断。请咨询合格的医疗专业人员。"
+
     },
+
 
     "ru-RU": {
-        title: "Результат анализа ИИ",
-        prediction: "Прогноз",
-        confidence: "Уровень уверенности",
-        warning: "Этот прогноз ИИ предназначен только для исследований/демонстрации и не является медицинским диагнозом. Обратитесь к квалифицированному медицинскому специалисту."
+
+        title:
+            "Результат анализа ИИ",
+
+        prediction:
+            "Прогноз",
+
+        confidence:
+            "Уровень уверенности",
+
+        warning:
+            "Этот прогноз ИИ предназначен только для исследований/демонстрации и не является медицинским диагнозом. Обратитесь к квалифицированному медицинскому специалисту."
+
     },
 
+
     "ar-SA": {
-        title: "نتيجة تحليل الذكاء الاصطناعي",
-        prediction: "التوقع",
-        confidence: "مستوى الثقة",
-        warning: "هذا التوقع بالذكاء الاصطناعي مخصص للبحث/العرض فقط وليس تشخيصًا طبيًا. يرجى استشارة أخصائي رعاية صحية مؤهل."
+
+        title:
+            "نتيجة تحليل الذكاء الاصطناعي",
+
+        prediction:
+            "التوقع",
+
+        confidence:
+            "مستوى الثقة",
+
+        warning:
+            "هذا التوقع بالذكاء الاصطناعي مخصص للبحث/العرض فقط وليس تشخيصًا طبيًا. يرجى استشارة أخصائي رعاية صحية مؤهل."
+
     }
 
 };
@@ -553,57 +1350,79 @@ const translations = {
 // VOICE ASSISTANCE
 // ==========================================
 
-voiceButton.addEventListener(
-    "click",
-    function () {
+if (voiceButton) {
 
-        const text = result.innerText;
+    voiceButton.addEventListener(
+        "click",
+        function () {
 
-        if (!text) {
-            return;
-        }
 
-        if (!("speechSynthesis" in window)) {
+            const text =
+                result.innerText;
 
-            alert(
-                "Voice assistance is not supported by this browser."
+
+            if (!text) {
+
+                return;
+
+            }
+
+
+            if (
+                !(
+                    "speechSynthesis"
+                    in window
+                )
+            ) {
+
+                alert(
+                    "Voice assistance is not supported by this browser."
+                );
+
+                return;
+
+            }
+
+
+            const selectedLanguage =
+                languageSelect
+                    ? languageSelect.value
+                    : "en-US";
+
+
+            const speech =
+                new SpeechSynthesisUtterance(
+                    text
+                );
+
+
+            speech.lang =
+                selectedLanguage;
+
+
+            speech.rate =
+                0.85;
+
+
+            speech.pitch =
+                1;
+
+
+            window.speechSynthesis.cancel();
+
+
+            window.speechSynthesis.speak(
+                speech
             );
 
-            return;
         }
+    );
 
-
-        const selectedLanguage =
-            languageSelect
-                ? languageSelect.value
-                : "en-US";
-
-
-        const speech =
-            new SpeechSynthesisUtterance(text);
-
-
-        speech.lang =
-            selectedLanguage;
-
-
-        speech.rate = 0.85;
-
-        speech.pitch = 1;
-
-
-        window.speechSynthesis.cancel();
-
-        window.speechSynthesis.speak(
-            speech
-        );
-
-    }
-);
+}
 
 
 // ==========================================
-// CHANGE LANGUAGE
+// LANGUAGE CHANGE
 // ==========================================
 
 if (languageSelect) {
@@ -612,9 +1431,13 @@ if (languageSelect) {
         "change",
         function () {
 
+
             if (!lastResult) {
+
                 return;
+
             }
+
 
             translateResult();
 
@@ -625,13 +1448,16 @@ if (languageSelect) {
 
 
 // ==========================================
-// TRANSLATE DISPLAYED RESULT
+// TRANSLATE RESULT
 // ==========================================
 
 function translateResult() {
 
+
     if (!lastResult) {
+
         return;
+
     }
 
 
@@ -650,17 +1476,32 @@ function translateResult() {
             ${translation.title}
         </h2>
 
+
         <div class="prediction">
 
             <h3>
+
                 🛡️ Overall AI Screening Result:
-                ${lastResult.screening_result || "Needs attention"}
+
+                ${escapeHTML(
+                    lastResult.screening_result ||
+                    "Needs attention"
+                )}
+
             </h3>
 
+
             <h3>
-                🧬 ${translation.prediction}:
-                ${lastResult.prediction}
+
+                🧬
+                ${translation.prediction}:
+
+                ${escapeHTML(
+                    lastResult.prediction
+                )}
+
             </h3>
+
 
             <p>
 
@@ -676,17 +1517,36 @@ function translateResult() {
 
         </div>
 
-        <p>
-            <strong>Combined Suspicious Score:</strong>
-            ${Number(lastResult.suspicious_score || 0).toFixed(2)}%
-        </p>
 
         <p>
-            <strong>Model Explanation:</strong>
-            ${lastResult.explanation || "The result is based only on the model output."}
+
+            <strong>
+                Combined Suspicious Score:
+            </strong>
+
+            ${Number(
+                lastResult.suspicious_score || 0
+            ).toFixed(2)}%
+
         </p>
+
+
+        <p>
+
+            <strong>
+                Model Explanation:
+            </strong>
+
+            ${escapeHTML(
+                lastResult.explanation ||
+                "The result is based only on the model output."
+            )}
+
+        </p>
+
 
         <hr>
+
 
         <h3>
             📈 Class Probabilities
@@ -697,6 +1557,7 @@ function translateResult() {
 
     if (lastResult.probabilities) {
 
+
         for (
             const [name, value]
             of Object.entries(
@@ -704,18 +1565,26 @@ function translateResult() {
             )
         ) {
 
+
             output += `
 
-                <p>
+                <div class="probability">
 
-                    <strong>
-                        ${name}
-                    </strong>
+                    <p>
 
-                    :
-                    ${Number(value).toFixed(2)}%
+                        <strong>
+                            ${escapeHTML(name)}
+                        </strong>
 
-                </p>
+                        :
+
+                        ${Number(
+                            value
+                        ).toFixed(2)}%
+
+                    </p>
+
+                </div>
 
             `;
 
@@ -730,7 +1599,9 @@ function translateResult() {
 
         <p class="medical-warning">
 
-            ⚠️ ${translation.warning}
+            ⚠️
+
+            ${translation.warning}
 
         </p>
 
@@ -744,26 +1615,38 @@ function translateResult() {
 
 
 // ==========================================
-// START
+// STARTUP
 // ==========================================
+
+loadHistory();
+
 
 console.log(
     "✅ Skin Cancer AI application loaded."
 );
 
+
 console.log(
     "✅ Gallery support enabled."
 );
+
 
 console.log(
     "✅ Camera support enabled."
 );
 
+
 console.log(
     "✅ Multilingual voice support enabled."
 );
 
+
+console.log(
+    "✅ Analysis history enabled."
+);
+
+
 console.log(
     "✅ Python API:",
-    window.location.origin
+    API_URL
 );

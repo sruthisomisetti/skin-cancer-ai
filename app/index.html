@@ -10,6 +10,16 @@
         content="width=device-width, initial-scale=1.0"
     >
 
+    <meta
+        name="theme-color"
+        content="#2563eb"
+    >
+
+    <meta
+        name="description"
+        content="AI-assisted skin lesion analysis for research and demonstration purposes."
+    >
+
     <title>Skin Cancer AI</title>
 
     <link
@@ -38,53 +48,91 @@
                 AI-Assisted Skin Lesion Analysis
             </p>
 
+            <p class="subtitle">
+                EfficientNet • TensorFlow Lite • Multilingual Support
+            </p>
+
         </header>
 
 
         <!-- ================================= -->
-        <!-- IMAGE INPUT -->
+        <!-- SAFETY NOTICE -->
         <!-- ================================= -->
 
-        <section class="upload-section">
+        <section class="safety-notice">
+
+            <h2>
+                ⚠️ Important Information
+            </h2>
+
+            <p>
+                This application provides an AI-based screening
+                result for research and demonstration purposes only.
+                It is not a medical diagnosis.
+            </p>
+
+            <p>
+                Do not use this result to make medical decisions.
+                Please consult a qualified healthcare professional
+                for proper evaluation.
+            </p>
+
+        </section>
+
+
+        <!-- ================================= -->
+        <!-- IMAGE UPLOAD -->
+        <!-- ================================= -->
+
+        <section class="upload-card">
 
             <h2>
                 📷 Select Skin Image
             </h2>
 
-
-            <!-- Gallery / File -->
-
-            <label
-                for="imageInput"
-                class="upload-button"
-            >
-                🖼️ Choose Image
-            </label>
-
-            <input
-                type="file"
-                id="imageInput"
-                accept="image/*"
-                hidden
-            >
+            <p>
+                Upload an image or take a photo of the skin lesion
+                you want to analyze.
+            </p>
 
 
-            <!-- Camera -->
+            <div class="image-buttons">
 
-            <label
-                for="cameraInput"
-                class="camera-button"
-            >
-                📷 Take Photo
-            </label>
+                <!-- Gallery -->
 
-            <input
-                type="file"
-                id="cameraInput"
-                accept="image/*"
-                capture="environment"
-                hidden
-            >
+                <label
+                    for="imageInput"
+                    class="upload-button"
+                >
+                    🖼️ Choose Image
+                </label>
+
+                <input
+                    type="file"
+                    id="imageInput"
+                    accept="image/*"
+                    hidden
+                >
+
+
+                <!-- Camera -->
+
+                <label
+                    for="cameraInput"
+                    class="camera-button"
+                >
+                    📷 Take Photo
+                </label>
+
+                <input
+                    type="file"
+                    id="cameraInput"
+                    accept="image/*"
+                    capture="environment"
+                    hidden
+                >
+
+            </div>
 
         </section>
 
@@ -103,7 +151,6 @@
                 id="previewImage"
                 src=""
                 alt="Selected skin image"
-                style="display: none;"
             >
 
         </section>
@@ -116,6 +163,7 @@
         <button
             id="analyzeButton"
             disabled
+            type="button"
         >
             🔍 Analyze Image
         </button>
@@ -135,7 +183,7 @@
             </p>
 
             <p>
-                Please wait.
+                Please wait while the AI examines the image.
             </p>
 
         </div>
@@ -147,7 +195,7 @@
 
         <section
             id="result"
-            class="result-section"
+            class="result-card"
         >
 
             <h2>
@@ -162,6 +210,39 @@
 
 
         <!-- ================================= -->
+        <!-- ANALYSIS HISTORY -->
+        <!-- ================================= -->
+
+        <section class="history-card">
+
+            <div class="history-header">
+
+                <h2>
+                    🕘 Previous Analysis
+                </h2>
+
+                <button
+                    id="clearHistoryButton"
+                    class="clear-button"
+                    type="button"
+                >
+                    🗑️ Clear History
+                </button>
+
+            </div>
+
+            <div id="historyList">
+
+                <p>
+                    No previous analyses yet.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================================= -->
         <!-- VOICE ASSISTANCE -->
         <!-- ================================= -->
 
@@ -169,6 +250,8 @@
 
             <button
                 id="voiceButton"
+                class="voice-button"
+                type="button"
             >
                 🔊 Voice Assistance
             </button>
@@ -180,65 +263,114 @@
         <!-- LANGUAGE -->
         <!-- ================================= -->
 
-       <section class="language-section">
+        <section class="language-section">
 
-    <label for="languageSelect">
-        🌐 Select Language:
-    </label>
+            <label for="languageSelect">
+                🌐 Select Language:
+            </label>
 
-    <select id="languageSelect">
+            <select id="languageSelect">
 
-        <option value="en-US">🇬🇧 English</option>
+                <option value="en-US">
+                    🇬🇧 English
+                </option>
 
-        <option value="te-IN">🇮🇳 తెలుగు (Telugu)</option>
+                <option value="te-IN">
+                    🇮🇳 తెలుగు (Telugu)
+                </option>
 
-        <option value="hi-IN">🇮🇳 हिन्दी (Hindi)</option>
+                <option value="hi-IN">
+                    🇮🇳 हिन्दी (Hindi)
+                </option>
 
-        <option value="ta-IN">🇮🇳 தமிழ் (Tamil)</option>
+                <option value="ta-IN">
+                    🇮🇳 தமிழ் (Tamil)
+                </option>
 
-        <option value="kn-IN">🇮🇳 ಕನ್ನಡ (Kannada)</option>
+                <option value="kn-IN">
+                    🇮🇳 ಕನ್ನಡ (Kannada)
+                </option>
 
-        <option value="ml-IN">🇮🇳 മലയാളം (Malayalam)</option>
+                <option value="ml-IN">
+                    🇮🇳 മലയാളം (Malayalam)
+                </option>
 
-        <option value="mr-IN">🇮🇳 मराठी (Marathi)</option>
+                <option value="mr-IN">
+                    🇮🇳 मराठी (Marathi)
+                </option>
 
-        <option value="bn-IN">🇮🇳 বাংলা (Bengali)</option>
+                <option value="bn-IN">
+                    🇮🇳 বাংলা (Bengali)
+                </option>
 
-        <option value="gu-IN">🇮🇳 ગુજરાતી (Gujarati)</option>
+                <option value="gu-IN">
+                    🇮🇳 ગુજરાતી (Gujarati)
+                </option>
 
-        <option value="pa-IN">🇮🇳 ਪੰਜਾਬੀ (Punjabi)</option>
+                <option value="pa-IN">
+                    🇮🇳 ਪੰਜਾਬੀ (Punjabi)
+                </option>
 
-        <option value="ur-IN">🇮🇳 اردو (Urdu)</option>
+                <option value="ur-IN">
+                    🇮🇳 اردو (Urdu)
+                </option>
 
-        <option value="or-IN">🇮🇳 ଓଡ଼ିଆ (Odia)</option>
+                <option value="or-IN">
+                    🇮🇳 ଓଡ଼ିଆ (Odia)
+                </option>
 
-        <option value="as-IN">🇮🇳 অসমীয়া (Assamese)</option>
+                <option value="as-IN">
+                    🇮🇳 অসমীয়া (Assamese)
+                </option>
 
-        <option value="sa-IN">🇮🇳 संस्कृतम् (Sanskrit)</option>
+                <option value="sa-IN">
+                    🇮🇳 संस्कृतम् (Sanskrit)
+                </option>
 
-        <option value="fr-FR">🇫🇷 Français</option>
+                <option value="fr-FR">
+                    🇫🇷 Français
+                </option>
 
-        <option value="es-ES">🇪🇸 Español</option>
+                <option value="es-ES">
+                    🇪🇸 Español
+                </option>
 
-        <option value="de-DE">🇩🇪 Deutsch</option>
+                <option value="de-DE">
+                    🇩🇪 Deutsch
+                </option>
 
-        <option value="it-IT">🇮🇹 Italiano</option>
+                <option value="it-IT">
+                    🇮🇹 Italiano
+                </option>
 
-        <option value="pt-PT">🇵🇹 Português</option>
+                <option value="pt-PT">
+                    🇵🇹 Português
+                </option>
 
-        <option value="ja-JP">🇯🇵 日本語 (Japanese)</option>
+                <option value="ja-JP">
+                    🇯🇵 日本語 (Japanese)
+                </option>
 
-        <option value="ko-KR">🇰🇷 한국어 (Korean)</option>
+                <option value="ko-KR">
+                    🇰🇷 한국어 (Korean)
+                </option>
 
-        <option value="zh-CN">🇨🇳 中文 (Chinese)</option>
+                <option value="zh-CN">
+                    🇨🇳 中文 (Chinese)
+                </option>
 
-        <option value="ru-RU">🇷🇺 Русский (Russian)</option>
+                <option value="ru-RU">
+                    🇷🇺 Русский (Russian)
+                </option>
 
-        <option value="ar-SA">🇸🇦 العربية (Arabic)</option>
+                <option value="ar-SA">
+                    🇸🇦 العربية (Arabic)
+                </option>
 
-    </select>
+            </select>
 
-</section>
+        </section>
+
 
         <!-- ================================= -->
         <!-- MEDICAL WARNING -->
@@ -248,18 +380,16 @@
 
             <p class="medical-warning">
 
-                ⚠️ <strong>Important:</strong>
+                ⚠️ <strong>Medical Disclaimer:</strong>
 
-                This application provides an
-                AI-based research/demo prediction
-                and is not a medical diagnosis.
+                This application provides an AI-based
+                research/demo prediction and is not a medical
+                diagnosis.
 
-                Do not use this result to make
-                medical decisions.
+                Do not use this result to make medical decisions.
 
-                Please consult a qualified
-                healthcare professional for
-                proper evaluation.
+                Please consult a qualified healthcare professional
+                for proper evaluation.
 
             </p>
 
@@ -273,8 +403,15 @@
         <footer>
 
             <p>
-                Skin Cancer AI •
+                Skin Cancer AI
+            </p>
+
+            <p>
                 EfficientNet + TensorFlow Lite
+            </p>
+
+            <p>
+                Research / Demonstration Project
             </p>
 
         </footer>
