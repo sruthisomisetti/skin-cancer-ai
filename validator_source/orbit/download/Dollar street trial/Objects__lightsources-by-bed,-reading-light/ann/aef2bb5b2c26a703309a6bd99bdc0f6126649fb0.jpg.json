@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1819
+    },
+    "objects": [
+        {
+            "id": 488820588,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:16:22.446Z",
+            "updatedAt": "2020-07-20T20:17:07.435Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        843,
+                        51
+                    ],
+                    [
+                        1295,
+                        865
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820591,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:16:36.488Z",
+            "updatedAt": "2020-07-20T20:17:07.435Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        328
+                    ],
+                    [
+                        570,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820600,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:17:07.213Z",
+            "updatedAt": "2020-07-20T20:17:11.297Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        365
+                    ],
+                    [
+                        868,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

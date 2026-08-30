@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1575
+    },
+    "objects": [
+        {
+            "id": 490984495,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T21:46:01.683Z",
+            "updatedAt": "2020-08-05T21:39:08.875Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        1170,
+                        581
+                    ],
+                    [
+                        1344,
+                        740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496961456,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:38:35.915Z",
+            "updatedAt": "2020-08-05T21:39:08.875Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1519,
+                        516
+                    ],
+                    [
+                        1574,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496961460,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:38:52.047Z",
+            "updatedAt": "2020-08-05T21:39:08.875Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        1438,
+                        863
+                    ],
+                    [
+                        1573,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496961468,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:39:08.602Z",
+            "updatedAt": "2020-08-05T21:39:08.602Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        782,
+                        687
+                    ],
+                    [
+                        839,
+                        734
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

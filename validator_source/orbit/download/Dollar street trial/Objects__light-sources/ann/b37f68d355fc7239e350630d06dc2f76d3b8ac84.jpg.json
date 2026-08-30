@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 488819548,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:06:35.390Z",
+            "updatedAt": "2020-08-04T19:26:18.440Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        197
+                    ],
+                    [
+                        625,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819552,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:06:58.318Z",
+            "updatedAt": "2020-08-04T19:26:18.440Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        831,
+                        579
+                    ],
+                    [
+                        1530,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587118,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:26:01.832Z",
+            "updatedAt": "2020-08-04T19:26:18.440Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        563,
+                        445
+                    ],
+                    [
+                        604,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587128,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:26:18.177Z",
+            "updatedAt": "2020-08-04T19:26:18.177Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        461
+                    ],
+                    [
+                        511,
+                        477
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282245226,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:36:51.639Z",
+            "updatedAt": "2020-08-05T09:18:40.780Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        127
+                    ],
+                    [
+                        652,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496737072,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:18:40.582Z",
+            "updatedAt": "2020-08-05T09:18:40.582Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        189
+                    ],
+                    [
+                        1021,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

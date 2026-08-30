@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054089,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:46:09.284Z",
+            "updatedAt": "2020-08-03T12:03:00.660Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        44
+                    ],
+                    [
+                        817,
+                        1244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495981739,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T12:02:51.222Z",
+            "updatedAt": "2020-08-03T12:03:00.660Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        1001
+                    ],
+                    [
+                        632,
+                        1347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495982043,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T12:03:00.479Z",
+            "updatedAt": "2020-08-03T12:03:00.479Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        16
+                    ],
+                    [
+                        906,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

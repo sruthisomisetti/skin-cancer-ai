@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487888141,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:22:53.705Z",
+            "updatedAt": "2020-07-17T12:23:06.358Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        131
+                    ],
+                    [
+                        620,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487888146,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:23:06.144Z",
+            "updatedAt": "2020-07-17T12:23:06.144Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        438
+                    ],
+                    [
+                        183,
+                        577
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

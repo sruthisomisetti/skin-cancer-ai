@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 576,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049483,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T14:29:30.848Z",
+            "updatedAt": "2020-07-27T21:34:21.069Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        205
+                    ],
+                    [
+                        664,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491234073,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:34:20.839Z",
+            "updatedAt": "2020-07-27T21:34:20.839Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        624,
+                        246
+                    ],
+                    [
+                        675,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

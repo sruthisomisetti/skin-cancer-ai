@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 489116465,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T12:06:50.705Z",
+            "updatedAt": "2020-07-21T12:08:01.682Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        928,
+                        603
+                    ],
+                    [
+                        983,
+                        689
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489116498,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T12:07:22.768Z",
+            "updatedAt": "2020-07-21T12:08:01.682Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        658
+                    ],
+                    [
+                        175,
+                        833
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489116525,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T12:08:01.465Z",
+            "updatedAt": "2020-07-21T12:08:01.465Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        924
+                    ],
+                    [
+                        212,
+                        947
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490793306,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:43:17.037Z",
+            "updatedAt": "2020-08-05T18:46:24.268Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        128
+                    ],
+                    [
+                        770,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793316,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:43:42.561Z",
+            "updatedAt": "2020-08-05T18:46:24.268Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        780,
+                        60
+                    ],
+                    [
+                        865,
+                        607
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951142,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:45:56.814Z",
+            "updatedAt": "2020-08-05T18:46:24.268Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        345
+                    ],
+                    [
+                        648,
+                        601
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951145,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:46:24.027Z",
+            "updatedAt": "2020-08-05T18:46:24.027Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        160
+                    ],
+                    [
+                        704,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

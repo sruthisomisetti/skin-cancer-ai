@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064932,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:22:29.428Z",
+            "updatedAt": "2020-07-13T20:56:08.127Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        141
+                    ],
+                    [
+                        915,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064937,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:22:45.135Z",
+            "updatedAt": "2020-07-13T20:55:46.526Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        98
+                    ],
+                    [
+                        968,
+                        606
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154201,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T20:55:37.922Z",
+            "updatedAt": "2020-07-13T20:55:46.526Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        16
+                    ],
+                    [
+                        728,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154205,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T20:55:46.395Z",
+            "updatedAt": "2020-07-13T20:55:46.395Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        145
+                    ],
+                    [
+                        817,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

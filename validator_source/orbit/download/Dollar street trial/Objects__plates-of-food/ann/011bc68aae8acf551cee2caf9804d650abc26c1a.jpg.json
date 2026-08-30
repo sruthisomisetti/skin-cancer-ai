@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490793293,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:42:34.338Z",
+            "updatedAt": "2020-08-05T18:45:23.388Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        222
+                    ],
+                    [
+                        1018,
+                        927
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951136,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:45:04.000Z",
+            "updatedAt": "2020-08-05T18:45:23.388Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        193
+                    ],
+                    [
+                        874,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951137,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:45:23.185Z",
+            "updatedAt": "2020-08-05T18:45:23.185Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        248
+                    ],
+                    [
+                        548,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

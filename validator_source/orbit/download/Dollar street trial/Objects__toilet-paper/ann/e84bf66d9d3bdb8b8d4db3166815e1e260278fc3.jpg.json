@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279852812,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T15:33:05.178Z",
+            "updatedAt": "2020-07-27T10:42:59.946Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        149
+                    ],
+                    [
+                        1239,
+                        1005
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491101197,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T10:42:59.726Z",
+            "updatedAt": "2020-07-27T10:42:59.726Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        1111,
+                        451
+                    ],
+                    [
+                        1535,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

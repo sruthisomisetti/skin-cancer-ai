@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 279651590,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T13:45:24.672Z",
+            "updatedAt": "2020-07-08T08:20:19.591Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        985,
+                        12
+                    ],
+                    [
+                        1311,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481843807,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T08:20:19.469Z",
+            "updatedAt": "2020-07-08T08:20:27.270Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        759
+                    ],
+                    [
+                        819,
+                        881
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

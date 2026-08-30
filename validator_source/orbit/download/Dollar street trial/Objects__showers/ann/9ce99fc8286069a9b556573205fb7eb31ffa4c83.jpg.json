@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496962901,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:41:39.152Z",
+            "updatedAt": "2020-08-05T22:41:55.207Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        583,
+                        415
+                    ],
+                    [
+                        612,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962905,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:41:54.922Z",
+            "updatedAt": "2020-08-05T22:41:54.922Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        568,
+                        484
+                    ],
+                    [
+                        652,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

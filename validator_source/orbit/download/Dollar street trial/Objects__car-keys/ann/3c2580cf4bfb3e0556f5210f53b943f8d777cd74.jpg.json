@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1540
+    },
+    "objects": [
+        {
+            "id": 282054823,
+            "classId": 714984,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T17:16:30.124Z",
+            "updatedAt": "2020-07-14T19:31:28.527Z",
+            "tags": [],
+            "classTitle": "Car key",
+            "points": {
+                "exterior": [
+                    [
+                        1012,
+                        206
+                    ],
+                    [
+                        1194,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487078486,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T19:31:28.290Z",
+            "updatedAt": "2020-07-14T19:31:32.177Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        28
+                    ],
+                    [
+                        1037,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

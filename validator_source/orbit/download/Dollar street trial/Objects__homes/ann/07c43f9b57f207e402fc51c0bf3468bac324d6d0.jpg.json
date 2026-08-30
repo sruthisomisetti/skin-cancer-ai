@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278184748,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T16:16:51.543Z",
+            "updatedAt": "2020-07-19T20:50:26.528Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        117
+                    ],
+                    [
+                        705,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430158,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T20:49:38.235Z",
+            "updatedAt": "2020-07-19T20:50:26.528Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        490
+                    ],
+                    [
+                        439,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430161,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T20:49:49.769Z",
+            "updatedAt": "2020-07-19T20:50:26.528Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        378
+                    ],
+                    [
+                        652,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430164,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T20:50:00.715Z",
+            "updatedAt": "2020-07-19T20:50:26.528Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        642,
+                        473
+                    ],
+                    [
+                        690,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430171,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T20:50:26.311Z",
+            "updatedAt": "2020-07-19T20:50:26.311Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        702,
+                        447
+                    ],
+                    [
+                        1024,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

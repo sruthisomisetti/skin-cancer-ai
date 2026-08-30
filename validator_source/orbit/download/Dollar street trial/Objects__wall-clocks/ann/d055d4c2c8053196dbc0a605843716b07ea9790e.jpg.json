@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282441036,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:30:26.722Z",
+            "updatedAt": "2020-07-28T15:02:05.869Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        596
+                    ],
+                    [
+                        419,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491889483,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T15:01:53.545Z",
+            "updatedAt": "2020-07-28T15:02:05.869Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        923
+                    ],
+                    [
+                        624,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491889493,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T15:02:05.671Z",
+            "updatedAt": "2020-07-28T15:02:05.671Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        298
+                    ],
+                    [
+                        913,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

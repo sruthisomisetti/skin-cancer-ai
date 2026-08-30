@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988920,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:08:56.457Z",
+            "updatedAt": "2020-07-27T00:09:31.850Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        148
+                    ],
+                    [
+                        367,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988921,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:09:00.539Z",
+            "updatedAt": "2020-07-27T00:09:31.850Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        112
+                    ],
+                    [
+                        476,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988922,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:09:15.396Z",
+            "updatedAt": "2020-07-27T00:09:31.850Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        822,
+                        189
+                    ],
+                    [
+                        1022,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988923,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:09:31.642Z",
+            "updatedAt": "2020-07-27T00:09:31.642Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        292
+                    ],
+                    [
+                        465,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

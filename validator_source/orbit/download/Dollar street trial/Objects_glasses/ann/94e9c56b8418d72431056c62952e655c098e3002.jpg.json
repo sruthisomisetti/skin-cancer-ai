@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271931829,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:15.652Z",
+            "updatedAt": "2020-07-30T11:22:14.699Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        459
+                    ],
+                    [
+                        947,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044701,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T11:02:12.891Z",
+            "updatedAt": "2020-07-30T11:22:14.699Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        231
+                    ],
+                    [
+                        697,
+                        445
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494563640,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T11:22:14.470Z",
+            "updatedAt": "2020-07-30T11:22:14.470Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        682,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

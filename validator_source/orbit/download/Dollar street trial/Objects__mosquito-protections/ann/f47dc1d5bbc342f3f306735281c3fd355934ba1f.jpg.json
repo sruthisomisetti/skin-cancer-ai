@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282038590,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-13T06:11:59.926Z",
+            "updatedAt": "2019-10-13T08:19:33.449Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        716,
+                        170
+                    ],
+                    [
+                        871,
+                        574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282041056,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T08:19:20.369Z",
+            "updatedAt": "2019-10-13T08:19:33.449Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        519
+                    ],
+                    [
+                        672,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282041058,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T08:19:33.311Z",
+            "updatedAt": "2019-10-13T08:19:38.388Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        701,
+                        575
+                    ],
+                    [
+                        845,
+                        711
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

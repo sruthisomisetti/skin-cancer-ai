@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054585,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:07:05.243Z",
+            "updatedAt": "2020-08-04T12:22:25.413Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        398
+                    ],
+                    [
+                        515,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054590,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:07:11.400Z",
+            "updatedAt": "2020-08-04T12:22:25.413Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        26
+                    ],
+                    [
+                        492,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496557037,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:22:25.161Z",
+            "updatedAt": "2020-08-04T12:22:25.161Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        161
+                    ],
+                    [
+                        767,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

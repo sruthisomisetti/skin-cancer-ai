@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279198824,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:09:29.703Z",
+            "updatedAt": "2020-08-03T20:42:25.215Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        79
+                    ],
+                    [
+                        1537,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485667830,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T08:24:24.867Z",
+            "updatedAt": "2020-08-03T20:42:25.215Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        1225,
+                        83
+                    ],
+                    [
+                        1285,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485667891,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T08:25:36.095Z",
+            "updatedAt": "2020-08-03T20:42:25.215Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1282,
+                        78
+                    ],
+                    [
+                        1324,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316876,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:42:12.995Z",
+            "updatedAt": "2020-08-03T20:42:25.215Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        57
+                    ],
+                    [
+                        260,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316881,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:42:24.390Z",
+            "updatedAt": "2020-08-03T20:42:24.390Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        46
+                    ],
+                    [
+                        303,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

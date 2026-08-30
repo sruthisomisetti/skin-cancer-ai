@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488430424,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:43:25.894Z",
+            "updatedAt": "2020-07-19T21:43:41.091Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        288
+                    ],
+                    [
+                        806,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430426,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:43:40.876Z",
+            "updatedAt": "2020-07-19T21:43:40.876Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        668,
+                        743
+                    ],
+                    [
+                        751,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

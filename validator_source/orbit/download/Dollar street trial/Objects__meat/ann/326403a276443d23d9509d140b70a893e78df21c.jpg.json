@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282817773,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T06:22:43.515Z",
+            "updatedAt": "2020-07-21T18:06:19.861Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        292
+                    ],
+                    [
+                        352,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489413676,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:06:19.664Z",
+            "updatedAt": "2020-07-21T18:06:19.664Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        3
+                    ],
+                    [
+                        1022,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

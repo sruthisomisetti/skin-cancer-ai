@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 278310866,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:11:10.633Z",
+            "updatedAt": "2020-07-28T17:44:05.592Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        320
+                    ],
+                    [
+                        477,
+                        780
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491899025,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T17:44:05.376Z",
+            "updatedAt": "2020-07-28T17:44:05.376Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        105
+                    ],
+                    [
+                        136,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282243989,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:04:03.013Z",
+            "updatedAt": "2020-07-29T16:06:53.554Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        287
+                    ],
+                    [
+                        871,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494234502,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T16:06:53.359Z",
+            "updatedAt": "2020-07-29T16:06:53.359Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        889,
+                        227
+                    ],
+                    [
+                        1519,
+                        913
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

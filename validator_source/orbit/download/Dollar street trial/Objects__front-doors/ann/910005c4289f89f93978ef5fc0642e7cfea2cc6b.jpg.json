@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279186033,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:14:37.692Z",
+            "updatedAt": "2020-07-18T14:45:01.457Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        651,
+                        17
+                    ],
+                    [
+                        897,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279186041,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:14:47.657Z",
+            "updatedAt": "2020-07-18T14:45:01.457Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        33
+                    ],
+                    [
+                        352,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322285,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:44:57.046Z",
+            "updatedAt": "2020-07-18T14:45:01.457Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        252
+                    ],
+                    [
+                        334,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322287,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:45:01.248Z",
+            "updatedAt": "2020-07-18T14:45:01.248Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        653,
+                        267
+                    ],
+                    [
+                        686,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049466,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:28:56.478Z",
+            "updatedAt": "2019-10-13T14:29:10.085Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        96
+                    ],
+                    [
+                        606,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049470,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:29:03.308Z",
+            "updatedAt": "2019-10-13T14:29:10.085Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        167
+                    ],
+                    [
+                        452,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049476,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:29:09.917Z",
+            "updatedAt": "2019-10-13T14:29:09.917Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        266
+                    ],
+                    [
+                        334,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

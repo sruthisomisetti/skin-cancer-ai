@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051412,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:24:08.180Z",
+            "updatedAt": "2020-07-24T17:45:18.503Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        778
+                    ],
+                    [
+                        916,
+                        1014
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051414,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:24:15.319Z",
+            "updatedAt": "2020-07-24T17:45:18.503Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        791
+                    ],
+                    [
+                        109,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915602,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:42:31.114Z",
+            "updatedAt": "2020-07-24T17:45:18.503Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        250
+                    ],
+                    [
+                        896,
+                        765
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915696,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:45:18.163Z",
+            "updatedAt": "2020-07-24T17:45:18.163Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        365
+                    ],
+                    [
+                        102,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064747,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T19:07:33.419Z",
+            "updatedAt": "2019-10-14T18:25:00.193Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        283
+                    ],
+                    [
+                        458,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064748,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T19:07:39.724Z",
+            "updatedAt": "2019-10-14T18:25:00.193Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        6
+                    ],
+                    [
+                        488,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488994584,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:10:45.791Z",
+            "updatedAt": "2020-07-21T11:11:08.344Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        117
+                    ],
+                    [
+                        276,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488994598,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:10:59.768Z",
+            "updatedAt": "2020-07-21T11:11:08.344Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        374
+                    ],
+                    [
+                        163,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488994609,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:11:08.138Z",
+            "updatedAt": "2020-07-21T11:11:08.138Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        298
+                    ],
+                    [
+                        505,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

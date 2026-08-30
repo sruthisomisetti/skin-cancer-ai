@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490306166,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:04:07.802Z",
+            "updatedAt": "2020-07-30T12:39:52.806Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        30
+                    ],
+                    [
+                        327,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494574474,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T12:39:52.357Z",
+            "updatedAt": "2020-07-30T12:39:52.357Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        318
+                    ],
+                    [
+                        528,
+                        651
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

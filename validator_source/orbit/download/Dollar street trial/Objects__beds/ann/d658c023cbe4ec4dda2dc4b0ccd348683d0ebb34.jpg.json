@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279307306,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:21:19.329Z",
+            "updatedAt": "2020-08-03T21:53:41.212Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        214
+                    ],
+                    [
+                        1024,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486033904,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:34:05.107Z",
+            "updatedAt": "2020-08-03T21:53:41.212Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        228
+                    ],
+                    [
+                        272,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486103020,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:34:26.096Z",
+            "updatedAt": "2020-08-03T21:53:41.212Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        550
+                    ],
+                    [
+                        129,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327414,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:53:31.377Z",
+            "updatedAt": "2020-08-03T21:53:41.212Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        296
+                    ],
+                    [
+                        408,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327417,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:53:40.992Z",
+            "updatedAt": "2020-08-03T21:53:40.992Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        314
+                    ],
+                    [
+                        371,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491231287,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:57:00.630Z",
+            "updatedAt": "2020-07-27T18:57:23.800Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        549,
+                        306
+                    ],
+                    [
+                        583,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491231293,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:57:23.589Z",
+            "updatedAt": "2020-07-27T18:57:23.589Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        205
+                    ],
+                    [
+                        536,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

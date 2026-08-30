@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279341634,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:37:15.407Z",
+            "updatedAt": "2020-07-25T20:43:40.004Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        168
+                    ],
+                    [
+                        849,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941309,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:43:22.675Z",
+            "updatedAt": "2020-07-25T20:43:40.004Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        537
+                    ],
+                    [
+                        493,
+                        612
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941310,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:43:27.835Z",
+            "updatedAt": "2020-07-25T20:43:40.004Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        626
+                    ],
+                    [
+                        362,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941312,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:43:39.787Z",
+            "updatedAt": "2020-07-25T20:43:39.787Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        571
+                    ],
+                    [
+                        433,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

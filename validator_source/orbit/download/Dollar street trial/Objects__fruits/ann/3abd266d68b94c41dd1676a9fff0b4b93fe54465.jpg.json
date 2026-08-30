@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244725,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:27:45.344Z",
+            "updatedAt": "2020-08-05T08:38:22.271Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        387
+                    ],
+                    [
+                        790,
+                        834
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496733260,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T08:38:22.055Z",
+            "updatedAt": "2020-08-05T08:38:22.055Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        606
+                    ],
+                    [
+                        394,
+                        860
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

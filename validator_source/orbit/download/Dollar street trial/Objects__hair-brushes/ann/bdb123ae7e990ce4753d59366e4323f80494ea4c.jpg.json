@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488417819,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T14:13:02.283Z",
+            "updatedAt": "2020-07-19T14:13:32.654Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        137
+                    ],
+                    [
+                        451,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488417826,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T14:13:32.438Z",
+            "updatedAt": "2020-07-19T14:13:32.438Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        216
+                    ],
+                    [
+                        413,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

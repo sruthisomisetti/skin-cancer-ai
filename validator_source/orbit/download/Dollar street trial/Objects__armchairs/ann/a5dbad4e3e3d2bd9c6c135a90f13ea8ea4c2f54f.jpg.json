@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278952801,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:41:16.584Z",
+            "updatedAt": "2020-08-03T16:43:35.479Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        611,
+                        509
+                    ],
+                    [
+                        846,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481527244,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T15:07:13.485Z",
+            "updatedAt": "2020-08-03T16:43:35.479Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        575
+                    ],
+                    [
+                        580,
+                        760
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481527272,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T15:07:34.784Z",
+            "updatedAt": "2020-08-03T16:43:35.479Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        381
+                    ],
+                    [
+                        707,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481527318,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T15:08:04.954Z",
+            "updatedAt": "2020-08-03T16:43:35.479Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        443
+                    ],
+                    [
+                        231,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308051,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:43:35.255Z",
+            "updatedAt": "2020-08-03T16:43:35.255Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        355
+                    ],
+                    [
+                        470,
+                        486
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

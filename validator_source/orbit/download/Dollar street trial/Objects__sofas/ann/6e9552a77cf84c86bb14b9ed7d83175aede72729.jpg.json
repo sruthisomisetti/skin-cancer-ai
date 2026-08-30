@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381061,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:53:36.354Z",
+            "updatedAt": "2020-07-25T21:57:59.098Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        52
+                    ],
+                    [
+                        994,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941835,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T21:57:58.273Z",
+            "updatedAt": "2020-07-25T21:57:58.273Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        57
+                    ],
+                    [
+                        525,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

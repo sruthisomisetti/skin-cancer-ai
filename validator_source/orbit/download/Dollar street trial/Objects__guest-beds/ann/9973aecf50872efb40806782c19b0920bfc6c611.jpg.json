@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054857,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:18:06.641Z",
+            "updatedAt": "2020-07-19T11:53:41.092Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        422
+                    ],
+                    [
+                        980,
+                        854
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415782,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:53:40.841Z",
+            "updatedAt": "2020-07-19T11:53:40.841Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        820
+                    ],
+                    [
+                        601,
+                        983
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 747
+    },
+    "objects": [
+        {
+            "id": 282570392,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T20:23:01.669Z",
+            "updatedAt": "2020-07-13T21:21:49.837Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        359
+                    ],
+                    [
+                        474,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154710,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:15:56.819Z",
+            "updatedAt": "2020-07-13T21:21:49.837Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        326
+                    ],
+                    [
+                        654,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154913,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:21:49.733Z",
+            "updatedAt": "2020-07-13T21:21:54.573Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        490
+                    ],
+                    [
+                        649,
+                        713
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

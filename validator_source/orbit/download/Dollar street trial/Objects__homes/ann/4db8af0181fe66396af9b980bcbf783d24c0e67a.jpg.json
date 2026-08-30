@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282933587,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T11:13:30.519Z",
+            "updatedAt": "2020-07-19T21:33:54.400Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        33
+                    ],
+                    [
+                        914,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430394,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:33:54.197Z",
+            "updatedAt": "2020-07-19T21:33:54.197Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        72
+                    ],
+                    [
+                        940,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282980137,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T17:14:05.513Z",
+            "updatedAt": "2020-08-05T14:41:53.014Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        284
+                    ],
+                    [
+                        786,
+                        864
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496846212,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:41:52.778Z",
+            "updatedAt": "2020-08-05T14:41:52.778Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        449
+                    ],
+                    [
+                        315,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

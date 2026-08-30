@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281977423,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-12T17:35:04.614Z",
+            "updatedAt": "2020-07-28T13:09:16.404Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        261
+                    ],
+                    [
+                        685,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282043889,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T10:20:46.299Z",
+            "updatedAt": "2020-07-28T13:09:16.404Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        309
+                    ],
+                    [
+                        428,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281977447,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-12T17:35:53.960Z",
+            "updatedAt": "2020-07-28T13:09:16.404Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        474
+                    ],
+                    [
+                        667,
+                        707
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867851,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:09:04.100Z",
+            "updatedAt": "2020-07-28T13:09:16.404Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        812
+                    ],
+                    [
+                        639,
+                        966
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867858,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:09:16.196Z",
+            "updatedAt": "2020-07-28T13:09:16.196Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        773
+                    ],
+                    [
+                        736,
+                        949
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

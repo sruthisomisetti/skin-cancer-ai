@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278195281,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:15:10.953Z",
+            "updatedAt": "2019-10-08T17:15:28.375Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        214
+                    ],
+                    [
+                        992,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278195296,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:15:28.033Z",
+            "updatedAt": "2019-10-08T17:15:32.851Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        47
+                    ],
+                    [
+                        1019,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

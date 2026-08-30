@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 695,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279862579,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T17:18:35.524Z",
+            "updatedAt": "2020-07-26T18:20:37.103Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        367
+                    ],
+                    [
+                        987,
+                        695
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976113,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:20:36.847Z",
+            "updatedAt": "2020-07-26T18:20:36.847Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        645,
+                        255
+                    ],
+                    [
+                        901,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 279597454,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T09:45:55.881Z",
+            "updatedAt": "2019-10-10T09:46:29.705Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1124,
+                        392
+                    ],
+                    [
+                        1523,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279597463,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T09:46:04.366Z",
+            "updatedAt": "2019-10-10T09:46:29.705Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1517,
+                        303
+                    ],
+                    [
+                        1820,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279597489,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T09:46:29.481Z",
+            "updatedAt": "2019-10-10T09:46:35.181Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        478
+                    ],
+                    [
+                        1820,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

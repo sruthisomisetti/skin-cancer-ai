@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053124,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:20:59.753Z",
+            "updatedAt": "2020-08-03T11:51:07.142Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        4
+                    ],
+                    [
+                        762,
+                        1361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053140,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:21:41.895Z",
+            "updatedAt": "2020-08-03T11:51:07.142Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        1044
+                    ],
+                    [
+                        373,
+                        1258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495955611,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T11:51:06.925Z",
+            "updatedAt": "2020-08-03T11:51:06.925Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        580
+                    ],
+                    [
+                        798,
+                        1178
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

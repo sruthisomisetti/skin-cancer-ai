@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282377044,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:34:32.540Z",
+            "updatedAt": "2019-10-15T08:12:09.877Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        13
+                    ],
+                    [
+                        780,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282899497,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:12:09.679Z",
+            "updatedAt": "2019-10-15T08:12:09.679Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        561
+                    ],
+                    [
+                        997,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

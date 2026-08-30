@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055416,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T17:42:20.292Z",
+            "updatedAt": "2020-07-16T20:48:48.001Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        70
+                    ],
+                    [
+                        703,
+                        657
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773142,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:47:51.633Z",
+            "updatedAt": "2020-07-16T20:48:48.001Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        371
+                    ],
+                    [
+                        506,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773149,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:48:35.142Z",
+            "updatedAt": "2020-07-16T20:48:48.001Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        377
+                    ],
+                    [
+                        668,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773153,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:48:47.750Z",
+            "updatedAt": "2020-07-16T20:48:47.750Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        245
+                    ],
+                    [
+                        670,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

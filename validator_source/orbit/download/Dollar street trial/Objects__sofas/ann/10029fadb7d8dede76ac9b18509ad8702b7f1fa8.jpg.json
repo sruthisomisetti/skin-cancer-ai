@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279314673,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:12:49.823Z",
+            "updatedAt": "2020-07-25T20:25:18.444Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        170
+                    ],
+                    [
+                        965,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940983,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:24:51.650Z",
+            "updatedAt": "2020-07-25T20:25:18.444Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        539,
+                        209
+                    ],
+                    [
+                        611,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940988,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:25:01.303Z",
+            "updatedAt": "2020-07-25T20:25:18.444Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        194
+                    ],
+                    [
+                        154,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940993,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:25:11.830Z",
+            "updatedAt": "2020-07-25T20:25:18.444Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        101
+                    ],
+                    [
+                        50,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940995,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:25:18.223Z",
+            "updatedAt": "2020-07-25T20:25:18.223Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        230
+                    ],
+                    [
+                        89,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

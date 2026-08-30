@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282039335,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T07:11:32.638Z",
+            "updatedAt": "2020-07-14T20:48:53.201Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        408
+                    ],
+                    [
+                        924,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487080714,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T20:48:53.011Z",
+            "updatedAt": "2020-07-14T20:48:53.011Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        483
+                    ],
+                    [
+                        171,
+                        778
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

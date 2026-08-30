@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279093327,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia14",
+            "createdAt": "2019-10-09T14:00:10.065Z",
+            "updatedAt": "2020-07-26T08:21:36.562Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        463
+                    ],
+                    [
+                        600,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282915046,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:36:12.844Z",
+            "updatedAt": "2020-07-26T08:21:36.562Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        576
+                    ],
+                    [
+                        431,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490959922,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:21:36.350Z",
+            "updatedAt": "2020-07-26T08:21:36.350Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        695,
+                        222
+                    ],
+                    [
+                        858,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279215663,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T17:32:39.823Z",
+            "updatedAt": "2020-07-18T15:25:19.847Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        72
+                    ],
+                    [
+                        747,
+                        853
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330621,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:24:43.013Z",
+            "updatedAt": "2020-07-18T15:25:19.847Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        440
+                    ],
+                    [
+                        492,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330628,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:25:09.875Z",
+            "updatedAt": "2020-07-18T15:25:19.847Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        541
+                    ],
+                    [
+                        349,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330631,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:25:19.644Z",
+            "updatedAt": "2020-07-18T15:25:19.644Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        143,
+                        206
+                    ],
+                    [
+                        230,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

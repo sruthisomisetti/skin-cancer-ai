@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 490901346,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:34:04.924Z",
+            "updatedAt": "2020-08-05T20:10:58.124Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        179
+                    ],
+                    [
+                        1049,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490901356,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:34:13.405Z",
+            "updatedAt": "2020-08-05T20:10:58.124Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        981,
+                        1
+                    ],
+                    [
+                        1411,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951797,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T20:10:57.930Z",
+            "updatedAt": "2020-08-05T20:10:57.930Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        353
+                    ],
+                    [
+                        1023,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

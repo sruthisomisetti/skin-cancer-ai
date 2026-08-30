@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282439681,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:15:43.812Z",
+            "updatedAt": "2019-10-14T19:16:03.994Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        237
+                    ],
+                    [
+                        716,
+                        612
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282439692,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:15:56.851Z",
+            "updatedAt": "2019-10-14T19:16:03.994Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        385
+                    ],
+                    [
+                        304,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282439699,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:16:03.819Z",
+            "updatedAt": "2019-10-14T19:16:07.407Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        2
+                    ],
+                    [
+                        400,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

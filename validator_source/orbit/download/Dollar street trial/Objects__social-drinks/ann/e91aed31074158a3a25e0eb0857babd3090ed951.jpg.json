@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1581
+    },
+    "objects": [
+        {
+            "id": 490940572,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:11:03.482Z",
+            "updatedAt": "2020-07-25T20:11:34.532Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        572,
+                        365
+                    ],
+                    [
+                        725,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940588,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:11:16.273Z",
+            "updatedAt": "2020-07-25T20:11:34.532Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        352
+                    ],
+                    [
+                        615,
+                        592
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940606,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:11:34.334Z",
+            "updatedAt": "2020-07-25T20:11:39.034Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        238
+                    ],
+                    [
+                        901,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278155580,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T15:54:10.994Z",
+            "updatedAt": "2019-10-12T07:09:17.508Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        647
+                    ],
+                    [
+                        983,
+                        1170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278193851,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:00:47.670Z",
+            "updatedAt": "2019-10-08T17:00:47.670Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        752
+                    ],
+                    [
+                        815,
+                        1154
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

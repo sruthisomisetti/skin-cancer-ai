@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488820294,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:01:30.910Z",
+            "updatedAt": "2020-07-20T20:01:44.631Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        142
+                    ],
+                    [
+                        926,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820299,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:01:44.425Z",
+            "updatedAt": "2020-07-20T20:01:44.425Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        1018,
+                        721
+                    ],
+                    [
+                        1450,
+                        929
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

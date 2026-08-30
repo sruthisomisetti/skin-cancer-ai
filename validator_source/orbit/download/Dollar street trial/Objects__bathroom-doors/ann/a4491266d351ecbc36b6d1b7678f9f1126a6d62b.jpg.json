@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279737227,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:45:04.159Z",
+            "updatedAt": "2020-07-08T12:15:14.704Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        575,
+                        232
+                    ],
+                    [
+                        852,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279737238,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:45:12.764Z",
+            "updatedAt": "2020-07-08T12:15:14.704Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        249
+                    ],
+                    [
+                        463,
+                        857
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481949819,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:15:14.577Z",
+            "updatedAt": "2020-07-08T12:15:18.697Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        855,
+                        34
+                    ],
+                    [
+                        946,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

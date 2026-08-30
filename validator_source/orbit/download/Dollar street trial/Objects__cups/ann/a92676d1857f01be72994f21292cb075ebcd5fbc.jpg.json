@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487630681,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T07:19:56.518Z",
+            "updatedAt": "2020-07-16T07:20:16.674Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        259
+                    ],
+                    [
+                        623,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487630698,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T07:20:10.352Z",
+            "updatedAt": "2020-07-16T07:20:16.674Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        424
+                    ],
+                    [
+                        499,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487630707,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T07:20:16.478Z",
+            "updatedAt": "2020-07-16T07:20:16.478Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        424
+                    ],
+                    [
+                        430,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

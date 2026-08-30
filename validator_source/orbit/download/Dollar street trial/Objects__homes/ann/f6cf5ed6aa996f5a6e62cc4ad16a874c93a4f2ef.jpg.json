@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488432498,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:17:55.257Z",
+            "updatedAt": "2020-07-20T00:18:43.459Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        32
+                    ],
+                    [
+                        1018,
+                        962
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432499,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:18:12.281Z",
+            "updatedAt": "2020-07-20T00:18:43.459Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        573,
+                        651
+                    ],
+                    [
+                        653,
+                        890
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432501,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:18:43.244Z",
+            "updatedAt": "2020-07-20T00:18:43.244Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        50
+                    ],
+                    [
+                        1013,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

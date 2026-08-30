@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051493,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:27:48.134Z",
+            "updatedAt": "2020-07-24T17:52:01.503Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        0
+                    ],
+                    [
+                        851,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915842,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:52:01.298Z",
+            "updatedAt": "2020-07-24T17:52:01.298Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        924,
+                        669
+                    ],
+                    [
+                        1023,
+                        761
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

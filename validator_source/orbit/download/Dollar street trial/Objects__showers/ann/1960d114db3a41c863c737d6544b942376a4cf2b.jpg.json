@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490983518,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:10:30.398Z",
+            "updatedAt": "2020-07-26T20:11:15.695Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        503
+                    ],
+                    [
+                        784,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490983522,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:10:42.000Z",
+            "updatedAt": "2020-07-26T20:11:15.695Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        364
+                    ],
+                    [
+                        339,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490983526,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:10:46.912Z",
+            "updatedAt": "2020-07-26T20:11:15.695Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        459
+                    ],
+                    [
+                        705,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490983527,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:10:57.237Z",
+            "updatedAt": "2020-07-26T20:11:15.695Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        761,
+                        49
+                    ],
+                    [
+                        891,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490983532,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:11:15.479Z",
+            "updatedAt": "2020-07-26T20:11:15.479Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        830,
+                        536
+                    ],
+                    [
+                        954,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

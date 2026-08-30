@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282980422,
+            "classId": 714988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:26:29.668Z",
+            "updatedAt": "2019-10-15T17:26:33.449Z",
+            "tags": [],
+            "classTitle": "Goat",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        102
+                    ],
+                    [
+                        612,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282980423,
+            "classId": 714988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:26:33.267Z",
+            "updatedAt": "2019-10-15T17:26:33.267Z",
+            "tags": [],
+            "classTitle": "Goat",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        0
+                    ],
+                    [
+                        828,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

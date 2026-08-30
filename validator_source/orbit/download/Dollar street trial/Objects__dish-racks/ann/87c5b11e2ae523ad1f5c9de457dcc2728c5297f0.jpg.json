@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487908758,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:08:48.334Z",
+            "updatedAt": "2020-08-07T18:42:27.503Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        283
+                    ],
+                    [
+                        561,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487908762,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:09:12.990Z",
+            "updatedAt": "2020-08-07T18:42:27.503Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        724,
+                        238
+                    ],
+                    [
+                        944,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989356,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:42:27.290Z",
+            "updatedAt": "2020-08-07T18:42:27.290Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        122
+                    ],
+                    [
+                        472,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

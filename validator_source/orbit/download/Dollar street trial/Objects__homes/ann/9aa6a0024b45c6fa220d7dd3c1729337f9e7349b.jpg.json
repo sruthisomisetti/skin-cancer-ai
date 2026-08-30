@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278860090,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T10:30:23.029Z",
+            "updatedAt": "2020-07-19T23:19:12.823Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        364
+                    ],
+                    [
+                        835,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278860105,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T10:30:45.599Z",
+            "updatedAt": "2020-07-19T23:19:12.823Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        669
+                    ],
+                    [
+                        883,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488431163,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:19:12.454Z",
+            "updatedAt": "2020-07-19T23:19:18.415Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        307
+                    ],
+                    [
+                        890,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

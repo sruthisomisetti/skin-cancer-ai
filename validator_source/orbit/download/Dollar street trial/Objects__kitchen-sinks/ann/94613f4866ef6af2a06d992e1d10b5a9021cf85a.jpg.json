@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278318042,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:09:20.624Z",
+            "updatedAt": "2019-10-12T09:50:11.437Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        300
+                    ],
+                    [
+                        636,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318052,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:09:33.386Z",
+            "updatedAt": "2019-10-12T09:49:50.789Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        118
+                    ],
+                    [
+                        354,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318084,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:10:16.230Z",
+            "updatedAt": "2019-10-12T09:49:31.570Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        199
+                    ],
+                    [
+                        269,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318111,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:10:49.273Z",
+            "updatedAt": "2019-10-12T09:48:54.754Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        330
+                    ],
+                    [
+                        966,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

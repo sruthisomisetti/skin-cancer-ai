@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985116,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:25:17.667Z",
+            "updatedAt": "2020-08-05T22:13:25.405Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        136
+                    ],
+                    [
+                        615,
+                        932
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985118,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:25:38.082Z",
+            "updatedAt": "2020-08-05T22:13:25.405Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        779,
+                        231
+                    ],
+                    [
+                        992,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962267,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:13:25.014Z",
+            "updatedAt": "2020-08-05T22:13:25.014Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        106
+                    ],
+                    [
+                        53,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

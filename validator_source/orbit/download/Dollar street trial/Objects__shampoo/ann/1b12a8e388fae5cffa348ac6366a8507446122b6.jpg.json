@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 665
+    },
+    "objects": [
+        {
+            "id": 278322146,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-08T21:25:49.615Z",
+            "updatedAt": "2020-07-25T12:12:37.249Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        217
+                    ],
+                    [
+                        444,
+                        803
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935987,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:12:37.054Z",
+            "updatedAt": "2020-07-25T12:12:37.054Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        516
+                    ],
+                    [
+                        620,
+                        886
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

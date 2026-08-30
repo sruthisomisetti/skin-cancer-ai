@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282353932,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:21:18.729Z",
+            "updatedAt": "2020-08-04T18:45:26.902Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        66
+                    ],
+                    [
+                        1122,
+                        798
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418488,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:12:54.588Z",
+            "updatedAt": "2020-08-04T18:45:26.902Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        458
+                    ],
+                    [
+                        165,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586236,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:45:21.331Z",
+            "updatedAt": "2020-08-04T18:45:26.902Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        365
+                    ],
+                    [
+                        423,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586240,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:45:26.672Z",
+            "updatedAt": "2020-08-04T18:45:26.672Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        920,
+                        408
+                    ],
+                    [
+                        1105,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

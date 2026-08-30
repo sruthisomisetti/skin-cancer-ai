@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 485735801,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:02:56.076Z",
+            "updatedAt": "2020-08-03T21:41:00.368Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        443
+                    ],
+                    [
+                        1017,
+                        907
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327227,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:41:00.111Z",
+            "updatedAt": "2020-08-03T21:41:00.111Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        88
+                    ],
+                    [
+                        611,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

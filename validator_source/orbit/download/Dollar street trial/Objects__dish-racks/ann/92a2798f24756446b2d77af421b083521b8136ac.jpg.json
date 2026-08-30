@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051916,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T15:40:33.134Z",
+            "updatedAt": "2020-08-07T18:50:08.051Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        172
+                    ],
+                    [
+                        672,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989706,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:49:45.438Z",
+            "updatedAt": "2020-08-07T18:50:08.051Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        315
+                    ],
+                    [
+                        612,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989707,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:49:52.646Z",
+            "updatedAt": "2020-08-07T18:50:08.051Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        534,
+                        244
+                    ],
+                    [
+                        619,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989729,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:50:07.838Z",
+            "updatedAt": "2020-08-07T18:50:07.838Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        505
+                    ],
+                    [
+                        1024,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

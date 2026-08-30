@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 481950034,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:17:52.066Z",
+            "updatedAt": "2020-07-08T12:18:32.650Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        218
+                    ],
+                    [
+                        1138,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481950051,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:18:03.892Z",
+            "updatedAt": "2020-07-08T12:18:32.650Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        954,
+                        168
+                    ],
+                    [
+                        1073,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481950088,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:18:32.518Z",
+            "updatedAt": "2020-07-08T12:18:42.190Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        653
+                    ],
+                    [
+                        757,
+                        966
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

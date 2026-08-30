@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278715386,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T08:34:34.186Z",
+            "updatedAt": "2020-08-07T08:37:06.669Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        260
+                    ],
+                    [
+                        1403,
+                        934
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278859425,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T10:05:34.038Z",
+            "updatedAt": "2020-08-07T08:37:06.669Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        794,
+                        143
+                    ],
+                    [
+                        1255,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282047725,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T13:06:28.242Z",
+            "updatedAt": "2020-08-07T08:37:06.669Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        596
+                    ],
+                    [
+                        839,
+                        806
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497488135,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T08:36:04.475Z",
+            "updatedAt": "2020-08-07T08:37:06.669Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1200,
+                        149
+                    ],
+                    [
+                        1386,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497488154,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T08:37:06.432Z",
+            "updatedAt": "2020-08-07T08:37:06.432Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        525
+                    ],
+                    [
+                        331,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281285189,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-11T18:44:35.026Z",
+            "updatedAt": "2019-10-13T05:46:29.630Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        342
+                    ],
+                    [
+                        715,
+                        640
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282029075,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T05:46:29.499Z",
+            "updatedAt": "2019-10-13T05:46:44.199Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        95
+                    ],
+                    [
+                        537,
+                        659
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

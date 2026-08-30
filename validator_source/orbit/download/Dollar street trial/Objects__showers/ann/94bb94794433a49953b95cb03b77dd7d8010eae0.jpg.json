@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988742,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:17:58.000Z",
+            "updatedAt": "2020-08-05T22:39:31.055Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        243
+                    ],
+                    [
+                        597,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988743,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:18:20.284Z",
+            "updatedAt": "2020-08-05T22:39:31.055Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        730,
+                        330
+                    ],
+                    [
+                        785,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962856,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:39:12.359Z",
+            "updatedAt": "2020-08-05T22:39:31.055Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        774,
+                        513
+                    ],
+                    [
+                        833,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962858,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:39:30.807Z",
+            "updatedAt": "2020-08-05T22:39:30.807Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        877,
+                        315
+                    ],
+                    [
+                        977,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

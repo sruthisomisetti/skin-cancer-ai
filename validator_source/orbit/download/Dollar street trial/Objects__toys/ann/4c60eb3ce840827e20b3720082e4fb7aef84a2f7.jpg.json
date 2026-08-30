@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491233582,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:52:40.108Z",
+            "updatedAt": "2020-07-27T20:53:48.478Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        316,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233585,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:52:48.124Z",
+            "updatedAt": "2020-07-27T20:53:48.478Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        888,
+                        84
+                    ],
+                    [
+                        1021,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233589,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:53:13.274Z",
+            "updatedAt": "2020-07-27T20:53:48.478Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        272
+                    ],
+                    [
+                        883,
+                        844
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233594,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:53:48.282Z",
+            "updatedAt": "2020-07-27T20:53:48.282Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        2
+                    ],
+                    [
+                        752,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

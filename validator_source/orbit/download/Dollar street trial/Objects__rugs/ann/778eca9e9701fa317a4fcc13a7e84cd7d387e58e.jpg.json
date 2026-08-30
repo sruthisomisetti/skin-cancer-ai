@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282985257,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:46:34.006Z",
+            "updatedAt": "2020-07-25T09:06:36.064Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        250
+                    ],
+                    [
+                        777,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490934738,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T09:06:35.865Z",
+            "updatedAt": "2020-07-25T09:06:35.865Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        0
+                    ],
+                    [
+                        652,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

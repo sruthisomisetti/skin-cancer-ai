@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 282047509,
+            "classId": 714911,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T12:58:02.831Z",
+            "updatedAt": "2020-07-31T19:41:16.363Z",
+            "tags": [],
+            "classTitle": "Palms",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        2
+                    ],
+                    [
+                        1273,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495291539,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T19:41:16.165Z",
+            "updatedAt": "2020-07-31T19:41:16.165Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1783,
+                        670
+                    ],
+                    [
+                        2047,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

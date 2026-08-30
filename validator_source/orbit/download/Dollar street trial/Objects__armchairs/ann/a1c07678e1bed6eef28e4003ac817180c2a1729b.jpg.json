@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278952756,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:40:30.783Z",
+            "updatedAt": "2020-08-03T16:39:14.402Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        215
+                    ],
+                    [
+                        1024,
+                        1248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308003,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:39:14.213Z",
+            "updatedAt": "2020-08-03T16:39:14.213Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        79
+                    ],
+                    [
+                        742,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

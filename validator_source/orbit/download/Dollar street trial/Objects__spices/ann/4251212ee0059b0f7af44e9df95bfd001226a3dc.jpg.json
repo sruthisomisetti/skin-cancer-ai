@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490960058,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:51:41.185Z",
+            "updatedAt": "2020-07-26T08:52:05.549Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        784
+                    ],
+                    [
+                        693,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960066,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:52:05.363Z",
+            "updatedAt": "2020-07-26T08:52:05.363Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        201
+                    ],
+                    [
+                        571,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

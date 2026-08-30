@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 488512471,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T10:01:03.723Z",
+            "updatedAt": "2020-07-20T10:01:39.360Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        225
+                    ],
+                    [
+                        1409,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488512498,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T10:01:26.954Z",
+            "updatedAt": "2020-07-20T10:01:39.360Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        1238,
+                        123
+                    ],
+                    [
+                        1363,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488512509,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T10:01:39.136Z",
+            "updatedAt": "2020-07-20T10:01:39.136Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        980,
+                        49
+                    ],
+                    [
+                        1207,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

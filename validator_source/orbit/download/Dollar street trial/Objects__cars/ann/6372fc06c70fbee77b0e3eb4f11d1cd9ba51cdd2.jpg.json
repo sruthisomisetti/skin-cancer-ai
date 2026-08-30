@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282038980,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T06:59:45.546Z",
+            "updatedAt": "2020-07-14T20:25:37.692Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        369
+                    ],
+                    [
+                        842,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282038987,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T06:59:59.330Z",
+            "updatedAt": "2020-07-14T20:25:37.692Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        702,
+                        391
+                    ],
+                    [
+                        1108,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487080058,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T20:25:37.505Z",
+            "updatedAt": "2020-07-14T20:25:40.945Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        37
+                    ],
+                    [
+                        949,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

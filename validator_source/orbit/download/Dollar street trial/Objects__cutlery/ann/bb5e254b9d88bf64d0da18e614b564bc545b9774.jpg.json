@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279606872,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:21:29.581Z",
+            "updatedAt": "2020-07-16T13:06:24.341Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        60
+                    ],
+                    [
+                        966,
+                        702
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487723852,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T13:06:24.046Z",
+            "updatedAt": "2020-07-16T13:06:24.046Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        839,
+                        21
+                    ],
+                    [
+                        1209,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381769,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-09T20:06:45.076Z",
+            "updatedAt": "2020-07-15T21:12:29.397Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        24
+                    ],
+                    [
+                        692,
+                        748
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582790,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T21:12:29.190Z",
+            "updatedAt": "2020-07-15T21:12:29.190Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        37
+                    ],
+                    [
+                        830,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

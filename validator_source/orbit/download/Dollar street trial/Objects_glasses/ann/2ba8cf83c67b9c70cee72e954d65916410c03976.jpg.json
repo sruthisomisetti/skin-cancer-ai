@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 271931862,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:15.652Z",
+            "updatedAt": "2019-10-13T10:52:54.681Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        255
+                    ],
+                    [
+                        1151,
+                        631
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044460,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T10:52:22.185Z",
+            "updatedAt": "2019-10-13T10:52:54.681Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        1395,
+                        379
+                    ],
+                    [
+                        1534,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044476,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T10:52:54.530Z",
+            "updatedAt": "2019-10-13T10:53:00.549Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1262,
+                        475
+                    ],
+                    [
+                        1438,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

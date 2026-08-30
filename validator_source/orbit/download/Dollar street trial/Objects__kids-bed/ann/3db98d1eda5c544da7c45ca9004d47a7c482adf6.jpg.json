@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488480422,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:52:47.538Z",
+            "updatedAt": "2020-07-20T08:52:59.709Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        977,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488480430,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:52:59.477Z",
+            "updatedAt": "2020-07-20T08:52:59.477Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        299
+                    ],
+                    [
+                        323,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

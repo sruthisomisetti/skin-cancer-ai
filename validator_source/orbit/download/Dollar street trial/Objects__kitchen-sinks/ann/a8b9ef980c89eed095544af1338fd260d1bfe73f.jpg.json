@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 278318775,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:22:38.137Z",
+            "updatedAt": "2020-07-20T15:44:36.920Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        184
+                    ],
+                    [
+                        1534,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488801103,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:44:21.540Z",
+            "updatedAt": "2020-07-20T15:44:36.920Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        1106,
+                        5
+                    ],
+                    [
+                        1529,
+                        932
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488801112,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:44:36.717Z",
+            "updatedAt": "2020-07-20T15:44:36.717Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        699,
+                        537
+                    ],
+                    [
+                        863,
+                        698
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

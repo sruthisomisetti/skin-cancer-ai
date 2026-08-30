@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 577,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279307259,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:20:37.100Z",
+            "updatedAt": "2020-07-13T13:32:43.662Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        182
+                    ],
+                    [
+                        665,
+                        534
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279307265,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:20:44.483Z",
+            "updatedAt": "2020-07-13T13:32:57.039Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        198
+                    ],
+                    [
+                        1024,
+                        577
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279086510,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:41:34.285Z",
+            "updatedAt": "2020-07-26T18:35:41.509Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        160
+                    ],
+                    [
+                        742,
+                        754
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976191,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:35:29.671Z",
+            "updatedAt": "2020-07-26T18:35:41.509Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        608
+                    ],
+                    [
+                        346,
+                        900
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976193,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:35:41.328Z",
+            "updatedAt": "2020-07-26T18:35:41.328Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        683
+                    ],
+                    [
+                        341,
+                        892
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

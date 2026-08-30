@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278965184,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:20:22.400Z",
+            "updatedAt": "2019-10-09T12:22:29.023Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        176
+                    ],
+                    [
+                        745,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278965214,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:20:45.727Z",
+            "updatedAt": "2019-10-09T12:22:29.023Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        340
+                    ],
+                    [
+                        544,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278965228,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:21:04.976Z",
+            "updatedAt": "2019-10-09T12:22:29.023Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        510
+                    ],
+                    [
+                        479,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278967055,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:22:28.728Z",
+            "updatedAt": "2019-10-09T12:22:45.022Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        402
+                    ],
+                    [
+                        402,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

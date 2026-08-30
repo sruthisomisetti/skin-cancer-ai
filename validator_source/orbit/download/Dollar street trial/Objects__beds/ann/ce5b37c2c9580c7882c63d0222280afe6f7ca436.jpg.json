@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 485737556,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:21:02.978Z",
+            "updatedAt": "2020-08-03T21:52:13.762Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        851,
+                        193
+                    ],
+                    [
+                        1064,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485737568,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:21:19.844Z",
+            "updatedAt": "2020-08-03T21:52:13.762Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        301
+                    ],
+                    [
+                        2042,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327397,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:52:13.562Z",
+            "updatedAt": "2020-08-03T21:52:13.562Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        725,
+                        243
+                    ],
+                    [
+                        854,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

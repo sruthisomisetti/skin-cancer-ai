@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 282050096,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:06:25.840Z",
+            "updatedAt": "2020-07-24T17:18:30.676Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        372
+                    ],
+                    [
+                        466,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914935,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:17:58.027Z",
+            "updatedAt": "2020-07-24T17:18:30.676Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        49
+                    ],
+                    [
+                        491,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914945,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:18:12.028Z",
+            "updatedAt": "2020-07-24T17:18:30.676Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        413
+                    ],
+                    [
+                        682,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914957,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:18:30.472Z",
+            "updatedAt": "2020-07-24T17:18:30.472Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        524
+                    ],
+                    [
+                        150,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

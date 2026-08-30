@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282818854,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T06:30:31.560Z",
+            "updatedAt": "2020-07-21T18:30:42.331Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        335
+                    ],
+                    [
+                        1038,
+                        772
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489484944,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:30:25.058Z",
+            "updatedAt": "2020-07-21T18:30:42.331Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        681,
+                        44
+                    ],
+                    [
+                        996,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489484948,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:30:35.105Z",
+            "updatedAt": "2020-07-21T18:30:42.331Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        889,
+                        211
+                    ],
+                    [
+                        1228,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489484951,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:30:42.108Z",
+            "updatedAt": "2020-07-21T18:30:42.108Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        0
+                    ],
+                    [
+                        770,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

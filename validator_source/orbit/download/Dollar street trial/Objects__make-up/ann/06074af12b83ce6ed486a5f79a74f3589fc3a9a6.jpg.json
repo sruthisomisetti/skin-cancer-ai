@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281993190,
+            "classId": 714975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:43:36.462Z",
+            "updatedAt": "2019-10-13T07:08:13.532Z",
+            "tags": [],
+            "classTitle": "Make up",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        125
+                    ],
+                    [
+                        774,
+                        534
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993205,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:44:45.506Z",
+            "updatedAt": "2019-10-12T19:44:52.241Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        106
+                    ],
+                    [
+                        495,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993207,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:44:52.061Z",
+            "updatedAt": "2019-10-12T19:44:57.003Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        433
+                    ],
+                    [
+                        525,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

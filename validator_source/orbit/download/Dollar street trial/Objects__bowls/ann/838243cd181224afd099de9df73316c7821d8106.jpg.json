@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282795587,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T05:45:35.076Z",
+            "updatedAt": "2020-08-04T13:29:50.534Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        234
+                    ],
+                    [
+                        839,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496564054,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T13:29:50.221Z",
+            "updatedAt": "2020-08-04T13:29:54.584Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        147
+                    ],
+                    [
+                        946,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271941103,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.364Z",
+            "updatedAt": "2020-07-31T09:06:24.953Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        132
+                    ],
+                    [
+                        623,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271941105,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.364Z",
+            "updatedAt": "2019-10-08T16:22:52.880Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        218
+                    ],
+                    [
+                        295,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278185908,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-08T16:22:52.737Z",
+            "updatedAt": "2019-10-08T16:22:52.737Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        185
+                    ],
+                    [
+                        444,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

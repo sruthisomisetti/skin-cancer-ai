@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279520552,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T07:13:09.528Z",
+            "updatedAt": "2020-08-08T18:02:56.151Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        502,
+                        141
+                    ],
+                    [
+                        830,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279520556,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T07:13:15.258Z",
+            "updatedAt": "2019-10-10T07:13:21.430Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        366
+                    ],
+                    [
+                        653,
+                        690
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279520561,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T07:13:21.096Z",
+            "updatedAt": "2019-10-10T07:13:21.096Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        81
+                    ],
+                    [
+                        509,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

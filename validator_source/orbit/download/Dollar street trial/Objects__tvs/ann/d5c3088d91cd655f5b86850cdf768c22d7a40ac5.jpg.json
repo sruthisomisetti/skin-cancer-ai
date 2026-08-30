@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065246,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:35:44.565Z",
+            "updatedAt": "2019-10-13T19:36:05.977Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        205
+                    ],
+                    [
+                        704,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065255,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:36:05.670Z",
+            "updatedAt": "2019-10-13T19:36:05.670Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        356
+                    ],
+                    [
+                        307,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

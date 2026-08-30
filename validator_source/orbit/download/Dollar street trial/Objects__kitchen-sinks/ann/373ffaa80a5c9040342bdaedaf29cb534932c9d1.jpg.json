@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488671874,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:17:59.232Z",
+            "updatedAt": "2020-07-20T14:18:59.513Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        516
+                    ],
+                    [
+                        189,
+                        989
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488671879,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:18:14.927Z",
+            "updatedAt": "2020-07-20T14:18:59.513Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        775,
+                        424
+                    ],
+                    [
+                        1137,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488671881,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:18:34.486Z",
+            "updatedAt": "2020-07-20T14:18:59.513Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1104,
+                        342
+                    ],
+                    [
+                        1258,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488671888,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:18:59.263Z",
+            "updatedAt": "2020-07-20T14:18:59.263Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        655
+                    ],
+                    [
+                        701,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

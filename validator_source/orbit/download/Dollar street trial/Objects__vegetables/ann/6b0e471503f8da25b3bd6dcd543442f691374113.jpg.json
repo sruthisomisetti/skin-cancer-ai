@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 491882167,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:02:54.965Z",
+            "updatedAt": "2020-07-28T14:03:09.365Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        73
+                    ],
+                    [
+                        771,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491882173,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:03:09.098Z",
+            "updatedAt": "2020-07-28T14:03:09.098Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        272
+                    ],
+                    [
+                        787,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

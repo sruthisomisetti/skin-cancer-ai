@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490942045,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:39:06.630Z",
+            "updatedAt": "2020-07-25T23:39:41.853Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        237
+                    ],
+                    [
+                        607,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942046,
+            "classId": 714988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:39:41.513Z",
+            "updatedAt": "2020-07-25T23:39:41.513Z",
+            "tags": [],
+            "classTitle": "Goat",
+            "points": {
+                "exterior": [
+                    [
+                        703,
+                        347
+                    ],
+                    [
+                        889,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

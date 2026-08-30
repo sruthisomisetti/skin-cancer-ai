@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490880494,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:24:03.012Z",
+            "updatedAt": "2020-08-05T19:19:09.281Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        917,
+                        435
+                    ],
+                    [
+                        1221,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490880508,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:24:16.321Z",
+            "updatedAt": "2020-08-05T19:19:09.281Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        160
+                    ],
+                    [
+                        965,
+                        746
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951482,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:19:09.061Z",
+            "updatedAt": "2020-08-05T19:19:14.029Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        232
+                    ],
+                    [
+                        877,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279588163,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-10T08:03:24.372Z",
+            "updatedAt": "2020-07-24T20:20:24.410Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        151
+                    ],
+                    [
+                        1308,
+                        697
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490919319,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T20:20:19.101Z",
+            "updatedAt": "2020-07-24T20:20:24.410Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        819,
+                        573
+                    ],
+                    [
+                        897,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490919320,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T20:20:24.178Z",
+            "updatedAt": "2020-07-24T20:20:24.178Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1174,
+                        669
+                    ],
+                    [
+                        1256,
+                        765
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

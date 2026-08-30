@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 281949428,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T12:52:50.532Z",
+            "updatedAt": "2020-07-14T10:44:28.502Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        274
+                    ],
+                    [
+                        768,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281949431,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T12:53:00.178Z",
+            "updatedAt": "2020-07-14T10:44:35.954Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        915,
+                        430
+                    ],
+                    [
+                        1524,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281949433,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T12:53:06.813Z",
+            "updatedAt": "2020-07-14T10:44:39.987Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        918,
+                        7
+                    ],
+                    [
+                        1524,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279655621,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:29:45.155Z",
+            "updatedAt": "2020-07-08T11:52:21.098Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        0
+                    ],
+                    [
+                        223,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481946774,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:51:08.738Z",
+            "updatedAt": "2020-07-08T11:52:21.098Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        757
+                    ],
+                    [
+                        225,
+                        859
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481946863,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:51:56.294Z",
+            "updatedAt": "2020-07-08T11:52:21.098Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        663,
+                        710
+                    ],
+                    [
+                        1024,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481946903,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:52:20.991Z",
+            "updatedAt": "2020-07-08T11:52:47.617Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        404,
+                        23
+                    ],
+                    [
+                        454,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

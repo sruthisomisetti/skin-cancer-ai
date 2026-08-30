@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282066363,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:14:14.346Z",
+            "updatedAt": "2020-07-24T19:04:16.179Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        173
+                    ],
+                    [
+                        1055,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918700,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:03:47.573Z",
+            "updatedAt": "2020-07-24T19:04:16.179Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        572
+                    ],
+                    [
+                        457,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918703,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:03:57.400Z",
+            "updatedAt": "2020-07-24T19:04:16.179Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        723
+                    ],
+                    [
+                        511,
+                        878
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918704,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:04:16.000Z",
+            "updatedAt": "2020-07-24T19:04:16.000Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        1060,
+                        449
+                    ],
+                    [
+                        1536,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

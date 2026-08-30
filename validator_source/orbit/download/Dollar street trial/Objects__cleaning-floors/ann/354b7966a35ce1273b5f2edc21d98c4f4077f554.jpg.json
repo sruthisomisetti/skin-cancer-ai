@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487868419,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T10:46:10.527Z",
+            "updatedAt": "2020-07-17T10:46:52.314Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        412
+                    ],
+                    [
+                        570,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487868422,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T10:46:15.899Z",
+            "updatedAt": "2020-07-17T10:46:52.314Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        475,
+                        611
+                    ],
+                    [
+                        528,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487868427,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T10:46:34.899Z",
+            "updatedAt": "2020-07-17T10:46:52.314Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        696
+                    ],
+                    [
+                        1023,
+                        1184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487868436,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T10:46:52.125Z",
+            "updatedAt": "2020-07-17T10:46:55.165Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        415
+                    ],
+                    [
+                        543,
+                        1123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

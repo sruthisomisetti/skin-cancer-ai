@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489177296,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:40:52.096Z",
+            "updatedAt": "2020-07-21T13:41:37.897Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        324
+                    ],
+                    [
+                        737,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489177311,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:41:24.528Z",
+            "updatedAt": "2020-07-21T13:41:37.897Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        281
+                    ],
+                    [
+                        562,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489177320,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:41:37.147Z",
+            "updatedAt": "2020-07-21T13:41:37.147Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        471
+                    ],
+                    [
+                        402,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

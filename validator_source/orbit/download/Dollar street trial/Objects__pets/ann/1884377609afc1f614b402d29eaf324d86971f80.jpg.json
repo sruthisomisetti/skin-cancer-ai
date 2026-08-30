@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1541
+    },
+    "objects": [
+        {
+            "id": 282382720,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:47:12.974Z",
+            "updatedAt": "2020-07-23T07:47:44.196Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        921,
+                        433
+                    ],
+                    [
+                        1386,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282820251,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T07:00:58.281Z",
+            "updatedAt": "2020-07-23T07:47:33.655Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        385
+                    ],
+                    [
+                        635,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

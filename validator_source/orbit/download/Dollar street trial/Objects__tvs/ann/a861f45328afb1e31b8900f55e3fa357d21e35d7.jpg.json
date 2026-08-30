@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282064802,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:11:55.449Z",
+            "updatedAt": "2020-07-28T12:44:54.383Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        357
+                    ],
+                    [
+                        912,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064806,
+            "classId": 714976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:12:14.450Z",
+            "updatedAt": "2020-07-28T12:44:54.383Z",
+            "tags": [],
+            "classTitle": "Fruit trees",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        394
+                    ],
+                    [
+                        656,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491866828,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:44:54.183Z",
+            "updatedAt": "2020-07-28T12:44:54.183Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        1159,
+                        686
+                    ],
+                    [
+                        1207,
+                        838
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

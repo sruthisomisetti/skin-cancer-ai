@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282055462,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:44:27.523Z",
+            "updatedAt": "2019-10-14T19:23:32.942Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        756,
+                        354
+                    ],
+                    [
+                        932,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055465,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:44:36.938Z",
+            "updatedAt": "2019-10-14T19:23:32.942Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        704
+                    ],
+                    [
+                        1057,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055471,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:44:55.469Z",
+            "updatedAt": "2019-10-14T19:23:32.942Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        532,
+                        621
+                    ],
+                    [
+                        1030,
+                        708
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282440355,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T19:23:32.723Z",
+            "updatedAt": "2019-10-14T19:23:32.723Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        915,
+                        236
+                    ],
+                    [
+                        1147,
+                        656
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

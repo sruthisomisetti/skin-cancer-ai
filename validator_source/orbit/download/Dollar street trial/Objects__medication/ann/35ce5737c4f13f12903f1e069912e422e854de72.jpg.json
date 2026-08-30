@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282044345,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:47:47.342Z",
+            "updatedAt": "2020-07-21T20:03:34.131Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        774,
+                        119
+                    ],
+                    [
+                        1513,
+                        684
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044354,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:48:02.740Z",
+            "updatedAt": "2019-10-13T10:48:18.116Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        169
+                    ],
+                    [
+                        571,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044362,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:48:17.902Z",
+            "updatedAt": "2019-10-13T10:48:23.283Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        510,
+                        355
+                    ],
+                    [
+                        992,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491059432,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T08:24:44.271Z",
+            "updatedAt": "2020-07-27T08:24:58.083Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        101
+                    ],
+                    [
+                        914,
+                        1041
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491059473,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T08:24:57.876Z",
+            "updatedAt": "2020-07-27T08:24:57.876Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        194
+                    ],
+                    [
+                        315,
+                        620
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

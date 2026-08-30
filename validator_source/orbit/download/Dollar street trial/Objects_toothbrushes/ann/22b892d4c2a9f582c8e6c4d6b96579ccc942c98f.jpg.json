@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 682
+    },
+    "objects": [
+        {
+            "id": 271940757,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:52.537Z",
+            "updatedAt": "2020-07-31T09:17:50.971Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        258
+                    ],
+                    [
+                        554,
+                        589
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495194889,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T09:17:50.207Z",
+            "updatedAt": "2020-07-31T09:17:50.207Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        523
+                    ],
+                    [
+                        498,
+                        784
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

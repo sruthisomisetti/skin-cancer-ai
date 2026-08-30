@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282064907,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:20:22.899Z",
+            "updatedAt": "2020-07-13T20:54:18.039Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        38
+                    ],
+                    [
+                        1051,
+                        1018
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154181,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T20:54:17.908Z",
+            "updatedAt": "2020-07-13T20:54:25.116Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1186,
+                        0
+                    ],
+                    [
+                        1362,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

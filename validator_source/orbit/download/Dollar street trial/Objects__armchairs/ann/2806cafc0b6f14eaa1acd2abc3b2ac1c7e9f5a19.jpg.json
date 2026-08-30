@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 481445988,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T10:53:15.789Z",
+            "updatedAt": "2020-08-03T13:02:11.591Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        603
+                    ],
+                    [
+                        1281,
+                        1018
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496141070,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T13:02:11.363Z",
+            "updatedAt": "2020-08-03T13:02:11.363Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        1377,
+                        475
+                    ],
+                    [
+                        1533,
+                        763
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

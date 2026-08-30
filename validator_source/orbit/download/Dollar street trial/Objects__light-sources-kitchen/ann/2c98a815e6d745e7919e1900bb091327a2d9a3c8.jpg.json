@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 489177495,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:46:17.780Z",
+            "updatedAt": "2020-08-04T20:28:11.266Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        475,
+                        486
+                    ],
+                    [
+                        525,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489177499,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:46:24.009Z",
+            "updatedAt": "2020-08-04T20:28:11.266Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        883,
+                        508
+                    ],
+                    [
+                        923,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489177520,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:47:02.344Z",
+            "updatedAt": "2020-08-04T20:28:11.266Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        475,
+                        882
+                    ],
+                    [
+                        758,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587996,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:27:56.340Z",
+            "updatedAt": "2020-08-04T20:28:11.266Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        837,
+                        785
+                    ],
+                    [
+                        1003,
+                        886
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496588003,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:28:11.060Z",
+            "updatedAt": "2020-08-04T20:28:11.060Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        758,
+                        741
+                    ],
+                    [
+                        797,
+                        879
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282384879,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:52:11.958Z",
+            "updatedAt": "2020-07-23T07:57:35.752Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        386
+                    ],
+                    [
+                        783,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490403959,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T07:57:35.552Z",
+            "updatedAt": "2020-07-23T07:57:35.552Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        697,
+                        332
+                    ],
+                    [
+                        887,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

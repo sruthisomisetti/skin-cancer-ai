@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 481897657,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:27:33.073Z",
+            "updatedAt": "2020-07-08T11:28:05.426Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        0
+                    ],
+                    [
+                        706,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481897678,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:27:45.618Z",
+            "updatedAt": "2020-07-08T11:27:51.519Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        161
+                    ],
+                    [
+                        340,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481897687,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:27:51.408Z",
+            "updatedAt": "2020-07-08T11:27:54.955Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        632,
+                        111
+                    ],
+                    [
+                        709,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

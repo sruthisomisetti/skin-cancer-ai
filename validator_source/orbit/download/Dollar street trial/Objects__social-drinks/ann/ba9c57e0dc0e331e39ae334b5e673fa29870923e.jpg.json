@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490940005,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:46:30.968Z",
+            "updatedAt": "2020-08-06T12:41:00.663Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        220
+                    ],
+                    [
+                        792,
+                        889
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497341982,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T12:41:00.455Z",
+            "updatedAt": "2020-08-06T12:41:00.455Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        381
+                    ],
+                    [
+                        681,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

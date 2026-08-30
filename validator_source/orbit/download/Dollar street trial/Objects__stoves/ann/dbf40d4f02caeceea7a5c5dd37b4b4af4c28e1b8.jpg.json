@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279093046,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:54:47.204Z",
+            "updatedAt": "2020-07-26T18:51:09.422Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        279
+                    ],
+                    [
+                        684,
+                        723
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279093060,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:55:01.758Z",
+            "updatedAt": "2020-07-26T18:51:18.072Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        509,
+                        23
+                    ],
+                    [
+                        819,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

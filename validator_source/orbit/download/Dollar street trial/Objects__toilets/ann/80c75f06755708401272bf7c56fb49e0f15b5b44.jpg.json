@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278312337,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:35:54.307Z",
+            "updatedAt": "2020-07-27T14:15:20.995Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        27
+                    ],
+                    [
+                        879,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278312349,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:36:11.907Z",
+            "updatedAt": "2020-07-27T14:15:20.995Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        257
+                    ],
+                    [
+                        179,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181320,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:15:20.762Z",
+            "updatedAt": "2020-07-27T14:15:20.762Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        619
+                    ],
+                    [
+                        416,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

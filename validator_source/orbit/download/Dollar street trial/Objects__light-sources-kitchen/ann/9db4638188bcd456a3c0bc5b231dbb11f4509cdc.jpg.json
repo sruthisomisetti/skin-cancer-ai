@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489299703,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:33:09.098Z",
+            "updatedAt": "2020-08-04T21:56:07.653Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        399
+                    ],
+                    [
+                        645,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496592886,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T21:56:03.153Z",
+            "updatedAt": "2020-08-04T21:56:07.653Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        721
+                    ],
+                    [
+                        191,
+                        777
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496592888,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T21:56:07.334Z",
+            "updatedAt": "2020-08-04T21:56:07.334Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        725
+                    ],
+                    [
+                        378,
+                        777
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

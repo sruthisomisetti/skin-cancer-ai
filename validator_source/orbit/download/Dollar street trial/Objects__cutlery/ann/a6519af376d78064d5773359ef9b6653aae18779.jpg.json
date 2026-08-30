@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282961429,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:35:16.618Z",
+            "updatedAt": "2020-07-16T12:59:47.516Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        378
+                    ],
+                    [
+                        775,
+                        691
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487723593,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:58:54.572Z",
+            "updatedAt": "2020-07-16T12:59:47.516Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        355
+                    ],
+                    [
+                        771,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487723611,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:59:14.208Z",
+            "updatedAt": "2020-07-16T12:59:47.516Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        280
+                    ],
+                    [
+                        849,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487723620,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:59:21.946Z",
+            "updatedAt": "2020-07-16T12:59:47.516Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        318
+                    ],
+                    [
+                        597,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487723643,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:59:46.917Z",
+            "updatedAt": "2020-07-16T12:59:46.917Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        337
+                    ],
+                    [
+                        242,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

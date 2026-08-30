@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490939213,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:42:59.874Z",
+            "updatedAt": "2020-07-25T18:43:21.939Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        65
+                    ],
+                    [
+                        610,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939217,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:43:21.714Z",
+            "updatedAt": "2020-07-25T18:43:21.714Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        396
+                    ],
+                    [
+                        430,
+                        543
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988808,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:35:22.435Z",
+            "updatedAt": "2020-07-26T23:35:50.327Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        598
+                    ],
+                    [
+                        505,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988809,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:35:50.025Z",
+            "updatedAt": "2020-07-26T23:35:50.025Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        390
+                    ],
+                    [
+                        823,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

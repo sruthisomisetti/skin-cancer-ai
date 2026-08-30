@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282051881,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:39:41.290Z",
+            "updatedAt": "2020-07-27T21:45:29.120Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        516
+                    ],
+                    [
+                        372,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051895,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:40:03.051Z",
+            "updatedAt": "2020-07-27T21:45:29.120Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        807,
+                        680
+                    ],
+                    [
+                        975,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051980,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:41:57.838Z",
+            "updatedAt": "2020-07-27T21:45:29.120Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        617,
+                        620
+                    ],
+                    [
+                        811,
+                        791
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491243052,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:45:28.908Z",
+            "updatedAt": "2020-07-27T21:45:28.908Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        796,
+                        698
+                    ],
+                    [
+                        1239,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

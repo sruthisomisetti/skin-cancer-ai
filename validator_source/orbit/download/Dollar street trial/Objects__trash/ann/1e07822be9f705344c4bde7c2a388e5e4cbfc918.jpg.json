@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281225032,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-11T16:54:00.793Z",
+            "updatedAt": "2020-07-28T10:30:30.416Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        207
+                    ],
+                    [
+                        565,
+                        637
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491407630,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T10:30:30.202Z",
+            "updatedAt": "2020-07-28T10:30:30.202Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        145
+                    ],
+                    [
+                        347,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

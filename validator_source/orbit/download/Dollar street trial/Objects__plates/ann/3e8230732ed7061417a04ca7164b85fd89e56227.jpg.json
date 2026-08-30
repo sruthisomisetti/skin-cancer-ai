@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279586132,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T07:54:42.133Z",
+            "updatedAt": "2019-10-12T04:48:02.871Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        431
+                    ],
+                    [
+                        834,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279586137,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T07:54:52.090Z",
+            "updatedAt": "2019-10-10T07:54:58.224Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        340
+                    ],
+                    [
+                        439,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

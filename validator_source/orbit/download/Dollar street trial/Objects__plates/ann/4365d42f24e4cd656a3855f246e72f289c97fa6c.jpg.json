@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1530
+    },
+    "objects": [
+        {
+            "id": 279589176,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:21:18.889Z",
+            "updatedAt": "2020-08-08T18:15:18.990Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        123
+                    ],
+                    [
+                        656,
+                        505
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279589188,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:21:33.826Z",
+            "updatedAt": "2020-08-08T18:15:18.990Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        597
+                    ],
+                    [
+                        1302,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281859618,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T04:51:29.592Z",
+            "updatedAt": "2020-08-08T18:15:18.990Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        815,
+                        84
+                    ],
+                    [
+                        1020,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498641249,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:15:18.757Z",
+            "updatedAt": "2020-08-08T18:15:18.757Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        802
+                    ],
+                    [
+                        1236,
+                        1007
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

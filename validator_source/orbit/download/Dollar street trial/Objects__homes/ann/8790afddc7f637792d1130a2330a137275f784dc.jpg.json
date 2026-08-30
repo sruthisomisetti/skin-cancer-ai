@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278857147,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:27:31.288Z",
+            "updatedAt": "2019-10-09T09:31:00.267Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        220
+                    ],
+                    [
+                        552,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278857587,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:27:45.904Z",
+            "updatedAt": "2019-10-09T09:31:00.267Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        123
+                    ],
+                    [
+                        967,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278857611,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:28:13.137Z",
+            "updatedAt": "2019-10-09T09:31:00.267Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        850,
+                        543
+                    ],
+                    [
+                        995,
+                        632
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278857650,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:28:54.293Z",
+            "updatedAt": "2019-10-09T09:31:00.267Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        100
+                    ],
+                    [
+                        948,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278857703,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:30:18.651Z",
+            "updatedAt": "2019-10-09T09:31:00.267Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        353
+                    ],
+                    [
+                        440,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

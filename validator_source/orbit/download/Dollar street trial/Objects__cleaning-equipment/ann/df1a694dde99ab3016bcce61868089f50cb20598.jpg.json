@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1474
+    },
+    "objects": [
+        {
+            "id": 487335605,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T13:52:44.230Z",
+            "updatedAt": "2020-07-15T13:53:02.962Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        515
+                    ],
+                    [
+                        439,
+                        917
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487335614,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T13:53:02.135Z",
+            "updatedAt": "2020-07-15T13:53:31.937Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        1279,
+                        685
+                    ],
+                    [
+                        1474,
+                        840
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

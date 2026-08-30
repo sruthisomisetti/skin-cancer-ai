@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490983392,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:00:29.176Z",
+            "updatedAt": "2020-07-26T20:00:51.093Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        350
+                    ],
+                    [
+                        537,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490983395,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T20:00:50.882Z",
+            "updatedAt": "2020-07-26T20:00:50.882Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        663,
+                        243
+                    ],
+                    [
+                        686,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279622999,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T12:13:46.783Z",
+            "updatedAt": "2020-07-13T12:47:01.204Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        228
+                    ],
+                    [
+                        829,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485734955,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:46:45.348Z",
+            "updatedAt": "2020-07-13T12:47:01.204Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        573
+                    ],
+                    [
+                        601,
+                        670
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485734971,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:47:01.080Z",
+            "updatedAt": "2020-07-13T12:47:01.080Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        839,
+                        522
+                    ],
+                    [
+                        923,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

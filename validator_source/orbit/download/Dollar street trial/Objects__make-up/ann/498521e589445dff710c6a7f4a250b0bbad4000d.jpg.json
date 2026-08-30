@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282040348,
+            "classId": 714975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T07:25:05.755Z",
+            "updatedAt": "2019-10-13T07:25:16.252Z",
+            "tags": [],
+            "classTitle": "Make up",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        404
+                    ],
+                    [
+                        1104,
+                        899
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282040353,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T07:25:16.068Z",
+            "updatedAt": "2019-10-13T07:25:23.048Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        1177,
+                        469
+                    ],
+                    [
+                        1512,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

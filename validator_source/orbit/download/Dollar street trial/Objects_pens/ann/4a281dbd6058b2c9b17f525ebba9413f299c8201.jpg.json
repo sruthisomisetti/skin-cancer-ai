@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282424675,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:11:06.728Z",
+            "updatedAt": "2020-07-30T16:20:50.606Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        102
+                    ],
+                    [
+                        753,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494847477,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:20:50.397Z",
+            "updatedAt": "2020-07-30T16:20:50.397Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        216
+                    ],
+                    [
+                        495,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

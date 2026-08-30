@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279092847,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T13:50:26.191Z",
+            "updatedAt": "2020-08-07T21:20:55.651Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        34
+                    ],
+                    [
+                        1149,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000895,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:20:35.254Z",
+            "updatedAt": "2020-08-07T21:20:55.651Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1141,
+                        641
+                    ],
+                    [
+                        1283,
+                        868
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000896,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:20:48.929Z",
+            "updatedAt": "2020-08-07T21:20:55.651Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        502,
+                        87
+                    ],
+                    [
+                        1024,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000898,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:20:55.424Z",
+            "updatedAt": "2020-08-07T21:20:55.424Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        657
+                    ],
+                    [
+                        905,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

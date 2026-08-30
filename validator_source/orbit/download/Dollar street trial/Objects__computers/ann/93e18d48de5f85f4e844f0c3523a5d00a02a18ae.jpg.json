@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282357727,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:21:31.553Z",
+            "updatedAt": "2020-08-04T18:49:08.769Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        160
+                    ],
+                    [
+                        687,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418496,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:13:22.486Z",
+            "updatedAt": "2020-08-04T18:49:08.769Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        253
+                    ],
+                    [
+                        396,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418513,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:14:13.774Z",
+            "updatedAt": "2020-08-04T18:49:08.769Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        89
+                    ],
+                    [
+                        406,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418519,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:14:29.580Z",
+            "updatedAt": "2020-08-04T18:49:08.769Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        68
+                    ],
+                    [
+                        1023,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586327,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:49:08.511Z",
+            "updatedAt": "2020-08-04T18:49:08.511Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        657,
+                        8
+                    ],
+                    [
+                        697,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

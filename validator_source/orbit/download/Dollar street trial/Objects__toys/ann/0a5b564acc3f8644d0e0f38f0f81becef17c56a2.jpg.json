@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282045938,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T11:45:21.013Z",
+            "updatedAt": "2019-10-13T11:45:30.790Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        154
+                    ],
+                    [
+                        846,
+                        480
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282045944,
+            "classId": 714931,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T11:45:30.662Z",
+            "updatedAt": "2019-10-13T11:45:39.073Z",
+            "tags": [],
+            "classTitle": "Kids bed",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        72
+                    ],
+                    [
+                        1017,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

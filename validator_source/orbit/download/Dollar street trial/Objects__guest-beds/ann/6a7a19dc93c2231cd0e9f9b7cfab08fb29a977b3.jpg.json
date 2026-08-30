@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488415493,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:38:48.872Z",
+            "updatedAt": "2020-07-19T11:39:08.286Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        316
+                    ],
+                    [
+                        598,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415504,
+            "classId": 714986,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:39:08.063Z",
+            "updatedAt": "2020-07-19T11:39:08.063Z",
+            "tags": [],
+            "classTitle": "Jacket",
+            "points": {
+                "exterior": [
+                    [
+                        575,
+                        199
+                    ],
+                    [
+                        635,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

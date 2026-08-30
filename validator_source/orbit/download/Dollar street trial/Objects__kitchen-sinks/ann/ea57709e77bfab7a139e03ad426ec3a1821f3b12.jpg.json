@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278321660,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T21:13:41.122Z",
+            "updatedAt": "2020-07-20T18:01:20.893Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        556
+                    ],
+                    [
+                        1091,
+                        926
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817960,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:01:19.754Z",
+            "updatedAt": "2020-07-20T18:01:19.754Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        55
+                    ],
+                    [
+                        264,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

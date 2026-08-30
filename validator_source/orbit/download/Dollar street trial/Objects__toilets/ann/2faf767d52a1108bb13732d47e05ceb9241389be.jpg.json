@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1567
+    },
+    "objects": [
+        {
+            "id": 278309184,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:49:49.573Z",
+            "updatedAt": "2020-07-27T13:10:07.463Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        559,
+                        112
+                    ],
+                    [
+                        956,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278861510,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T10:43:30.813Z",
+            "updatedAt": "2020-07-27T13:10:07.463Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        38
+                    ],
+                    [
+                        392,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173362,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:09:41.724Z",
+            "updatedAt": "2020-07-27T13:10:07.463Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        528
+                    ],
+                    [
+                        586,
+                        772
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173367,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:10:07.256Z",
+            "updatedAt": "2020-07-27T13:10:07.256Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        640
+                    ],
+                    [
+                        1105,
+                        866
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

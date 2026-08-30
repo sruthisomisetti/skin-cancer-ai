@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051989,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:42:23.589Z",
+            "updatedAt": "2019-10-13T15:44:19.086Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        111
+                    ],
+                    [
+                        648,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052049,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:44:18.861Z",
+            "updatedAt": "2019-10-13T15:44:29.849Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        108
+                    ],
+                    [
+                        1024,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

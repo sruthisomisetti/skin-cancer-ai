@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490793709,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T22:03:09.488Z",
+            "updatedAt": "2020-08-05T19:04:13.437Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        529
+                    ],
+                    [
+                        828,
+                        884
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951328,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:03:38.745Z",
+            "updatedAt": "2020-08-05T19:04:13.437Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        813,
+                        125
+                    ],
+                    [
+                        923,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951363,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:03:59.765Z",
+            "updatedAt": "2020-08-05T19:04:13.437Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        943,
+                        10
+                    ],
+                    [
+                        1361,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951365,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:04:13.210Z",
+            "updatedAt": "2020-08-05T19:04:13.210Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        611,
+                        94
+                    ],
+                    [
+                        811,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244962,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:32:58.518Z",
+            "updatedAt": "2020-08-05T09:01:56.440Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        526
+                    ],
+                    [
+                        250,
+                        740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282244964,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:33:01.834Z",
+            "updatedAt": "2020-08-05T09:02:04.986Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        476
+                    ],
+                    [
+                        720,
+                        759
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

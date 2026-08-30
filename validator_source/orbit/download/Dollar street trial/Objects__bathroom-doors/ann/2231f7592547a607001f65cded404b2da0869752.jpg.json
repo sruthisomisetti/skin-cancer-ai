@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 282769003,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T05:12:56.708Z",
+            "updatedAt": "2020-08-03T17:30:42.523Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        520,
+                        11
+                    ],
+                    [
+                        668,
+                        1012
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308460,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:30:42.324Z",
+            "updatedAt": "2020-08-03T17:30:42.324Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        480
+                    ],
+                    [
+                        425,
+                        743
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

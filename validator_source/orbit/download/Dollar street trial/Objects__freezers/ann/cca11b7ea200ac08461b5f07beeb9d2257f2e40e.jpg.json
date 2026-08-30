@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 282442868,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T19:59:56.610Z",
+            "updatedAt": "2020-07-18T12:11:31.781Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        52
+                    ],
+                    [
+                        564,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320707,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:11:31.567Z",
+            "updatedAt": "2020-07-18T12:11:31.567Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        296
+                    ],
+                    [
+                        134,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

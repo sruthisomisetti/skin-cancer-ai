@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054671,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:10:20.919Z",
+            "updatedAt": "2019-10-13T17:10:28.782Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        370
+                    ],
+                    [
+                        642,
+                        764
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054673,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:10:28.407Z",
+            "updatedAt": "2019-10-13T17:10:28.407Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        667,
+                        351
+                    ],
+                    [
+                        879,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

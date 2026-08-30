@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279304655,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:58:58.146Z",
+            "updatedAt": "2020-07-13T13:03:45.637Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        36
+                    ],
+                    [
+                        1024,
+                        1004
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735847,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:03:45.506Z",
+            "updatedAt": "2020-07-13T13:03:54.280Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        923,
+                        126
+                    ],
+                    [
+                        973,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281992847,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T19:17:00.680Z",
+            "updatedAt": "2020-07-22T19:52:04.538Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        288
+                    ],
+                    [
+                        711,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490305883,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T19:52:04.347Z",
+            "updatedAt": "2020-07-22T19:52:07.487Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        794
+                    ],
+                    [
+                        955,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

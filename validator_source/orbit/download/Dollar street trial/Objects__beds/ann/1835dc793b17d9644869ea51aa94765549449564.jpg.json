@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279607228,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:26:13.940Z",
+            "updatedAt": "2020-07-09T13:49:10.512Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        54
+                    ],
+                    [
+                        934,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114471,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:48:37.766Z",
+            "updatedAt": "2020-07-09T13:49:10.512Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        724,
+                        129
+                    ],
+                    [
+                        971,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114485,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:48:44.063Z",
+            "updatedAt": "2020-07-09T13:49:10.512Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        91
+                    ],
+                    [
+                        589,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114513,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:48:58.402Z",
+            "updatedAt": "2020-07-09T13:49:10.512Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        112
+                    ],
+                    [
+                        284,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114533,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:49:10.349Z",
+            "updatedAt": "2020-07-09T13:49:23.709Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        848,
+                        545
+                    ],
+                    [
+                        902,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

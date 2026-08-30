@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054770,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:14:16.664Z",
+            "updatedAt": "2020-07-19T11:49:52.039Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        129
+                    ],
+                    [
+                        822,
+                        746
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415742,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:49:51.702Z",
+            "updatedAt": "2020-07-19T11:49:51.702Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        259
+                    ],
+                    [
+                        934,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 691
+    },
+    "objects": [
+        {
+            "id": 282250026,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T12:18:39.813Z",
+            "updatedAt": "2020-07-22T21:16:42.229Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        294
+                    ],
+                    [
+                        605,
+                        782
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490308071,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T21:16:42.024Z",
+            "updatedAt": "2020-07-22T21:16:53.518Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        278
+                    ],
+                    [
+                        585,
+                        632
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

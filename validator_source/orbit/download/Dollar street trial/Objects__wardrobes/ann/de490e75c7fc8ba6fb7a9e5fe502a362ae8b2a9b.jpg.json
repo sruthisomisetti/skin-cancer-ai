@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278314794,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:42:48.807Z",
+            "updatedAt": "2020-07-28T19:42:25.003Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        2
+                    ],
+                    [
+                        600,
+                        675
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 492276006,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T19:42:24.748Z",
+            "updatedAt": "2020-07-28T19:42:24.748Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        233
+                    ],
+                    [
+                        715,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

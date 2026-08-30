@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278318524,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:17:54.107Z",
+            "updatedAt": "2019-10-08T20:23:13.738Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        68
+                    ],
+                    [
+                        910,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318686,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:20:34.565Z",
+            "updatedAt": "2019-10-08T20:23:13.738Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        80
+                    ],
+                    [
+                        788,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318742,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:21:34.625Z",
+            "updatedAt": "2019-10-08T20:23:13.738Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        415
+                    ],
+                    [
+                        399,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318806,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:23:13.399Z",
+            "updatedAt": "2019-10-08T20:23:13.399Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        268
+                    ],
+                    [
+                        748,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

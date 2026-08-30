@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282042911,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:34:11.005Z",
+            "updatedAt": "2020-07-28T13:58:21.596Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        389
+                    ],
+                    [
+                        931,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491882083,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:58:21.367Z",
+            "updatedAt": "2020-07-28T13:58:21.367Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        603
+                    ],
+                    [
+                        231,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

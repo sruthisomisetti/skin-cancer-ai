@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278211045,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:31:27.139Z",
+            "updatedAt": "2020-07-20T14:13:33.434Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        211
+                    ],
+                    [
+                        978,
+                        576
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278224265,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:32:05.468Z",
+            "updatedAt": "2019-10-12T07:36:02.077Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        728,
+                        185
+                    ],
+                    [
+                        857,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278240021,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:32:21.889Z",
+            "updatedAt": "2019-10-12T07:36:02.077Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        878,
+                        34
+                    ],
+                    [
+                        1006,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887323,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:36:01.918Z",
+            "updatedAt": "2019-10-12T07:36:01.918Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        140
+                    ],
+                    [
+                        431,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

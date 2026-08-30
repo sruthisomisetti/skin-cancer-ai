@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282318240,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:01:00.934Z",
+            "updatedAt": "2020-07-15T14:38:42.683Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        65
+                    ],
+                    [
+                        1019,
+                        1359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487381300,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:38:42.413Z",
+            "updatedAt": "2020-07-15T14:38:42.413Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        979
+                    ],
+                    [
+                        699,
+                        1091
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487887801,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:09:11.954Z",
+            "updatedAt": "2020-08-04T15:33:41.770Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        0
+                    ],
+                    [
+                        796,
+                        1686
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887816,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:09:46.532Z",
+            "updatedAt": "2020-08-04T15:33:41.770Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1020,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496574655,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T15:33:41.549Z",
+            "updatedAt": "2020-08-04T15:33:41.549Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        259,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

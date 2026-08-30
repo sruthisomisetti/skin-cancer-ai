@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1527,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278655630,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T05:06:56.817Z",
+            "updatedAt": "2020-07-27T15:31:44.089Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        213
+                    ],
+                    [
+                        960,
+                        1426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491219923,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:31:43.759Z",
+            "updatedAt": "2020-07-27T15:31:43.759Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        834
+                    ],
+                    [
+                        146,
+                        1480
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

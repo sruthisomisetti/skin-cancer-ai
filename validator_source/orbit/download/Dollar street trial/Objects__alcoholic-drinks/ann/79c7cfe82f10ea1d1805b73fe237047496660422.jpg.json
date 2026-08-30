@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282052623,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:04:56.428Z",
+            "updatedAt": "2019-10-13T16:05:30.211Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        102
+                    ],
+                    [
+                        989,
+                        867
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052629,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:05:17.189Z",
+            "updatedAt": "2019-10-13T16:05:30.211Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1194,
+                        624
+                    ],
+                    [
+                        1374,
+                        908
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052637,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:05:29.966Z",
+            "updatedAt": "2019-10-13T16:05:38.313Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        977,
+                        620
+                    ],
+                    [
+                        1182,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

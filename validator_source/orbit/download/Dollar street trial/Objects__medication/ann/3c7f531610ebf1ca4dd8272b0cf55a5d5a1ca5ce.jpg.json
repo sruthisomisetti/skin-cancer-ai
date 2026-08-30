@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282430971,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T18:40:37.334Z",
+            "updatedAt": "2020-07-21T20:07:13.610Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        625,
+                        335
+                    ],
+                    [
+                        968,
+                        512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489591536,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T20:07:13.383Z",
+            "updatedAt": "2020-07-21T20:07:13.383Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        185
+                    ],
+                    [
+                        260,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

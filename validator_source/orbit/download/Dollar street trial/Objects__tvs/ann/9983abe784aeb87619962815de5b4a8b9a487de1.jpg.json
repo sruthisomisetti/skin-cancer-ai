@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064758,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:08:14.425Z",
+            "updatedAt": "2020-07-28T12:41:21.212Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        266
+                    ],
+                    [
+                        566,
+                        477
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064759,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:08:22.522Z",
+            "updatedAt": "2020-07-28T12:41:21.212Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        14
+                    ],
+                    [
+                        498,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491491189,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:41:21.026Z",
+            "updatedAt": "2020-07-28T12:41:21.026Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        703,
+                        316
+                    ],
+                    [
+                        731,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

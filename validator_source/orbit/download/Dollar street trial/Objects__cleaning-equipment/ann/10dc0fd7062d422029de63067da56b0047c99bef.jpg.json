@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281992250,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-12T18:36:54.921Z",
+            "updatedAt": "2019-10-12T18:37:33.698Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        214
+                    ],
+                    [
+                        721,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992257,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-12T18:37:15.830Z",
+            "updatedAt": "2019-10-12T18:37:33.698Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        5
+                    ],
+                    [
+                        748,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992260,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-12T18:37:33.279Z",
+            "updatedAt": "2019-10-12T18:37:40.809Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        150
+                    ],
+                    [
+                        532,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

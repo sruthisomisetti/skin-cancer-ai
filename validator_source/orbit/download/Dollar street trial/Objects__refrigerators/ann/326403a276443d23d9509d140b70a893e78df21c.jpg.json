@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051269,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:16:43.621Z",
+            "updatedAt": "2020-07-24T17:24:53.433Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        2
+                    ],
+                    [
+                        1024,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915152,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:24:53.212Z",
+            "updatedAt": "2020-07-24T17:24:53.212Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        426
+                    ],
+                    [
+                        684,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 575,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052015,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T15:43:16.457Z",
+            "updatedAt": "2019-10-13T15:45:03.612Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        28
+                    ],
+                    [
+                        534,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052026,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T15:43:40.774Z",
+            "updatedAt": "2019-10-13T15:45:03.612Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        542,
+                        374
+                    ],
+                    [
+                        633,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052063,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T15:45:03.320Z",
+            "updatedAt": "2019-10-13T15:45:08.603Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        348
+                    ],
+                    [
+                        951,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

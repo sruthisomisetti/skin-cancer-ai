@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490793302,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:42:59.639Z",
+            "updatedAt": "2020-08-05T18:45:41.985Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        145
+                    ],
+                    [
+                        958,
+                        962
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951139,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:45:41.770Z",
+            "updatedAt": "2020-08-05T18:45:41.770Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        302
+                    ],
+                    [
+                        958,
+                        759
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

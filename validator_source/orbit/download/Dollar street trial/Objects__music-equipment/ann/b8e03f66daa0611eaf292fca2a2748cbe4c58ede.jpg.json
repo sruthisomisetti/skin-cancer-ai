@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282979992,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T17:09:13.683Z",
+            "updatedAt": "2020-08-05T14:22:13.899Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        2
+                    ],
+                    [
+                        250,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845620,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:21:11.096Z",
+            "updatedAt": "2020-08-05T14:22:13.899Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        232
+                    ],
+                    [
+                        346,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845656,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:21:51.786Z",
+            "updatedAt": "2020-08-05T14:22:13.899Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        207
+                    ],
+                    [
+                        689,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845667,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:22:13.694Z",
+            "updatedAt": "2020-08-05T14:22:13.694Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        8
+                    ],
+                    [
+                        751,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

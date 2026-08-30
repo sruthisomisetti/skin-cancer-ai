@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 486107234,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:54:09.516Z",
+            "updatedAt": "2020-07-13T13:56:03.258Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        141
+                    ],
+                    [
+                        1360,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107243,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:54:30.008Z",
+            "updatedAt": "2020-07-13T13:56:53.139Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        124
+                    ],
+                    [
+                        118,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107441,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:56:03.136Z",
+            "updatedAt": "2020-07-13T13:56:21.886Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        126
+                    ],
+                    [
+                        153,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

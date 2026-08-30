@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 497342455,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T12:47:41.169Z",
+            "updatedAt": "2020-08-06T12:47:58.441Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        385
+                    ],
+                    [
+                        690,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497342479,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T12:47:58.249Z",
+            "updatedAt": "2020-08-06T12:47:58.249Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        66
+                    ],
+                    [
+                        687,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

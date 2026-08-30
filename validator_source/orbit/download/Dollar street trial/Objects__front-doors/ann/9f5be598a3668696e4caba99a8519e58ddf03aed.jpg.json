@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279186331,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:22:39.508Z",
+            "updatedAt": "2020-07-18T14:49:45.097Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        97
+                    ],
+                    [
+                        566,
+                        1005
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322329,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:49:14.272Z",
+            "updatedAt": "2020-07-18T14:49:45.097Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        413
+                    ],
+                    [
+                        539,
+                        536
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322332,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:49:35.057Z",
+            "updatedAt": "2020-07-18T14:49:45.097Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        349
+                    ],
+                    [
+                        355,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322333,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:49:44.767Z",
+            "updatedAt": "2020-07-18T14:49:44.767Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        318
+                    ],
+                    [
+                        291,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

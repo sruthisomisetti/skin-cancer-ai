@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282052231,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T15:51:12.920Z",
+            "updatedAt": "2020-08-07T19:58:08.268Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        454
+                    ],
+                    [
+                        1501,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000085,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T19:58:08.062Z",
+            "updatedAt": "2020-08-07T19:58:08.062Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        704,
+                        199
+                    ],
+                    [
+                        873,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

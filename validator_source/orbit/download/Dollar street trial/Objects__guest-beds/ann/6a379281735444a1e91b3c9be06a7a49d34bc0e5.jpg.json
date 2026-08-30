@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488415475,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:38:14.643Z",
+            "updatedAt": "2020-07-19T11:38:27.077Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        330
+                    ],
+                    [
+                        1351,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415482,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:38:26.879Z",
+            "updatedAt": "2020-07-19T11:38:26.879Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        507
+                    ],
+                    [
+                        160,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

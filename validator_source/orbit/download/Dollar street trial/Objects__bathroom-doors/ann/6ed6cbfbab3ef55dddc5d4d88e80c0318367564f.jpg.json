@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279655342,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:24:34.641Z",
+            "updatedAt": "2020-08-03T19:17:49.294Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        0
+                    ],
+                    [
+                        1081,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481898138,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:32:23.619Z",
+            "updatedAt": "2020-08-03T19:17:49.294Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        679,
+                        564
+                    ],
+                    [
+                        766,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481898164,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:32:35.514Z",
+            "updatedAt": "2020-08-03T19:17:49.294Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        1020,
+                        615
+                    ],
+                    [
+                        1218,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481898185,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:32:44.585Z",
+            "updatedAt": "2020-08-03T19:17:49.294Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        590
+                    ],
+                    [
+                        471,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496313922,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:17:49.103Z",
+            "updatedAt": "2020-08-03T19:17:49.103Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        94
+                    ],
+                    [
+                        552,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

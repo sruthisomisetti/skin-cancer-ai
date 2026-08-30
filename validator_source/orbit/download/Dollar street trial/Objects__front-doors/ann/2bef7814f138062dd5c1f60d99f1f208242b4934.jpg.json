@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279861776,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:10:04.538Z",
+            "updatedAt": "2020-07-18T13:25:32.100Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        0
+                    ],
+                    [
+                        947,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321467,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:25:31.892Z",
+            "updatedAt": "2020-07-18T13:25:31.892Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        917,
+                        552
+                    ],
+                    [
+                        1359,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

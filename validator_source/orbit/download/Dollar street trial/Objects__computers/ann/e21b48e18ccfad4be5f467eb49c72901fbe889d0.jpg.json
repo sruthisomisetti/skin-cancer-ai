@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1819
+    },
+    "objects": [
+        {
+            "id": 282376131,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:32:19.568Z",
+            "updatedAt": "2020-08-04T19:05:17.518Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        508,
+                        201
+                    ],
+                    [
+                        1407,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586790,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:05:17.321Z",
+            "updatedAt": "2020-08-04T19:05:17.321Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        576
+                    ],
+                    [
+                        604,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

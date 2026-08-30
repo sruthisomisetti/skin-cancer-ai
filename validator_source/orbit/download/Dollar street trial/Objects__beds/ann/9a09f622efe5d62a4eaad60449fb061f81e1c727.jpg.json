@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 485714957,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:27:17.582Z",
+            "updatedAt": "2020-08-03T21:01:53.120Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        269
+                    ],
+                    [
+                        1024,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485714963,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:27:25.780Z",
+            "updatedAt": "2020-08-03T21:01:53.120Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        572,
+                        396
+                    ],
+                    [
+                        627,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326819,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:01:36.322Z",
+            "updatedAt": "2020-08-03T21:01:53.120Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        739,
+                        325
+                    ],
+                    [
+                        1023,
+                        584
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326821,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:01:43.859Z",
+            "updatedAt": "2020-08-03T21:01:53.120Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        185,
+                        438
+                    ],
+                    [
+                        517,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326822,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:01:52.929Z",
+            "updatedAt": "2020-08-03T21:01:52.929Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        582
+                    ],
+                    [
+                        676,
+                        668
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

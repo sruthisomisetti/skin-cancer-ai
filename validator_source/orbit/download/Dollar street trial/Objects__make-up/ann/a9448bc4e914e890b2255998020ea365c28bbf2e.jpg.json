@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281994529,
+            "classId": 714975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T21:05:22.766Z",
+            "updatedAt": "2019-10-13T07:38:27.979Z",
+            "tags": [],
+            "classTitle": "Make up",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        69
+                    ],
+                    [
+                        966,
+                        699
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281994536,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T21:05:44.100Z",
+            "updatedAt": "2019-10-12T21:05:58.549Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        698
+                    ],
+                    [
+                        1022,
+                        808
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281994539,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T21:05:58.133Z",
+            "updatedAt": "2019-10-12T21:06:02.544Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        447
+                    ],
+                    [
+                        1009,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

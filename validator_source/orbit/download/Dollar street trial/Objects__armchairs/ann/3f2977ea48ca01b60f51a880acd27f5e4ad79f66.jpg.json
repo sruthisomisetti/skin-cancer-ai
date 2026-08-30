@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1496
+    },
+    "objects": [
+        {
+            "id": 481449692,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T11:14:45.496Z",
+            "updatedAt": "2020-08-03T13:11:13.970Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        332
+                    ],
+                    [
+                        1496,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496159394,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T13:10:10.140Z",
+            "updatedAt": "2020-08-03T13:11:13.970Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        160
+                    ],
+                    [
+                        473,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496159998,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T13:10:24.462Z",
+            "updatedAt": "2020-08-03T13:11:13.970Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        782,
+                        394
+                    ],
+                    [
+                        967,
+                        531
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496161407,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T13:11:03.722Z",
+            "updatedAt": "2020-08-03T13:11:13.970Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        800,
+                        104
+                    ],
+                    [
+                        817,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496161811,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T13:11:13.711Z",
+            "updatedAt": "2020-08-03T13:11:13.711Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        904,
+                        17
+                    ],
+                    [
+                        969,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

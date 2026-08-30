@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491230522,
+            "classId": 714923,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:24:04.888Z",
+            "updatedAt": "2020-07-27T18:24:30.936Z",
+            "tags": [],
+            "classTitle": "Teeth",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        274
+                    ],
+                    [
+                        597,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230529,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:24:30.724Z",
+            "updatedAt": "2020-07-27T18:24:30.724Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        419,
+                        389
+                    ],
+                    [
+                        878,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

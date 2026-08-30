@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054765,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:14:04.564Z",
+            "updatedAt": "2020-07-19T11:49:24.551Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        355
+                    ],
+                    [
+                        1024,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415737,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:49:23.714Z",
+            "updatedAt": "2020-07-19T11:49:23.714Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        800
+                    ],
+                    [
+                        352,
+                        880
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

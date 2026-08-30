@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487777890,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:35:35.630Z",
+            "updatedAt": "2020-07-16T21:36:44.052Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        770,
+                        648
+                    ],
+                    [
+                        1418,
+                        884
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777891,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:35:43.205Z",
+            "updatedAt": "2020-07-16T21:36:44.052Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        990,
+                        458
+                    ],
+                    [
+                        1159,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777892,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:36:03.321Z",
+            "updatedAt": "2020-07-16T21:36:44.052Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        472
+                    ],
+                    [
+                        1366,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777894,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:36:43.370Z",
+            "updatedAt": "2020-07-16T21:36:43.370Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        839,
+                        117
+                    ],
+                    [
+                        973,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279337218,
+            "classId": 714923,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T19:36:22.842Z",
+            "updatedAt": "2020-07-26T19:23:07.984Z",
+            "tags": [],
+            "classTitle": "Teeth",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        573
+                    ],
+                    [
+                        603,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976752,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T19:23:07.735Z",
+            "updatedAt": "2020-07-26T19:23:07.735Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        235
+                    ],
+                    [
+                        801,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

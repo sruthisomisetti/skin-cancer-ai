@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278861941,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:52:34.319Z",
+            "updatedAt": "2020-08-03T16:15:23.866Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        268
+                    ],
+                    [
+                        1089,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278861949,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:52:43.544Z",
+            "updatedAt": "2020-08-03T16:15:23.866Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        278
+                    ],
+                    [
+                        256,
+                        791
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496302832,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:15:23.660Z",
+            "updatedAt": "2020-08-03T16:15:23.660Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        660
+                    ],
+                    [
+                        665,
+                        710
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

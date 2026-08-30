@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1539
+    },
+    "objects": [
+        {
+            "id": 282052304,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:54:05.032Z",
+            "updatedAt": "2019-10-13T15:54:25.665Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        3
+                    ],
+                    [
+                        775,
+                        785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052310,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:54:25.467Z",
+            "updatedAt": "2019-10-13T15:54:35.327Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        0
+                    ],
+                    [
+                        1249,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

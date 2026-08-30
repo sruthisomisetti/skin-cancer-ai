@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279594080,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:55:49.653Z",
+            "updatedAt": "2020-08-08T19:05:46.416Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        299
+                    ],
+                    [
+                        636,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677994,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:05:46.203Z",
+            "updatedAt": "2020-08-08T19:05:50.020Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        258
+                    ],
+                    [
+                        588,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

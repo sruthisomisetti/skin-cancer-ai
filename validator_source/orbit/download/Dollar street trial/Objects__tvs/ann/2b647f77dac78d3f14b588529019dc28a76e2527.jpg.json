@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054551,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:05:49.723Z",
+            "updatedAt": "2020-07-28T12:03:28.683Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        279
+                    ],
+                    [
+                        587,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491489479,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:03:28.487Z",
+            "updatedAt": "2020-07-28T12:03:28.487Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        590,
+                        289
+                    ],
+                    [
+                        679,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

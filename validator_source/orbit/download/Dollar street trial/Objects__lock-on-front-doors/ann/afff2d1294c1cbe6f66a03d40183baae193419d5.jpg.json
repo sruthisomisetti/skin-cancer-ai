@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1625
+    },
+    "objects": [
+        {
+            "id": 282962880,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T16:35:53.898Z",
+            "updatedAt": "2020-07-21T17:24:09.792Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        720,
+                        44
+                    ],
+                    [
+                        926,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489410813,
+            "classId": 714984,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T17:24:09.581Z",
+            "updatedAt": "2020-07-21T17:24:09.581Z",
+            "tags": [],
+            "classTitle": "Car key",
+            "points": {
+                "exterior": [
+                    [
+                        664,
+                        630
+                    ],
+                    [
+                        822,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

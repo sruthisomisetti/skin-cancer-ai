@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279851593,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T15:13:00.710Z",
+            "updatedAt": "2020-07-08T12:48:33.683Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        70
+                    ],
+                    [
+                        688,
+                        983
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481956194,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:48:33.570Z",
+            "updatedAt": "2020-07-08T12:48:46.749Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        727,
+                        648
+                    ],
+                    [
+                        1019,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

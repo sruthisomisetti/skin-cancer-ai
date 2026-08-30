@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282054722,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:12:17.445Z",
+            "updatedAt": "2020-07-28T12:11:40.033Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        145
+                    ],
+                    [
+                        1278,
+                        754
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054731,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:12:51.267Z",
+            "updatedAt": "2020-07-28T12:11:51.669Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        108
+                    ],
+                    [
+                        431,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491489860,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:11:39.821Z",
+            "updatedAt": "2020-07-28T12:11:39.821Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        20
+                    ],
+                    [
+                        438,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

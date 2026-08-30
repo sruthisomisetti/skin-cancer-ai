@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382521,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:22:19.682Z",
+            "updatedAt": "2020-07-25T23:50:48.292Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        171
+                    ],
+                    [
+                        746,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942069,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:50:31.198Z",
+            "updatedAt": "2020-07-25T23:50:48.292Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        200
+                    ],
+                    [
+                        308,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942070,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:50:48.022Z",
+            "updatedAt": "2020-07-25T23:50:48.022Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        717,
+                        21
+                    ],
+                    [
+                        796,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

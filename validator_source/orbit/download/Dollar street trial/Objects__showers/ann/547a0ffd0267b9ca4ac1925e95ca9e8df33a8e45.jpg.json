@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985129,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:28:45.862Z",
+            "updatedAt": "2020-08-05T22:16:09.216Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        717,
+                        42
+                    ],
+                    [
+                        864,
+                        774
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962328,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:16:09.003Z",
+            "updatedAt": "2020-08-05T22:16:09.003Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        928,
+                        649
+                    ],
+                    [
+                        960,
+                        668
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

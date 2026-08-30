@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282366859,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:23:26.346Z",
+            "updatedAt": "2020-08-04T18:51:31.400Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        51
+                    ],
+                    [
+                        1000,
+                        1263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418609,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:19:39.787Z",
+            "updatedAt": "2020-08-04T18:51:31.400Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        666,
+                        569
+                    ],
+                    [
+                        767,
+                        716
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586371,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:50:43.101Z",
+            "updatedAt": "2020-08-04T18:51:31.400Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        349
+                    ],
+                    [
+                        486,
+                        545
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586377,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:50:54.381Z",
+            "updatedAt": "2020-08-04T18:51:31.400Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        880
+                    ],
+                    [
+                        291,
+                        1051
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586383,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:51:06.265Z",
+            "updatedAt": "2020-08-04T18:51:31.400Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        850
+                    ],
+                    [
+                        259,
+                        1013
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586397,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:51:31.180Z",
+            "updatedAt": "2020-08-04T18:51:31.180Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        681,
+                        649
+                    ],
+                    [
+                        724,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

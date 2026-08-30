@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 271940999,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.111Z",
+            "updatedAt": "2019-10-09T09:12:59.583Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        657,
+                        216
+                    ],
+                    [
+                        717,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278185859,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-08T16:22:01.031Z",
+            "updatedAt": "2019-10-09T09:12:59.583Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        927,
+                        244
+                    ],
+                    [
+                        1139,
+                        789
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278803718,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T09:11:59.814Z",
+            "updatedAt": "2020-07-31T09:05:41.148Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        475
+                    ],
+                    [
+                        768,
+                        899
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278803734,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T09:12:26.612Z",
+            "updatedAt": "2019-10-09T09:12:59.583Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        1041,
+                        186
+                    ],
+                    [
+                        1328,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278803750,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T09:12:59.388Z",
+            "updatedAt": "2019-10-09T09:12:59.388Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        803,
+                        157
+                    ],
+                    [
+                        996,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282424664,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:10:41.108Z",
+            "updatedAt": "2020-07-30T16:20:17.001Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        648
+                    ],
+                    [
+                        1228,
+                        762
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490306323,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:13:01.031Z",
+            "updatedAt": "2020-07-22T20:13:13.529Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        102
+                    ],
+                    [
+                        770,
+                        831
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490306327,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:13:13.308Z",
+            "updatedAt": "2020-07-22T20:13:13.308Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        737,
+                        82
+                    ],
+                    [
+                        1531,
+                        888
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

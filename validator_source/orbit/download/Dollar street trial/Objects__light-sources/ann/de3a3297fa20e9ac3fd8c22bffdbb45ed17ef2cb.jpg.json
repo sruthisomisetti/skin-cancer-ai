@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488819727,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:14:14.653Z",
+            "updatedAt": "2020-07-20T19:14:26.668Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        748
+                    ],
+                    [
+                        585,
+                        835
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819731,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:14:26.451Z",
+            "updatedAt": "2020-07-20T19:14:35.494Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        1072
+                    ],
+                    [
+                        223,
+                        1181
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

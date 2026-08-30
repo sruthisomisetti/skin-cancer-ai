@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278956740,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T12:01:34.828Z",
+            "updatedAt": "2020-07-08T07:45:03.071Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        0
+                    ],
+                    [
+                        590,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481841610,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T07:44:29.285Z",
+            "updatedAt": "2020-07-08T07:45:03.071Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        679,
+                        159
+                    ],
+                    [
+                        927,
+                        571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481841641,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T07:45:02.864Z",
+            "updatedAt": "2020-07-08T07:45:46.506Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        212
+                    ],
+                    [
+                        560,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

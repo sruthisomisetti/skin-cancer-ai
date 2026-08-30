@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487889594,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T13:38:46.703Z",
+            "updatedAt": "2020-08-06T19:59:02.438Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        235
+                    ],
+                    [
+                        591,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487889602,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T13:39:00.995Z",
+            "updatedAt": "2020-08-06T19:59:02.438Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        590,
+                        102
+                    ],
+                    [
+                        891,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497421324,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T19:59:02.213Z",
+            "updatedAt": "2020-08-06T19:59:02.213Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        83
+                    ],
+                    [
+                        738,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

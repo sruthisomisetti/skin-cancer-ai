@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488432356,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:55:12.600Z",
+            "updatedAt": "2020-07-19T23:55:41.441Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        405
+                    ],
+                    [
+                        686,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432357,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:55:17.846Z",
+            "updatedAt": "2020-07-19T23:55:41.441Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        752,
+                        421
+                    ],
+                    [
+                        906,
+                        715
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432358,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:55:41.256Z",
+            "updatedAt": "2020-07-19T23:55:41.256Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        603
+                    ],
+                    [
+                        523,
+                        694
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

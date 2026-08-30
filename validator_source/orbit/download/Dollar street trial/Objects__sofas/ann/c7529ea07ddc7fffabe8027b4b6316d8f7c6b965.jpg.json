@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490942011,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:26:27.132Z",
+            "updatedAt": "2020-07-25T23:27:28.758Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        392
+                    ],
+                    [
+                        645,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942012,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:26:40.210Z",
+            "updatedAt": "2020-07-25T23:27:28.758Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        460
+                    ],
+                    [
+                        851,
+                        834
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942013,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:27:03.722Z",
+            "updatedAt": "2020-07-25T23:27:28.758Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        475
+                    ],
+                    [
+                        256,
+                        792
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942014,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:27:28.551Z",
+            "updatedAt": "2020-07-25T23:27:28.551Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        767,
+                        575
+                    ],
+                    [
+                        969,
+                        706
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

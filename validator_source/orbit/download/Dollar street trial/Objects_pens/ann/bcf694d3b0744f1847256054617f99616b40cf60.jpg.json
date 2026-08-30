@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 282425211,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:36:17.595Z",
+            "updatedAt": "2020-07-30T16:39:05.780Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        94
+                    ],
+                    [
+                        974,
+                        746
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494857990,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:38:42.822Z",
+            "updatedAt": "2020-07-30T16:39:05.780Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        1170,
+                        646
+                    ],
+                    [
+                        1447,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494857993,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:39:04.951Z",
+            "updatedAt": "2020-07-30T16:39:04.951Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        860,
+                        128
+                    ],
+                    [
+                        1376,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

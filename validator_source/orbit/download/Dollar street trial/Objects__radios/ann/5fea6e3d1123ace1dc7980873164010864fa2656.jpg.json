@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049248,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:12:10.572Z",
+            "updatedAt": "2019-10-13T14:12:32.125Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        234
+                    ],
+                    [
+                        704,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049250,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:12:18.927Z",
+            "updatedAt": "2019-10-13T14:12:32.125Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        19
+                    ],
+                    [
+                        1022,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049252,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:12:31.885Z",
+            "updatedAt": "2019-10-13T14:12:31.885Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        196
+                    ],
+                    [
+                        186,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

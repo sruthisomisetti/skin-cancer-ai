@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279337621,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:36:25.540Z",
+            "updatedAt": "2020-07-25T20:42:26.010Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        287
+                    ],
+                    [
+                        1370,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941299,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:42:25.794Z",
+            "updatedAt": "2020-07-25T20:42:25.794Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        875,
+                        913
+                    ],
+                    [
+                        1235,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

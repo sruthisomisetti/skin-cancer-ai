@@ -11,419 +11,678 @@
     >
 
     <meta
-        name="theme-color"
-        content="#2563eb"
-    >
-
-    <meta
         name="description"
-        content="AI-assisted skin lesion analysis for research and demonstration purposes."
+        content="AI-powered skin image screening and awareness tool"
     >
 
     <title>Skin Cancer AI</title>
 
-    <link
-        rel="stylesheet"
-        href="style.css"
-    >
+    <style>
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family:
+                Arial,
+                Helvetica,
+                sans-serif;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #eef5ff,
+                    #f8fbff
+                );
+
+            color: #222;
+
+            min-height: 100vh;
+
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        header {
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+            text-align: center;
+            margin-bottom: 20px;
+
+            box-shadow:
+                0 5px 20px
+                rgba(0, 0, 0, 0.08);
+        }
+
+        header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: #666;
+            font-size: 15px;
+        }
+
+        .language-section {
+            background: white;
+            padding: 18px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+
+            box-shadow:
+                0 4px 15px
+                rgba(0, 0, 0, 0.06);
+        }
+
+        .language-section label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        #languageSelect {
+            width: 100%;
+            padding: 12px;
+
+            border:
+                1px solid #ccc;
+
+            border-radius: 10px;
+            font-size: 16px;
+            background: white;
+        }
+
+        .upload-section {
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+            text-align: center;
+
+            box-shadow:
+                0 5px 20px
+                rgba(0, 0, 0, 0.08);
+        }
+
+        .upload-section h2 {
+            margin-bottom: 20px;
+        }
+
+        .upload-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+        }
+
+        .upload-button,
+        .camera-button,
+        #analyzeButton,
+        #voiceButton,
+        #clearHistoryButton {
+
+            border: none;
+
+            border-radius: 10px;
+
+            padding: 13px 20px;
+
+            font-size: 15px;
+
+            font-weight: bold;
+
+            cursor: pointer;
+
+            transition:
+                transform 0.2s,
+                opacity 0.2s;
+        }
+
+        .upload-button {
+            background: #2563eb;
+            color: white;
+            display: inline-block;
+        }
+
+        .camera-button {
+            background: #16a34a;
+            color: white;
+            display: inline-block;
+        }
+
+        #analyzeButton {
+            background: #7c3aed;
+            color: white;
+            margin-top: 15px;
+        }
+
+        #voiceButton {
+            background: #0891b2;
+            color: white;
+            margin-top: 15px;
+        }
+
+        #clearHistoryButton {
+            background: #dc2626;
+            color: white;
+        }
+
+        button:hover,
+        .upload-button:hover,
+        .camera-button:hover {
+            transform: translateY(-2px);
+            opacity: 0.9;
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .preview-section {
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+            text-align: center;
+
+            box-shadow:
+                0 5px 20px
+                rgba(0, 0, 0, 0.08);
+        }
+
+        .preview-section h2 {
+            margin-bottom: 15px;
+        }
+
+        #previewImage {
+            display: none;
+
+            width: 100%;
+            max-width: 450px;
+            max-height: 450px;
+
+            object-fit: contain;
+
+            margin: 15px auto;
+
+            border-radius: 15px;
+
+            border:
+                2px solid #ddd;
+
+            background: #f5f5f5;
+        }
+
+        #result {
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+
+            box-shadow:
+                0 5px 20px
+                rgba(0, 0, 0, 0.08);
+
+            line-height: 1.6;
+        }
+
+        #result h2 {
+            margin-bottom: 20px;
+        }
+
+        #result h3 {
+            margin-top: 15px;
+            margin-bottom: 8px;
+        }
+
+        .prediction,
+        .human-result,
+        .technical-result,
+        .medical-warning {
+
+            padding: 18px;
+
+            border-radius: 12px;
+
+            margin-top: 15px;
+        }
+
+        .prediction {
+            background: #eef2ff;
+            border-left: 5px solid #4f46e5;
+        }
+
+        .human-result {
+            background: #f0fdf4;
+            border-left: 5px solid #16a34a;
+        }
+
+        .technical-result {
+            background: #f8fafc;
+            border-left: 5px solid #64748b;
+        }
+
+        .medical-warning {
+            background: #fff7ed;
+            border-left: 5px solid #f97316;
+        }
+
+        .probability {
+            background: #f8fafc;
+            padding: 10px 14px;
+            margin: 8px 0;
+            border-radius: 8px;
+
+            border:
+                1px solid #e5e7eb;
+        }
+
+        hr {
+            border: none;
+
+            border-top:
+                1px solid #e5e7eb;
+
+            margin: 20px 0;
+        }
+
+        .history-section {
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+
+            box-shadow:
+                0 5px 20px
+                rgba(0, 0, 0, 0.08);
+        }
+
+        .history-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .history-header h2 {
+            margin: 0;
+        }
+
+        #historyList {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .history-item {
+            background: #f8fafc;
+
+            border:
+                1px solid #e5e7eb;
+
+            border-radius: 12px;
+
+            padding: 15px;
+        }
+
+        .history-item h3 {
+            margin-bottom: 5px;
+        }
+
+        .history-item p {
+            margin: 3px 0;
+            color: #555;
+        }
+
+        footer {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            color: #666;
+            font-size: 13px;
+            line-height: 1.6;
+
+            box-shadow:
+                0 4px 15px
+                rgba(0, 0, 0, 0.05);
+        }
+
+        @media (max-width: 600px) {
+
+            body {
+                padding: 10px;
+            }
+
+            header h1 {
+                font-size: 25px;
+            }
+
+            .upload-buttons {
+                flex-direction: column;
+            }
+
+            .upload-button,
+            .camera-button,
+            #analyzeButton,
+            #voiceButton {
+                width: 100%;
+            }
+
+            .history-header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            #clearHistoryButton {
+                width: 100%;
+            }
+
+            #previewImage {
+                max-height: 300px;
+            }
+        }
+
+    </style>
 
 </head>
 
 
 <body>
 
-    <div class="container">
-
-        <!-- ================================= -->
-        <!-- HEADER -->
-        <!-- ================================= -->
-
-        <header>
-
-            <h1>
-                🔬 Skin Cancer AI
-            </h1>
-
-            <p class="subtitle">
-                AI-Assisted Skin Lesion Analysis
-            </p>
-
-            <p class="subtitle">
-                EfficientNet • TensorFlow Lite • Multilingual Support
-            </p>
-
-        </header>
+<div class="container">
 
 
-        <!-- ================================= -->
-        <!-- SAFETY NOTICE -->
-        <!-- ================================= -->
+    <!-- HEADER -->
 
-        <section class="safety-notice">
+    <header>
 
-            <h2>
-                ⚠️ Important Information
-            </h2>
+        <h1 id="mainTitle">
+            🩺 Skin Cancer AI
+        </h1>
 
-            <p>
-                This application provides an AI-based screening
-                result for research and demonstration purposes only.
-                It is not a medical diagnosis.
-            </p>
+        <p id="mainSubtitle">
+            AI-powered skin image screening and awareness tool
+        </p>
 
-            <p>
-                Do not use this result to make medical decisions.
-                Please consult a qualified healthcare professional
-                for proper evaluation.
-            </p>
-
-        </section>
+    </header>
 
 
-        <!-- ================================= -->
-        <!-- IMAGE UPLOAD -->
-        <!-- ================================= -->
+    <!-- LANGUAGE -->
 
-        <section class="upload-card">
+    <section class="language-section">
 
-            <h2>
-                📷 Select Skin Image
-            </h2>
+        <label
+            for="languageSelect"
+            id="languageLabel"
+        >
+            🌐 Language
+        </label>
 
-            <p>
-                Upload an image or take a photo of the skin lesion
-                you want to analyze.
-            </p>
+        <select id="languageSelect">
+
+            <option value="en-US">
+                English
+            </option>
+
+            <option value="te-IN">
+                తెలుగు (Telugu)
+            </option>
+
+            <option value="hi-IN">
+                हिन्दी (Hindi)
+            </option>
+
+            <option value="ta-IN">
+                தமிழ் (Tamil)
+            </option>
+
+            <option value="kn-IN">
+                ಕನ್ನಡ (Kannada)
+            </option>
+
+            <option value="ml-IN">
+                മലയാളം (Malayalam)
+            </option>
+
+            <option value="mr-IN">
+                मराठी (Marathi)
+            </option>
+
+            <option value="bn-IN">
+                বাংলা (Bengali)
+            </option>
+
+            <option value="gu-IN">
+                ગુજરાતી (Gujarati)
+            </option>
+
+            <option value="pa-IN">
+                ਪੰਜਾਬੀ (Punjabi)
+            </option>
+
+            <option value="ur-IN">
+                اردو (Urdu)
+            </option>
+
+            <option value="or-IN">
+                ଓଡ଼ିଆ (Odia)
+            </option>
+
+            <option value="fr-FR">
+                Français (French)
+            </option>
+
+            <option value="es-ES">
+                Español (Spanish)
+            </option>
+
+            <option value="de-DE">
+                Deutsch (German)
+            </option>
+
+            <option value="it-IT">
+                Italiano (Italian)
+            </option>
+
+            <option value="pt-PT">
+                Português (Portuguese)
+            </option>
+
+            <option value="ja-JP">
+                日本語 (Japanese)
+            </option>
+
+            <option value="ko-KR">
+                한국어 (Korean)
+            </option>
+
+            <option value="ru-RU">
+                Русский (Russian)
+            </option>
+
+            <option value="ar-SA">
+                العربية (Arabic)
+            </option>
+
+        </select>
+
+    </section>
 
 
-            <div class="image-buttons">
+    <!-- UPLOAD -->
 
-                <!-- Gallery -->
+    <section class="upload-section">
 
-                <label
-                    for="imageInput"
-                    class="upload-button"
-                >
-                    🖼️ Choose Image
-                </label>
+        <h2 id="uploadTitle">
+            📷 Upload or Take a Skin Image
+        </h2>
 
-                <input
-                    type="file"
-                    id="imageInput"
-                    accept="image/*"
-                    hidden
-                >
+        <div class="upload-buttons">
 
+            <label
+                for="imageInput"
+                class="upload-button"
+                id="chooseImageButton"
+            >
+                🖼️ Choose Image
+            </label>
 
-                <!-- Camera -->
-
-                <label
-                    for="cameraInput"
-                    class="camera-button"
-                >
-                    📷 Take Photo
-                </label>
-
-                <input
-                    type="file"
-                    id="cameraInput"
-                    accept="image/*"
-                    capture="environment"
-                    hidden
-                >
-
-            </div>
-
-        </section>
-
-
-        <!-- ================================= -->
-        <!-- IMAGE PREVIEW -->
-        <!-- ================================= -->
-
-        <section class="preview-section">
-
-            <h2>
-                🖼️ Image Preview
-            </h2>
-
-            <img
-                id="previewImage"
-                src=""
-                alt="Selected skin image"
+            <input
+                type="file"
+                id="imageInput"
+                accept="image/*"
             >
 
-        </section>
 
+            <label
+                for="cameraInput"
+                class="camera-button"
+                id="takePhotoButton"
+            >
+                📷 Take Photo
+            </label>
 
-        <!-- ================================= -->
-        <!-- ANALYZE BUTTON -->
-        <!-- ================================= -->
+            <input
+                type="file"
+                id="cameraInput"
+                accept="image/*"
+                capture="environment"
+            >
+
+        </div>
+
 
         <button
             id="analyzeButton"
-            disabled
             type="button"
+            disabled
         >
             🔍 Analyze Image
         </button>
 
 
-        <!-- ================================= -->
-        <!-- LOADING -->
-        <!-- ================================= -->
+        <button
+            id="voiceButton"
+            type="button"
+        >
+            🔊 Voice Assistance
+        </button>
 
-        <div
-            id="loading"
-            style="display: none;"
+    </section>
+
+
+    <!-- PREVIEW -->
+
+    <section class="preview-section">
+
+        <h2 id="previewTitle">
+            🖼️ Image Preview
+        </h2>
+
+        <img
+            id="previewImage"
+            alt="Selected skin image preview"
         >
 
-            <p>
-                🔬 Analyzing image...
-            </p>
+    </section>
 
-            <p>
-                Please wait while the AI examines the image.
-            </p>
+
+    <!-- RESULT -->
+
+    <section id="result">
+
+        <h2 id="resultTitle">
+            📊 AI Skin Analysis Result
+        </h2>
+
+        <p id="resultMessage">
+            Please choose or take a skin image
+            to begin the analysis.
+        </p>
+
+    </section>
+
+
+    <!-- HISTORY -->
+
+    <section class="history-section">
+
+        <div class="history-header">
+
+            <h2 id="historyTitle">
+                🕘 Previous Analysis
+            </h2>
+
+            <button
+                id="clearHistoryButton"
+                type="button"
+            >
+                🗑️ Clear History
+            </button>
 
         </div>
 
 
-        <!-- ================================= -->
-        <!-- RESULT -->
-        <!-- ================================= -->
+        <div id="historyList">
 
-        <section
-            id="result"
-            class="result-card"
-        >
-
-            <h2>
-                📊 Analysis Result
-            </h2>
-
-            <p>
-                Please select a skin image to begin.
+            <p id="noHistoryMessage">
+                No previous analyses yet.
             </p>
 
-        </section>
+        </div>
 
+    </section>
 
-        <!-- ================================= -->
-        <!-- ANALYSIS HISTORY -->
-        <!-- ================================= -->
 
-        <section class="history-card">
+    <!-- FOOTER -->
 
-            <div class="history-header">
+    <footer>
 
-                <h2>
-                    🕘 Previous Analysis
-                </h2>
+        <p>
+            ⚠️ <strong id="footerImportant">
+                Important:
+            </strong>
+        </p>
 
-                <button
-                    id="clearHistoryButton"
-                    class="clear-button"
-                    type="button"
-                >
-                    🗑️ Clear History
-                </button>
+        <p id="footerWarning">
+            This AI application is intended
+            for research, educational and
+            demonstration purposes only.
+            It does not provide a medical
+            diagnosis.
+        </p>
 
-            </div>
+        <p id="footerAdvice">
+            Please consult a qualified
+            healthcare professional for
+            medical advice.
+        </p>
 
-            <div id="historyList">
+    </footer>
 
-                <p>
-                    No previous analyses yet.
-                </p>
 
-            </div>
+</div>
 
-        </section>
 
-
-        <!-- ================================= -->
-        <!-- VOICE ASSISTANCE -->
-        <!-- ================================= -->
-
-        <section class="voice-section">
-
-            <button
-                id="voiceButton"
-                class="voice-button"
-                type="button"
-            >
-                🔊 Voice Assistance
-            </button>
-
-        </section>
-
-
-        <!-- ================================= -->
-        <!-- LANGUAGE -->
-        <!-- ================================= -->
-
-        <section class="language-section">
-
-            <label for="languageSelect">
-                🌐 Select Language:
-            </label>
-
-            <select id="languageSelect">
-
-                <option value="en-US">
-                    🇬🇧 English
-                </option>
-
-                <option value="te-IN">
-                    🇮🇳 తెలుగు (Telugu)
-                </option>
-
-                <option value="hi-IN">
-                    🇮🇳 हिन्दी (Hindi)
-                </option>
-
-                <option value="ta-IN">
-                    🇮🇳 தமிழ் (Tamil)
-                </option>
-
-                <option value="kn-IN">
-                    🇮🇳 ಕನ್ನಡ (Kannada)
-                </option>
-
-                <option value="ml-IN">
-                    🇮🇳 മലയാളം (Malayalam)
-                </option>
-
-                <option value="mr-IN">
-                    🇮🇳 मराठी (Marathi)
-                </option>
-
-                <option value="bn-IN">
-                    🇮🇳 বাংলা (Bengali)
-                </option>
-
-                <option value="gu-IN">
-                    🇮🇳 ગુજરાતી (Gujarati)
-                </option>
-
-                <option value="pa-IN">
-                    🇮🇳 ਪੰਜਾਬੀ (Punjabi)
-                </option>
-
-                <option value="ur-IN">
-                    🇮🇳 اردو (Urdu)
-                </option>
-
-                <option value="or-IN">
-                    🇮🇳 ଓଡ଼ିଆ (Odia)
-                </option>
-
-                <option value="as-IN">
-                    🇮🇳 অসমীয়া (Assamese)
-                </option>
-
-                <option value="sa-IN">
-                    🇮🇳 संस्कृतम् (Sanskrit)
-                </option>
-
-                <option value="fr-FR">
-                    🇫🇷 Français
-                </option>
-
-                <option value="es-ES">
-                    🇪🇸 Español
-                </option>
-
-                <option value="de-DE">
-                    🇩🇪 Deutsch
-                </option>
-
-                <option value="it-IT">
-                    🇮🇹 Italiano
-                </option>
-
-                <option value="pt-PT">
-                    🇵🇹 Português
-                </option>
-
-                <option value="ja-JP">
-                    🇯🇵 日本語 (Japanese)
-                </option>
-
-                <option value="ko-KR">
-                    🇰🇷 한국어 (Korean)
-                </option>
-
-                <option value="zh-CN">
-                    🇨🇳 中文 (Chinese)
-                </option>
-
-                <option value="ru-RU">
-                    🇷🇺 Русский (Russian)
-                </option>
-
-                <option value="ar-SA">
-                    🇸🇦 العربية (Arabic)
-                </option>
-
-            </select>
-
-        </section>
-
-
-        <!-- ================================= -->
-        <!-- MEDICAL WARNING -->
-        <!-- ================================= -->
-
-        <section class="warning-section">
-
-            <p class="medical-warning">
-
-                ⚠️ <strong>Medical Disclaimer:</strong>
-
-                This application provides an AI-based
-                research/demo prediction and is not a medical
-                diagnosis.
-
-                Do not use this result to make medical decisions.
-
-                Please consult a qualified healthcare professional
-                for proper evaluation.
-
-            </p>
-
-        </section>
-
-
-        <!-- ================================= -->
-        <!-- FOOTER -->
-        <!-- ================================= -->
-
-        <footer>
-
-            <p>
-                Skin Cancer AI
-            </p>
-
-            <p>
-                EfficientNet + TensorFlow Lite
-            </p>
-
-            <p>
-                Research / Demonstration Project
-            </p>
-
-        </footer>
-
-    </div>
-
-
-    <!-- ================================= -->
-    <!-- JAVASCRIPT -->
-    <!-- ================================= -->
-
-    <script src="script.js"></script>
+<script src="script.js"></script>
 
 </body>
 

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1417
+    },
+    "objects": [
+        {
+            "id": 282066217,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:06:45.048Z",
+            "updatedAt": "2020-07-24T18:50:46.833Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        680,
+                        51
+                    ],
+                    [
+                        1038,
+                        982
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916706,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:50:21.464Z",
+            "updatedAt": "2020-07-24T18:50:46.833Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        37
+                    ],
+                    [
+                        671,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916716,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:50:46.632Z",
+            "updatedAt": "2020-07-24T18:50:46.632Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        32
+                    ],
+                    [
+                        236,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278314894,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:45:40.308Z",
+            "updatedAt": "2020-07-28T19:47:54.445Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        97
+                    ],
+                    [
+                        828,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 492276088,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T19:47:27.766Z",
+            "updatedAt": "2020-07-28T19:47:54.445Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        490
+                    ],
+                    [
+                        196,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 492276097,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T19:47:54.272Z",
+            "updatedAt": "2020-07-28T19:47:54.272Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        348
+                    ],
+                    [
+                        180,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

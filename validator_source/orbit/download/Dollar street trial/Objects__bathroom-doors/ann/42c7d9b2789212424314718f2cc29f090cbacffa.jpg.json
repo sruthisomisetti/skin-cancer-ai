@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279652665,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:01:57.060Z",
+            "updatedAt": "2020-07-08T11:05:48.722Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        0
+                    ],
+                    [
+                        834,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481881343,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:05:06.425Z",
+            "updatedAt": "2020-07-08T11:05:48.722Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        634,
+                        420
+                    ],
+                    [
+                        792,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481881387,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:05:37.369Z",
+            "updatedAt": "2020-07-08T11:05:48.722Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        973,
+                        588
+                    ],
+                    [
+                        1110,
+                        760
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481881404,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:05:48.608Z",
+            "updatedAt": "2020-07-08T11:06:04.526Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        774,
+                        664
+                    ],
+                    [
+                        942,
+                        910
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278963575,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:13:07.339Z",
+            "updatedAt": "2019-10-09T12:14:25.306Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        73
+                    ],
+                    [
+                        1002,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278963590,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:13:24.707Z",
+            "updatedAt": "2019-10-09T12:14:25.306Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        238
+                    ],
+                    [
+                        356,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278963615,
+            "classId": 714976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:13:45.362Z",
+            "updatedAt": "2019-10-09T12:14:25.306Z",
+            "tags": [],
+            "classTitle": "Fruit trees",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        294
+                    ],
+                    [
+                        659,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278963650,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:14:24.987Z",
+            "updatedAt": "2019-10-09T12:14:44.139Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        79
+                    ],
+                    [
+                        1024,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

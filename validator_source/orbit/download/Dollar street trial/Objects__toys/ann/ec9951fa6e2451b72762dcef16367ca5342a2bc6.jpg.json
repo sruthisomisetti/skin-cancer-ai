@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1561
+    },
+    "objects": [
+        {
+            "id": 282051449,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:26:01.124Z",
+            "updatedAt": "2019-10-13T15:26:39.876Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        85
+                    ],
+                    [
+                        1561,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051456,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:26:20.222Z",
+            "updatedAt": "2019-10-13T15:26:39.876Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        716,
+                        167
+                    ],
+                    [
+                        948,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051465,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:26:39.632Z",
+            "updatedAt": "2019-10-13T15:26:44.180Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        354
+                    ],
+                    [
+                        1058,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

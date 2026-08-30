@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052679,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T16:07:15.739Z",
+            "updatedAt": "2020-07-19T10:49:59.121Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        389
+                    ],
+                    [
+                        1008,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488411274,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:49:52.509Z",
+            "updatedAt": "2020-07-19T10:49:59.121Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        681,
+                        584
+                    ],
+                    [
+                        984,
+                        934
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488411275,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:49:58.894Z",
+            "updatedAt": "2020-07-19T10:49:58.894Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        617,
+                        261
+                    ],
+                    [
+                        896,
+                        410
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

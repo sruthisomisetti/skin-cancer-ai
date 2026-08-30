@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496556250,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:59:23.236Z",
+            "updatedAt": "2020-08-04T11:59:36.245Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        282
+                    ],
+                    [
+                        475,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496556253,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:59:36.039Z",
+            "updatedAt": "2020-08-04T11:59:36.039Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        777
+                    ],
+                    [
+                        171,
+                        918
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

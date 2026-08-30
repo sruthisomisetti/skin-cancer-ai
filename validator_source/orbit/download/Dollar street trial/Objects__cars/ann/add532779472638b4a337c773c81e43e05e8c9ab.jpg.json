@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282039263,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T07:09:33.874Z",
+            "updatedAt": "2020-07-14T20:45:22.750Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        87
+                    ],
+                    [
+                        1636,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487080631,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T20:45:22.554Z",
+            "updatedAt": "2020-07-14T20:45:26.548Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        1579,
+                        324
+                    ],
+                    [
+                        1820,
+                        719
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

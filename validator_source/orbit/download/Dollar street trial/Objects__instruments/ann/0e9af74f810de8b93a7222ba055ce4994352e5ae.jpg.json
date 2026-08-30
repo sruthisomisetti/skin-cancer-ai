@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1366,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051479,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:27:05.683Z",
+            "updatedAt": "2019-10-13T15:27:30.001Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        0
+                    ],
+                    [
+                        754,
+                        1347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051487,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:27:29.786Z",
+            "updatedAt": "2019-10-13T15:27:37.915Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        1035
+                    ],
+                    [
+                        187,
+                        1208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

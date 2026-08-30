@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282425287,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:41:34.243Z",
+            "updatedAt": "2020-07-22T20:54:22.256Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        221
+                    ],
+                    [
+                        690,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490307787,
+            "classId": 714984,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:53:40.618Z",
+            "updatedAt": "2020-07-22T20:54:22.256Z",
+            "tags": [],
+            "classTitle": "Car key",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        157
+                    ],
+                    [
+                        696,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490307791,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:53:52.958Z",
+            "updatedAt": "2020-07-22T20:54:22.256Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        681,
+                        149
+                    ],
+                    [
+                        818,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490307795,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:54:07.434Z",
+            "updatedAt": "2020-07-22T20:54:22.256Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        202
+                    ],
+                    [
+                        678,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490307798,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:54:21.980Z",
+            "updatedAt": "2020-07-22T20:54:21.980Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        260
+                    ],
+                    [
+                        514,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

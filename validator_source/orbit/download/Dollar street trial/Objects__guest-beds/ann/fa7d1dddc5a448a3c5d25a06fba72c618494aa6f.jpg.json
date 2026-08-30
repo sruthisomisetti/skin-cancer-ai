@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055433,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:42:57.250Z",
+            "updatedAt": "2020-07-19T12:55:28.287Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        385
+                    ],
+                    [
+                        523,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282571236,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T20:50:08.867Z",
+            "updatedAt": "2020-07-19T12:55:28.287Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        521
+                    ],
+                    [
+                        1020,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416612,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:55:28.086Z",
+            "updatedAt": "2020-07-19T12:55:48.171Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        460
+                    ],
+                    [
+                        1023,
+                        955
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

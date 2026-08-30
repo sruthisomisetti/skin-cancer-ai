@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279314571,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:11:07.779Z",
+            "updatedAt": "2020-07-14T13:15:00.585Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        287
+                    ],
+                    [
+                        1019,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486902192,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T13:12:34.401Z",
+            "updatedAt": "2020-07-14T13:12:58.831Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        730
+                    ],
+                    [
+                        632,
+                        869
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486902199,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T13:12:47.731Z",
+            "updatedAt": "2020-07-14T13:12:58.831Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        113
+                    ],
+                    [
+                        302,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486902207,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T13:12:58.659Z",
+            "updatedAt": "2020-07-14T13:13:09.551Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        679
+                    ],
+                    [
+                        301,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

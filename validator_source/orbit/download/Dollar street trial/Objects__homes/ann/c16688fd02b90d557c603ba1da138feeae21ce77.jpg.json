@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278949809,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:25:24.490Z",
+            "updatedAt": "2020-07-19T23:47:00.486Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        38
+                    ],
+                    [
+                        1010,
+                        897
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949881,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:26:39.247Z",
+            "updatedAt": "2020-07-19T23:47:00.486Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        896
+                    ],
+                    [
+                        233,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949911,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:27:25.910Z",
+            "updatedAt": "2020-07-19T23:47:00.486Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        608,
+                        733
+                    ],
+                    [
+                        897,
+                        896
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949929,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:27:42.727Z",
+            "updatedAt": "2020-07-19T23:47:00.486Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        800,
+                        811
+                    ],
+                    [
+                        867,
+                        873
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432311,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:47:00.272Z",
+            "updatedAt": "2020-07-19T23:47:00.272Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        449
+                    ],
+                    [
+                        588,
+                        866
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

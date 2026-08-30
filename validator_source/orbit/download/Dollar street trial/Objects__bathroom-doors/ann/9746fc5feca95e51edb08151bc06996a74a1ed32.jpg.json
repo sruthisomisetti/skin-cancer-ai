@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279678410,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:36:31.282Z",
+            "updatedAt": "2020-07-08T12:10:02.833Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        49
+                    ],
+                    [
+                        557,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481949325,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:10:02.708Z",
+            "updatedAt": "2020-07-08T12:10:33.097Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        277
+                    ],
+                    [
+                        509,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

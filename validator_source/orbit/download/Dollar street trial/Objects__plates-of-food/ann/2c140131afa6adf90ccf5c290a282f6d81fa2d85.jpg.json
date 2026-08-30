@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490793785,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T22:07:02.340Z",
+            "updatedAt": "2020-08-05T19:09:13.357Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        115
+                    ],
+                    [
+                        876,
+                        932
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793789,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T22:07:14.678Z",
+            "updatedAt": "2020-08-05T19:09:13.357Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        679,
+                        58
+                    ],
+                    [
+                        972,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793795,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T22:07:24.700Z",
+            "updatedAt": "2020-08-05T19:09:13.357Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        410
+                    ],
+                    [
+                        322,
+                        964
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793801,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T22:07:36.595Z",
+            "updatedAt": "2020-08-05T19:09:13.357Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        647,
+                        401
+                    ],
+                    [
+                        761,
+                        966
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951404,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:08:56.828Z",
+            "updatedAt": "2020-08-05T19:09:13.357Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        328
+                    ],
+                    [
+                        737,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951408,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:09:13.114Z",
+            "updatedAt": "2020-08-05T19:09:13.114Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        267
+                    ],
+                    [
+                        517,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

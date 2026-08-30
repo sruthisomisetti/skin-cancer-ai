@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490939944,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:41:06.272Z",
+            "updatedAt": "2020-08-06T12:38:17.283Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        243,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939947,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:41:12.559Z",
+            "updatedAt": "2020-08-06T12:38:17.283Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        3
+                    ],
+                    [
+                        703,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939954,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:41:45.798Z",
+            "updatedAt": "2020-08-06T12:38:17.283Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        171
+                    ],
+                    [
+                        723,
+                        577
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497341762,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T12:38:16.548Z",
+            "updatedAt": "2020-08-06T12:38:16.548Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        252
+                    ],
+                    [
+                        684,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

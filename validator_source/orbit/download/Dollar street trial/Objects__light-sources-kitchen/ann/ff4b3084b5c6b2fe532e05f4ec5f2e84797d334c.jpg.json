@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489360947,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T15:06:37.976Z",
+            "updatedAt": "2020-08-04T22:20:17.485Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        14
+                    ],
+                    [
+                        1024,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489360954,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T15:06:51.820Z",
+            "updatedAt": "2020-08-04T22:20:17.485Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        864
+                    ],
+                    [
+                        344,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496594018,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T22:20:17.248Z",
+            "updatedAt": "2020-08-04T22:20:17.248Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        1047
+                    ],
+                    [
+                        446,
+                        1222
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

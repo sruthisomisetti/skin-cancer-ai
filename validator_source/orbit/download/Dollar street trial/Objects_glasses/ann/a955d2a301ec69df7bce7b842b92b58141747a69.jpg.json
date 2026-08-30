@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271931833,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:15.652Z",
+            "updatedAt": "2020-07-30T11:23:08.759Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        430
+                    ],
+                    [
+                        853,
+                        718
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044729,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T11:03:22.835Z",
+            "updatedAt": "2020-07-30T11:23:08.759Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        5
+                    ],
+                    [
+                        1023,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494563877,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T11:23:08.530Z",
+            "updatedAt": "2020-07-30T11:23:08.530Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        821
+                    ],
+                    [
+                        606,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

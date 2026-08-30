@@ -1,0 +1,298 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 489176358,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:20:34.053Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        780,
+                        628
+                    ],
+                    [
+                        1013,
+                        785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176368,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:20:48.189Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        542,
+                        357
+                    ],
+                    [
+                        757,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176379,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:21:07.771Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        216
+                    ],
+                    [
+                        633,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176388,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:21:17.887Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        427,
+                        550
+                    ],
+                    [
+                        523,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176402,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:21:44.779Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        885,
+                        354
+                    ],
+                    [
+                        966,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176407,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:22:13.536Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        975,
+                        353
+                    ],
+                    [
+                        1019,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176419,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:22:42.049Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        1008,
+                        435
+                    ],
+                    [
+                        1295,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489176424,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:22:51.723Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        915
+                    ],
+                    [
+                        1290,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587865,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:18:34.536Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        684
+                    ],
+                    [
+                        1012,
+                        872
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587866,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:18:49.600Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        852
+                    ],
+                    [
+                        934,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587869,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:19:09.431Z",
+            "updatedAt": "2020-08-04T20:19:33.856Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        522,
+                        600
+                    ],
+                    [
+                        665,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587872,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:19:33.532Z",
+            "updatedAt": "2020-08-04T20:19:33.532Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        1051,
+                        225
+                    ],
+                    [
+                        1299,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

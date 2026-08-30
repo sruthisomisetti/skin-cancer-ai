@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279312636,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T19:02:13.999Z",
+            "updatedAt": "2019-10-11T06:30:50.595Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        811,
+                        97
+                    ],
+                    [
+                        1091,
+                        907
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279312650,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T19:02:22.879Z",
+            "updatedAt": "2019-10-11T06:30:50.595Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        36
+                    ],
+                    [
+                        836,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279312660,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T19:02:30.842Z",
+            "updatedAt": "2020-07-25T14:36:24.941Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        328
+                    ],
+                    [
+                        524,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 280207227,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T06:30:50.456Z",
+            "updatedAt": "2019-10-11T06:30:50.456Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        1106,
+                        627
+                    ],
+                    [
+                        1453,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

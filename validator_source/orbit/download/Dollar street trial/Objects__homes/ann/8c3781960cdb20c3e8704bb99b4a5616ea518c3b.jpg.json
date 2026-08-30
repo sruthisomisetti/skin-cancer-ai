@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278858682,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:52:06.725Z",
+            "updatedAt": "2019-10-09T09:53:48.099Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        263
+                    ],
+                    [
+                        822,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858724,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:52:29.973Z",
+            "updatedAt": "2019-10-09T09:53:48.099Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        260
+                    ],
+                    [
+                        1019,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858814,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:53:47.798Z",
+            "updatedAt": "2019-10-09T09:53:47.798Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        298
+                    ],
+                    [
+                        916,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

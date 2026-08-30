@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491232685,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:26:00.108Z",
+            "updatedAt": "2020-07-27T20:26:37.589Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        410,
+                        237
+                    ],
+                    [
+                        469,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491232689,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:26:09.726Z",
+            "updatedAt": "2020-07-27T20:26:37.589Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        246
+                    ],
+                    [
+                        553,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491232692,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:26:15.804Z",
+            "updatedAt": "2020-07-27T20:26:37.589Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        221
+                    ],
+                    [
+                        416,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491232697,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:26:37.361Z",
+            "updatedAt": "2020-07-27T20:26:42.951Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        886,
+                        420
+                    ],
+                    [
+                        1015,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

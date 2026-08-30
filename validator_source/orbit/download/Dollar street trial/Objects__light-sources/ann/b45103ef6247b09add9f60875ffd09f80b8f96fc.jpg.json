@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488819554,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:07:24.788Z",
+            "updatedAt": "2020-07-20T19:08:16.066Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        467
+                    ],
+                    [
+                        842,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819555,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:07:33.957Z",
+            "updatedAt": "2020-07-20T19:08:16.066Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        547
+                    ],
+                    [
+                        258,
+                        710
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819556,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:07:51.096Z",
+            "updatedAt": "2020-07-20T19:08:16.066Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        1314
+                    ],
+                    [
+                        1021,
+                        1817
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819557,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:08:05.128Z",
+            "updatedAt": "2020-07-20T19:08:16.066Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        802,
+                        1021
+                    ],
+                    [
+                        826,
+                        1050
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819559,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:08:15.841Z",
+            "updatedAt": "2020-07-20T19:08:15.841Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        791,
+                        984
+                    ],
+                    [
+                        882,
+                        1056
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

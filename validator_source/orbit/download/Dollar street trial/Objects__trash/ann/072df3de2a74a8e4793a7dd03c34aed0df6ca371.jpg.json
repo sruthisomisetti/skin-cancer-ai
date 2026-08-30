@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281224192,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-11T16:28:21.550Z",
+            "updatedAt": "2020-07-28T09:30:53.621Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        497
+                    ],
+                    [
+                        794,
+                        798
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491370325,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T09:30:53.388Z",
+            "updatedAt": "2020-07-28T09:30:53.388Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        746,
+                        172
+                    ],
+                    [
+                        1022,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

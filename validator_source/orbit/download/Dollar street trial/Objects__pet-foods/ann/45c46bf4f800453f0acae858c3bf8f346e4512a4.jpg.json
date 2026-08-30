@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282249870,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T12:15:19.919Z",
+            "updatedAt": "2020-07-22T21:02:22.526Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        734,
+                        109
+                    ],
+                    [
+                        1385,
+                        893
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282307292,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T13:36:38.348Z",
+            "updatedAt": "2020-07-22T21:02:35.017Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        337
+                    ],
+                    [
+                        770,
+                        741
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

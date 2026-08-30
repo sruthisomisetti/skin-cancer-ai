@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 481840494,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T07:27:35.472Z",
+            "updatedAt": "2020-08-03T17:00:20.324Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        229
+                    ],
+                    [
+                        275,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481840527,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T07:28:07.418Z",
+            "updatedAt": "2020-08-03T17:00:20.324Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        213
+                    ],
+                    [
+                        1023,
+                        765
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308158,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:59:47.209Z",
+            "updatedAt": "2020-08-03T17:00:20.324Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        601
+                    ],
+                    [
+                        496,
+                        649
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308159,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:59:58.405Z",
+            "updatedAt": "2020-08-03T17:00:20.324Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        269
+                    ],
+                    [
+                        79,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308160,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:00:09.010Z",
+            "updatedAt": "2020-08-03T17:00:20.324Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        297
+                    ],
+                    [
+                        408,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308163,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:00:20.053Z",
+            "updatedAt": "2020-08-03T17:00:20.053Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        316
+                    ],
+                    [
+                        375,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

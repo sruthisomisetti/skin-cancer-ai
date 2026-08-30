@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278968725,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:31:13.130Z",
+            "updatedAt": "2019-10-09T12:32:38.450Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        118
+                    ],
+                    [
+                        970,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278968736,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:31:32.974Z",
+            "updatedAt": "2019-10-09T12:32:38.450Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        194
+                    ],
+                    [
+                        525,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278968738,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:31:38.784Z",
+            "updatedAt": "2019-10-09T12:32:38.450Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        658,
+                        188
+                    ],
+                    [
+                        780,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278968758,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:31:56.642Z",
+            "updatedAt": "2019-10-09T12:32:38.450Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        940,
+                        474
+                    ],
+                    [
+                        1004,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278968787,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:32:37.892Z",
+            "updatedAt": "2019-10-09T12:32:37.892Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        455
+                    ],
+                    [
+                        386,
+                        528
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

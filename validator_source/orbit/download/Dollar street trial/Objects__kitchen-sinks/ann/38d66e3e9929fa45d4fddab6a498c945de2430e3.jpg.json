@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278286989,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:01:39.579Z",
+            "updatedAt": "2020-07-20T14:20:57.402Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        489
+                    ],
+                    [
+                        1021,
+                        936
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278287012,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:01:58.177Z",
+            "updatedAt": "2019-10-12T07:52:27.913Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        6
+                    ],
+                    [
+                        183,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887545,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:52:27.753Z",
+            "updatedAt": "2019-10-12T07:52:27.753Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        306
+                    ],
+                    [
+                        472,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

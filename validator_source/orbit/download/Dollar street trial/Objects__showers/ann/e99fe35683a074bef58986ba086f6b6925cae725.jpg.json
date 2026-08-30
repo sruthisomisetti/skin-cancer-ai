@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1474
+    },
+    "objects": [
+        {
+            "id": 490988930,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:13:21.750Z",
+            "updatedAt": "2020-08-05T22:57:34.728Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        5
+                    ],
+                    [
+                        407,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988931,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:13:51.626Z",
+            "updatedAt": "2020-08-05T22:57:34.728Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        447
+                    ],
+                    [
+                        410,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988932,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:13:56.221Z",
+            "updatedAt": "2020-08-05T22:57:34.728Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        353
+                    ],
+                    [
+                        420,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496963161,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:57:34.494Z",
+            "updatedAt": "2020-08-05T22:57:34.494Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        662
+                    ],
+                    [
+                        551,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

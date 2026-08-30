@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278974550,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:43:15.711Z",
+            "updatedAt": "2019-10-09T12:45:41.964Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        281
+                    ],
+                    [
+                        529,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278974567,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:43:31.683Z",
+            "updatedAt": "2019-10-09T12:45:41.964Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        156
+                    ],
+                    [
+                        809,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278974651,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:44:43.041Z",
+            "updatedAt": "2019-10-09T12:45:41.964Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        567
+                    ],
+                    [
+                        260,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278974711,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:45:41.289Z",
+            "updatedAt": "2019-10-09T12:45:49.823Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        797,
+                        567
+                    ],
+                    [
+                        1005,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

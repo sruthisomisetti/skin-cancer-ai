@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278955427,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T12:00:12.922Z",
+            "updatedAt": "2020-08-03T17:05:39.140Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        72
+                    ],
+                    [
+                        834,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308206,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:05:24.007Z",
+            "updatedAt": "2020-08-03T17:05:39.140Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        155
+                    ],
+                    [
+                        112,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308227,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:05:38.931Z",
+            "updatedAt": "2020-08-03T17:05:38.931Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        263
+                    ],
+                    [
+                        113,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

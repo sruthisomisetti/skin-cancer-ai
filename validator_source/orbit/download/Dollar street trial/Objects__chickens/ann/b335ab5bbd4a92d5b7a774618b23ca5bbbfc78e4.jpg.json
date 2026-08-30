@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052706,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T16:08:04.168Z",
+            "updatedAt": "2020-07-14T22:05:01.454Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        108
+                    ],
+                    [
+                        574,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487082130,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T22:05:00.837Z",
+            "updatedAt": "2020-07-14T22:05:30.698Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        374
+                    ],
+                    [
+                        846,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244955,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:32:51.892Z",
+            "updatedAt": "2020-08-05T09:01:35.388Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        72
+                    ],
+                    [
+                        892,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496736020,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:01:35.190Z",
+            "updatedAt": "2020-08-05T09:01:35.190Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        145
+                    ],
+                    [
+                        437,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 490960083,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:54:39.663Z",
+            "updatedAt": "2020-07-26T08:55:02.565Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        83
+                    ],
+                    [
+                        1178,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960084,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:54:55.591Z",
+            "updatedAt": "2020-07-26T08:55:02.565Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1102,
+                        691
+                    ],
+                    [
+                        1394,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960085,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:55:02.357Z",
+            "updatedAt": "2020-07-26T08:55:05.861Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        18
+                    ],
+                    [
+                        172,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

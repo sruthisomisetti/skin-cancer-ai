@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281993167,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-12T19:42:11.710Z",
+            "updatedAt": "2019-10-12T19:43:59.788Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        417
+                    ],
+                    [
+                        528,
+                        1119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993186,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-12T19:43:18.499Z",
+            "updatedAt": "2019-10-12T19:43:59.788Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        598,
+                        703
+                    ],
+                    [
+                        1024,
+                        1189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

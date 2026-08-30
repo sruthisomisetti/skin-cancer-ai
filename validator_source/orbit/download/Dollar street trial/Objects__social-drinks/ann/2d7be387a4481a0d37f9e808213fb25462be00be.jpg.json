@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490939238,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:45:11.052Z",
+            "updatedAt": "2020-08-06T10:48:59.480Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        103
+                    ],
+                    [
+                        605,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939240,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:45:28.298Z",
+            "updatedAt": "2020-08-06T10:48:59.480Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        315
+                    ],
+                    [
+                        223,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497183962,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T10:48:58.617Z",
+            "updatedAt": "2020-08-06T10:48:58.617Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        596
+                    ],
+                    [
+                        421,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271940345,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:35.898Z",
+            "updatedAt": "2020-07-22T20:01:14.386Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        249
+                    ],
+                    [
+                        716,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490306121,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:01:14.189Z",
+            "updatedAt": "2020-07-22T20:01:14.189Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        7
+                    ],
+                    [
+                        1024,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

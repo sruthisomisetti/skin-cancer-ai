@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049378,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:22:38.279Z",
+            "updatedAt": "2019-10-13T14:23:21.588Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        440
+                    ],
+                    [
+                        718,
+                        880
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049380,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:22:53.777Z",
+            "updatedAt": "2019-10-13T14:23:15.449Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        35
+                    ],
+                    [
+                        638,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

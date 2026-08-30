@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 281992309,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T18:41:51.325Z",
+            "updatedAt": "2019-10-12T18:42:37.274Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        129
+                    ],
+                    [
+                        1401,
+                        974
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992311,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T18:41:59.512Z",
+            "updatedAt": "2019-10-12T18:42:37.274Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1210,
+                        1
+                    ],
+                    [
+                        1485,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992320,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T18:42:37.064Z",
+            "updatedAt": "2019-10-12T18:42:50.678Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        1065,
+                        263
+                    ],
+                    [
+                        1277,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

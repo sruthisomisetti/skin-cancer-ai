@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282818822,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T06:29:25.545Z",
+            "updatedAt": "2020-07-21T18:29:23.365Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        603,
+                        444
+                    ],
+                    [
+                        990,
+                        744
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489475688,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:28:53.611Z",
+            "updatedAt": "2020-07-21T18:29:23.365Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        826,
+                        637
+                    ],
+                    [
+                        974,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489484893,
+            "classId": 714974,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:29:05.582Z",
+            "updatedAt": "2020-07-21T18:29:23.365Z",
+            "tags": [],
+            "classTitle": "Earings",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        451
+                    ],
+                    [
+                        251,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489484909,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:29:23.119Z",
+            "updatedAt": "2020-07-21T18:29:23.119Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        310
+                    ],
+                    [
+                        1363,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

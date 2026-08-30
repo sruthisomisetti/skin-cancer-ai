@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282057342,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:02:45.060Z",
+            "updatedAt": "2020-07-28T12:24:14.106Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        188
+                    ],
+                    [
+                        361,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490399,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:24:13.880Z",
+            "updatedAt": "2020-07-28T12:24:13.880Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        776
+                    ],
+                    [
+                        901,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

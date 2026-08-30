@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278949976,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-09T11:28:44.718Z",
+            "updatedAt": "2020-07-18T19:31:21.189Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        420
+                    ],
+                    [
+                        671,
+                        592
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488337621,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T19:31:20.949Z",
+            "updatedAt": "2020-07-18T19:31:20.949Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        346
+                    ],
+                    [
+                        794,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

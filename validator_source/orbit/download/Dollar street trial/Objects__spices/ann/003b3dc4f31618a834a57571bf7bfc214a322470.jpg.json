@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282910528,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:31:07.178Z",
+            "updatedAt": "2020-07-26T08:18:38.849Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        674
+                    ],
+                    [
+                        872,
+                        1175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490959895,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:18:38.640Z",
+            "updatedAt": "2020-07-26T08:18:42.587Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        371
+                    ],
+                    [
+                        375,
+                        712
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

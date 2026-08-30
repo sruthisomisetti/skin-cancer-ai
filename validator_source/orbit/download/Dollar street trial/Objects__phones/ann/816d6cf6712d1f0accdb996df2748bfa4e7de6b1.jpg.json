@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279858098,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T16:32:07.382Z",
+            "updatedAt": "2020-07-23T11:52:14.323Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        769,
+                        258
+                    ],
+                    [
+                        979,
+                        725
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490567087,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:51:41.893Z",
+            "updatedAt": "2020-07-23T11:52:14.323Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        241
+                    ],
+                    [
+                        1052,
+                        845
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490567413,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:51:59.496Z",
+            "updatedAt": "2020-07-23T11:52:14.323Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        737
+                    ],
+                    [
+                        473,
+                        843
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490568406,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:52:05.806Z",
+            "updatedAt": "2020-07-23T11:52:14.323Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        861
+                    ],
+                    [
+                        290,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490568410,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:52:14.099Z",
+            "updatedAt": "2020-07-23T11:52:14.099Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1135,
+                        609
+                    ],
+                    [
+                        1305,
+                        808
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

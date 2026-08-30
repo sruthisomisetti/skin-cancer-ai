@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1442
+    },
+    "objects": [
+        {
+            "id": 278658597,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:08:52.068Z",
+            "updatedAt": "2019-10-09T06:11:22.211Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        12
+                    ],
+                    [
+                        1295,
+                        845
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278658634,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:11:00.602Z",
+            "updatedAt": "2019-10-09T06:11:22.211Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        110
+                    ],
+                    [
+                        131,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278658638,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:11:08.362Z",
+            "updatedAt": "2019-10-09T06:11:22.211Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        449
+                    ],
+                    [
+                        162,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278658645,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:11:21.918Z",
+            "updatedAt": "2019-10-09T06:11:21.918Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        21
+                    ],
+                    [
+                        481,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

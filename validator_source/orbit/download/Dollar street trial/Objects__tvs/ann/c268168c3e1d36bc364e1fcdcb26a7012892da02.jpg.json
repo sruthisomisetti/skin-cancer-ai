@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065059,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:28:41.628Z",
+            "updatedAt": "2020-07-28T12:53:00.435Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        190
+                    ],
+                    [
+                        936,
+                        898
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867309,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:52:44.651Z",
+            "updatedAt": "2020-07-28T12:53:00.435Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        838
+                    ],
+                    [
+                        812,
+                        884
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867317,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:53:00.215Z",
+            "updatedAt": "2020-07-28T12:53:00.215Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        721
+                    ],
+                    [
+                        1024,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

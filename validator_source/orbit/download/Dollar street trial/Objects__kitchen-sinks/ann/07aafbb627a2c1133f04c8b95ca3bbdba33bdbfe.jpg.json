@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 278155569,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T15:53:17.986Z",
+            "updatedAt": "2020-07-20T11:56:27.616Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        636,
+                        511
+                    ],
+                    [
+                        1318,
+                        780
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278193724,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T16:59:22.818Z",
+            "updatedAt": "2020-07-20T11:56:27.616Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        250
+                    ],
+                    [
+                        609,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281885098,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:06:27.796Z",
+            "updatedAt": "2020-07-20T11:56:27.616Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        593,
+                        416
+                    ],
+                    [
+                        725,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488549554,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T11:56:27.411Z",
+            "updatedAt": "2020-07-20T11:56:27.411Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        429
+                    ],
+                    [
+                        704,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

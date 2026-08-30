@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278950184,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:31:55.262Z",
+            "updatedAt": "2020-07-07T14:04:41.899Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        112
+                    ],
+                    [
+                        698,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481515953,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T14:04:41.710Z",
+            "updatedAt": "2020-07-07T14:05:13.862Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        562,
+                        257
+                    ],
+                    [
+                        588,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

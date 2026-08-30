@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1821,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279047521,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:55:40.493Z",
+            "updatedAt": "2020-07-26T15:08:04.280Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        728
+                    ],
+                    [
+                        942,
+                        1773
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964176,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:07:40.549Z",
+            "updatedAt": "2020-07-26T15:08:04.280Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        388
+                    ],
+                    [
+                        844,
+                        606
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964188,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:07:56.844Z",
+            "updatedAt": "2020-07-26T15:08:04.280Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        132
+                    ],
+                    [
+                        468,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964190,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:08:03.295Z",
+            "updatedAt": "2020-07-26T15:08:03.295Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        59
+                    ],
+                    [
+                        247,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

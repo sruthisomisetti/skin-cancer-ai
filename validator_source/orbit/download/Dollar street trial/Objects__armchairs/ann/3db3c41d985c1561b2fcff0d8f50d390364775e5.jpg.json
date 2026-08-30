@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1719
+    },
+    "objects": [
+        {
+            "id": 278860337,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:37:33.492Z",
+            "updatedAt": "2020-08-03T13:09:45.763Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        280
+                    ],
+                    [
+                        770,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496158586,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T13:09:45.553Z",
+            "updatedAt": "2020-08-03T13:09:45.553Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        801,
+                        790
+                    ],
+                    [
+                        872,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

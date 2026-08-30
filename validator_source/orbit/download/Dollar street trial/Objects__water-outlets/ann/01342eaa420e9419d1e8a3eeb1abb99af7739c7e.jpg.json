@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052698,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T16:07:52.572Z",
+            "updatedAt": "2020-07-29T14:02:59.306Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        382
+                    ],
+                    [
+                        424,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052700,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T16:07:57.791Z",
+            "updatedAt": "2020-07-29T14:02:49.273Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        842,
+                        328
+                    ],
+                    [
+                        915,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

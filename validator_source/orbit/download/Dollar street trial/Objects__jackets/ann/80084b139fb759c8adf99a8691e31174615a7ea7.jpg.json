@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282061129,
+            "classId": 714986,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T18:19:19.993Z",
+            "updatedAt": "2020-07-18T20:58:39.591Z",
+            "tags": [],
+            "classTitle": "Jacket",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        52
+                    ],
+                    [
+                        627,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338545,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:58:32.455Z",
+            "updatedAt": "2020-07-18T20:58:39.591Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        643
+                    ],
+                    [
+                        453,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338546,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:58:39.314Z",
+            "updatedAt": "2020-07-18T20:58:39.314Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        602
+                    ],
+                    [
+                        517,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

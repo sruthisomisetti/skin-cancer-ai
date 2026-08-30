@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278320999,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:54:01.693Z",
+            "updatedAt": "2019-10-08T20:59:12.656Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        59
+                    ],
+                    [
+                        779,
+                        629
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278321015,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:54:32.475Z",
+            "updatedAt": "2019-10-08T20:59:12.656Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        515,
+                        475
+                    ],
+                    [
+                        562,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278321022,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:54:39.590Z",
+            "updatedAt": "2019-10-08T20:59:12.656Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        517
+                    ],
+                    [
+                        263,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278321104,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:56:59.248Z",
+            "updatedAt": "2019-10-08T20:59:12.656Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        527
+                    ],
+                    [
+                        480,
+                        570
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278321129,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:57:36.124Z",
+            "updatedAt": "2019-10-08T20:59:12.656Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        308
+                    ],
+                    [
+                        793,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

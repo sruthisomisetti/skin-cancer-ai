@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053057,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T16:18:46.953Z",
+            "updatedAt": "2020-07-20T13:46:11.603Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        94
+                    ],
+                    [
+                        498,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053064,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T16:18:58.015Z",
+            "updatedAt": "2020-07-20T13:46:11.603Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        390
+                    ],
+                    [
+                        975,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488658976,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-20T13:45:15.451Z",
+            "updatedAt": "2020-07-20T13:46:11.603Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        886,
+                        260
+                    ],
+                    [
+                        969,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488658995,
+            "classId": 714975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-20T13:45:40.014Z",
+            "updatedAt": "2020-07-20T13:46:11.603Z",
+            "tags": [],
+            "classTitle": "Make up",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        485
+                    ],
+                    [
+                        485,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488659003,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-20T13:45:52.268Z",
+            "updatedAt": "2020-07-20T13:46:11.603Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        700,
+                        139
+                    ],
+                    [
+                        916,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488659011,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-20T13:46:11.405Z",
+            "updatedAt": "2020-07-20T13:46:17.312Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        884,
+                        554
+                    ],
+                    [
+                        1008,
+                        672
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

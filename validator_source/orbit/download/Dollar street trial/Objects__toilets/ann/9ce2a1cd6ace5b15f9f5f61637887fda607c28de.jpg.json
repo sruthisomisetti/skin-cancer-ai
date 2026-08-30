@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491181839,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:27:16.800Z",
+            "updatedAt": "2020-07-27T14:27:46.685Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        446
+                    ],
+                    [
+                        700,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181850,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:27:31.987Z",
+            "updatedAt": "2020-07-27T14:27:46.685Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        22
+                    ],
+                    [
+                        550,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181857,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:27:46.480Z",
+            "updatedAt": "2020-07-27T14:27:46.480Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        104
+                    ],
+                    [
+                        719,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

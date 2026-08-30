@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278258058,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:48:07.209Z",
+            "updatedAt": "2019-10-08T17:48:40.237Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        257
+                    ],
+                    [
+                        1254,
+                        938
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278258071,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:48:21.372Z",
+            "updatedAt": "2019-10-08T17:48:40.237Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        922,
+                        155
+                    ],
+                    [
+                        1100,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278258083,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:48:39.646Z",
+            "updatedAt": "2019-10-12T07:49:57.811Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        430
+                    ],
+                    [
+                        809,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381920,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:09:54.016Z",
+            "updatedAt": "2020-07-25T23:16:09.198Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        113
+                    ],
+                    [
+                        1024,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941998,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:15:12.543Z",
+            "updatedAt": "2020-07-25T23:16:09.198Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        240
+                    ],
+                    [
+                        347,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941999,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:15:33.761Z",
+            "updatedAt": "2020-07-25T23:16:09.198Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        272
+                    ],
+                    [
+                        797,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942000,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:15:48.191Z",
+            "updatedAt": "2020-07-25T23:16:09.198Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        539
+                    ],
+                    [
+                        899,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942001,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:16:08.883Z",
+            "updatedAt": "2020-07-25T23:16:08.883Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        24
+                    ],
+                    [
+                        633,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

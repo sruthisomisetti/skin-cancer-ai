@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281887551,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:53:26.009Z",
+            "updatedAt": "2020-07-20T14:21:14.532Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        140
+                    ],
+                    [
+                        884,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887555,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:53:48.810Z",
+            "updatedAt": "2020-07-20T14:21:14.532Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        412,
+                        345
+                    ],
+                    [
+                        518,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887558,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:54:03.197Z",
+            "updatedAt": "2020-07-20T14:21:14.532Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        456
+                    ],
+                    [
+                        640,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676385,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:21:14.326Z",
+            "updatedAt": "2020-07-20T14:21:14.326Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        44,
+                        0
+                    ],
+                    [
+                        188,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

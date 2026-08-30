@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487081690,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T21:18:58.817Z",
+            "updatedAt": "2020-07-14T21:19:21.122Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        0
+                    ],
+                    [
+                        728,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487081698,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T21:19:20.847Z",
+            "updatedAt": "2020-07-14T21:19:26.529Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        523
+                    ],
+                    [
+                        844,
+                        748
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

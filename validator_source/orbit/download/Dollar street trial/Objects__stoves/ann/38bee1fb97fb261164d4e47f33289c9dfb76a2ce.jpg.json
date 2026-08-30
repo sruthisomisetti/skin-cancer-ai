@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1483
+    },
+    "objects": [
+        {
+            "id": 278965002,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:16:14.582Z",
+            "updatedAt": "2020-07-26T14:16:12.718Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        999,
+                        344
+                    ],
+                    [
+                        1305,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278965016,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:16:37.827Z",
+            "updatedAt": "2020-07-26T14:16:12.718Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        379
+                    ],
+                    [
+                        969,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963613,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:15:11.711Z",
+            "updatedAt": "2020-07-26T14:16:12.718Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        335
+                    ],
+                    [
+                        947,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963616,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:15:39.287Z",
+            "updatedAt": "2020-07-26T14:16:12.718Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        184
+                    ],
+                    [
+                        681,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963617,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:15:44.754Z",
+            "updatedAt": "2020-07-26T14:16:12.718Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        1040,
+                        238
+                    ],
+                    [
+                        1272,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963619,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:16:00.310Z",
+            "updatedAt": "2020-07-26T14:16:12.718Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        122
+                    ],
+                    [
+                        260,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963622,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:16:12.486Z",
+            "updatedAt": "2020-07-26T14:16:12.486Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        515
+                    ],
+                    [
+                        196,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

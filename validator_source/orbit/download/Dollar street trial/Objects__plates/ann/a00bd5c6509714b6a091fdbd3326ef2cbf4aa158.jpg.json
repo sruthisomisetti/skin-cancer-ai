@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 279593820,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:52:24.089Z",
+            "updatedAt": "2020-08-08T19:01:15.535Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        333
+                    ],
+                    [
+                        1251,
+                        968
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792283,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:55:13.036Z",
+            "updatedAt": "2020-08-08T19:01:15.535Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        499
+                    ],
+                    [
+                        350,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792289,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:55:33.930Z",
+            "updatedAt": "2020-08-08T19:01:15.535Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        106
+                    ],
+                    [
+                        438,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677934,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:00:55.344Z",
+            "updatedAt": "2020-08-08T19:01:15.535Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        490,
+                        195
+                    ],
+                    [
+                        1032,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677936,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:01:15.352Z",
+            "updatedAt": "2020-08-08T19:01:15.352Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        0
+                    ],
+                    [
+                        509,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

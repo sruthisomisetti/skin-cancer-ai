@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1530,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281239627,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-11T18:20:44.883Z",
+            "updatedAt": "2020-07-28T11:27:50.691Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        279
+                    ],
+                    [
+                        759,
+                        1300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491483504,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T11:27:50.490Z",
+            "updatedAt": "2020-07-28T11:27:50.490Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        1468
+                    ],
+                    [
+                        597,
+                        1522
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282055422,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:42:33.716Z",
+            "updatedAt": "2020-07-19T12:47:41.489Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        271
+                    ],
+                    [
+                        1043,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416466,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:47:22.000Z",
+            "updatedAt": "2020-07-19T12:47:41.489Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        624,
+                        104
+                    ],
+                    [
+                        729,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416473,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:47:41.292Z",
+            "updatedAt": "2020-07-19T12:47:41.292Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        124
+                    ],
+                    [
+                        300,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

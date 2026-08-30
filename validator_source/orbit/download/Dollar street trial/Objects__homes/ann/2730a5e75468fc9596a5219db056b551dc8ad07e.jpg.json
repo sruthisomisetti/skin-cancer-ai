@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278258021,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T17:47:19.027Z",
+            "updatedAt": "2019-10-08T17:48:51.059Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        24
+                    ],
+                    [
+                        955,
+                        1408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278258056,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T17:48:04.482Z",
+            "updatedAt": "2019-10-08T17:48:51.059Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        896
+                    ],
+                    [
+                        1006,
+                        1216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278258095,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T17:48:50.769Z",
+            "updatedAt": "2019-10-08T17:49:17.562Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        1003
+                    ],
+                    [
+                        975,
+                        1473
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 490988915,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:05:33.813Z",
+            "updatedAt": "2020-07-27T00:07:27.922Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        245
+                    ],
+                    [
+                        566,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988917,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:06:04.146Z",
+            "updatedAt": "2020-07-27T00:07:27.922Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        1410,
+                        918
+                    ],
+                    [
+                        1516,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988918,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:07:27.665Z",
+            "updatedAt": "2020-07-27T00:07:27.665Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        1186,
+                        827
+                    ],
+                    [
+                        1230,
+                        877
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282980135,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T17:13:57.083Z",
+            "updatedAt": "2020-08-05T14:41:27.628Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        177
+                    ],
+                    [
+                        1107,
+                        956
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496846201,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:41:20.941Z",
+            "updatedAt": "2020-08-05T14:41:27.628Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        883,
+                        730
+                    ],
+                    [
+                        1178,
+                        896
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496846202,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:41:27.430Z",
+            "updatedAt": "2020-08-05T14:41:27.430Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        1184,
+                        334
+                    ],
+                    [
+                        1303,
+                        742
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

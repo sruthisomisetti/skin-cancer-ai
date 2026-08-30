@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 281949414,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T12:52:08.558Z",
+            "updatedAt": "2020-08-04T11:26:19.240Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        199
+                    ],
+                    [
+                        1071,
+                        826
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281949420,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T12:52:27.003Z",
+            "updatedAt": "2020-08-04T11:26:40.466Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        1108,
+                        316
+                    ],
+                    [
+                        1788,
+                        775
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496555290,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:25:55.461Z",
+            "updatedAt": "2020-08-04T11:26:19.240Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        794
+                    ],
+                    [
+                        916,
+                        946
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496555300,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:26:18.947Z",
+            "updatedAt": "2020-08-04T11:26:18.947Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        957,
+                        818
+                    ],
+                    [
+                        1396,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

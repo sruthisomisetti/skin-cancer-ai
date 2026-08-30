@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064203,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T18:44:49.482Z",
+            "updatedAt": "2020-08-04T10:29:57.294Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        301
+                    ],
+                    [
+                        900,
+                        851
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496552967,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T10:29:57.024Z",
+            "updatedAt": "2020-08-04T10:29:57.024Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        875,
+                        328
+                    ],
+                    [
+                        1021,
+                        850
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

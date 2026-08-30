@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 15685087,
+            "tagId": 26127783,
+            "name": "Not good image",
+            "value": null,
+            "labelerLogin": null,
+            "createdAt": "2019-10-08T16:33:34.809Z",
+            "updatedAt": "2019-10-08T16:33:34.809Z"
+        }
+    ],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278186862,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-08T16:36:54.517Z",
+            "updatedAt": "2019-10-08T18:23:38.182Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        187
+                    ],
+                    [
+                        687,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278293725,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-08T18:23:38.010Z",
+            "updatedAt": "2019-10-08T18:23:38.010Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        288
+                    ],
+                    [
+                        766,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

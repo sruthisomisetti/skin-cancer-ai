@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282043410,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T10:04:36.302Z",
+            "updatedAt": "2020-07-28T14:21:04.688Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        131
+                    ],
+                    [
+                        706,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491882767,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:21:04.437Z",
+            "updatedAt": "2020-07-28T14:21:10.640Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        660,
+                        3
+                    ],
+                    [
+                        989,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

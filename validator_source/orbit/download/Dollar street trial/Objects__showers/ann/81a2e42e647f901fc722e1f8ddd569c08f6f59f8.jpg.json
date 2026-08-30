@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496962688,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:31:11.202Z",
+            "updatedAt": "2020-08-05T22:31:40.644Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        476
+                    ],
+                    [
+                        698,
+                        941
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962691,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:31:40.413Z",
+            "updatedAt": "2020-08-05T22:31:40.413Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        151
+                    ],
+                    [
+                        533,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

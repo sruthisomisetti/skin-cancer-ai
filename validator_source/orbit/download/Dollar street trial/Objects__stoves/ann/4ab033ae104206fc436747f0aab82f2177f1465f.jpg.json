@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278968656,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:29:46.497Z",
+            "updatedAt": "2020-07-26T14:44:05.433Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        274
+                    ],
+                    [
+                        713,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963857,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:43:35.150Z",
+            "updatedAt": "2020-07-26T14:44:05.433Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        388
+                    ],
+                    [
+                        712,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963859,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:43:51.549Z",
+            "updatedAt": "2020-07-26T14:44:05.433Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        471,
+                        224
+                    ],
+                    [
+                        568,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963861,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:44:05.179Z",
+            "updatedAt": "2020-07-26T14:44:05.179Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        169
+                    ],
+                    [
+                        895,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

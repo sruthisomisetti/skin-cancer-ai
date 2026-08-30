@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278317753,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:02:18.672Z",
+            "updatedAt": "2020-08-06T19:47:48.696Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        178
+                    ],
+                    [
+                        669,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497421163,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T19:47:08.816Z",
+            "updatedAt": "2020-08-06T19:47:48.696Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        849,
+                        469
+                    ],
+                    [
+                        1023,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497421167,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T19:47:19.171Z",
+            "updatedAt": "2020-08-06T19:47:48.696Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        874,
+                        438
+                    ],
+                    [
+                        1024,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497421173,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T19:47:48.511Z",
+            "updatedAt": "2020-08-06T19:47:48.511Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        326
+                    ],
+                    [
+                        750,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

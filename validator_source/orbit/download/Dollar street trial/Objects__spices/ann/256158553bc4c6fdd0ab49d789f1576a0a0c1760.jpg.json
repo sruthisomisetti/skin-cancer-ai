@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282249375,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T11:57:28.044Z",
+            "updatedAt": "2020-07-26T08:31:44.565Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        252
+                    ],
+                    [
+                        741,
+                        769
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490959984,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:31:44.308Z",
+            "updatedAt": "2020-07-26T08:31:55.349Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        728,
+                        231
+                    ],
+                    [
+                        1266,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

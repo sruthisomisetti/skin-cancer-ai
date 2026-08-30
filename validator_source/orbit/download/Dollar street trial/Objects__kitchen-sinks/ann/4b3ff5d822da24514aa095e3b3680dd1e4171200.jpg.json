@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278308424,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:44:00.227Z",
+            "updatedAt": "2020-07-20T14:44:54.064Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        747
+                    ],
+                    [
+                        1019,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676927,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:43:47.641Z",
+            "updatedAt": "2020-07-20T14:44:54.064Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        287
+                    ],
+                    [
+                        413,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676946,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:44:39.184Z",
+            "updatedAt": "2020-07-20T14:44:54.064Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        1338,
+                        621
+                    ],
+                    [
+                        1498,
+                        796
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676952,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:44:53.848Z",
+            "updatedAt": "2020-07-20T14:44:53.848Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        1212,
+                        578
+                    ],
+                    [
+                        1536,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

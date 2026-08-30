@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278651128,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T05:01:35.280Z",
+            "updatedAt": "2020-07-27T15:16:24.960Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        669,
+                        734
+                    ],
+                    [
+                        1017,
+                        995
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491209124,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:15:48.204Z",
+            "updatedAt": "2020-07-27T15:16:24.960Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        556
+                    ],
+                    [
+                        617,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491209131,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:16:02.052Z",
+            "updatedAt": "2020-07-27T15:16:24.960Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        326
+                    ],
+                    [
+                        288,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491209135,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:16:12.836Z",
+            "updatedAt": "2020-07-27T15:16:24.960Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        386
+                    ],
+                    [
+                        354,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491209148,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:16:24.762Z",
+            "updatedAt": "2020-07-27T15:16:24.762Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        211
+                    ],
+                    [
+                        68,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 902
+    },
+    "objects": [
+        {
+            "id": 271931837,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:15.652Z",
+            "updatedAt": "2020-07-30T11:24:41.097Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        250
+                    ],
+                    [
+                        670,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494563932,
+            "classId": 1625769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T11:24:40.878Z",
+            "updatedAt": "2020-07-30T11:24:45.923Z",
+            "tags": [],
+            "classTitle": "Necklace",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        640
+                    ],
+                    [
+                        601,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

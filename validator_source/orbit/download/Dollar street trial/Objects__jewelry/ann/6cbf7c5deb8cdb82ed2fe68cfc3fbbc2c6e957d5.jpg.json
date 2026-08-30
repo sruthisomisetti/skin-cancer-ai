@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 282052018,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T15:43:21.819Z",
+            "updatedAt": "2020-07-20T00:38:01.523Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        12
+                    ],
+                    [
+                        2026,
+                        920
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432606,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:38:01.266Z",
+            "updatedAt": "2020-07-20T00:38:01.266Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1629,
+                        89
+                    ],
+                    [
+                        2043,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

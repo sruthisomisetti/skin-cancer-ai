@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 279584785,
+            "classId": 714931,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T07:32:50.634Z",
+            "updatedAt": "2020-07-20T09:56:26.735Z",
+            "tags": [],
+            "classTitle": "Kids bed",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        67
+                    ],
+                    [
+                        1042,
+                        905
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488512107,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T09:55:55.603Z",
+            "updatedAt": "2020-07-20T09:56:26.735Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        978,
+                        431
+                    ],
+                    [
+                        1533,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488512118,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T09:56:05.594Z",
+            "updatedAt": "2020-07-20T09:56:26.735Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        853,
+                        654
+                    ],
+                    [
+                        1147,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488512154,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T09:56:26.516Z",
+            "updatedAt": "2020-07-20T09:56:26.516Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        567,
+                        488
+                    ],
+                    [
+                        687,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

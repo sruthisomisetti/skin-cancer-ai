@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1436
+    },
+    "objects": [
+        {
+            "id": 282055459,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T17:44:12.439Z",
+            "updatedAt": "2020-07-16T20:53:06.092Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        42
+                    ],
+                    [
+                        1194,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773221,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:52:53.627Z",
+            "updatedAt": "2020-07-16T20:53:06.092Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        429,
+                        263
+                    ],
+                    [
+                        661,
+                        424
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773225,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:53:05.891Z",
+            "updatedAt": "2020-07-16T20:53:05.891Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        777,
+                        559
+                    ],
+                    [
+                        1018,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488817760,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:48:34.632Z",
+            "updatedAt": "2020-07-20T17:49:06.943Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        50
+                    ],
+                    [
+                        784,
+                        620
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817825,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:48:52.671Z",
+            "updatedAt": "2020-07-20T17:49:06.943Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        605,
+                        332
+                    ],
+                    [
+                        726,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817836,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:49:06.720Z",
+            "updatedAt": "2020-07-20T17:49:06.720Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        125
+                    ],
+                    [
+                        750,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282389009,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T15:00:20.878Z",
+            "updatedAt": "2020-07-23T08:34:05.631Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        181
+                    ],
+                    [
+                        854,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490421253,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T08:34:05.439Z",
+            "updatedAt": "2020-07-23T08:34:05.439Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        182
+                    ],
+                    [
+                        447,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

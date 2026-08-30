@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282920883,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T09:04:10.549Z",
+            "updatedAt": "2020-07-26T09:12:27.216Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        445
+                    ],
+                    [
+                        665,
+                        802
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960124,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:12:27.021Z",
+            "updatedAt": "2020-07-26T09:12:27.021Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        0
+                    ],
+                    [
+                        1020,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

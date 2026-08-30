@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279305241,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:10:00.538Z",
+            "updatedAt": "2020-07-13T13:07:01.643Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        341
+                    ],
+                    [
+                        1024,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485736028,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:06:49.511Z",
+            "updatedAt": "2020-07-13T13:07:01.643Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        874
+                    ],
+                    [
+                        862,
+                        948
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485736033,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:07:01.529Z",
+            "updatedAt": "2020-07-13T13:07:01.529Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        890
+                    ],
+                    [
+                        978,
+                        973
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

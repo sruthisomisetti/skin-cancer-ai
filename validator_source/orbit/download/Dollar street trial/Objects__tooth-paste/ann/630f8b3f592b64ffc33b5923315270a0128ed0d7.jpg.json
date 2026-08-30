@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278963605,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T12:13:38.039Z",
+            "updatedAt": "2020-07-27T19:16:42.434Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        478
+                    ],
+                    [
+                        760,
+                        723
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278963620,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T12:13:47.983Z",
+            "updatedAt": "2020-07-27T19:16:42.434Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        288
+                    ],
+                    [
+                        925,
+                        740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491231754,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T19:16:42.195Z",
+            "updatedAt": "2020-07-27T19:16:42.195Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        765
+                    ],
+                    [
+                        155,
+                        982
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

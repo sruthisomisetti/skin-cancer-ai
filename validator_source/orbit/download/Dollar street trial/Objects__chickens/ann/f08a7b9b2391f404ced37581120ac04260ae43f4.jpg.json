@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282180662,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T05:57:41.885Z",
+            "updatedAt": "2020-07-14T22:17:37.785Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        571
+                    ],
+                    [
+                        619,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487082454,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T22:17:37.571Z",
+            "updatedAt": "2020-07-14T22:17:37.571Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        438
+                    ],
+                    [
+                        549,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

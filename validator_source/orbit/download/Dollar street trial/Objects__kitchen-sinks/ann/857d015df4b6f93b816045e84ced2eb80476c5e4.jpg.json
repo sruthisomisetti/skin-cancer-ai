@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278317529,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:57:22.251Z",
+            "updatedAt": "2020-07-20T15:33:52.369Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        278
+                    ],
+                    [
+                        778,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317556,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:57:58.753Z",
+            "updatedAt": "2020-07-20T15:33:52.369Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        234
+                    ],
+                    [
+                        711,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317602,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:58:46.860Z",
+            "updatedAt": "2020-07-20T15:33:52.369Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        206
+                    ],
+                    [
+                        616,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488800497,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:33:52.123Z",
+            "updatedAt": "2020-07-20T15:33:52.123Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        751,
+                        340
+                    ],
+                    [
+                        906,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278690479,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:13:56.975Z",
+            "updatedAt": "2019-10-09T07:15:24.486Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        0
+                    ],
+                    [
+                        670,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278690510,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:14:26.596Z",
+            "updatedAt": "2019-10-09T07:15:24.486Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        414
+                    ],
+                    [
+                        533,
+                        638
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278690531,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:14:42.416Z",
+            "updatedAt": "2019-10-09T07:15:24.486Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        389
+                    ],
+                    [
+                        631,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278690552,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:15:17.185Z",
+            "updatedAt": "2019-10-09T07:15:24.486Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        318
+                    ],
+                    [
+                        247,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278690557,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:15:24.162Z",
+            "updatedAt": "2019-10-09T07:15:24.162Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        323
+                    ],
+                    [
+                        656,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

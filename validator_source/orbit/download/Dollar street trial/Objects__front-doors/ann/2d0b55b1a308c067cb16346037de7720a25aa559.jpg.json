@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279861855,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:10:51.199Z",
+            "updatedAt": "2020-07-18T13:26:10.464Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        79
+                    ],
+                    [
+                        561,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281238964,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T18:00:44.833Z",
+            "updatedAt": "2019-10-11T18:00:44.833Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        261
+                    ],
+                    [
+                        555,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488820345,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:04:44.974Z",
+            "updatedAt": "2020-07-20T20:04:59.786Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        142
+                    ],
+                    [
+                        1095,
+                        920
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820349,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:04:59.511Z",
+            "updatedAt": "2020-07-20T20:04:59.511Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        225
+                    ],
+                    [
+                        267,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

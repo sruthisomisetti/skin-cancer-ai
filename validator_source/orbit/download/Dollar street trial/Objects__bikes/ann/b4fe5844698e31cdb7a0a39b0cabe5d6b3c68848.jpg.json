@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 576,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282241688,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:48:47.714Z",
+            "updatedAt": "2020-08-04T11:11:13.716Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        62
+                    ],
+                    [
+                        900,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554754,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:10:53.128Z",
+            "updatedAt": "2020-08-04T11:11:13.716Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        422
+                    ],
+                    [
+                        940,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554758,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:11:01.014Z",
+            "updatedAt": "2020-08-04T11:11:13.716Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        977,
+                        322
+                    ],
+                    [
+                        1024,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554766,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:11:13.495Z",
+            "updatedAt": "2020-08-04T11:11:13.495Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        366
+                    ],
+                    [
+                        210,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

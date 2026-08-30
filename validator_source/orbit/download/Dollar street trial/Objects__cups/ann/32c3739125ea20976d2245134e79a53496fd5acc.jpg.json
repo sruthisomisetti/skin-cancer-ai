@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382931,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-09T20:30:06.939Z",
+            "updatedAt": "2020-07-16T06:45:41.499Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        775,
+                        191
+                    ],
+                    [
+                        883,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279382936,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-09T20:30:15.419Z",
+            "updatedAt": "2020-07-16T06:45:41.499Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        856,
+                        159
+                    ],
+                    [
+                        970,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487622786,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T06:45:18.931Z",
+            "updatedAt": "2020-07-16T06:45:41.499Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        267
+                    ],
+                    [
+                        337,
+                        571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487622798,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T06:45:41.303Z",
+            "updatedAt": "2020-07-16T06:45:41.303Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        736,
+                        304
+                    ],
+                    [
+                        1016,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

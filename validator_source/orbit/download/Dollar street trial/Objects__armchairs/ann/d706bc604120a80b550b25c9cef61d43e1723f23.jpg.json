@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278953902,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:57:44.202Z",
+            "updatedAt": "2020-08-03T17:00:36.313Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        0
+                    ],
+                    [
+                        907,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308165,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:00:36.144Z",
+            "updatedAt": "2020-08-03T17:00:36.144Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        366
+                    ],
+                    [
+                        356,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

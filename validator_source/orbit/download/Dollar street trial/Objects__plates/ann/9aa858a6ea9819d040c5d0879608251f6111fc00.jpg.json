@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281301731,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-11T19:58:33.871Z",
+            "updatedAt": "2020-07-23T20:52:05.926Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        63
+                    ],
+                    [
+                        690,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792225,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:52:05.686Z",
+            "updatedAt": "2020-07-23T20:52:05.686Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        194
+                    ],
+                    [
+                        416,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

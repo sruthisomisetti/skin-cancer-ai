@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282961277,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:28:50.681Z",
+            "updatedAt": "2020-07-16T12:30:14.710Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        651
+                    ],
+                    [
+                        686,
+                        781
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282961279,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:28:55.438Z",
+            "updatedAt": "2020-07-16T12:30:14.710Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        650,
+                        50
+                    ],
+                    [
+                        787,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282961282,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:29:01.370Z",
+            "updatedAt": "2020-07-16T12:30:14.710Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1117,
+                        545
+                    ],
+                    [
+                        1221,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487722365,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:29:46.039Z",
+            "updatedAt": "2020-07-16T12:30:14.710Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        801,
+                        17
+                    ],
+                    [
+                        1136,
+                        1003
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487722384,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:30:14.522Z",
+            "updatedAt": "2020-07-16T12:30:18.086Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        5
+                    ],
+                    [
+                        164,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

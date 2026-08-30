@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490935889,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T11:45:54.343Z",
+            "updatedAt": "2020-07-25T11:46:19.607Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        199
+                    ],
+                    [
+                        960,
+                        906
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935890,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T11:46:09.911Z",
+            "updatedAt": "2020-07-25T11:46:19.607Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        515
+                    ],
+                    [
+                        1020,
+                        852
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935891,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T11:46:19.405Z",
+            "updatedAt": "2020-07-25T11:46:19.405Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        657,
+                        222
+                    ],
+                    [
+                        1018,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

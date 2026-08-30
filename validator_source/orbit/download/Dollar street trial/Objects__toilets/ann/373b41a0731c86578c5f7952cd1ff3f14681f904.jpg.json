@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278657245,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T05:26:30.760Z",
+            "updatedAt": "2020-07-27T13:21:01.495Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        75
+                    ],
+                    [
+                        693,
+                        628
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173586,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:19:25.851Z",
+            "updatedAt": "2020-07-27T13:21:01.495Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        295
+                    ],
+                    [
+                        355,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173639,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:21:01.151Z",
+            "updatedAt": "2020-07-27T13:21:01.151Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        645,
+                        308
+                    ],
+                    [
+                        1023,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

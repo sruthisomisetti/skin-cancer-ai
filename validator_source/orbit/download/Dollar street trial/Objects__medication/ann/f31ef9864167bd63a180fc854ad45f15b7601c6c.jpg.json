@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064171,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T18:43:00.960Z",
+            "updatedAt": "2020-07-21T22:25:35.494Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        474,
+                        252
+                    ],
+                    [
+                        632,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064173,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T18:43:05.452Z",
+            "updatedAt": "2020-07-21T22:25:35.494Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        401
+                    ],
+                    [
+                        583,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489616665,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T22:25:35.243Z",
+            "updatedAt": "2020-07-21T22:25:35.243Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        2
+                    ],
+                    [
+                        472,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

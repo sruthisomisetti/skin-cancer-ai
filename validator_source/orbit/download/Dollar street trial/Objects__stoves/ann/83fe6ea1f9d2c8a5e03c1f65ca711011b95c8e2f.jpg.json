@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279083960,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:04:56.047Z",
+            "updatedAt": "2020-07-26T15:20:53.699Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        879
+                    ],
+                    [
+                        893,
+                        1393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964410,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:20:53.460Z",
+            "updatedAt": "2020-07-26T15:20:53.460Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        572
+                    ],
+                    [
+                        925,
+                        849
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

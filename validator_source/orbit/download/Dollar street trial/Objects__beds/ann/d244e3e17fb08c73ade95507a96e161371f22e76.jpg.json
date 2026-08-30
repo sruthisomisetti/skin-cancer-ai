@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279307237,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:20:19.487Z",
+            "updatedAt": "2020-07-13T13:31:44.454Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        206
+                    ],
+                    [
+                        1371,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485738082,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:31:19.097Z",
+            "updatedAt": "2020-07-13T13:31:44.454Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1048,
+                        71
+                    ],
+                    [
+                        1081,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485738098,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:31:35.722Z",
+            "updatedAt": "2020-07-13T13:32:03.358Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1291,
+                        99
+                    ],
+                    [
+                        1326,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485738109,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:31:44.334Z",
+            "updatedAt": "2020-07-13T13:31:51.453Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        1296,
+                        71
+                    ],
+                    [
+                        1327,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278956159,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T12:01:25.050Z",
+            "updatedAt": "2020-08-03T17:07:34.106Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        508,
+                        474
+                    ],
+                    [
+                        868,
+                        968
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481841586,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T07:44:12.089Z",
+            "updatedAt": "2020-08-03T17:07:34.106Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        551
+                    ],
+                    [
+                        481,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308236,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:07:33.911Z",
+            "updatedAt": "2020-08-03T17:07:33.911Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        773,
+                        124
+                    ],
+                    [
+                        935,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

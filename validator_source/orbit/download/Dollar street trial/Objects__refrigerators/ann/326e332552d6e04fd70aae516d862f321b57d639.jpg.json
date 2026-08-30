@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051275,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:16:50.384Z",
+            "updatedAt": "2020-07-24T17:25:52.631Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        329
+                    ],
+                    [
+                        564,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051281,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:17:01.966Z",
+            "updatedAt": "2020-07-24T17:25:52.631Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        200
+                    ],
+                    [
+                        781,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915160,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:25:26.092Z",
+            "updatedAt": "2020-07-24T17:25:52.631Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        70
+                    ],
+                    [
+                        563,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915164,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:25:46.250Z",
+            "updatedAt": "2020-07-24T17:25:52.631Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        387
+                    ],
+                    [
+                        281,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915165,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:25:52.409Z",
+            "updatedAt": "2020-07-24T17:25:52.409Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        609,
+                        482
+                    ],
+                    [
+                        993,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

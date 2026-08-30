@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282933764,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T11:17:19.745Z",
+            "updatedAt": "2019-10-15T11:17:25.141Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        795,
+                        37
+                    ],
+                    [
+                        1493,
+                        666
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282933769,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T11:17:24.911Z",
+            "updatedAt": "2019-10-15T11:17:24.911Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        136
+                    ],
+                    [
+                        761,
+                        825
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

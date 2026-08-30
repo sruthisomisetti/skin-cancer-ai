@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491237334,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:41:48.497Z",
+            "updatedAt": "2020-07-27T21:42:05.350Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        301
+                    ],
+                    [
+                        437,
+                        477
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491238210,
+            "classId": 714974,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:42:05.171Z",
+            "updatedAt": "2020-07-27T21:42:05.171Z",
+            "tags": [],
+            "classTitle": "Earings",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        180
+                    ],
+                    [
+                        647,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

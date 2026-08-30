@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282570198,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T20:18:17.598Z",
+            "updatedAt": "2020-07-13T21:19:46.666Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        525
+                    ],
+                    [
+                        490,
+                        875
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282570202,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T20:18:21.422Z",
+            "updatedAt": "2019-10-14T20:18:21.422Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        219
+                    ],
+                    [
+                        881,
+                        694
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

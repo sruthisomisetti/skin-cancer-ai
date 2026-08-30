@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279215968,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:39:40.626Z",
+            "updatedAt": "2020-08-03T21:29:58.010Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        252
+                    ],
+                    [
+                        1365,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735453,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:54:57.433Z",
+            "updatedAt": "2020-08-03T21:29:58.010Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        817,
+                        208
+                    ],
+                    [
+                        855,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735464,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:55:12.485Z",
+            "updatedAt": "2020-08-03T21:29:58.010Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        775,
+                        364
+                    ],
+                    [
+                        852,
+                        486
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327055,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:29:57.733Z",
+            "updatedAt": "2020-08-03T21:29:57.733Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        401
+                    ],
+                    [
+                        524,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

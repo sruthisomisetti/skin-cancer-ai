@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279342441,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:37:25.215Z",
+            "updatedAt": "2020-07-25T20:44:37.423Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        403
+                    ],
+                    [
+                        927,
+                        799
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941317,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:44:14.617Z",
+            "updatedAt": "2020-07-25T20:44:37.423Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        655
+                    ],
+                    [
+                        1023,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941323,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:44:31.290Z",
+            "updatedAt": "2020-07-25T20:44:37.423Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        754
+                    ],
+                    [
+                        191,
+                        879
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941326,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:44:37.205Z",
+            "updatedAt": "2020-07-25T20:44:37.205Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        692
+                    ],
+                    [
+                        176,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

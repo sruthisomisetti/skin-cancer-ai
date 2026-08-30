@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064948,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:23:25.707Z",
+            "updatedAt": "2020-07-28T12:47:22.397Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        308
+                    ],
+                    [
+                        685,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867096,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:47:22.214Z",
+            "updatedAt": "2020-07-28T12:47:22.214Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        49
+                    ],
+                    [
+                        526,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279311113,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:35:27.426Z",
+            "updatedAt": "2020-07-13T13:53:06.866Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        63
+                    ],
+                    [
+                        1024,
+                        897
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107192,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:53:06.749Z",
+            "updatedAt": "2020-07-13T13:53:52.730Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        871
+                    ],
+                    [
+                        101,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

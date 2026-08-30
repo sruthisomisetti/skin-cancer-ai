@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278699066,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:53:43.276Z",
+            "updatedAt": "2020-07-19T21:48:29.244Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        160
+                    ],
+                    [
+                        921,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278699079,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:53:56.392Z",
+            "updatedAt": "2020-07-19T21:48:29.244Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        267
+                    ],
+                    [
+                        410,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278699156,
+            "classId": 714988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:55:29.829Z",
+            "updatedAt": "2020-07-19T21:48:29.244Z",
+            "tags": [],
+            "classTitle": "Goat",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        429
+                    ],
+                    [
+                        172,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278699205,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T07:56:49.450Z",
+            "updatedAt": "2020-07-19T21:48:29.244Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        767,
+                        519
+                    ],
+                    [
+                        806,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430447,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:48:29.038Z",
+            "updatedAt": "2020-07-19T21:48:29.038Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        163
+                    ],
+                    [
+                        929,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

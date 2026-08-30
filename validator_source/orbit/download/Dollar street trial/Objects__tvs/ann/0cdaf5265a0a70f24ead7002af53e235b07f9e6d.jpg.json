@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053224,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:25:29.654Z",
+            "updatedAt": "2019-10-13T16:26:29.686Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        222,
+                        111
+                    ],
+                    [
+                        549,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053258,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:26:29.448Z",
+            "updatedAt": "2019-10-13T16:26:29.448Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        632,
+                        266
+                    ],
+                    [
+                        724,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

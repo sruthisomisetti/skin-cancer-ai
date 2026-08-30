@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279083817,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:59:47.346Z",
+            "updatedAt": "2019-10-09T13:00:50.176Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        174
+                    ],
+                    [
+                        1006,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083824,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:00:04.843Z",
+            "updatedAt": "2019-10-09T13:00:50.176Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        419,
+                        418
+                    ],
+                    [
+                        580,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083839,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:00:31.338Z",
+            "updatedAt": "2019-10-09T13:00:50.176Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        716
+                    ],
+                    [
+                        266,
+                        760
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083849,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:00:49.767Z",
+            "updatedAt": "2019-10-09T13:00:49.767Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        604
+                    ],
+                    [
+                        537,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

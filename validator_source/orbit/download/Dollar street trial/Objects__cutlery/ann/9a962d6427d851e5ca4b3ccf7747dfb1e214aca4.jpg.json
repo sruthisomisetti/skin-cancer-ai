@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279606303,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:11:42.691Z",
+            "updatedAt": "2019-10-10T11:11:47.073Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        55
+                    ],
+                    [
+                        933,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279606310,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:11:48.969Z",
+            "updatedAt": "2019-10-10T11:11:53.018Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        77
+                    ],
+                    [
+                        457,
+                        1000
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

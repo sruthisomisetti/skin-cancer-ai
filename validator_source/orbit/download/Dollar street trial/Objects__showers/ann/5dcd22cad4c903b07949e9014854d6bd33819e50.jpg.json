@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985157,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:40:49.659Z",
+            "updatedAt": "2020-08-05T22:19:54.668Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        261
+                    ],
+                    [
+                        395,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985158,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:41:08.429Z",
+            "updatedAt": "2020-08-05T22:19:54.668Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        73
+                    ],
+                    [
+                        595,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962391,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:19:17.609Z",
+            "updatedAt": "2020-08-05T22:19:54.668Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        813
+                    ],
+                    [
+                        322,
+                        839
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962394,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:19:34.539Z",
+            "updatedAt": "2020-08-05T22:19:54.668Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        697
+                    ],
+                    [
+                        111,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962400,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:19:54.344Z",
+            "updatedAt": "2020-08-05T22:19:54.344Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        330
+                    ],
+                    [
+                        554,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

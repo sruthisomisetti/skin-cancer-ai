@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282041679,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:21:02.917Z",
+            "updatedAt": "2020-07-28T13:17:56.925Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        922,
+                        196
+                    ],
+                    [
+                        1024,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491868067,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:17:56.706Z",
+            "updatedAt": "2020-07-28T13:17:56.706Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        294
+                    ],
+                    [
+                        685,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

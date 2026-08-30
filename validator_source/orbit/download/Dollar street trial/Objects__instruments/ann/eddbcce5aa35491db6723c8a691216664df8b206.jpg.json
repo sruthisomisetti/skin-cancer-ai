@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1534,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052998,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:16:49.223Z",
+            "updatedAt": "2019-10-13T16:17:48.828Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        15
+                    ],
+                    [
+                        911,
+                        1423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053022,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:17:40.423Z",
+            "updatedAt": "2019-10-13T16:17:48.828Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        539,
+                        242
+                    ],
+                    [
+                        887,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053028,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:17:48.621Z",
+            "updatedAt": "2019-10-13T16:17:52.331Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        673
+                    ],
+                    [
+                        842,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

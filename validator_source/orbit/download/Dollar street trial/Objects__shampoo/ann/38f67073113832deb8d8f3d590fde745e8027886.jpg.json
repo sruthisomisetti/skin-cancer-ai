@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490936008,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:21:51.735Z",
+            "updatedAt": "2020-07-25T12:22:57.797Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        671
+                    ],
+                    [
+                        800,
+                        1299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936010,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:22:06.245Z",
+            "updatedAt": "2020-07-25T12:22:57.797Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        798
+                    ],
+                    [
+                        1009,
+                        1186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936011,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:22:22.829Z",
+            "updatedAt": "2020-07-25T12:22:57.797Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        1799
+                    ],
+                    [
+                        937,
+                        1960
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936013,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:22:40.953Z",
+            "updatedAt": "2020-07-25T12:22:57.797Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        1705
+                    ],
+                    [
+                        661,
+                        1840
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936014,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:22:57.543Z",
+            "updatedAt": "2020-07-25T12:22:57.543Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        1391
+                    ],
+                    [
+                        674,
+                        1746
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

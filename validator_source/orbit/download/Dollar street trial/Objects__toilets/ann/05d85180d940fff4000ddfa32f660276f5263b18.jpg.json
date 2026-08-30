@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278291406,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:20:54.059Z",
+            "updatedAt": "2020-07-27T11:07:50.910Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        796
+                    ],
+                    [
+                        687,
+                        1269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858233,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T09:44:07.888Z",
+            "updatedAt": "2020-07-27T11:07:50.910Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        61
+                    ],
+                    [
+                        448,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858279,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T09:45:02.708Z",
+            "updatedAt": "2020-07-27T11:08:02.884Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        836,
+                        36
+                    ],
+                    [
+                        902,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491106573,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T11:07:50.693Z",
+            "updatedAt": "2020-07-27T11:07:50.693Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        831,
+                        13
+                    ],
+                    [
+                        941,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

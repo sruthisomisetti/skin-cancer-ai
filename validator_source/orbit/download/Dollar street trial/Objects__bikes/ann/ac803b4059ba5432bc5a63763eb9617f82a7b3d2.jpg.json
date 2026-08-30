@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282241672,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:48:07.337Z",
+            "updatedAt": "2020-08-04T11:09:39.744Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        82
+                    ],
+                    [
+                        999,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282241673,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:48:11.408Z",
+            "updatedAt": "2020-08-04T11:09:39.744Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        292
+                    ],
+                    [
+                        736,
+                        962
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554719,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:09:39.530Z",
+            "updatedAt": "2020-08-04T11:09:39.530Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        941,
+                        98
+                    ],
+                    [
+                        998,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

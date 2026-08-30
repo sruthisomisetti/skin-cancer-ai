@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278974391,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:40:24.954Z",
+            "updatedAt": "2020-07-20T00:04:35.970Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        39
+                    ],
+                    [
+                        724,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278974408,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:40:39.421Z",
+            "updatedAt": "2020-07-20T00:04:35.970Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        433
+                    ],
+                    [
+                        553,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432411,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:04:01.968Z",
+            "updatedAt": "2020-07-20T00:04:35.970Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        724,
+                        551
+                    ],
+                    [
+                        1023,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432414,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:04:21.018Z",
+            "updatedAt": "2020-07-20T00:04:35.970Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        467
+                    ],
+                    [
+                        499,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432418,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:04:35.731Z",
+            "updatedAt": "2020-07-20T00:04:35.731Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        535
+                    ],
+                    [
+                        453,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

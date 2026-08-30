@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282057956,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:12:34.545Z",
+            "updatedAt": "2019-10-13T18:14:15.999Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        156
+                    ],
+                    [
+                        961,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282057986,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:14:15.707Z",
+            "updatedAt": "2019-10-13T18:14:15.707Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        947,
+                        611
+                    ],
+                    [
+                        1022,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

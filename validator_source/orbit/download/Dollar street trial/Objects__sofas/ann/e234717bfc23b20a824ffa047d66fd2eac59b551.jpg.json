@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382298,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:18:38.931Z",
+            "updatedAt": "2019-10-12T14:53:38.378Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        432
+                    ],
+                    [
+                        494,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281951218,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T14:53:38.012Z",
+            "updatedAt": "2019-10-12T14:53:38.012Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        565,
+                        424
+                    ],
+                    [
+                        761,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

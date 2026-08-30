@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488819164,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:37:56.441Z",
+            "updatedAt": "2020-08-04T19:16:56.914Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        884
+                    ],
+                    [
+                        753,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586979,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:16:43.416Z",
+            "updatedAt": "2020-08-04T19:16:56.914Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        839,
+                        785
+                    ],
+                    [
+                        1002,
+                        885
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586984,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:16:56.703Z",
+            "updatedAt": "2020-08-04T19:16:56.703Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        761,
+                        742
+                    ],
+                    [
+                        800,
+                        880
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

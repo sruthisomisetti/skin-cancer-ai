@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1539
+    },
+    "objects": [
+        {
+            "id": 282046823,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T12:16:42.259Z",
+            "updatedAt": "2020-07-18T12:39:52.720Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        615,
+                        493
+                    ],
+                    [
+                        951,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321132,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:39:33.099Z",
+            "updatedAt": "2020-07-18T12:39:52.720Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        93
+                    ],
+                    [
+                        403,
+                        613
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321137,
+            "classId": 714984,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:39:52.488Z",
+            "updatedAt": "2020-07-18T12:39:52.488Z",
+            "tags": [],
+            "classTitle": "Car key",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        451
+                    ],
+                    [
+                        535,
+                        730
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

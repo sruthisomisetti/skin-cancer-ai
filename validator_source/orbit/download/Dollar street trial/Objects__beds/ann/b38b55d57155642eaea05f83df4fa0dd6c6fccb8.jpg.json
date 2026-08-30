@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279243251,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:47:03.681Z",
+            "updatedAt": "2020-08-03T21:38:21.922Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        102
+                    ],
+                    [
+                        1535,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735725,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:01:09.859Z",
+            "updatedAt": "2020-08-03T21:38:21.922Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        929,
+                        635
+                    ],
+                    [
+                        973,
+                        752
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327171,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:38:21.694Z",
+            "updatedAt": "2020-08-03T21:38:21.694Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        902,
+                        569
+                    ],
+                    [
+                        1070,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

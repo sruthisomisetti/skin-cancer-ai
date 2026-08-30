@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278865353,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-09T11:11:16.532Z",
+            "updatedAt": "2020-07-25T10:51:59.100Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        39
+                    ],
+                    [
+                        691,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935677,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:51:42.112Z",
+            "updatedAt": "2020-07-25T10:51:59.100Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        110
+                    ],
+                    [
+                        253,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935678,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:51:48.378Z",
+            "updatedAt": "2020-07-25T10:51:59.100Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        4
+                    ],
+                    [
+                        1527,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935679,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:51:58.876Z",
+            "updatedAt": "2020-07-25T10:51:58.876Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        261
+                    ],
+                    [
+                        1534,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

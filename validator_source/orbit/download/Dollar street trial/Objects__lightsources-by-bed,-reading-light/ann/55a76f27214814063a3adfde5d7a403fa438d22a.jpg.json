@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488820320,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:03:16.993Z",
+            "updatedAt": "2020-07-20T20:03:22.854Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        59
+                    ],
+                    [
+                        555,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820322,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:03:22.598Z",
+            "updatedAt": "2020-07-20T20:03:22.598Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        248
+                    ],
+                    [
+                        797,
+                        815
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

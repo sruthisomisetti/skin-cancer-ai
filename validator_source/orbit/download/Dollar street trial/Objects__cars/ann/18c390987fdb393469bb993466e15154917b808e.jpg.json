@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282038796,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T06:45:15.452Z",
+            "updatedAt": "2020-07-14T20:14:31.571Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        85
+                    ],
+                    [
+                        951,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487079345,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T19:57:37.978Z",
+            "updatedAt": "2020-07-14T20:14:31.571Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        830,
+                        158
+                    ],
+                    [
+                        959,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487079868,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T20:14:31.319Z",
+            "updatedAt": "2020-07-14T20:14:31.319Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        141
+                    ],
+                    [
+                        295,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

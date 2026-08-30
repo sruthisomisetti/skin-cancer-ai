@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 496316748,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:35:05.373Z",
+            "updatedAt": "2020-08-03T20:35:26.174Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        632,
+                        291
+                    ],
+                    [
+                        682,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316755,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:35:25.954Z",
+            "updatedAt": "2020-08-03T20:35:25.954Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        485
+                    ],
+                    [
+                        678,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

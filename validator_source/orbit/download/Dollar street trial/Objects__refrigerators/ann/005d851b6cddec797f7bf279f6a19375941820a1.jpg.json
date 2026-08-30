@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 281976957,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-12T17:14:06.187Z",
+            "updatedAt": "2020-07-24T16:55:59.063Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        392
+                    ],
+                    [
+                        602,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914304,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T16:55:58.818Z",
+            "updatedAt": "2020-07-24T16:56:02.254Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        3
+                    ],
+                    [
+                        604,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

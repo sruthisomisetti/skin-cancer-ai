@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278312284,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:34:20.189Z",
+            "updatedAt": "2020-07-28T19:27:32.374Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        45
+                    ],
+                    [
+                        1339,
+                        1002
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 492275773,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T19:27:32.138Z",
+            "updatedAt": "2020-07-28T19:27:32.138Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        651
+                    ],
+                    [
+                        333,
+                        1012
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

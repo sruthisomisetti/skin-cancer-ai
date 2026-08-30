@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490960144,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:21:22.531Z",
+            "updatedAt": "2020-07-26T09:22:18.366Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        774
+                    ],
+                    [
+                        419,
+                        852
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960145,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:21:42.602Z",
+            "updatedAt": "2020-07-26T09:22:18.366Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        427
+                    ],
+                    [
+                        320,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960147,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:21:59.304Z",
+            "updatedAt": "2020-07-26T09:22:18.366Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        452
+                    ],
+                    [
+                        631,
+                        543
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960148,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:22:18.134Z",
+            "updatedAt": "2020-07-26T09:22:18.134Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        838
+                    ],
+                    [
+                        263,
+                        915
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049559,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:32:33.330Z",
+            "updatedAt": "2019-10-13T14:33:08.458Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        294
+                    ],
+                    [
+                        623,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049564,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:32:43.300Z",
+            "updatedAt": "2019-10-13T14:33:08.458Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        565,
+                        166
+                    ],
+                    [
+                        652,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049567,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:32:49.724Z",
+            "updatedAt": "2019-10-13T14:33:08.458Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        150
+                    ],
+                    [
+                        786,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

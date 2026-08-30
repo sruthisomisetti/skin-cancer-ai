@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279311204,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:37:05.449Z",
+            "updatedAt": "2020-07-13T13:59:18.540Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        88
+                    ],
+                    [
+                        1251,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107522,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:58:47.503Z",
+            "updatedAt": "2020-07-13T13:59:18.540Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        298,
+                        745
+                    ],
+                    [
+                        357,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107692,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:59:05.724Z",
+            "updatedAt": "2020-07-13T13:59:18.540Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        796
+                    ],
+                    [
+                        296,
+                        898
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107699,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:59:18.433Z",
+            "updatedAt": "2020-07-13T13:59:18.433Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        774
+                    ],
+                    [
+                        502,
+                        865
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

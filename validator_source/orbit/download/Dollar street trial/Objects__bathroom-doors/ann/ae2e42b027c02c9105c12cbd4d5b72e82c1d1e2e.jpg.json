@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1509
+    },
+    "objects": [
+        {
+            "id": 279774540,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:52:38.715Z",
+            "updatedAt": "2020-08-03T19:27:48.210Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        1
+                    ],
+                    [
+                        921,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481950788,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:26:33.107Z",
+            "updatedAt": "2020-08-03T19:27:48.210Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        771,
+                        371
+                    ],
+                    [
+                        865,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481950816,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:26:50.830Z",
+            "updatedAt": "2020-08-03T19:27:48.210Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        897,
+                        354
+                    ],
+                    [
+                        959,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314092,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:27:48.003Z",
+            "updatedAt": "2020-08-03T19:27:48.003Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        612
+                    ],
+                    [
+                        210,
+                        685
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

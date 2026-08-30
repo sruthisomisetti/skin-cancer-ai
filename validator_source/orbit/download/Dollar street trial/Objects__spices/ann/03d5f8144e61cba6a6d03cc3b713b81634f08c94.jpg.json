@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 16415244,
+            "tagId": 26127783,
+            "name": "Not good image",
+            "value": null,
+            "labelerLogin": null,
+            "createdAt": "2019-10-14T11:35:44.150Z",
+            "updatedAt": "2019-10-14T11:35:44.150Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282910555,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:31:57.660Z",
+            "updatedAt": "2019-10-15T08:32:15.649Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        300
+                    ],
+                    [
+                        447,
+                        792
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282910559,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:32:01.333Z",
+            "updatedAt": "2019-10-15T08:32:15.649Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        434,
+                        314
+                    ],
+                    [
+                        688,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282910566,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:32:15.437Z",
+            "updatedAt": "2019-10-15T08:32:15.437Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        967,
+                        62
+                    ],
+                    [
+                        1393,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

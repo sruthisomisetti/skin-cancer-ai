@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065394,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:42:28.772Z",
+            "updatedAt": "2020-07-28T13:04:20.446Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        273
+                    ],
+                    [
+                        798,
+                        756
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867774,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:04:20.241Z",
+            "updatedAt": "2020-07-28T13:04:29.309Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        111
+                    ],
+                    [
+                        662,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

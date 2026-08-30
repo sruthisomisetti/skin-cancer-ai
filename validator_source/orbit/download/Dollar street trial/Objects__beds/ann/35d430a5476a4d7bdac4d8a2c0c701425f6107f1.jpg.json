@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 483121018,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T14:02:54.167Z",
+            "updatedAt": "2020-08-03T20:18:32.326Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        198
+                    ],
+                    [
+                        906,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316129,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:18:32.064Z",
+            "updatedAt": "2020-08-03T20:18:32.064Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        628,
+                        305
+                    ],
+                    [
+                        942,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

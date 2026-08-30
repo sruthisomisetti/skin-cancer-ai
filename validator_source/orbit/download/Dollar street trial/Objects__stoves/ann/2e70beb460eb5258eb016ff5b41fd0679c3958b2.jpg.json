@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278953965,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T11:58:37.356Z",
+            "updatedAt": "2020-07-26T13:38:55.561Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        259
+                    ],
+                    [
+                        1003,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962811,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:38:30.285Z",
+            "updatedAt": "2020-07-26T13:38:55.561Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        259
+                    ],
+                    [
+                        752,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962813,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:38:43.794Z",
+            "updatedAt": "2020-07-26T13:38:55.561Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        213
+                    ],
+                    [
+                        184,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962815,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:38:55.369Z",
+            "updatedAt": "2020-07-26T13:38:55.369Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        495
+                    ],
+                    [
+                        1002,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

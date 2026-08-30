@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282319384,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:03:41.551Z",
+            "updatedAt": "2020-08-04T18:18:22.586Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        510,
+                        313
+                    ],
+                    [
+                        888,
+                        744
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585494,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:17:36.343Z",
+            "updatedAt": "2020-08-04T18:18:22.586Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        469
+                    ],
+                    [
+                        516,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585513,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:18:22.352Z",
+            "updatedAt": "2020-08-04T18:18:22.352Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        965,
+                        568
+                    ],
+                    [
+                        1410,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

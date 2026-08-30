@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 682
+    },
+    "objects": [
+        {
+            "id": 282425289,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:41:51.220Z",
+            "updatedAt": "2019-10-14T17:41:58.076Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        364
+                    ],
+                    [
+                        558,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282425293,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:41:57.840Z",
+            "updatedAt": "2019-10-14T17:41:57.840Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        175
+                    ],
+                    [
+                        352,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278193725,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-08T16:59:24.435Z",
+            "updatedAt": "2020-07-09T13:50:27.988Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        91
+                    ],
+                    [
+                        832,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114623,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:49:59.314Z",
+            "updatedAt": "2020-07-09T13:50:27.988Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        646,
+                        161
+                    ],
+                    [
+                        731,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114653,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:50:12.934Z",
+            "updatedAt": "2020-07-09T13:50:27.988Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        152
+                    ],
+                    [
+                        323,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114687,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:50:27.838Z",
+            "updatedAt": "2020-07-09T13:50:30.951Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        155
+                    ],
+                    [
+                        386,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

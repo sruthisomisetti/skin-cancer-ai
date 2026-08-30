@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279859229,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T16:44:12.960Z",
+            "updatedAt": "2020-07-23T12:19:29.913Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        314
+                    ],
+                    [
+                        623,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490569850,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T12:19:29.669Z",
+            "updatedAt": "2020-07-23T12:19:39.424Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        615
+                    ],
+                    [
+                        710,
+                        1136
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

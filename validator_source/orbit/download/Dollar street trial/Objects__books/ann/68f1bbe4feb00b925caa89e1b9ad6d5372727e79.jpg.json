@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054530,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:05:18.925Z",
+            "updatedAt": "2020-08-04T12:10:59.193Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        374
+                    ],
+                    [
+                        620,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054533,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:05:24.190Z",
+            "updatedAt": "2020-08-04T12:10:59.193Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        108
+                    ],
+                    [
+                        622,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496556574,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:10:58.944Z",
+            "updatedAt": "2020-08-04T12:10:58.944Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        71
+                    ],
+                    [
+                        1021,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

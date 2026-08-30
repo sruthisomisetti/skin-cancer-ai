@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381357,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:59:28.124Z",
+            "updatedAt": "2020-07-25T22:19:02.815Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        224
+                    ],
+                    [
+                        985,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941930,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:19:02.606Z",
+            "updatedAt": "2020-07-25T22:19:02.606Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        519
+                    ],
+                    [
+                        563,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

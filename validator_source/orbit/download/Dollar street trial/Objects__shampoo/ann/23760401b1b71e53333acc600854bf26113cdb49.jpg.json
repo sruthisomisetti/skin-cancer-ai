@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279093240,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T13:58:21.431Z",
+            "updatedAt": "2019-10-09T14:03:01.683Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        59
+                    ],
+                    [
+                        593,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279093372,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T14:01:06.086Z",
+            "updatedAt": "2019-10-09T14:03:01.683Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        616,
+                        606
+                    ],
+                    [
+                        812,
+                        949
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279093461,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T14:02:40.135Z",
+            "updatedAt": "2019-10-09T14:03:01.683Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        54
+                    ],
+                    [
+                        747,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279093478,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T14:03:00.969Z",
+            "updatedAt": "2019-10-09T14:03:00.969Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        423
+                    ],
+                    [
+                        722,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

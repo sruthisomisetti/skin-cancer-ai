@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279517669,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T06:50:00.227Z",
+            "updatedAt": "2020-08-08T16:53:29.248Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        352
+                    ],
+                    [
+                        884,
+                        908
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498639144,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T16:53:28.885Z",
+            "updatedAt": "2020-08-08T16:53:28.885Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1234,
+                        576
+                    ],
+                    [
+                        1534,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

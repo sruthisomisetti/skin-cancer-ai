@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 487887242,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:45:02.474Z",
+            "updatedAt": "2020-08-04T15:22:23.743Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1189,
+                        527
+                    ],
+                    [
+                        1362,
+                        925
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887251,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:45:12.695Z",
+            "updatedAt": "2020-08-04T15:22:23.743Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        368
+                    ],
+                    [
+                        883,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887255,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:45:22.010Z",
+            "updatedAt": "2020-08-04T15:22:23.743Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        328
+                    ],
+                    [
+                        390,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887256,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:45:28.550Z",
+            "updatedAt": "2020-08-04T15:22:23.743Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        233
+                    ],
+                    [
+                        661,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496574325,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T15:22:23.560Z",
+            "updatedAt": "2020-08-04T15:22:23.560Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        334
+                    ],
+                    [
+                        336,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488083722,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T08:31:47.049Z",
+            "updatedAt": "2020-07-18T08:32:18.284Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        72
+                    ],
+                    [
+                        717,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488097721,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T08:31:59.675Z",
+            "updatedAt": "2020-07-18T08:32:18.284Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        432
+                    ],
+                    [
+                        521,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488109445,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T08:32:18.073Z",
+            "updatedAt": "2020-07-18T08:32:18.073Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        478
+                    ],
+                    [
+                        601,
+                        658
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

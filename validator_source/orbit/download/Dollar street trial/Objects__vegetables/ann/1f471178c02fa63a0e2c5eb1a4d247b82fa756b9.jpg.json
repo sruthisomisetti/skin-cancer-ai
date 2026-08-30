@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491868107,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:19:05.148Z",
+            "updatedAt": "2020-07-28T13:19:38.603Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        702,
+                        501
+                    ],
+                    [
+                        1024,
+                        610
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491868120,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:19:38.385Z",
+            "updatedAt": "2020-07-28T13:19:38.385Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        563,
+                        435
+                    ],
+                    [
+                        684,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

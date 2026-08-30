@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282048716,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T13:44:08.402Z",
+            "updatedAt": "2019-10-13T13:45:04.011Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        312
+                    ],
+                    [
+                        725,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282048746,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T13:44:56.897Z",
+            "updatedAt": "2019-10-13T13:45:11.959Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        413
+                    ],
+                    [
+                        404,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282442830,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T19:57:30.836Z",
+            "updatedAt": "2020-07-18T12:08:20.846Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        113
+                    ],
+                    [
+                        971,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320652,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:08:20.610Z",
+            "updatedAt": "2020-07-18T12:08:20.610Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        429
+                    ],
+                    [
+                        354,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487906925,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:46:21.000Z",
+            "updatedAt": "2020-08-07T13:18:02.844Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        313
+                    ],
+                    [
+                        724,
+                        718
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487906931,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:46:50.058Z",
+            "updatedAt": "2020-08-07T13:18:02.844Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        298
+                    ],
+                    [
+                        1023,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497549115,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T13:18:02.557Z",
+            "updatedAt": "2020-08-07T13:18:02.557Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        655,
+                        818
+                    ],
+                    [
+                        763,
+                        974
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

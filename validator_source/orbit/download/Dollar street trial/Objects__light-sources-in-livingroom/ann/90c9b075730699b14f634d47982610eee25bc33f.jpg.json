@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489087580,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:59:09.918Z",
+            "updatedAt": "2020-07-21T11:59:27.374Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        119
+                    ],
+                    [
+                        480,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489093153,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:59:27.173Z",
+            "updatedAt": "2020-07-21T11:59:27.173Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        539,
+                        619
+                    ],
+                    [
+                        743,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

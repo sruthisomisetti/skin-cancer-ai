@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278257639,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:41:29.787Z",
+            "updatedAt": "2019-10-09T12:09:00.293Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        350
+                    ],
+                    [
+                        1016,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278257654,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:41:40.961Z",
+            "updatedAt": "2019-10-08T17:41:40.961Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        743
+                    ],
+                    [
+                        279,
+                        949
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

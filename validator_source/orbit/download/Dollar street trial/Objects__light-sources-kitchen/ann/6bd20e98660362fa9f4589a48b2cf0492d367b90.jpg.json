@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 489180701,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:23:35.439Z",
+            "updatedAt": "2020-07-21T14:23:52.293Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        453
+                    ],
+                    [
+                        967,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489180714,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:23:52.104Z",
+            "updatedAt": "2020-07-21T14:23:52.104Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        806
+                    ],
+                    [
+                        402,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

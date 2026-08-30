@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282049100,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T14:03:32.207Z",
+            "updatedAt": "2019-10-14T06:42:36.168Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        506,
+                        504
+                    ],
+                    [
+                        681,
+                        885
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049103,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T14:03:40.165Z",
+            "updatedAt": "2019-10-14T06:42:36.168Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        198
+                    ],
+                    [
+                        392,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282181346,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T06:42:36.005Z",
+            "updatedAt": "2019-10-14T06:42:36.005Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        590,
+                        414
+                    ],
+                    [
+                        900,
+                        845
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

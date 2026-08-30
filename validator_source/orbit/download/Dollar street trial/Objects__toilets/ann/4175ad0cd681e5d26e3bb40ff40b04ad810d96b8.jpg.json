@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278310247,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:59:58.722Z",
+            "updatedAt": "2020-07-27T13:29:20.507Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        901,
+                        344
+                    ],
+                    [
+                        1020,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310256,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:00:09.089Z",
+            "updatedAt": "2020-07-27T13:29:20.507Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        656,
+                        562
+                    ],
+                    [
+                        760,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310267,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:00:20.818Z",
+            "updatedAt": "2020-07-27T13:29:20.507Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        0
+                    ],
+                    [
+                        663,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173877,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:29:20.310Z",
+            "updatedAt": "2020-07-27T13:29:20.310Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        688,
+                        337
+                    ],
+                    [
+                        885,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

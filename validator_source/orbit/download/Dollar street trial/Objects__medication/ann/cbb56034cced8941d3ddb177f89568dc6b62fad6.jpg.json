@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282054893,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:19:23.043Z",
+            "updatedAt": "2020-07-21T20:46:50.543Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        357
+                    ],
+                    [
+                        1219,
+                        907
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489612387,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T20:46:43.440Z",
+            "updatedAt": "2020-07-21T20:46:50.543Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        702
+                    ],
+                    [
+                        912,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489612392,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T20:46:50.309Z",
+            "updatedAt": "2020-07-21T20:46:50.309Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        871,
+                        231
+                    ],
+                    [
+                        1146,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

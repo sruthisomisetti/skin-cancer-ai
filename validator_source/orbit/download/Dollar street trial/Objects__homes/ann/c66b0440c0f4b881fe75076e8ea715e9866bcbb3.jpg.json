@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278953153,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:47:39.211Z",
+            "updatedAt": "2019-10-09T12:06:09.295Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        136
+                    ],
+                    [
+                        716,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278953178,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:48:04.036Z",
+            "updatedAt": "2019-10-09T12:06:09.295Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        562,
+                        439
+                    ],
+                    [
+                        690,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278957309,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:06:08.914Z",
+            "updatedAt": "2019-10-09T12:06:15.219Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        816,
+                        498
+                    ],
+                    [
+                        1012,
+                        674
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

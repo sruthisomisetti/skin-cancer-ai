@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382407,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T20:20:38.904Z",
+            "updatedAt": "2019-10-09T20:20:55.209Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        154
+                    ],
+                    [
+                        677,
+                        526
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279382415,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T20:20:46.237Z",
+            "updatedAt": "2019-10-09T20:20:55.209Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        258
+                    ],
+                    [
+                        367,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279382421,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T20:20:54.824Z",
+            "updatedAt": "2019-10-09T20:20:58.385Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        726,
+                        185
+                    ],
+                    [
+                        936,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

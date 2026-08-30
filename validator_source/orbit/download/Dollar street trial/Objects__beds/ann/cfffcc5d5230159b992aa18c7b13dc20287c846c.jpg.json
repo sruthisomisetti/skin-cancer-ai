@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279307220,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:20:04.910Z",
+            "updatedAt": "2020-07-13T13:30:44.766Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        192
+                    ],
+                    [
+                        964,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485738021,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:30:07.723Z",
+            "updatedAt": "2020-07-13T13:30:14.800Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        388
+                    ],
+                    [
+                        523,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

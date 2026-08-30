@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488819232,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:43:37.101Z",
+            "updatedAt": "2020-07-20T18:43:56.238Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        145
+                    ],
+                    [
+                        926,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819235,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:43:56.051Z",
+            "updatedAt": "2020-07-20T18:43:56.051Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        1017,
+                        723
+                    ],
+                    [
+                        1460,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

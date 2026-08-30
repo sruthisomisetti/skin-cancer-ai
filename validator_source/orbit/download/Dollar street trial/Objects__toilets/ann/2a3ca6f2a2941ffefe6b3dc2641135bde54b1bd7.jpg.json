@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278307795,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:39:26.077Z",
+            "updatedAt": "2020-07-27T12:50:14.155Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        467
+                    ],
+                    [
+                        781,
+                        846
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172683,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:50:08.329Z",
+            "updatedAt": "2020-07-27T12:50:14.155Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        957
+                    ],
+                    [
+                        522,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172687,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:50:13.263Z",
+            "updatedAt": "2020-07-27T12:50:13.263Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        753,
+                        896
+                    ],
+                    [
+                        871,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

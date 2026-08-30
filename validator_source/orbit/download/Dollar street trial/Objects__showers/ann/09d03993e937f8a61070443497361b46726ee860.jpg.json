@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 496959315,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:03:33.893Z",
+            "updatedAt": "2020-08-05T21:04:21.256Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        672
+                    ],
+                    [
+                        582,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496959316,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:03:52.816Z",
+            "updatedAt": "2020-08-05T21:04:21.256Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        366
+                    ],
+                    [
+                        358,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496959317,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:04:21.042Z",
+            "updatedAt": "2020-08-05T21:04:21.042Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        603
+                    ],
+                    [
+                        661,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

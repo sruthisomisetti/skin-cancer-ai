@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279186533,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:30:26.404Z",
+            "updatedAt": "2020-07-18T14:56:55.640Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        3
+                    ],
+                    [
+                        563,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322415,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:56:55.419Z",
+            "updatedAt": "2020-07-18T14:56:55.419Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        269
+                    ],
+                    [
+                        317,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279516138,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:35:46.217Z",
+            "updatedAt": "2020-07-24T13:29:09.087Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        921,
+                        391
+                    ],
+                    [
+                        1150,
+                        688
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279516154,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:35:59.711Z",
+            "updatedAt": "2020-07-24T13:29:09.087Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        762,
+                        377
+                    ],
+                    [
+                        901,
+                        641
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279521033,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T07:22:40.670Z",
+            "updatedAt": "2020-07-24T13:29:09.087Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        357
+                    ],
+                    [
+                        774,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490905524,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T13:29:08.921Z",
+            "updatedAt": "2020-07-24T13:29:08.921Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        309
+                    ],
+                    [
+                        535,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

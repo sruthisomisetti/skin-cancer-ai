@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 489180420,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:19:04.806Z",
+            "updatedAt": "2020-07-21T14:19:23.960Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        825,
+                        145
+                    ],
+                    [
+                        996,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489180431,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:19:18.519Z",
+            "updatedAt": "2020-07-21T14:19:23.960Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        801
+                    ],
+                    [
+                        399,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489180439,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:19:23.746Z",
+            "updatedAt": "2020-07-21T14:19:23.746Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        758
+                    ],
+                    [
+                        667,
+                        900
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

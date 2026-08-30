@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279516683,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:40:18.922Z",
+            "updatedAt": "2019-10-10T06:40:51.994Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        210
+                    ],
+                    [
+                        637,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279516691,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:40:25.400Z",
+            "updatedAt": "2019-10-10T06:40:51.994Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        244
+                    ],
+                    [
+                        436,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279516702,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:40:35.156Z",
+            "updatedAt": "2019-10-10T06:40:51.994Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        188,
+                        23
+                    ],
+                    [
+                        361,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279516714,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:40:42.418Z",
+            "updatedAt": "2019-10-10T06:40:51.994Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        13
+                    ],
+                    [
+                        897,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279516722,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:40:51.827Z",
+            "updatedAt": "2019-10-10T06:40:51.827Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        263
+                    ],
+                    [
+                        888,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

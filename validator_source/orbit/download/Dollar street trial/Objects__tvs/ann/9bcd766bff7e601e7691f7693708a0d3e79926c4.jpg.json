@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064773,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:09:44.825Z",
+            "updatedAt": "2020-07-28T12:41:59.089Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        167
+                    ],
+                    [
+                        752,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491491202,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:41:42.261Z",
+            "updatedAt": "2020-07-28T12:41:48.790Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        451
+                    ],
+                    [
+                        255,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490942003,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:17:57.783Z",
+            "updatedAt": "2020-07-25T23:18:34.667Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        193
+                    ],
+                    [
+                        582,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942004,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:18:19.921Z",
+            "updatedAt": "2020-07-25T23:18:51.240Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        93
+                    ],
+                    [
+                        685,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942005,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:18:34.436Z",
+            "updatedAt": "2020-07-25T23:18:34.436Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        42
+                    ],
+                    [
+                        657,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

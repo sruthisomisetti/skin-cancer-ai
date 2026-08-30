@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 15775260,
+            "tagId": 26127783,
+            "name": "Not good image",
+            "value": null,
+            "labelerLogin": null,
+            "createdAt": "2019-10-09T10:26:13.571Z",
+            "updatedAt": "2019-10-09T10:26:13.571Z"
+        }
+    ],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278937957,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:14:41.927Z",
+            "updatedAt": "2019-10-09T11:14:45.040Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        312
+                    ],
+                    [
+                        441,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278945695,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:14:47.443Z",
+            "updatedAt": "2019-10-09T11:14:51.689Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        392,
+                        331
+                    ],
+                    [
+                        814,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488430396,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:34:44.635Z",
+            "updatedAt": "2020-07-19T21:35:10.390Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        545
+                    ],
+                    [
+                        347,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430397,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:34:51.260Z",
+            "updatedAt": "2020-07-19T21:35:10.390Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        546
+                    ],
+                    [
+                        182,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430398,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:35:10.189Z",
+            "updatedAt": "2020-07-19T21:35:10.189Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        775,
+                        570
+                    ],
+                    [
+                        870,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

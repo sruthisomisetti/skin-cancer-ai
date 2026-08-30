@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488676598,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:27:25.482Z",
+            "updatedAt": "2020-07-20T14:28:01.618Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        202
+                    ],
+                    [
+                        1024,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676617,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:28:01.420Z",
+            "updatedAt": "2020-07-20T14:28:05.066Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        695,
+                        265
+                    ],
+                    [
+                        1000,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

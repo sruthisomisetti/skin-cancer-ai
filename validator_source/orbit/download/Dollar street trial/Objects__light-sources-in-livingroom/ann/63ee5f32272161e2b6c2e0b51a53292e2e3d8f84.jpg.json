@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488994761,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:13:42.102Z",
+            "updatedAt": "2020-07-21T11:14:03.485Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        84
+                    ],
+                    [
+                        543,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488994779,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:14:03.263Z",
+            "updatedAt": "2020-07-21T11:14:03.263Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        611
+                    ],
+                    [
+                        461,
+                        674
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

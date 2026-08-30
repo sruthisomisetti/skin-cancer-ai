@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282920235,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:45:44.793Z",
+            "updatedAt": "2020-07-26T08:33:33.028Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        416
+                    ],
+                    [
+                        202,
+                        525
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490959993,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:33:32.789Z",
+            "updatedAt": "2020-07-26T08:33:32.789Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        340
+                    ],
+                    [
+                        590,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

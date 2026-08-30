@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 489068280,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:55:00.793Z",
+            "updatedAt": "2020-08-04T19:52:00.503Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        972,
+                        851
+                    ],
+                    [
+                        1087,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489069251,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T11:55:16.521Z",
+            "updatedAt": "2020-08-04T19:52:00.503Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        1316,
+                        830
+                    ],
+                    [
+                        1534,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587620,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:52:00.249Z",
+            "updatedAt": "2020-08-04T19:52:00.249Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        763
+                    ],
+                    [
+                        104,
+                        945
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

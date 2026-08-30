@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278317905,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:06:21.300Z",
+            "updatedAt": "2019-10-08T20:09:21.291Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        135
+                    ],
+                    [
+                        1014,
+                        960
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317920,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:06:45.438Z",
+            "updatedAt": "2019-10-08T20:09:21.291Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        143
+                    ],
+                    [
+                        1010,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317941,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:07:10.356Z",
+            "updatedAt": "2019-10-08T20:09:21.291Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        620
+                    ],
+                    [
+                        203,
+                        771
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278155618,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T15:55:44.249Z",
+            "updatedAt": "2019-10-08T18:19:37.691Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        119
+                    ],
+                    [
+                        258,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278291115,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T18:19:05.927Z",
+            "updatedAt": "2019-10-08T18:19:37.691Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        688,
+                        383
+                    ],
+                    [
+                        1007,
+                        580
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

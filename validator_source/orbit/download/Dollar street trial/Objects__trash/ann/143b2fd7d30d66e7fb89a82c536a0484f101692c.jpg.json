@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282029201,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T05:56:15.096Z",
+            "updatedAt": "2020-07-28T10:28:05.357Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        124
+                    ],
+                    [
+                        665,
+                        613
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491399485,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T10:28:05.174Z",
+            "updatedAt": "2020-07-28T10:28:05.174Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        2
+                    ],
+                    [
+                        1021,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

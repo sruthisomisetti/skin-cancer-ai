@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 271940680,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:52.278Z",
+            "updatedAt": "2020-07-31T09:40:28.495Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        526
+                    ],
+                    [
+                        828,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279861530,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-10T17:07:34.145Z",
+            "updatedAt": "2020-07-31T09:40:40.301Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        723,
+                        735
+                    ],
+                    [
+                        810,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279861551,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-10T17:07:44.249Z",
+            "updatedAt": "2020-07-31T09:40:49.471Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        1010,
+                        909
+                    ],
+                    [
+                        1101,
+                        946
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495198806,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T09:40:28.294Z",
+            "updatedAt": "2020-07-31T09:40:28.294Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        559
+                    ],
+                    [
+                        573,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

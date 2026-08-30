@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496327018,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:26:43.371Z",
+            "updatedAt": "2020-08-03T21:26:58.743Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        809,
+                        24
+                    ],
+                    [
+                        919,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327022,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:26:58.515Z",
+            "updatedAt": "2020-08-03T21:26:58.515Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        473,
+                        110
+                    ],
+                    [
+                        629,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

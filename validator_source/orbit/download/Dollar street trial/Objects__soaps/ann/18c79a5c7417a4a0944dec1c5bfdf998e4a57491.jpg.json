@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278151831,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T15:27:11.237Z",
+            "updatedAt": "2019-10-11T15:29:10.365Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        354
+                    ],
+                    [
+                        805,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278201502,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T17:24:50.350Z",
+            "updatedAt": "2019-10-11T15:29:10.365Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        835,
+                        146
+                    ],
+                    [
+                        917,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281201955,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T15:29:10.240Z",
+            "updatedAt": "2019-10-11T15:29:10.240Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        444
+                    ],
+                    [
+                        763,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

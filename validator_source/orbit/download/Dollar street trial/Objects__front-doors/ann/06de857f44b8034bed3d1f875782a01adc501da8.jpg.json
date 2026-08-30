@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488321320,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:55:49.321Z",
+            "updatedAt": "2020-07-18T12:56:09.763Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        257
+                    ],
+                    [
+                        279,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321322,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:56:05.238Z",
+            "updatedAt": "2020-07-18T12:56:09.763Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        787,
+                        666
+                    ],
+                    [
+                        899,
+                        735
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321323,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:56:09.558Z",
+            "updatedAt": "2020-07-18T12:56:09.558Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        887,
+                        591
+                    ],
+                    [
+                        1024,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

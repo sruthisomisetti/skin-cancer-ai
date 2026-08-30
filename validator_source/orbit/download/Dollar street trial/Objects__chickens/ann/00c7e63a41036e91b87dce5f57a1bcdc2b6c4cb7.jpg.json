@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282180621,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T05:52:52.410Z",
+            "updatedAt": "2020-07-14T21:07:11.742Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        483
+                    ],
+                    [
+                        848,
+                        857
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487081224,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T21:07:11.161Z",
+            "updatedAt": "2020-07-14T21:07:25.274Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        307
+                    ],
+                    [
+                        606,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

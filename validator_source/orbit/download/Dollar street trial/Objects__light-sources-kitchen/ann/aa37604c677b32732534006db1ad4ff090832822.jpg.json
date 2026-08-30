@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 489304082,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:37:09.005Z",
+            "updatedAt": "2020-07-21T14:37:25.418Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        727,
+                        330
+                    ],
+                    [
+                        844,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489304089,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:37:25.200Z",
+            "updatedAt": "2020-07-21T14:37:25.200Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        887,
+                        853
+                    ],
+                    [
+                        1104,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

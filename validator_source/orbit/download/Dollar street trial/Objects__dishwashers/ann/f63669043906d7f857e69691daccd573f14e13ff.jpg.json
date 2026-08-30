@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487777896,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:37:27.030Z",
+            "updatedAt": "2020-07-16T21:38:52.651Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        374
+                    ],
+                    [
+                        810,
+                        1363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777898,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:37:56.814Z",
+            "updatedAt": "2020-07-16T21:38:52.651Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        770
+                    ],
+                    [
+                        311,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777899,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:38:08.960Z",
+            "updatedAt": "2020-07-16T21:38:52.651Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1059
+                    ],
+                    [
+                        394,
+                        1360
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777901,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:38:38.743Z",
+            "updatedAt": "2020-07-16T21:38:52.651Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        526
+                    ],
+                    [
+                        217,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777905,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:38:52.448Z",
+            "updatedAt": "2020-07-16T21:38:52.448Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        824
+                    ],
+                    [
+                        423,
+                        1142
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

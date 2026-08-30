@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279196953,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T16:59:43.166Z",
+            "updatedAt": "2020-07-13T08:20:18.947Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        21
+                    ],
+                    [
+                        1022,
+                        1360
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485661022,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T08:20:18.810Z",
+            "updatedAt": "2020-07-13T08:20:53.578Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        665,
+                        934
+                    ],
+                    [
+                        768,
+                        1029
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

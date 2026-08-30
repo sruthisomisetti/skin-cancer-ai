@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278312530,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:40:03.148Z",
+            "updatedAt": "2020-07-28T19:35:48.009Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        4
+                    ],
+                    [
+                        898,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 492275871,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T19:35:36.927Z",
+            "updatedAt": "2020-07-28T19:35:48.009Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        320
+                    ],
+                    [
+                        74,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 492275876,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T19:35:47.786Z",
+            "updatedAt": "2020-07-28T19:35:47.786Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        230
+                    ],
+                    [
+                        86,
+                        607
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

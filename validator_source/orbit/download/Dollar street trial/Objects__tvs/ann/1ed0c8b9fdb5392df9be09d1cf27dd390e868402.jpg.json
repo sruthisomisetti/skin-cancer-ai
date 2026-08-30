@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054180,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:49:51.768Z",
+            "updatedAt": "2019-10-13T16:50:43.338Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        124
+                    ],
+                    [
+                        735,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054186,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:50:12.050Z",
+            "updatedAt": "2019-10-13T16:50:43.338Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        2
+                    ],
+                    [
+                        292,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054197,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:50:43.053Z",
+            "updatedAt": "2019-10-13T16:50:43.053Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        835,
+                        66
+                    ],
+                    [
+                        891,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

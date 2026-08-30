@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279591760,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:43:57.875Z",
+            "updatedAt": "2020-08-08T18:39:47.390Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        53,
+                        468
+                    ],
+                    [
+                        817,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490791966,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:41:56.437Z",
+            "updatedAt": "2020-08-08T18:39:47.390Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        99
+                    ],
+                    [
+                        686,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490791970,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:42:06.477Z",
+            "updatedAt": "2020-08-08T18:39:47.390Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        690,
+                        286
+                    ],
+                    [
+                        878,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677772,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:39:47.186Z",
+            "updatedAt": "2020-08-08T18:39:47.186Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        310
+                    ],
+                    [
+                        274,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282043816,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T10:17:25.354Z",
+            "updatedAt": "2020-07-28T14:37:19.554Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        234
+                    ],
+                    [
+                        924,
+                        921
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491883338,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:37:19.364Z",
+            "updatedAt": "2020-07-28T14:37:19.364Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        0
+                    ],
+                    [
+                        336,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

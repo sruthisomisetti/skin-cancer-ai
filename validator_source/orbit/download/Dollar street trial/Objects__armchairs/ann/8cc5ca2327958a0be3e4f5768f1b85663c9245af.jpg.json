@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278950193,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:32:03.432Z",
+            "updatedAt": "2020-08-03T16:31:06.055Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        191
+                    ],
+                    [
+                        681,
+                        991
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481516056,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T14:05:32.748Z",
+            "updatedAt": "2020-08-03T16:31:06.055Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        41
+                    ],
+                    [
+                        1018,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481516083,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T14:05:44.823Z",
+            "updatedAt": "2020-08-03T16:31:06.055Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        364
+                    ],
+                    [
+                        183,
+                        728
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496307892,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:31:05.843Z",
+            "updatedAt": "2020-08-03T16:31:05.843Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        834,
+                        691
+                    ],
+                    [
+                        1010,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

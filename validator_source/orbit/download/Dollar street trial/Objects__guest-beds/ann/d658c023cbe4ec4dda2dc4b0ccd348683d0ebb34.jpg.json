@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055324,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:36:54.575Z",
+            "updatedAt": "2020-07-19T12:35:32.423Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        247
+                    ],
+                    [
+                        1024,
+                        763
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416272,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:35:17.084Z",
+            "updatedAt": "2020-07-19T12:35:32.423Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        238
+                    ],
+                    [
+                        262,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416277,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:35:31.464Z",
+            "updatedAt": "2020-07-19T12:35:48.624Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        557
+                    ],
+                    [
+                        119,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

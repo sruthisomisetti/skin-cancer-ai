@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279083994,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:05:55.164Z",
+            "updatedAt": "2019-10-09T13:06:08.554Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        6
+                    ],
+                    [
+                        663,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279084004,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:06:08.276Z",
+            "updatedAt": "2019-10-09T13:06:11.386Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        431
+                    ],
+                    [
+                        637,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

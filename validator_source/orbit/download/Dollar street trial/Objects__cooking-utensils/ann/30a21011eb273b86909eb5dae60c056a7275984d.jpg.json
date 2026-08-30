@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279352493,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-09T19:39:44.832Z",
+            "updatedAt": "2020-07-15T20:20:18.991Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        260
+                    ],
+                    [
+                        589,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282041256,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T08:40:11.486Z",
+            "updatedAt": "2020-07-15T20:20:18.991Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        122
+                    ],
+                    [
+                        806,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487581564,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T20:20:00.951Z",
+            "updatedAt": "2020-07-15T20:20:18.991Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        519,
+                        153
+                    ],
+                    [
+                        625,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487581570,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T20:20:18.775Z",
+            "updatedAt": "2020-07-15T20:20:22.385Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        487
+                    ],
+                    [
+                        850,
+                        668
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

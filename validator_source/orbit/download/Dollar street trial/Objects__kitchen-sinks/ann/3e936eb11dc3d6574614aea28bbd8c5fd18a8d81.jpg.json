@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488676534,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:23:32.940Z",
+            "updatedAt": "2020-07-20T14:24:13.481Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        252
+                    ],
+                    [
+                        386,
+                        438
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676541,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:23:51.553Z",
+            "updatedAt": "2020-07-20T14:24:13.481Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        541
+                    ],
+                    [
+                        592,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488676552,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:24:13.300Z",
+            "updatedAt": "2020-07-20T14:24:16.597Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        208
+                    ],
+                    [
+                        671,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

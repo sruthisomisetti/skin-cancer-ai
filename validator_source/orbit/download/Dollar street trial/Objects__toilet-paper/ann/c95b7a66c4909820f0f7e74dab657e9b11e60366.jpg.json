@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279851524,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T15:11:56.448Z",
+            "updatedAt": "2020-07-27T10:38:19.808Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        289
+                    ],
+                    [
+                        759,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491100882,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T10:38:19.596Z",
+            "updatedAt": "2020-07-27T10:38:19.596Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        199
+                    ],
+                    [
+                        867,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

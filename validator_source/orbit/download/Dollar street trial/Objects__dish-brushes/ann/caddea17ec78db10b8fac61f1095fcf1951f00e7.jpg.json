@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281227413,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T17:39:27.370Z",
+            "updatedAt": "2020-07-16T20:16:50.290Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        207
+                    ],
+                    [
+                        764,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487770862,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:13:00.783Z",
+            "updatedAt": "2020-07-16T20:16:50.290Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        96
+                    ],
+                    [
+                        790,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487770905,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:16:50.067Z",
+            "updatedAt": "2020-07-16T20:16:50.067Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        93
+                    ],
+                    [
+                        883,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

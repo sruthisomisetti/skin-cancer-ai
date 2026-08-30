@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279599462,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T10:11:35.852Z",
+            "updatedAt": "2019-10-10T10:12:09.587Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        337
+                    ],
+                    [
+                        881,
+                        907
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279599526,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T10:12:09.347Z",
+            "updatedAt": "2019-10-10T10:12:09.347Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        708
+                    ],
+                    [
+                        668,
+                        831
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

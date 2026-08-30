@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488820915,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:28:33.579Z",
+            "updatedAt": "2020-07-20T20:29:23.657Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        26
+                    ],
+                    [
+                        415,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820924,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:28:57.717Z",
+            "updatedAt": "2020-07-20T20:29:23.657Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        830
+                    ],
+                    [
+                        186,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820927,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:29:10.354Z",
+            "updatedAt": "2020-07-20T20:29:23.657Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        767
+                    ],
+                    [
+                        137,
+                        878
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820931,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:29:23.424Z",
+            "updatedAt": "2020-07-20T20:29:23.424Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        224
+                    ],
+                    [
+                        454,
+                        438
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

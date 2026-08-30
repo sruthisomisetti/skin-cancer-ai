@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054332,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T16:57:49.228Z",
+            "updatedAt": "2020-08-04T12:02:29.623Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        169
+                    ],
+                    [
+                        665,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054334,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T16:57:54.288Z",
+            "updatedAt": "2020-08-04T12:02:29.623Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        355
+                    ],
+                    [
+                        657,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496556328,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:02:16.793Z",
+            "updatedAt": "2020-08-04T12:02:29.623Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        341
+                    ],
+                    [
+                        311,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496556336,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:02:29.299Z",
+            "updatedAt": "2020-08-04T12:02:29.299Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        29
+                    ],
+                    [
+                        109,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

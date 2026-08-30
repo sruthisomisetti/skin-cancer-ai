@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988814,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:37:12.535Z",
+            "updatedAt": "2020-08-05T22:45:43.212Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        398
+                    ],
+                    [
+                        480,
+                        580
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988816,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:37:51.111Z",
+            "updatedAt": "2020-08-05T22:45:43.212Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        580,
+                        436
+                    ],
+                    [
+                        603,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988817,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:38:00.448Z",
+            "updatedAt": "2020-08-05T22:45:43.212Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        380
+                    ],
+                    [
+                        351,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988818,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:38:13.492Z",
+            "updatedAt": "2020-08-05T22:45:43.212Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        206
+                    ],
+                    [
+                        402,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962980,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:45:42.940Z",
+            "updatedAt": "2020-08-05T22:45:42.940Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        620
+                    ],
+                    [
+                        448,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

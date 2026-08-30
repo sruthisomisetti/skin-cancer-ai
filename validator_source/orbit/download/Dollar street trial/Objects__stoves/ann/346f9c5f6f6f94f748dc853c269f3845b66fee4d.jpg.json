@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278961752,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:10:55.811Z",
+            "updatedAt": "2020-07-26T13:43:54.981Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        459
+                    ],
+                    [
+                        992,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962876,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:43:44.196Z",
+            "updatedAt": "2020-07-26T13:43:54.981Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        269
+                    ],
+                    [
+                        1023,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962878,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:43:54.757Z",
+            "updatedAt": "2020-07-26T13:43:54.757Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        39
+                    ],
+                    [
+                        648,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

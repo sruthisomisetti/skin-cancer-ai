@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282930095,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T10:12:31.403Z",
+            "updatedAt": "2020-07-26T18:15:27.295Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        419,
+                        731
+                    ],
+                    [
+                        762,
+                        1050
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976075,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:15:13.917Z",
+            "updatedAt": "2020-07-26T18:15:27.295Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        434,
+                        663
+                    ],
+                    [
+                        746,
+                        858
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976078,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:15:27.029Z",
+            "updatedAt": "2020-07-26T18:15:27.029Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        861
+                    ],
+                    [
+                        433,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

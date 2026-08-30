@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271940491,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:36.175Z",
+            "updatedAt": "2020-07-30T16:44:51.425Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        322
+                    ],
+                    [
+                        437,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282425260,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:39:47.066Z",
+            "updatedAt": "2020-07-30T16:44:51.425Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        424
+                    ],
+                    [
+                        711,
+                        708
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494858088,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:44:51.236Z",
+            "updatedAt": "2020-07-30T16:44:54.609Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        300,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

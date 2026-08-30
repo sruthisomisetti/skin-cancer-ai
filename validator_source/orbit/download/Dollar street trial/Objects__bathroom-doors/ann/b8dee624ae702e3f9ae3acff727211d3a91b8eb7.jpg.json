@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496314127,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:29:36.652Z",
+            "updatedAt": "2020-08-03T19:30:17.855Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        266
+                    ],
+                    [
+                        628,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314145,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:30:17.677Z",
+            "updatedAt": "2020-08-03T19:30:17.677Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        461
+                    ],
+                    [
+                        433,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279181520,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T15:09:17.187Z",
+            "updatedAt": "2019-10-09T15:09:30.195Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        407,
+                        180
+                    ],
+                    [
+                        1024,
+                        910
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279181529,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T15:09:29.876Z",
+            "updatedAt": "2019-10-09T15:09:35.340Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        920
+                    ],
+                    [
+                        1024,
+                        1564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

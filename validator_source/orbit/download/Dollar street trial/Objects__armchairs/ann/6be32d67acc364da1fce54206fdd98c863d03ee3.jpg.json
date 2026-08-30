@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278861805,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:49:48.819Z",
+            "updatedAt": "2020-07-07T12:37:35.508Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        282
+                    ],
+                    [
+                        818,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278861810,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:49:56.238Z",
+            "updatedAt": "2020-07-07T12:37:35.508Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        360
+                    ],
+                    [
+                        1018,
+                        1185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481485575,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T12:37:35.340Z",
+            "updatedAt": "2020-07-07T12:37:51.522Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        411
+                    ],
+                    [
+                        408,
+                        719
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488476828,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:20:30.645Z",
+            "updatedAt": "2020-07-20T08:20:47.658Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        749,
+                        699
+                    ],
+                    [
+                        963,
+                        930
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488476839,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:20:47.447Z",
+            "updatedAt": "2020-07-20T08:20:47.447Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        687,
+                        716
+                    ],
+                    [
+                        807,
+                        839
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

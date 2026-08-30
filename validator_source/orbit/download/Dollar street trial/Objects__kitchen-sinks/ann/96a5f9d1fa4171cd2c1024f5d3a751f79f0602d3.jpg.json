@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1515
+    },
+    "objects": [
+        {
+            "id": 278318142,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:11:25.416Z",
+            "updatedAt": "2019-10-12T09:51:08.903Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        649
+                    ],
+                    [
+                        1515,
+                        1011
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318153,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:11:40.030Z",
+            "updatedAt": "2019-10-08T20:11:54.229Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        307
+                    ],
+                    [
+                        135,
+                        700
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

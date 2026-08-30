@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282066314,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:11:48.897Z",
+            "updatedAt": "2020-07-24T18:59:42.753Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        591
+                    ],
+                    [
+                        1039,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918638,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:59:03.215Z",
+            "updatedAt": "2020-07-24T18:59:42.753Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        110
+                    ],
+                    [
+                        1047,
+                        590
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918644,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:59:20.144Z",
+            "updatedAt": "2020-07-24T18:59:42.753Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        1110,
+                        590
+                    ],
+                    [
+                        1532,
+                        831
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918650,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:59:42.487Z",
+            "updatedAt": "2020-07-24T18:59:47.615Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        791,
+                        29
+                    ],
+                    [
+                        999,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

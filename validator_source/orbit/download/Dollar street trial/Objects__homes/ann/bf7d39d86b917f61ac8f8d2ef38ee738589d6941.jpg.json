@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278945893,
+            "classId": 714976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:20:18.146Z",
+            "updatedAt": "2020-07-19T23:45:07.865Z",
+            "tags": [],
+            "classTitle": "Fruit trees",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        19
+                    ],
+                    [
+                        951,
+                        710
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949582,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:20:41.929Z",
+            "updatedAt": "2020-07-19T23:45:07.865Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        245
+                    ],
+                    [
+                        1523,
+                        657
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432298,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:45:07.621Z",
+            "updatedAt": "2020-07-19T23:45:07.621Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        239
+                    ],
+                    [
+                        1498,
+                        486
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

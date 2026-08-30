@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282052463,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:59:56.832Z",
+            "updatedAt": "2019-10-13T16:01:19.136Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        745,
+                        136
+                    ],
+                    [
+                        1015,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052472,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:00:10.150Z",
+            "updatedAt": "2020-07-18T20:48:44.801Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        929,
+                        525
+                    ],
+                    [
+                        1153,
+                        659
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052477,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:00:18.503Z",
+            "updatedAt": "2020-07-18T20:49:00.834Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        1036,
+                        904
+                    ],
+                    [
+                        1144,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

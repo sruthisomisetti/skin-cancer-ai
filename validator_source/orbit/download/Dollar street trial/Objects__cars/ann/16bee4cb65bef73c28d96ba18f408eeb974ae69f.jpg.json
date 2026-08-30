@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282038759,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T06:41:50.751Z",
+            "updatedAt": "2019-10-13T06:42:05.674Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        244
+                    ],
+                    [
+                        801,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282038760,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T06:42:05.273Z",
+            "updatedAt": "2020-07-14T19:56:11.783Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        239
+                    ],
+                    [
+                        339,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

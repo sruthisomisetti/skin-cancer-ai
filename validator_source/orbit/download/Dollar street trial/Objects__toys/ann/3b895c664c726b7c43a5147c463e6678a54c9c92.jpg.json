@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282047063,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T12:32:48.289Z",
+            "updatedAt": "2019-10-13T12:32:54.827Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        157
+                    ],
+                    [
+                        761,
+                        800
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282047064,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T12:32:54.677Z",
+            "updatedAt": "2019-10-13T12:32:54.677Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        199
+                    ],
+                    [
+                        851,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

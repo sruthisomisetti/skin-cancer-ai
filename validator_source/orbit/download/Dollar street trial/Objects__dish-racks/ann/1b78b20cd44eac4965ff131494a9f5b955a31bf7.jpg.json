@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 667,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487906636,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:24:59.495Z",
+            "updatedAt": "2020-08-07T10:11:23.782Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        222
+                    ],
+                    [
+                        759,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487906641,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:25:19.047Z",
+            "updatedAt": "2020-08-07T10:11:23.782Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        154
+                    ],
+                    [
+                        139,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487906646,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:25:48.572Z",
+            "updatedAt": "2020-08-07T10:11:23.782Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        1
+                    ],
+                    [
+                        465,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497492944,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T10:11:23.613Z",
+            "updatedAt": "2020-08-07T10:11:23.613Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        218
+                    ],
+                    [
+                        1021,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

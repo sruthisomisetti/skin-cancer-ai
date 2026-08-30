@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279859573,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T16:48:48.661Z",
+            "updatedAt": "2019-10-11T12:10:05.352Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        128
+                    ],
+                    [
+                        657,
+                        758
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 280541604,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T12:10:05.202Z",
+            "updatedAt": "2020-07-23T12:23:41.242Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        654,
+                        312
+                    ],
+                    [
+                        809,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

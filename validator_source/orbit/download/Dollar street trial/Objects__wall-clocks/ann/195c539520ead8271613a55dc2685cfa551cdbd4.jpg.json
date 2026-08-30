@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282422977,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T16:11:58.557Z",
+            "updatedAt": "2020-07-28T14:50:53.187Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        222
+                    ],
+                    [
+                        575,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282423002,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T16:12:30.809Z",
+            "updatedAt": "2020-07-28T14:50:53.187Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        329
+                    ],
+                    [
+                        189,
+                        462
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491883866,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:50:32.990Z",
+            "updatedAt": "2020-07-28T14:50:53.187Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        552
+                    ],
+                    [
+                        192,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491883877,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:50:52.997Z",
+            "updatedAt": "2020-07-28T14:50:52.997Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        467
+                    ],
+                    [
+                        93,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

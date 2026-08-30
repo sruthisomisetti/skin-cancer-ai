@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279589536,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:27:15.539Z",
+            "updatedAt": "2020-08-08T18:20:32.659Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        165
+                    ],
+                    [
+                        838,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498641317,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:20:32.403Z",
+            "updatedAt": "2020-08-08T18:20:32.403Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        307
+                    ],
+                    [
+                        864,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

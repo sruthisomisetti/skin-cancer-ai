@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490916276,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:12:46.259Z",
+            "updatedAt": "2020-07-24T18:13:18.739Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        774
+                    ],
+                    [
+                        735,
+                        948
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916280,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:12:58.110Z",
+            "updatedAt": "2020-07-24T18:13:18.739Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        809
+                    ],
+                    [
+                        645,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916283,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:13:11.649Z",
+            "updatedAt": "2020-07-24T18:13:18.739Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        278
+                    ],
+                    [
+                        679,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916284,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:13:18.480Z",
+            "updatedAt": "2020-07-24T18:13:18.480Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        482
+                    ],
+                    [
+                        640,
+                        695
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

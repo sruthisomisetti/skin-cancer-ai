@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1462
+    },
+    "objects": [
+        {
+            "id": 487887822,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:10:02.795Z",
+            "updatedAt": "2020-07-17T12:11:02.758Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        474,
+                        635
+                    ],
+                    [
+                        568,
+                        754
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887829,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:10:14.179Z",
+            "updatedAt": "2020-07-17T12:11:02.758Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        674
+                    ],
+                    [
+                        846,
+                        888
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887834,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:10:27.724Z",
+            "updatedAt": "2020-07-17T12:11:02.758Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        515
+                    ],
+                    [
+                        394,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887841,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:10:46.304Z",
+            "updatedAt": "2020-07-17T12:11:02.758Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        614,
+                        331
+                    ],
+                    [
+                        941,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887848,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:11:02.526Z",
+            "updatedAt": "2020-07-17T12:11:02.526Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        0
+                    ],
+                    [
+                        772,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

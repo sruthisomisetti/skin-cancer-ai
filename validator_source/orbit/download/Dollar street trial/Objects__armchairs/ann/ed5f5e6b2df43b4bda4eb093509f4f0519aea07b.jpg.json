@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278956783,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T12:02:10.192Z",
+            "updatedAt": "2020-08-03T17:08:26.098Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        176
+                    ],
+                    [
+                        1005,
+                        1347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308242,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:08:25.904Z",
+            "updatedAt": "2020-08-03T17:08:25.904Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        0
+                    ],
+                    [
+                        1017,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

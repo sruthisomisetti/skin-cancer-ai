@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278319063,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:30:25.871Z",
+            "updatedAt": "2019-10-08T20:33:01.115Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        7
+                    ],
+                    [
+                        991,
+                        666
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278319074,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:30:57.459Z",
+            "updatedAt": "2019-10-08T20:33:01.115Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        173
+                    ],
+                    [
+                        728,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278319093,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:31:31.728Z",
+            "updatedAt": "2019-10-08T20:33:01.115Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        344
+                    ],
+                    [
+                        462,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278319130,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:32:27.333Z",
+            "updatedAt": "2019-10-08T20:33:01.115Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        829,
+                        488
+                    ],
+                    [
+                        959,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278319165,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:33:00.610Z",
+            "updatedAt": "2019-10-08T20:33:00.610Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        8
+                    ],
+                    [
+                        996,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

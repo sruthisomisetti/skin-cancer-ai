@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282047861,
+            "classId": 714911,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T13:11:25.942Z",
+            "updatedAt": "2020-07-31T19:52:57.354Z",
+            "tags": [],
+            "classTitle": "Palms",
+            "points": {
+                "exterior": [
+                    [
+                        471,
+                        108
+                    ],
+                    [
+                        1385,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495292230,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T19:52:45.923Z",
+            "updatedAt": "2020-07-31T19:52:57.354Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        0
+                    ],
+                    [
+                        489,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495292234,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T19:52:57.159Z",
+            "updatedAt": "2020-07-31T19:52:57.159Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        147
+                    ],
+                    [
+                        456,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278311775,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:26:22.602Z",
+            "updatedAt": "2020-07-28T18:41:32.313Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        11
+                    ],
+                    [
+                        864,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491899722,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T18:41:32.094Z",
+            "updatedAt": "2020-07-28T18:41:32.094Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        819
+                    ],
+                    [
+                        743,
+                        1330
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279607304,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:27:19.520Z",
+            "updatedAt": "2020-07-09T13:52:02.554Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        151
+                    ],
+                    [
+                        1537,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114772,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:51:33.208Z",
+            "updatedAt": "2020-07-09T13:52:02.554Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        1090,
+                        151
+                    ],
+                    [
+                        1230,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114824,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:52:02.404Z",
+            "updatedAt": "2020-07-09T13:52:06.711Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        1163,
+                        281
+                    ],
+                    [
+                        1387,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

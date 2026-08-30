@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278317683,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:00:38.198Z",
+            "updatedAt": "2020-08-06T19:34:59.862Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        89
+                    ],
+                    [
+                        812,
+                        1007
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317687,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:00:42.814Z",
+            "updatedAt": "2020-08-06T19:34:46.719Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        832,
+                        72
+                    ],
+                    [
+                        1052,
+                        1004
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487803623,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T22:38:06.684Z",
+            "updatedAt": "2020-07-16T22:38:38.955Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        571
+                    ],
+                    [
+                        322,
+                        749
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487803626,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T22:38:38.391Z",
+            "updatedAt": "2020-07-16T22:38:59.772Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1189,
+                        106
+                    ],
+                    [
+                        1533,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

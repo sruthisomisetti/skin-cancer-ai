@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1562
+    },
+    "objects": [
+        {
+            "id": 282061200,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:21:45.699Z",
+            "updatedAt": "2020-07-28T12:28:48.334Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        104
+                    ],
+                    [
+                        1040,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490588,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:28:48.123Z",
+            "updatedAt": "2020-07-28T12:29:03.748Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        1303,
+                        165
+                    ],
+                    [
+                        1526,
+                        843
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

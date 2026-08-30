@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 490985181,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:51:57.660Z",
+            "updatedAt": "2020-07-26T22:52:27.578Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        818,
+                        78
+                    ],
+                    [
+                        1073,
+                        817
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985182,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:52:27.313Z",
+            "updatedAt": "2020-07-26T22:52:27.313Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        1268,
+                        801
+                    ],
+                    [
+                        1386,
+                        910
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 279186838,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:38:45.451Z",
+            "updatedAt": "2020-07-18T15:04:57.199Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        268
+                    ],
+                    [
+                        531,
+                        837
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322575,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:04:45.278Z",
+            "updatedAt": "2020-07-18T15:04:57.199Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        541
+                    ],
+                    [
+                        484,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322581,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:04:57.001Z",
+            "updatedAt": "2020-07-18T15:04:57.001Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        463,
+                        655
+                    ],
+                    [
+                        784,
+                        915
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

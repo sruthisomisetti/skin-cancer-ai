@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282953916,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T12:36:27.787Z",
+            "updatedAt": "2020-07-22T17:45:49.932Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        296
+                    ],
+                    [
+                        722,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490237694,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:45:49.673Z",
+            "updatedAt": "2020-07-22T17:45:49.673Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        111
+                    ],
+                    [
+                        661,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488320464,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:45:48.354Z",
+            "updatedAt": "2020-07-18T11:46:24.287Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        19
+                    ],
+                    [
+                        739,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320466,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:46:05.246Z",
+            "updatedAt": "2020-07-18T11:46:24.287Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        709,
+                        418
+                    ],
+                    [
+                        783,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320469,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:46:24.083Z",
+            "updatedAt": "2020-07-18T11:46:24.083Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        470
+                    ],
+                    [
+                        165,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

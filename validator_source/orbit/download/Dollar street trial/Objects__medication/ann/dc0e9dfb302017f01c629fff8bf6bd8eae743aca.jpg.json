@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282055382,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:40:30.506Z",
+            "updatedAt": "2020-07-21T22:12:33.989Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        208
+                    ],
+                    [
+                        556,
+                        955
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055386,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:40:37.012Z",
+            "updatedAt": "2020-07-21T22:12:33.989Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        6
+                    ],
+                    [
+                        1163,
+                        930
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489616435,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T22:12:17.129Z",
+            "updatedAt": "2020-07-21T22:12:33.989Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1026,
+                        73
+                    ],
+                    [
+                        1427,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489616439,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T22:12:33.736Z",
+            "updatedAt": "2020-07-21T22:12:33.736Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        179
+                    ],
+                    [
+                        245,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

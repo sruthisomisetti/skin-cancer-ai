@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279593944,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:53:51.953Z",
+            "updatedAt": "2020-07-23T20:59:04.224Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        242
+                    ],
+                    [
+                        528,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279593948,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:53:57.928Z",
+            "updatedAt": "2020-07-23T20:59:04.224Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        387
+                    ],
+                    [
+                        856,
+                        510
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792388,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:59:03.996Z",
+            "updatedAt": "2020-07-23T20:59:03.996Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        219
+                    ],
+                    [
+                        135,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

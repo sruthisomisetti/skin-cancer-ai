@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282052347,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:55:42.699Z",
+            "updatedAt": "2019-10-13T15:57:04.447Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        282
+                    ],
+                    [
+                        1121,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052384,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:57:04.203Z",
+            "updatedAt": "2019-10-13T15:57:10.620Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        691,
+                        0
+                    ],
+                    [
+                        782,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

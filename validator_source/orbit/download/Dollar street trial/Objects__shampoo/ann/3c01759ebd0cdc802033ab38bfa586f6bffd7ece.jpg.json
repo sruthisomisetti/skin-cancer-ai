@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490936017,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:23:30.238Z",
+            "updatedAt": "2020-07-25T12:23:49.519Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        335
+                    ],
+                    [
+                        704,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936019,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:23:49.268Z",
+            "updatedAt": "2020-07-25T12:23:49.268Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        369
+                    ],
+                    [
+                        651,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

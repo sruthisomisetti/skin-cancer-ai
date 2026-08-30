@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1573
+    },
+    "objects": [
+        {
+            "id": 490793439,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:52:21.289Z",
+            "updatedAt": "2020-08-05T18:55:12.170Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        58
+                    ],
+                    [
+                        1208,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793454,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:52:47.184Z",
+            "updatedAt": "2020-08-05T18:55:12.170Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1314,
+                        104
+                    ],
+                    [
+                        1515,
+                        907
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951233,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:55:11.952Z",
+            "updatedAt": "2020-08-05T18:55:11.952Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        983,
+                        0
+                    ],
+                    [
+                        1195,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

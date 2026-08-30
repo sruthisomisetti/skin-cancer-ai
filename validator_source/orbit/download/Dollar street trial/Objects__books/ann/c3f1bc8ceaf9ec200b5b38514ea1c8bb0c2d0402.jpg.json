@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282181953,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T07:14:08.803Z",
+            "updatedAt": "2020-08-04T12:58:14.605Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        1
+                    ],
+                    [
+                        1001,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496563039,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:58:13.864Z",
+            "updatedAt": "2020-08-04T12:58:13.864Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        487
+                    ],
+                    [
+                        730,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488819745,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:15:45.931Z",
+            "updatedAt": "2020-07-20T19:16:20.686Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        608,
+                        220
+                    ],
+                    [
+                        770,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819748,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:16:05.015Z",
+            "updatedAt": "2020-07-20T19:16:20.686Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        565,
+                        735
+                    ],
+                    [
+                        637,
+                        841
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819754,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:16:20.483Z",
+            "updatedAt": "2020-07-20T19:16:20.483Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        1049,
+                        470
+                    ],
+                    [
+                        1241,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

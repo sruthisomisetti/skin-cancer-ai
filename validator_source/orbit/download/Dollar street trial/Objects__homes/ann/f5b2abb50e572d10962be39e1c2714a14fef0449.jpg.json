@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279083918,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:03:39.233Z",
+            "updatedAt": "2020-07-20T00:17:15.352Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        45
+                    ],
+                    [
+                        885,
+                        624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083938,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:04:21.248Z",
+            "updatedAt": "2020-07-20T00:17:15.352Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        273
+                    ],
+                    [
+                        495,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083948,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:04:35.342Z",
+            "updatedAt": "2020-07-20T00:17:15.352Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        374
+                    ],
+                    [
+                        377,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083956,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T13:04:52.589Z",
+            "updatedAt": "2020-07-20T00:17:15.352Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        561
+                    ],
+                    [
+                        619,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432497,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:17:15.130Z",
+            "updatedAt": "2020-07-20T00:17:15.130Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        854,
+                        452
+                    ],
+                    [
+                        985,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

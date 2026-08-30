@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 278317953,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:07:33.661Z",
+            "updatedAt": "2019-10-12T09:46:14.008Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        413
+                    ],
+                    [
+                        1282,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317961,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:07:47.290Z",
+            "updatedAt": "2019-10-12T09:46:21.777Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        1159,
+                        135
+                    ],
+                    [
+                        1290,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317973,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:08:03.509Z",
+            "updatedAt": "2019-10-08T20:08:28.259Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        28
+                    ],
+                    [
+                        676,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317996,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:08:28.036Z",
+            "updatedAt": "2019-10-08T20:08:28.036Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        990,
+                        285
+                    ],
+                    [
+                        1155,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

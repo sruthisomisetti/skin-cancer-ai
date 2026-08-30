@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278650983,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:55:36.544Z",
+            "updatedAt": "2020-07-27T15:11:22.161Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        44
+                    ],
+                    [
+                        575,
+                        571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278650990,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:55:57.063Z",
+            "updatedAt": "2020-07-27T15:11:22.161Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        740,
+                        110
+                    ],
+                    [
+                        850,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491207746,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:10:55.488Z",
+            "updatedAt": "2020-07-27T15:11:22.161Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        290
+                    ],
+                    [
+                        346,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491208634,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:11:21.954Z",
+            "updatedAt": "2020-07-27T15:11:21.954Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        204
+                    ],
+                    [
+                        746,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

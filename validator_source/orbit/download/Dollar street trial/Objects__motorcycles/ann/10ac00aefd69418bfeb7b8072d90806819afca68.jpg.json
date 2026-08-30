@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064216,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-13T18:45:54.105Z",
+            "updatedAt": "2020-07-22T12:34:22.510Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        214
+                    ],
+                    [
+                        905,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490041469,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T12:34:22.285Z",
+            "updatedAt": "2020-07-22T12:34:32.989Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        236
+                    ],
+                    [
+                        471,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

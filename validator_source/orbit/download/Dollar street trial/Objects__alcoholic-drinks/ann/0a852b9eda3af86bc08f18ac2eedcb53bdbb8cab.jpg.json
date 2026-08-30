@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051637,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T15:32:22.858Z",
+            "updatedAt": "2019-10-13T15:33:03.389Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        115
+                    ],
+                    [
+                        597,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051665,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T15:33:03.138Z",
+            "updatedAt": "2020-08-03T11:37:58.982Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        2
+                    ],
+                    [
+                        1024,
+                        454
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

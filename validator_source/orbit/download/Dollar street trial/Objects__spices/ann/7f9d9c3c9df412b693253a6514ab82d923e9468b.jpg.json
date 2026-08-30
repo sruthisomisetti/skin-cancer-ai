@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282920936,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T09:05:35.546Z",
+            "updatedAt": "2020-07-26T09:14:15.681Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        578
+                    ],
+                    [
+                        402,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282920938,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T09:05:39.567Z",
+            "updatedAt": "2020-07-26T09:14:15.681Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        640
+                    ],
+                    [
+                        274,
+                        694
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960128,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:14:15.490Z",
+            "updatedAt": "2020-07-26T09:14:15.490Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        578
+                    ],
+                    [
+                        547,
+                        711
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

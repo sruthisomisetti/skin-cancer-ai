@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490936592,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T14:33:32.793Z",
+            "updatedAt": "2020-07-25T14:33:46.931Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        620
+                    ],
+                    [
+                        437,
+                        696
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936593,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T14:33:46.700Z",
+            "updatedAt": "2020-07-25T14:33:46.700Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        375
+                    ],
+                    [
+                        671,
+                        728
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

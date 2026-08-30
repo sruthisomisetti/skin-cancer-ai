@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 490939690,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:18:52.716Z",
+            "updatedAt": "2020-07-25T19:19:27.549Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        142
+                    ],
+                    [
+                        1065,
+                        921
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939691,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:19:12.103Z",
+            "updatedAt": "2020-07-25T19:19:27.549Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        175
+                    ],
+                    [
+                        1127,
+                        776
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939694,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:19:27.359Z",
+            "updatedAt": "2020-07-25T19:19:27.359Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1205,
+                        596
+                    ],
+                    [
+                        1460,
+                        862
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

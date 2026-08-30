@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278861863,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:51:05.498Z",
+            "updatedAt": "2020-07-07T12:40:43.568Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        22
+                    ],
+                    [
+                        1354,
+                        983
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481503312,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T12:40:43.408Z",
+            "updatedAt": "2020-07-07T12:40:46.999Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1195,
+                        228
+                    ],
+                    [
+                        1304,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282324788,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:17:04.526Z",
+            "updatedAt": "2020-08-04T18:40:05.812Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        526
+                    ],
+                    [
+                        606,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418239,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:05:22.792Z",
+            "updatedAt": "2020-08-04T18:40:05.812Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        1047
+                    ],
+                    [
+                        755,
+                        1682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586144,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:40:05.587Z",
+            "updatedAt": "2020-08-04T18:40:05.587Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        925,
+                        470
+                    ],
+                    [
+                        1022,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278861879,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:51:27.512Z",
+            "updatedAt": "2020-07-07T12:43:20.814Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        66
+                    ],
+                    [
+                        723,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481503503,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T12:42:28.409Z",
+            "updatedAt": "2020-07-07T12:43:20.814Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        909,
+                        369
+                    ],
+                    [
+                        994,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481503589,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T12:43:20.671Z",
+            "updatedAt": "2020-07-07T12:43:20.671Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        989,
+                        421
+                    ],
+                    [
+                        1022,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

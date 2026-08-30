@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1500
+    },
+    "objects": [
+        {
+            "id": 282249428,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T11:58:39.070Z",
+            "updatedAt": "2020-07-26T08:34:42.753Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        174
+                    ],
+                    [
+                        1100,
+                        918
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490959998,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:34:26.016Z",
+            "updatedAt": "2020-07-26T08:34:42.753Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        200
+                    ],
+                    [
+                        521,
+                        873
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960001,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T08:34:42.547Z",
+            "updatedAt": "2020-07-26T08:34:42.547Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        3
+                    ],
+                    [
+                        1020,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 486107094,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:50:23.960Z",
+            "updatedAt": "2020-07-13T13:50:47.403Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        151
+                    ],
+                    [
+                        1357,
+                        1009
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107095,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:50:29.860Z",
+            "updatedAt": "2020-07-13T13:50:47.403Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1268,
+                        106
+                    ],
+                    [
+                        1320,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486107109,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:50:47.288Z",
+            "updatedAt": "2020-07-13T13:51:00.822Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        818
+                    ],
+                    [
+                        442,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

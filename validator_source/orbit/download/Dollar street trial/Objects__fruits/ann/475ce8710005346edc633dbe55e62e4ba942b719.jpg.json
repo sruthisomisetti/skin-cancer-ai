@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244791,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:29:01.798Z",
+            "updatedAt": "2020-07-18T15:48:19.056Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        249
+                    ],
+                    [
+                        931,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488331049,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:48:06.548Z",
+            "updatedAt": "2020-07-18T15:48:06.548Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        105
+                    ],
+                    [
+                        609,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

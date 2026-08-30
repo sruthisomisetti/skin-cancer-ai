@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 486836227,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T12:14:46.355Z",
+            "updatedAt": "2020-08-04T11:57:17.811Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        147
+                    ],
+                    [
+                        1341,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496556212,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:57:17.568Z",
+            "updatedAt": "2020-08-04T11:57:17.568Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        78
+                    ],
+                    [
+                        1388,
+                        779
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

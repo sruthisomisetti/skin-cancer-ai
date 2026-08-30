@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282066388,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:15:57.193Z",
+            "updatedAt": "2020-07-24T19:06:11.711Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        401
+                    ],
+                    [
+                        678,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918720,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:05:53.919Z",
+            "updatedAt": "2020-07-24T19:06:11.711Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        155
+                    ],
+                    [
+                        677,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918721,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:06:07.429Z",
+            "updatedAt": "2020-07-24T19:06:11.711Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        793,
+                        207
+                    ],
+                    [
+                        864,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918724,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:06:11.504Z",
+            "updatedAt": "2020-07-24T19:06:11.504Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        897,
+                        205
+                    ],
+                    [
+                        965,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

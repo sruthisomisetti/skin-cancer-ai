@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281872935,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T06:04:56.679Z",
+            "updatedAt": "2020-07-29T11:18:56.297Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        0
+                    ],
+                    [
+                        865,
+                        1538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494213212,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T11:18:55.937Z",
+            "updatedAt": "2020-07-29T11:18:55.937Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        811,
+                        627
+                    ],
+                    [
+                        958,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

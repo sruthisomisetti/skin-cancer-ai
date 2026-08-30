@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1512
+    },
+    "objects": [
+        {
+            "id": 488820543,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:13:53.498Z",
+            "updatedAt": "2020-07-20T20:14:43.486Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        53
+                    ],
+                    [
+                        829,
+                        804
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820552,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:14:28.716Z",
+            "updatedAt": "2020-07-20T20:14:43.486Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        821,
+                        255
+                    ],
+                    [
+                        1511,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820554,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T20:14:43.282Z",
+            "updatedAt": "2020-07-20T20:14:43.282Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        234
+                    ],
+                    [
+                        779,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

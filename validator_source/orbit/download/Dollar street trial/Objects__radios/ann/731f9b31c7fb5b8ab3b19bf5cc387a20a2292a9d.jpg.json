@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282049304,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:16:12.375Z",
+            "updatedAt": "2019-10-13T14:16:23.101Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        397
+                    ],
+                    [
+                        1203,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049308,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:16:22.916Z",
+            "updatedAt": "2019-10-13T14:16:22.916Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        183
+                    ],
+                    [
+                        766,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278858881,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:54:39.880Z",
+            "updatedAt": "2019-10-09T09:56:48.826Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        316
+                    ],
+                    [
+                        991,
+                        740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858907,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:55:08.468Z",
+            "updatedAt": "2019-10-09T09:56:48.826Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        800,
+                        818
+                    ],
+                    [
+                        1022,
+                        991
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858924,
+            "classId": 714985,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:55:32.711Z",
+            "updatedAt": "2019-10-09T09:56:48.826Z",
+            "tags": [],
+            "classTitle": "Wheel barrow",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        708
+                    ],
+                    [
+                        226,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858988,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:56:48.487Z",
+            "updatedAt": "2019-10-09T09:56:48.487Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        570
+                    ],
+                    [
+                        349,
+                        733
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

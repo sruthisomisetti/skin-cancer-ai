@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490793350,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:45:48.497Z",
+            "updatedAt": "2020-08-05T18:49:14.000Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        323
+                    ],
+                    [
+                        494,
+                        613
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793353,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:46:10.631Z",
+            "updatedAt": "2020-08-05T18:49:14.000Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        210
+                    ],
+                    [
+                        881,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793356,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:46:27.744Z",
+            "updatedAt": "2020-08-05T18:49:14.000Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        711,
+                        379
+                    ],
+                    [
+                        961,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951167,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:49:13.771Z",
+            "updatedAt": "2020-08-05T18:49:13.771Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        61
+                    ],
+                    [
+                        610,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

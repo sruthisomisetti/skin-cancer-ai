@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278804068,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T09:20:47.860Z",
+            "updatedAt": "2020-08-02T17:15:33.381Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        60
+                    ],
+                    [
+                        756,
+                        586
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495556799,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-02T17:15:33.078Z",
+            "updatedAt": "2020-08-02T17:15:33.078Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        704,
+                        1
+                    ],
+                    [
+                        1023,
+                        446
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

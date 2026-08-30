@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279084395,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T13:18:31.122Z",
+            "updatedAt": "2019-10-09T13:18:53.550Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        278
+                    ],
+                    [
+                        801,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279084401,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T13:18:40.036Z",
+            "updatedAt": "2019-10-09T13:18:53.550Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        210
+                    ],
+                    [
+                        430,
+                        707
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279084407,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T13:18:53.337Z",
+            "updatedAt": "2019-10-09T13:18:53.337Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        114
+                    ],
+                    [
+                        943,
+                        942
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

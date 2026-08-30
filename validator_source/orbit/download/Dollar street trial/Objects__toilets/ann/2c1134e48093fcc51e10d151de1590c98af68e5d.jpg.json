@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278307867,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:40:54.658Z",
+            "updatedAt": "2020-07-27T12:55:49.484Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        117
+                    ],
+                    [
+                        585,
+                        569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172845,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:55:49.262Z",
+            "updatedAt": "2020-07-27T12:55:49.262Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        314
+                    ],
+                    [
+                        398,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

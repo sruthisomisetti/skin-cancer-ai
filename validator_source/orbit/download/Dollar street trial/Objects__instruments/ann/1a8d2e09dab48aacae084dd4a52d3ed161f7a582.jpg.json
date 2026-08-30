@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051534,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:29:22.119Z",
+            "updatedAt": "2020-07-18T20:42:58.510Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        447
+                    ],
+                    [
+                        931,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338367,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:42:50.707Z",
+            "updatedAt": "2020-07-18T20:42:58.510Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        70
+                    ],
+                    [
+                        103,
+                        983
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338369,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:42:58.317Z",
+            "updatedAt": "2020-07-18T20:42:58.317Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        931,
+                        104
+                    ],
+                    [
+                        1018,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

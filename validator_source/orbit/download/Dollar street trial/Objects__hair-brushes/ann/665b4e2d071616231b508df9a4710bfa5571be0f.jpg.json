@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279514013,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-10T05:49:23.688Z",
+            "updatedAt": "2019-10-10T05:50:07.021Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        139
+                    ],
+                    [
+                        568,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279514019,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-10T05:49:35.768Z",
+            "updatedAt": "2019-10-10T05:50:07.021Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        128
+                    ],
+                    [
+                        677,
+                        569
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

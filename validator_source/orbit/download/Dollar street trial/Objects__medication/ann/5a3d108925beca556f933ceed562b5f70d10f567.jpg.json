@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282046702,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T12:03:43.575Z",
+            "updatedAt": "2019-10-14T18:49:16.475Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        40
+                    ],
+                    [
+                        967,
+                        759
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282431188,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T18:49:16.299Z",
+            "updatedAt": "2019-10-14T18:49:16.299Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        395
+                    ],
+                    [
+                        637,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

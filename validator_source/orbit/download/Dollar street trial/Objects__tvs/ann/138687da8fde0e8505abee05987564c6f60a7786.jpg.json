@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053752,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:38:28.864Z",
+            "updatedAt": "2019-10-13T16:39:20.253Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        192
+                    ],
+                    [
+                        681,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053789,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:39:14.468Z",
+            "updatedAt": "2019-10-13T16:39:20.253Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        333
+                    ],
+                    [
+                        367,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053794,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:39:20.004Z",
+            "updatedAt": "2019-10-13T16:39:20.004Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        948,
+                        525
+                    ],
+                    [
+                        1017,
+                        586
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

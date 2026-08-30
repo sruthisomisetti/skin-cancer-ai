@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279186840,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T16:38:46.573Z",
+            "updatedAt": "2020-08-03T20:19:53.390Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        124
+                    ],
+                    [
+                        597,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316511,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:19:53.018Z",
+            "updatedAt": "2020-08-03T20:19:53.018Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        207,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

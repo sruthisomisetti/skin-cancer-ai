@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282571033,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T20:40:48.368Z",
+            "updatedAt": "2020-07-19T11:57:33.427Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        422
+                    ],
+                    [
+                        983,
+                        804
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415806,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T11:57:33.228Z",
+            "updatedAt": "2020-07-19T11:57:33.228Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        748,
+                        238
+                    ],
+                    [
+                        956,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 279594972,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T09:08:53.737Z",
+            "updatedAt": "2020-08-08T19:45:29.558Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        94
+                    ],
+                    [
+                        1484,
+                        842
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279594978,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T09:08:59.845Z",
+            "updatedAt": "2020-08-08T19:45:29.558Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        139
+                    ],
+                    [
+                        778,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678194,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:44:27.195Z",
+            "updatedAt": "2020-08-08T19:45:29.558Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        1360,
+                        691
+                    ],
+                    [
+                        1817,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678195,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:44:51.601Z",
+            "updatedAt": "2020-08-08T19:45:29.558Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        1315,
+                        788
+                    ],
+                    [
+                        1476,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678196,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:44:56.718Z",
+            "updatedAt": "2020-08-08T19:45:29.558Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        1152,
+                        943
+                    ],
+                    [
+                        1257,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678197,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:45:14.916Z",
+            "updatedAt": "2020-08-08T19:45:29.558Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        689
+                    ],
+                    [
+                        633,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678198,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:45:29.358Z",
+            "updatedAt": "2020-08-08T19:45:29.358Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        544
+                    ],
+                    [
+                        501,
+                        746
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

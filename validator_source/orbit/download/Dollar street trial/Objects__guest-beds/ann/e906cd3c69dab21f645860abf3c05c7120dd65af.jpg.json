@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055370,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:39:33.025Z",
+            "updatedAt": "2020-07-19T12:43:29.056Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        293
+                    ],
+                    [
+                        1024,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416376,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:41:57.921Z",
+            "updatedAt": "2020-07-19T12:43:29.056Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        665,
+                        141
+                    ],
+                    [
+                        724,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416388,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:42:57.223Z",
+            "updatedAt": "2020-07-19T12:43:29.056Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        893,
+                        7
+                    ],
+                    [
+                        954,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416393,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:43:11.829Z",
+            "updatedAt": "2020-07-19T12:43:29.056Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        915,
+                        175
+                    ],
+                    [
+                        975,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488416399,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:43:28.810Z",
+            "updatedAt": "2020-07-19T12:43:28.810Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        245
+                    ],
+                    [
+                        234,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

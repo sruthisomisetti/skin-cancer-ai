@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278317680,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:00:34.552Z",
+            "updatedAt": "2019-10-12T09:38:41.191Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        69
+                    ],
+                    [
+                        858,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317690,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:00:47.558Z",
+            "updatedAt": "2019-10-12T09:38:41.191Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        79
+                    ],
+                    [
+                        656,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281918861,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T09:38:39.106Z",
+            "updatedAt": "2019-10-12T09:38:39.106Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        313
+                    ],
+                    [
+                        662,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

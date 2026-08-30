@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282376439,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:33:03.388Z",
+            "updatedAt": "2020-08-04T19:08:08.830Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        83
+                    ],
+                    [
+                        1461,
+                        941
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586838,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:08:08.616Z",
+            "updatedAt": "2020-08-04T19:08:08.616Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        17
+                    ],
+                    [
+                        255,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

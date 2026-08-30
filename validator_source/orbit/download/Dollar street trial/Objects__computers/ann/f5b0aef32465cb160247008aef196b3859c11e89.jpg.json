@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282376840,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:34:00.236Z",
+            "updatedAt": "2020-07-15T15:41:11.369Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        137
+                    ],
+                    [
+                        933,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487433321,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:41:11.173Z",
+            "updatedAt": "2020-07-15T15:41:11.173Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        784,
+                        129
+                    ],
+                    [
+                        1231,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488430244,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:00:10.600Z",
+            "updatedAt": "2020-07-19T21:01:16.511Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        915
+                    ],
+                    [
+                        285,
+                        969
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430245,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:00:28.377Z",
+            "updatedAt": "2020-07-19T21:01:16.511Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        1095,
+                        602
+                    ],
+                    [
+                        1273,
+                        779
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430246,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:00:49.276Z",
+            "updatedAt": "2020-07-19T21:01:16.511Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        928,
+                        450
+                    ],
+                    [
+                        1054,
+                        728
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430248,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:01:02.845Z",
+            "updatedAt": "2020-07-19T21:01:16.511Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        1384,
+                        3
+                    ],
+                    [
+                        1529,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430253,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:01:16.287Z",
+            "updatedAt": "2020-07-19T21:01:16.287Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        1493,
+                        839
+                    ],
+                    [
+                        1529,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

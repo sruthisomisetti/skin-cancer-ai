@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 490042732,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T13:08:15.499Z",
+            "updatedAt": "2020-08-05T13:43:34.890Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        106
+                    ],
+                    [
+                        1282,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496810917,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T13:42:33.617Z",
+            "updatedAt": "2020-08-05T13:43:34.890Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        534,
+                        37
+                    ],
+                    [
+                        911,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496810926,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T13:42:49.440Z",
+            "updatedAt": "2020-08-05T13:43:34.890Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        889,
+                        142
+                    ],
+                    [
+                        937,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496810950,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T13:43:34.664Z",
+            "updatedAt": "2020-08-05T13:43:34.664Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        940,
+                        346
+                    ],
+                    [
+                        1061,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

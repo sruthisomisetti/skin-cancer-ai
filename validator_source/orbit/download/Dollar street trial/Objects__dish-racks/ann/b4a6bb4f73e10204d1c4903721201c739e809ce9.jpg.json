@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487910079,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:37:33.129Z",
+            "updatedAt": "2020-08-07T20:03:16.045Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        636,
+                        374
+                    ],
+                    [
+                        896,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910083,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:37:51.997Z",
+            "updatedAt": "2020-08-07T20:03:16.045Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        195
+                    ],
+                    [
+                        1019,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910089,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:38:13.046Z",
+            "updatedAt": "2020-08-07T20:03:16.045Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        2
+                    ],
+                    [
+                        485,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000170,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T20:02:40.326Z",
+            "updatedAt": "2020-08-07T20:03:16.045Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        297
+                    ],
+                    [
+                        522,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000182,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T20:03:15.800Z",
+            "updatedAt": "2020-08-07T20:03:15.800Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        161
+                    ],
+                    [
+                        316,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278310807,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:10:05.949Z",
+            "updatedAt": "2020-07-28T17:41:54.131Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        6
+                    ],
+                    [
+                        856,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491890277,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T15:19:17.841Z",
+            "updatedAt": "2020-07-28T17:41:25.812Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        737,
+                        339
+                    ],
+                    [
+                        950,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491898970,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T17:41:25.494Z",
+            "updatedAt": "2020-07-28T17:41:25.494Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        419,
+                        0
+                    ],
+                    [
+                        856,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

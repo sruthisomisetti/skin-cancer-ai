@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279185657,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:05:22.334Z",
+            "updatedAt": "2020-07-18T14:15:57.161Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        227
+                    ],
+                    [
+                        587,
+                        487
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321970,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:15:10.884Z",
+            "updatedAt": "2020-07-18T14:15:57.161Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        490
+                    ],
+                    [
+                        332,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321972,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:15:22.144Z",
+            "updatedAt": "2020-07-18T14:15:57.161Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        524
+                    ],
+                    [
+                        224,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321973,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:15:28.094Z",
+            "updatedAt": "2020-07-18T14:15:57.161Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        449
+                    ],
+                    [
+                        364,
+                        659
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321974,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:15:51.899Z",
+            "updatedAt": "2020-07-18T14:15:57.161Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        530
+                    ],
+                    [
+                        619,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321976,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:15:56.964Z",
+            "updatedAt": "2020-07-18T14:16:00.532Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        551
+                    ],
+                    [
+                        683,
+                        570
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

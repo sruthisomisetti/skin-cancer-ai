@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282043221,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:52:10.843Z",
+            "updatedAt": "2019-10-13T09:52:21.056Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        264
+                    ],
+                    [
+                        1130,
+                        715
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282043223,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:52:15.417Z",
+            "updatedAt": "2019-10-13T09:52:18.428Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        58
+                    ],
+                    [
+                        1288,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282043224,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:52:20.829Z",
+            "updatedAt": "2019-10-13T09:52:20.829Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        891,
+                        293
+                    ],
+                    [
+                        1536,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

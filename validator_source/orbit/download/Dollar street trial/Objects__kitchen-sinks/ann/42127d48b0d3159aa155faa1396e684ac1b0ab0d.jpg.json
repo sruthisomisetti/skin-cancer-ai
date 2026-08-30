@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 281887580,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:00:41.738Z",
+            "updatedAt": "2019-10-12T08:01:24.540Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        615
+                    ],
+                    [
+                        1010,
+                        726
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887583,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:01:19.763Z",
+            "updatedAt": "2019-10-12T08:01:24.540Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        471
+                    ],
+                    [
+                        465,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887585,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:01:24.384Z",
+            "updatedAt": "2019-10-12T08:01:24.384Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        586
+                    ],
+                    [
+                        415,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

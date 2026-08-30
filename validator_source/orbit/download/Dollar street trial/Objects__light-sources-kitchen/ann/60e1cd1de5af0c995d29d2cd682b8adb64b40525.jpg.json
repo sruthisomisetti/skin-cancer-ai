@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 489180369,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:17:57.609Z",
+            "updatedAt": "2020-07-21T14:18:11.454Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        521,
+                        199
+                    ],
+                    [
+                        844,
+                        776
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489180384,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:18:11.163Z",
+            "updatedAt": "2020-07-21T14:18:35.030Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        912,
+                        222
+                    ],
+                    [
+                        1359,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

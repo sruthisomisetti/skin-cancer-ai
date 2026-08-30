@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278291431,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T18:21:31.493Z",
+            "updatedAt": "2019-10-08T18:21:43.555Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        145
+                    ],
+                    [
+                        664,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278291440,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T18:21:43.195Z",
+            "updatedAt": "2019-10-08T18:21:56.326Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        543
+                    ],
+                    [
+                        789,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

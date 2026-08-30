@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278961712,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-09T12:10:02.262Z",
+            "updatedAt": "2020-07-18T19:42:30.622Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        386
+                    ],
+                    [
+                        663,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488337771,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T19:42:30.425Z",
+            "updatedAt": "2020-07-18T19:42:30.425Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        316
+                    ],
+                    [
+                        247,
+                        749
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

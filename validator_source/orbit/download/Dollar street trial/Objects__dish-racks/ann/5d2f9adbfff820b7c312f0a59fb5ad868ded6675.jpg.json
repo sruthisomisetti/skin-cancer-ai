@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487907565,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:17:19.402Z",
+            "updatedAt": "2020-08-07T18:15:46.825Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        0
+                    ],
+                    [
+                        1527,
+                        1018
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907568,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:17:31.685Z",
+            "updatedAt": "2020-08-07T18:15:46.825Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        79
+                    ],
+                    [
+                        686,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907570,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:17:37.383Z",
+            "updatedAt": "2020-08-07T18:15:46.825Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1152,
+                        0
+                    ],
+                    [
+                        1530,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

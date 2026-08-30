@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279594200,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:57:30.657Z",
+            "updatedAt": "2020-08-08T19:09:55.266Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        348
+                    ],
+                    [
+                        786,
+                        802
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792510,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:02:40.635Z",
+            "updatedAt": "2020-08-08T19:09:55.266Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        825
+                    ],
+                    [
+                        606,
+                        936
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678028,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:09:55.052Z",
+            "updatedAt": "2020-08-08T19:09:55.052Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        197
+                    ],
+                    [
+                        299,
+                        1007
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

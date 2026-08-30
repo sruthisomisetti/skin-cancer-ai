@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279314545,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T19:10:40.094Z",
+            "updatedAt": "2020-07-20T08:37:18.861Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        273
+                    ],
+                    [
+                        895,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488477798,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:36:52.132Z",
+            "updatedAt": "2020-07-20T08:37:18.861Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        354
+                    ],
+                    [
+                        179,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488477807,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:36:58.405Z",
+            "updatedAt": "2020-07-20T08:37:18.861Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        272
+                    ],
+                    [
+                        494,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488477818,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:37:07.877Z",
+            "updatedAt": "2020-07-20T08:37:18.861Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        179
+                    ],
+                    [
+                        109,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488477827,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T08:37:18.627Z",
+            "updatedAt": "2020-07-20T08:37:18.627Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        21
+                    ],
+                    [
+                        315,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

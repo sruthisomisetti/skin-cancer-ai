@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281992791,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:11:52.808Z",
+            "updatedAt": "2019-10-12T19:12:22.465Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        311
+                    ],
+                    [
+                        446,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992794,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:12:10.862Z",
+            "updatedAt": "2019-10-12T19:12:22.465Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        307
+                    ],
+                    [
+                        683,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992796,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:12:22.278Z",
+            "updatedAt": "2019-10-12T19:12:29.145Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        310
+                    ],
+                    [
+                        523,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

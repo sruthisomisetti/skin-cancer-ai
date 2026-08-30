@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488320436,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:42:40.654Z",
+            "updatedAt": "2020-07-18T11:42:51.100Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        532
+                    ],
+                    [
+                        670,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320438,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:42:50.885Z",
+            "updatedAt": "2020-07-18T11:42:50.885Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        239
+                    ],
+                    [
+                        871,
+                        843
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1530
+    },
+    "objects": [
+        {
+            "id": 490988851,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:46:34.479Z",
+            "updatedAt": "2020-07-26T23:47:13.972Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        145
+                    ],
+                    [
+                        646,
+                        982
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988854,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:47:13.734Z",
+            "updatedAt": "2020-07-26T23:47:13.734Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1273,
+                        717
+                    ],
+                    [
+                        1343,
+                        780
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

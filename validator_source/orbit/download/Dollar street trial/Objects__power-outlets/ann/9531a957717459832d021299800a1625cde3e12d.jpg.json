@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279588271,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T08:05:25.419Z",
+            "updatedAt": "2019-10-11T16:47:37.225Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        309
+                    ],
+                    [
+                        625,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281224769,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T16:47:37.030Z",
+            "updatedAt": "2019-10-11T16:47:37.030Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        33
+                    ],
+                    [
+                        403,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

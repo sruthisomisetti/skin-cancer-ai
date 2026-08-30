@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490902808,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:54:14.885Z",
+            "updatedAt": "2020-07-24T12:54:33.391Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        115
+                    ],
+                    [
+                        906,
+                        905
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490902821,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:54:33.195Z",
+            "updatedAt": "2020-07-24T12:54:33.195Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        453
+                    ],
+                    [
+                        892,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

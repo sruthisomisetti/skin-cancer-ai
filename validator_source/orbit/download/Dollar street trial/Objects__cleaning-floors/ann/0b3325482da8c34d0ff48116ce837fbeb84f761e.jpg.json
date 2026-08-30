@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487344034,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:11:20.416Z",
+            "updatedAt": "2020-07-15T14:12:17.221Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        262
+                    ],
+                    [
+                        599,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487344040,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:11:37.673Z",
+            "updatedAt": "2020-07-15T14:12:17.221Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        647
+                    ],
+                    [
+                        591,
+                        741
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487344537,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:11:53.514Z",
+            "updatedAt": "2020-07-15T14:12:17.221Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        624,
+                        1082
+                    ],
+                    [
+                        824,
+                        1235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487344546,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:12:17.018Z",
+            "updatedAt": "2020-07-15T14:12:31.971Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        498
+                    ],
+                    [
+                        966,
+                        1340
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051885,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:39:48.311Z",
+            "updatedAt": "2019-10-13T15:40:43.547Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        0
+                    ],
+                    [
+                        503,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051923,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:40:43.296Z",
+            "updatedAt": "2019-10-13T15:40:48.763Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        463
+                    ],
+                    [
+                        591,
+                        531
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

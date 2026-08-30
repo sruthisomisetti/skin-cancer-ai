@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282953969,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T12:38:12.566Z",
+            "updatedAt": "2020-07-22T17:50:02.835Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        266
+                    ],
+                    [
+                        391,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490237743,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:49:49.119Z",
+            "updatedAt": "2020-07-22T17:50:02.835Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        73
+                    ],
+                    [
+                        696,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490237747,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:50:02.618Z",
+            "updatedAt": "2020-07-22T17:50:02.618Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        510
+                    ],
+                    [
+                        655,
+                        755
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

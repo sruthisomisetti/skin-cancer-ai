@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491100545,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T10:32:42.407Z",
+            "updatedAt": "2020-07-27T10:33:31.626Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        168
+                    ],
+                    [
+                        687,
+                        487
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491100594,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T10:33:31.403Z",
+            "updatedAt": "2020-07-27T10:33:31.403Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        134
+                    ],
+                    [
+                        597,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052544,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:02:08.290Z",
+            "updatedAt": "2020-07-18T20:51:11.901Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        672,
+                        21
+                    ],
+                    [
+                        895,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052551,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:02:22.657Z",
+            "updatedAt": "2020-07-18T20:51:11.901Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        134
+                    ],
+                    [
+                        741,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338520,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:51:11.642Z",
+            "updatedAt": "2020-07-18T20:51:11.642Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        237
+                    ],
+                    [
+                        426,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

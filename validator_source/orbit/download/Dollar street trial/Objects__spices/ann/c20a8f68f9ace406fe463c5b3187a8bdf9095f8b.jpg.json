@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282281016,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T13:10:40.112Z",
+            "updatedAt": "2020-07-26T12:30:08.876Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        258
+                    ],
+                    [
+                        676,
+                        545
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490961727,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T12:30:08.078Z",
+            "updatedAt": "2020-07-26T12:30:08.078Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        0
+                    ],
+                    [
+                        536,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

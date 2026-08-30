@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282053918,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T16:42:01.959Z",
+            "updatedAt": "2020-08-07T21:27:40.092Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        55
+                    ],
+                    [
+                        766,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000940,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:26:48.538Z",
+            "updatedAt": "2020-08-07T21:27:40.092Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        1322,
+                        319
+                    ],
+                    [
+                        1599,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000941,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:27:00.861Z",
+            "updatedAt": "2020-08-07T21:27:40.092Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        309
+                    ],
+                    [
+                        190,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000944,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:27:13.069Z",
+            "updatedAt": "2020-08-07T21:27:40.092Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        340
+                    ],
+                    [
+                        395,
+                        526
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000946,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:27:39.899Z",
+            "updatedAt": "2020-08-07T21:27:39.899Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        881,
+                        380
+                    ],
+                    [
+                        1641,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

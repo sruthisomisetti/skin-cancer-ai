@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488819501,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:01:43.597Z",
+            "updatedAt": "2020-07-20T19:05:25.549Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        740,
+                        328
+                    ],
+                    [
+                        839,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819503,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:02:00.775Z",
+            "updatedAt": "2020-07-20T19:02:00.775Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        880,
+                        850
+                    ],
+                    [
+                        1116,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

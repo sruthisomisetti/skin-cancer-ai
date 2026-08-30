@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487887637,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:00:59.977Z",
+            "updatedAt": "2020-07-17T12:01:21.811Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        580
+                    ],
+                    [
+                        709,
+                        796
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887641,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:01:10.841Z",
+            "updatedAt": "2020-07-17T12:01:21.811Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        804
+                    ],
+                    [
+                        848,
+                        961
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887643,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T12:01:21.601Z",
+            "updatedAt": "2020-07-17T12:01:21.601Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        679
+                    ],
+                    [
+                        664,
+                        1044
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

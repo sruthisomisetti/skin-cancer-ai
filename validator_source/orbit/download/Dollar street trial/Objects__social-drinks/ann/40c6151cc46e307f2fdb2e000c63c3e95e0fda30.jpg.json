@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 774
+    },
+    "objects": [
+        {
+            "id": 490939317,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:53:13.438Z",
+            "updatedAt": "2020-08-06T10:59:51.104Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        173
+                    ],
+                    [
+                        310,
+                        794
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939319,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:53:20.283Z",
+            "updatedAt": "2020-08-06T10:59:51.104Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        231
+                    ],
+                    [
+                        522,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939320,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:53:33.362Z",
+            "updatedAt": "2020-08-06T10:59:51.104Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        621,
+                        370
+                    ],
+                    [
+                        729,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497185070,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T10:59:50.037Z",
+            "updatedAt": "2020-08-06T10:59:50.037Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        54
+                    ],
+                    [
+                        446,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

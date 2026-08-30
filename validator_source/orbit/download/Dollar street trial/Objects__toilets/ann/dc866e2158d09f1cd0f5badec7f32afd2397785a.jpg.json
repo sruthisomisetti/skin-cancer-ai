@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1535
+    },
+    "objects": [
+        {
+            "id": 278651057,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:58:07.991Z",
+            "updatedAt": "2020-07-27T15:12:46.317Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        261
+                    ],
+                    [
+                        864,
+                        865
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278651061,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:58:24.923Z",
+            "updatedAt": "2020-07-27T15:12:46.317Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        833,
+                        641
+                    ],
+                    [
+                        1107,
+                        987
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278651062,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:58:36.253Z",
+            "updatedAt": "2020-07-27T15:12:46.317Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        1209,
+                        358
+                    ],
+                    [
+                        1323,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491209029,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:12:46.110Z",
+            "updatedAt": "2020-07-27T15:12:46.110Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        30
+                    ],
+                    [
+                        682,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

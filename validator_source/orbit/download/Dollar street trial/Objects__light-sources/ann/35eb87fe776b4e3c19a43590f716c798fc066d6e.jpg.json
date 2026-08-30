@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488819195,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:40:12.026Z",
+            "updatedAt": "2020-07-20T18:40:27.900Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        309
+                    ],
+                    [
+                        674,
+                        433
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819197,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:40:27.674Z",
+            "updatedAt": "2020-07-20T18:40:27.674Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        1155,
+                        294
+                    ],
+                    [
+                        1365,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

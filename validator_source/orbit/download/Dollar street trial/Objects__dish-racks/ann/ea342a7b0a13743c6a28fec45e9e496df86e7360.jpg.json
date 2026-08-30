@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 498000832,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:08:46.028Z",
+            "updatedAt": "2020-08-07T21:09:34.789Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        145
+                    ],
+                    [
+                        711,
+                        462
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000834,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:09:07.560Z",
+            "updatedAt": "2020-08-07T21:09:34.789Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        326
+                    ],
+                    [
+                        662,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000836,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:09:34.582Z",
+            "updatedAt": "2020-08-07T21:09:34.582Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        317
+                    ],
+                    [
+                        335,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

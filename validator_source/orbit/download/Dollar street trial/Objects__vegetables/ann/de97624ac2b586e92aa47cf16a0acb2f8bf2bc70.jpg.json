@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282043703,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T10:11:51.472Z",
+            "updatedAt": "2020-07-28T14:29:14.527Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        147
+                    ],
+                    [
+                        790,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491883051,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:29:14.349Z",
+            "updatedAt": "2020-07-28T14:29:14.349Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        64
+                    ],
+                    [
+                        1021,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

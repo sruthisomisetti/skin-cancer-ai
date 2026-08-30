@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 490941963,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:01:49.617Z",
+            "updatedAt": "2020-07-25T23:02:54.995Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        516
+                    ],
+                    [
+                        194,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941964,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:02:07.967Z",
+            "updatedAt": "2020-07-25T23:02:54.995Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        713
+                    ],
+                    [
+                        209,
+                        777
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941965,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:02:19.345Z",
+            "updatedAt": "2020-07-25T23:02:54.995Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        809,
+                        435
+                    ],
+                    [
+                        829,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941966,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:02:36.440Z",
+            "updatedAt": "2020-07-25T23:02:54.995Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        970,
+                        535
+                    ],
+                    [
+                        1368,
+                        717
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941967,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:02:54.766Z",
+            "updatedAt": "2020-07-25T23:02:59.876Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        412
+                    ],
+                    [
+                        1431,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

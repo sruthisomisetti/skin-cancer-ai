@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278961730,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:10:28.420Z",
+            "updatedAt": "2020-07-26T13:43:16.201Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        105
+                    ],
+                    [
+                        881,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962863,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:42:44.284Z",
+            "updatedAt": "2020-07-26T13:43:16.201Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        48
+                    ],
+                    [
+                        888,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962864,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:42:55.925Z",
+            "updatedAt": "2020-07-26T13:43:16.201Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        587
+                    ],
+                    [
+                        902,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962870,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:43:15.968Z",
+            "updatedAt": "2020-07-26T13:43:15.968Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        0
+                    ],
+                    [
+                        544,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052062,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T15:45:01.289Z",
+            "updatedAt": "2019-10-13T15:52:18.618Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        184
+                    ],
+                    [
+                        228,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052264,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T15:52:12.194Z",
+            "updatedAt": "2019-10-13T15:52:18.618Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        198
+                    ],
+                    [
+                        701,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052267,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T15:52:18.325Z",
+            "updatedAt": "2019-10-13T15:52:18.325Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        504
+                    ],
+                    [
+                        409,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487868338,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T10:44:01.140Z",
+            "updatedAt": "2020-07-17T10:44:17.014Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        49
+                    ],
+                    [
+                        572,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487868346,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T10:44:16.836Z",
+            "updatedAt": "2020-07-17T10:44:16.836Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        42
+                    ],
+                    [
+                        594,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

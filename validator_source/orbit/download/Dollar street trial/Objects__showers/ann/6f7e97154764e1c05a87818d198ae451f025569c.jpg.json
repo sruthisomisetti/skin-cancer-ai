@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 490985186,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:54:31.862Z",
+            "updatedAt": "2020-07-26T22:54:47.834Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        135
+                    ],
+                    [
+                        674,
+                        710
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985187,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:54:47.632Z",
+            "updatedAt": "2020-07-26T22:54:47.632Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        596
+                    ],
+                    [
+                        304,
+                        943
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

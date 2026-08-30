@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490902355,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:46:42.947Z",
+            "updatedAt": "2020-08-05T20:20:52.879Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        144
+                    ],
+                    [
+                        872,
+                        891
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496955479,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T20:20:39.486Z",
+            "updatedAt": "2020-08-05T20:20:52.879Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        642,
+                        367
+                    ],
+                    [
+                        833,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496955481,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T20:20:52.626Z",
+            "updatedAt": "2020-08-05T20:20:52.626Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        658
+                    ],
+                    [
+                        706,
+                        844
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

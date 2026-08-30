@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279199761,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:13:35.135Z",
+            "updatedAt": "2020-08-03T20:45:13.063Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        228
+                    ],
+                    [
+                        876,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316921,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:44:46.010Z",
+            "updatedAt": "2020-08-03T20:45:13.063Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        585
+                    ],
+                    [
+                        95,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316930,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:45:12.877Z",
+            "updatedAt": "2020-08-03T20:45:12.877Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        2
+                    ],
+                    [
+                        659,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

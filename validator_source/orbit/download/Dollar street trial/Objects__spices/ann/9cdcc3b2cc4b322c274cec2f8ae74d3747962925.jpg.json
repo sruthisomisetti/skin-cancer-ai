@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282253546,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T12:54:38.746Z",
+            "updatedAt": "2020-07-26T09:24:26.683Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        132
+                    ],
+                    [
+                        955,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960151,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:24:26.497Z",
+            "updatedAt": "2020-07-26T09:24:26.497Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        262
+                    ],
+                    [
+                        747,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

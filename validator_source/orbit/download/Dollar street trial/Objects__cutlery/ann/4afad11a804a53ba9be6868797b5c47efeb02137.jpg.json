@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1539
+    },
+    "objects": [
+        {
+            "id": 279315359,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T19:25:41.426Z",
+            "updatedAt": "2020-07-16T11:43:20.215Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1029,
+                        618
+                    ],
+                    [
+                        1305,
+                        921
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487704985,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T11:43:19.940Z",
+            "updatedAt": "2020-07-16T11:43:25.559Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        586
+                    ],
+                    [
+                        407,
+                        857
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

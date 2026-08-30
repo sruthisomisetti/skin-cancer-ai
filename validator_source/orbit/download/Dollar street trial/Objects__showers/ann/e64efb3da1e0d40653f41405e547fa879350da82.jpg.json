@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988926,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:10:18.925Z",
+            "updatedAt": "2020-07-27T00:10:32.598Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        196
+                    ],
+                    [
+                        576,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988927,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:10:32.319Z",
+            "updatedAt": "2020-07-27T00:10:32.319Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        822,
+                        437
+                    ],
+                    [
+                        914,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

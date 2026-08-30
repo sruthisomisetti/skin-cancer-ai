@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 496736472,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:08:45.542Z",
+            "updatedAt": "2020-08-05T09:09:15.649Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        302
+                    ],
+                    [
+                        854,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496736488,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:08:58.640Z",
+            "updatedAt": "2020-08-05T09:09:15.649Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        795,
+                        502
+                    ],
+                    [
+                        870,
+                        543
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496736503,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:09:15.482Z",
+            "updatedAt": "2020-08-05T09:09:15.482Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        597
+                    ],
+                    [
+                        820,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

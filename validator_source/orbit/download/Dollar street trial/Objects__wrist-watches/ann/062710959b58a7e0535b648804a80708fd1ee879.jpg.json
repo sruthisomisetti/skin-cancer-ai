@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 576,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282212499,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-14T09:25:49.520Z",
+            "updatedAt": "2020-07-29T15:16:02.144Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        64
+                    ],
+                    [
+                        532,
+                        576
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494230043,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T15:16:01.916Z",
+            "updatedAt": "2020-07-29T15:16:01.916Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        58
+                    ],
+                    [
+                        266,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

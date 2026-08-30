@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282057992,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:14:37.495Z",
+            "updatedAt": "2020-07-28T12:26:52.199Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        9
+                    ],
+                    [
+                        848,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282060241,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:16:14.577Z",
+            "updatedAt": "2020-07-28T12:26:52.199Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        456
+                    ],
+                    [
+                        880,
+                        831
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490489,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:26:30.078Z",
+            "updatedAt": "2020-07-28T12:26:52.199Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        874,
+                        653
+                    ],
+                    [
+                        1137,
+                        817
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490507,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:26:51.826Z",
+            "updatedAt": "2020-07-28T12:26:51.826Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        943,
+                        430
+                    ],
+                    [
+                        962,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

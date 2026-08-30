@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278310433,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:03:47.385Z",
+            "updatedAt": "2020-07-20T15:19:50.586Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        211
+                    ],
+                    [
+                        824,
+                        655
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310442,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:03:59.963Z",
+            "updatedAt": "2020-07-20T15:19:50.586Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        184
+                    ],
+                    [
+                        233,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310454,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:04:12.091Z",
+            "updatedAt": "2020-07-20T15:19:50.586Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        272
+                    ],
+                    [
+                        148,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488715899,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:19:20.158Z",
+            "updatedAt": "2020-07-20T15:19:50.586Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        427,
+                        271
+                    ],
+                    [
+                        511,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488715917,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:19:50.308Z",
+            "updatedAt": "2020-07-20T15:19:54.557Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        328
+                    ],
+                    [
+                        608,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

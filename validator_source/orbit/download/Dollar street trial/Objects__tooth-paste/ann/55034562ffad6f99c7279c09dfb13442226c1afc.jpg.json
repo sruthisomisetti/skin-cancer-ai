@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1504
+    },
+    "objects": [
+        {
+            "id": 281218907,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-11T16:03:22.936Z",
+            "updatedAt": "2020-07-27T19:00:47.628Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        167
+                    ],
+                    [
+                        1091,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281218920,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-11T16:03:45.436Z",
+            "updatedAt": "2020-07-27T19:00:47.628Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1118,
+                        690
+                    ],
+                    [
+                        1340,
+                        900
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491231397,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T19:00:47.345Z",
+            "updatedAt": "2020-07-27T19:00:47.345Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        445
+                    ],
+                    [
+                        386,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

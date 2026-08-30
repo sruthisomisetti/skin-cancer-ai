@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279622958,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T12:13:05.726Z",
+            "updatedAt": "2020-08-03T21:03:44.724Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        53
+                    ],
+                    [
+                        1455,
+                        1014
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326851,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:03:23.285Z",
+            "updatedAt": "2020-08-03T21:03:44.724Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        609,
+                        238
+                    ],
+                    [
+                        659,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326858,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:03:44.481Z",
+            "updatedAt": "2020-08-03T21:03:44.481Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1416,
+                        499
+                    ],
+                    [
+                        1535,
+                        638
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487907691,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:23:42.873Z",
+            "updatedAt": "2020-07-17T19:24:04.852Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        1084,
+                        243
+                    ],
+                    [
+                        1448,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907695,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:23:55.121Z",
+            "updatedAt": "2020-07-17T19:24:04.852Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        325
+                    ],
+                    [
+                        747,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907697,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:24:04.565Z",
+            "updatedAt": "2020-07-17T19:24:04.565Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        717,
+                        263
+                    ],
+                    [
+                        914,
+                        781
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

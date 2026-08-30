@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278194986,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-08T17:11:46.894Z",
+            "updatedAt": "2020-08-03T20:14:00.127Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        360
+                    ],
+                    [
+                        721,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316055,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:13:37.377Z",
+            "updatedAt": "2020-08-03T20:14:00.127Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        12
+                    ],
+                    [
+                        706,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316061,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:13:59.924Z",
+            "updatedAt": "2020-08-03T20:13:59.924Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        392
+                    ],
+                    [
+                        254,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

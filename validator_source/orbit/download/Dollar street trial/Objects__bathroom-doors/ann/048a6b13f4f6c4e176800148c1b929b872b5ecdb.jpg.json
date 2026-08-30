@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 496308353,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:21:41.441Z",
+            "updatedAt": "2020-08-03T17:22:07.995Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        846,
+                        254
+                    ],
+                    [
+                        928,
+                        891
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308356,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:22:07.780Z",
+            "updatedAt": "2020-08-03T17:22:07.780Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        808,
+                        386
+                    ],
+                    [
+                        869,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

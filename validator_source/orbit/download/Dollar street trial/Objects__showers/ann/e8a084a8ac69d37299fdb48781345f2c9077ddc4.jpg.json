@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988928,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:10:47.872Z",
+            "updatedAt": "2020-08-05T22:57:12.657Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        80
+                    ],
+                    [
+                        696,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988929,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:11:00.055Z",
+            "updatedAt": "2020-08-05T22:57:12.657Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        790,
+                        711
+                    ],
+                    [
+                        844,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496963150,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:57:12.453Z",
+            "updatedAt": "2020-08-05T22:57:12.453Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        682
+                    ],
+                    [
+                        483,
+                        760
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

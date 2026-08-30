@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282055534,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T17:48:15.906Z",
+            "updatedAt": "2020-07-16T21:17:57.172Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        19
+                    ],
+                    [
+                        1208,
+                        991
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777760,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:17:19.485Z",
+            "updatedAt": "2020-07-16T21:17:57.172Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        92
+                    ],
+                    [
+                        1086,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777761,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:17:24.965Z",
+            "updatedAt": "2020-07-16T21:17:57.172Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        129
+                    ],
+                    [
+                        389,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777764,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:17:44.502Z",
+            "updatedAt": "2020-07-16T21:17:57.172Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        483
+                    ],
+                    [
+                        791,
+                        769
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777765,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:17:56.986Z",
+            "updatedAt": "2020-07-16T21:17:56.986Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        408
+                    ],
+                    [
+                        507,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

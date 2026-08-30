@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 278187842,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-08T16:49:53.018Z",
+            "updatedAt": "2020-08-03T19:52:57.651Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        198
+                    ],
+                    [
+                        1135,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483113790,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:42:05.763Z",
+            "updatedAt": "2020-08-03T19:52:57.651Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        1032,
+                        123
+                    ],
+                    [
+                        1534,
+                        836
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483113827,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:42:22.622Z",
+            "updatedAt": "2020-08-03T19:52:57.651Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        1244,
+                        804
+                    ],
+                    [
+                        1460,
+                        950
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314707,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:52:08.701Z",
+            "updatedAt": "2020-08-03T19:52:57.651Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        921
+                    ],
+                    [
+                        277,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314713,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:52:57.319Z",
+            "updatedAt": "2020-08-03T19:52:57.319Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        1052,
+                        724
+                    ],
+                    [
+                        1216,
+                        816
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

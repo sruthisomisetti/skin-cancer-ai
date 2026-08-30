@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064429,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T18:59:01.599Z",
+            "updatedAt": "2020-08-04T10:32:12.688Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        266
+                    ],
+                    [
+                        955,
+                        892
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496553145,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T10:31:54.922Z",
+            "updatedAt": "2020-08-04T10:32:12.688Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        725,
+                        744
+                    ],
+                    [
+                        880,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496553265,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T10:32:12.501Z",
+            "updatedAt": "2020-08-04T10:32:12.501Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        236
+                    ],
+                    [
+                        325,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

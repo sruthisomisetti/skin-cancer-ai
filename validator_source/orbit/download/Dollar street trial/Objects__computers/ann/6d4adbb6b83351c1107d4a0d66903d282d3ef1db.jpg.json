@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282323535,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:13:52.059Z",
+            "updatedAt": "2020-07-15T15:03:38.465Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        205
+                    ],
+                    [
+                        627,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487418179,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:03:38.281Z",
+            "updatedAt": "2020-07-15T15:03:38.281Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        423
+                    ],
+                    [
+                        114,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

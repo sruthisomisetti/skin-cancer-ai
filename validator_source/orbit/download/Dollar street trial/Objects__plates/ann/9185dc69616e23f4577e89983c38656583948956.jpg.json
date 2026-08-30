@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279591996,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:46:55.108Z",
+            "updatedAt": "2020-08-08T18:54:54.005Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        384
+                    ],
+                    [
+                        784,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279592007,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:47:05.842Z",
+            "updatedAt": "2020-08-08T18:54:54.005Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        534
+                    ],
+                    [
+                        600,
+                        775
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279592021,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:47:19.732Z",
+            "updatedAt": "2020-08-08T18:54:54.005Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        97
+                    ],
+                    [
+                        330,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677871,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:54:20.119Z",
+            "updatedAt": "2020-08-08T18:54:54.005Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        580
+                    ],
+                    [
+                        446,
+                        888
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677875,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:54:53.819Z",
+            "updatedAt": "2020-08-08T18:54:53.819Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        56
+                    ],
+                    [
+                        647,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

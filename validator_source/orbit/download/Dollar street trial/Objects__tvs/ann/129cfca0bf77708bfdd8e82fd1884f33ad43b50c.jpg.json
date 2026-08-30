@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053587,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:35:02.765Z",
+            "updatedAt": "2020-07-28T11:57:38.775Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        275
+                    ],
+                    [
+                        697,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053708,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T16:37:24.892Z",
+            "updatedAt": "2020-07-28T11:57:38.775Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        539,
+                        140
+                    ],
+                    [
+                        659,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491489177,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T11:57:23.331Z",
+            "updatedAt": "2020-07-28T11:57:38.775Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        57
+                    ],
+                    [
+                        535,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491489194,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T11:57:38.604Z",
+            "updatedAt": "2020-07-28T11:57:38.604Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        871,
+                        90
+                    ],
+                    [
+                        1023,
+                        445
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

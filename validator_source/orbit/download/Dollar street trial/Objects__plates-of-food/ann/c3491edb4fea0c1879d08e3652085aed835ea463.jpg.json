@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490902508,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:48:33.979Z",
+            "updatedAt": "2020-08-05T20:22:12.219Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        198
+                    ],
+                    [
+                        1023,
+                        1559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496955489,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T20:21:57.454Z",
+            "updatedAt": "2020-08-05T20:22:12.219Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        769
+                    ],
+                    [
+                        484,
+                        1151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496955491,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T20:22:12.013Z",
+            "updatedAt": "2020-08-05T20:22:12.013Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        990
+                    ],
+                    [
+                        859,
+                        1399
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

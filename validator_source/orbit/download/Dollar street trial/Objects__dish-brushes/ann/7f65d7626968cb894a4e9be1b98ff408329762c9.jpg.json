@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 281218993,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-11T16:05:26.733Z",
+            "updatedAt": "2019-10-11T17:34:20.868Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        343
+                    ],
+                    [
+                        569,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281219002,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-11T16:05:40.049Z",
+            "updatedAt": "2019-10-11T17:34:20.868Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        499
+                    ],
+                    [
+                        609,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281227153,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T17:34:20.683Z",
+            "updatedAt": "2020-07-16T19:08:36.189Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        57
+                    ],
+                    [
+                        1167,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

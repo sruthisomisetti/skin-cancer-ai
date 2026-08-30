@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490935695,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:55:57.108Z",
+            "updatedAt": "2020-07-25T10:56:10.950Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        337
+                    ],
+                    [
+                        824,
+                        574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935697,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:56:10.759Z",
+            "updatedAt": "2020-07-25T10:56:10.759Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        447
+                    ],
+                    [
+                        638,
+                        589
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

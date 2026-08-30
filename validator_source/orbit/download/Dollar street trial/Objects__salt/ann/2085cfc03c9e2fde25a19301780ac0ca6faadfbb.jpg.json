@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490935685,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:53:14.850Z",
+            "updatedAt": "2020-07-25T10:53:29.173Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1023,
+                        96
+                    ],
+                    [
+                        1359,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935686,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:53:28.937Z",
+            "updatedAt": "2020-07-25T10:53:28.937Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        247
+                    ],
+                    [
+                        789,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282048183,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T13:24:30.455Z",
+            "updatedAt": "2019-10-13T13:24:38.115Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        65
+                    ],
+                    [
+                        953,
+                        1011
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282048186,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T13:24:37.983Z",
+            "updatedAt": "2019-10-13T13:24:42.741Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        1268,
+                        32
+                    ],
+                    [
+                        1817,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

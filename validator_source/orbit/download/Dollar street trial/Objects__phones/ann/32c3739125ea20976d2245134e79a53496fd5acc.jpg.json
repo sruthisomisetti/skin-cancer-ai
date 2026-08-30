@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279854773,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T15:58:54.581Z",
+            "updatedAt": "2020-07-23T11:16:57.704Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        261
+                    ],
+                    [
+                        344,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490557665,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:16:11.654Z",
+            "updatedAt": "2020-07-23T11:16:57.704Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        609,
+                        57
+                    ],
+                    [
+                        661,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490557672,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:16:26.275Z",
+            "updatedAt": "2020-07-23T11:16:57.704Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        741,
+                        301
+                    ],
+                    [
+                        1019,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490557676,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:16:40.627Z",
+            "updatedAt": "2020-07-23T11:16:57.704Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        214
+                    ],
+                    [
+                        596,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490557685,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T11:16:57.468Z",
+            "updatedAt": "2020-07-23T11:17:02.446Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        705,
+                        156
+                    ],
+                    [
+                        977,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282442724,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T19:50:47.257Z",
+            "updatedAt": "2020-07-18T11:40:54.707Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        111
+                    ],
+                    [
+                        1100,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320426,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:40:32.063Z",
+            "updatedAt": "2020-07-18T11:40:54.707Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        736,
+                        48
+                    ],
+                    [
+                        1167,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320428,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:40:54.493Z",
+            "updatedAt": "2020-07-18T11:40:54.493Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        1142,
+                        1
+                    ],
+                    [
+                        1373,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281993413,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:02:09.556Z",
+            "updatedAt": "2019-10-13T07:04:05.803Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        0
+                    ],
+                    [
+                        709,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282039073,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T07:03:34.041Z",
+            "updatedAt": "2019-10-13T07:04:05.803Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        431
+                    ],
+                    [
+                        790,
+                        696
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282039092,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T07:04:03.583Z",
+            "updatedAt": "2019-10-13T07:04:03.583Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        630
+                    ],
+                    [
+                        982,
+                        951
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

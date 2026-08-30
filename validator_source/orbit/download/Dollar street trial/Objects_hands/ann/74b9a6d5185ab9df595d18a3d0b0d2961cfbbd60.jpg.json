@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 271941392,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:26:10.902Z",
+            "updatedAt": "2020-07-30T12:03:02.899Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        850,
+                        116
+                    ],
+                    [
+                        1564,
+                        947
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271941393,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:26:10.902Z",
+            "updatedAt": "2020-07-30T12:03:02.899Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        155
+                    ],
+                    [
+                        856,
+                        918
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494569336,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T12:03:02.570Z",
+            "updatedAt": "2020-07-30T12:03:02.570Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        999,
+                        831
+                    ],
+                    [
+                        1257,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

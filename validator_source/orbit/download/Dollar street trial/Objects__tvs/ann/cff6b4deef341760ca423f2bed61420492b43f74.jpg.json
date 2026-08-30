@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1819
+    },
+    "objects": [
+        {
+            "id": 282065169,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:32:39.904Z",
+            "updatedAt": "2020-07-28T12:56:26.924Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        272
+                    ],
+                    [
+                        1283,
+                        813
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065173,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:32:50.635Z",
+            "updatedAt": "2020-07-28T12:56:42.107Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        1221,
+                        0
+                    ],
+                    [
+                        1814,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867475,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:56:12.389Z",
+            "updatedAt": "2020-07-28T12:56:26.924Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        487,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867487,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:56:26.626Z",
+            "updatedAt": "2020-07-28T12:56:26.626Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        25
+                    ],
+                    [
+                        1016,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

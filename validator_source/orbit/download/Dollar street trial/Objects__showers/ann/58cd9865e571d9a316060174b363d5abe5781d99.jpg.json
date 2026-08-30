@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985145,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:35:03.422Z",
+            "updatedAt": "2020-08-05T22:17:18.295Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        734
+                    ],
+                    [
+                        1007,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985147,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:35:24.520Z",
+            "updatedAt": "2020-08-05T22:17:18.295Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        326
+                    ],
+                    [
+                        286,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985148,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:35:43.403Z",
+            "updatedAt": "2020-08-05T22:17:18.295Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        386
+                    ],
+                    [
+                        353,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985152,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:37:20.192Z",
+            "updatedAt": "2020-08-05T22:17:18.295Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        554
+                    ],
+                    [
+                        614,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962351,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:17:18.062Z",
+            "updatedAt": "2020-08-05T22:17:18.062Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        33
+                    ],
+                    [
+                        731,
+                        847
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281888076,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:49:12.545Z",
+            "updatedAt": "2019-10-12T08:50:05.712Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        133
+                    ],
+                    [
+                        961,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281888079,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:49:19.241Z",
+            "updatedAt": "2019-10-12T08:50:05.712Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        576,
+                        232
+                    ],
+                    [
+                        674,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281888083,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:49:42.886Z",
+            "updatedAt": "2019-10-12T08:50:05.712Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        400
+                    ],
+                    [
+                        263,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281888088,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:50:04.964Z",
+            "updatedAt": "2019-10-12T08:50:15.673Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        428
+                    ],
+                    [
+                        350,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

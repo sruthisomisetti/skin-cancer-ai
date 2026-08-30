@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279518025,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T06:55:44.029Z",
+            "updatedAt": "2020-07-23T19:45:34.781Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        87
+                    ],
+                    [
+                        682,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279518034,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T06:55:52.565Z",
+            "updatedAt": "2020-07-23T19:45:34.781Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        845,
+                        228
+                    ],
+                    [
+                        1355,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279518066,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T06:56:13.292Z",
+            "updatedAt": "2020-07-23T19:45:34.781Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        610
+                    ],
+                    [
+                        522,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279518072,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T06:56:21.931Z",
+            "updatedAt": "2020-07-23T19:45:34.781Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        610
+                    ],
+                    [
+                        729,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490788347,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T19:45:26.495Z",
+            "updatedAt": "2020-07-23T19:45:34.781Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        866,
+                        580
+                    ],
+                    [
+                        1077,
+                        857
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490788355,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T19:45:34.542Z",
+            "updatedAt": "2020-07-23T19:45:34.542Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1104,
+                        605
+                    ],
+                    [
+                        1306,
+                        850
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279311686,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:45:26.995Z",
+            "updatedAt": "2019-10-15T15:48:30.885Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        0
+                    ],
+                    [
+                        1225,
+                        806
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282961765,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:48:23.533Z",
+            "updatedAt": "2019-10-15T15:48:30.885Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        788
+                    ],
+                    [
+                        1274,
+                        979
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282961769,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:48:30.697Z",
+            "updatedAt": "2019-10-15T15:48:30.697Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        752
+                    ],
+                    [
+                        623,
+                        931
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

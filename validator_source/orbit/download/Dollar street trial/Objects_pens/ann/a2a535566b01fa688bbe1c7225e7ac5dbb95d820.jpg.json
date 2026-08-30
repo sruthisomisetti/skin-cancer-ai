@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282425078,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:30:01.074Z",
+            "updatedAt": "2020-07-30T16:33:19.996Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        264
+                    ],
+                    [
+                        661,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490307349,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T20:39:03.421Z",
+            "updatedAt": "2020-07-30T16:33:19.996Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        0
+                    ],
+                    [
+                        497,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494854634,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:33:11.714Z",
+            "updatedAt": "2020-07-30T16:33:19.996Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        440
+                    ],
+                    [
+                        768,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494854636,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:33:19.773Z",
+            "updatedAt": "2020-07-30T16:33:19.773Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        751,
+                        462
+                    ],
+                    [
+                        910,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

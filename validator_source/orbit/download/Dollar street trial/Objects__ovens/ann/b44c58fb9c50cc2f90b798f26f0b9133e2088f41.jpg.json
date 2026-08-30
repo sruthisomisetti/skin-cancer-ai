@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 282422024,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-14T15:46:38.929Z",
+            "updatedAt": "2020-07-22T17:33:13.881Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        623,
+                        234
+                    ],
+                    [
+                        873,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490234113,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:33:13.644Z",
+            "updatedAt": "2020-07-22T17:33:13.644Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        1173,
+                        849
+                    ],
+                    [
+                        1422,
+                        1007
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

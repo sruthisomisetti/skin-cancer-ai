@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271931835,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:15.652Z",
+            "updatedAt": "2019-10-13T11:06:24.837Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        153
+                    ],
+                    [
+                        636,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044791,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T11:06:24.608Z",
+            "updatedAt": "2019-10-13T11:06:28.597Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        49
+                    ],
+                    [
+                        918,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282050053,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:04:36.587Z",
+            "updatedAt": "2020-07-24T17:17:02.741Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        267
+                    ],
+                    [
+                        574,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914869,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:15:38.712Z",
+            "updatedAt": "2020-07-24T17:17:02.741Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        58
+                    ],
+                    [
+                        575,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914872,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:15:50.611Z",
+            "updatedAt": "2020-07-24T17:17:02.741Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        615,
+                        311
+                    ],
+                    [
+                        858,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914877,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:16:03.040Z",
+            "updatedAt": "2020-07-24T17:17:02.741Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        408
+                    ],
+                    [
+                        886,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914884,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:16:19.881Z",
+            "updatedAt": "2020-07-24T17:17:02.741Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        860,
+                        364
+                    ],
+                    [
+                        1021,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490914900,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:17:02.485Z",
+            "updatedAt": "2020-07-24T17:17:02.485Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        295
+                    ],
+                    [
+                        274,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

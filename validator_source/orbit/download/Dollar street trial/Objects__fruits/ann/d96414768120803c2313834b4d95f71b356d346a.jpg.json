@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282246197,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:46:33.884Z",
+            "updatedAt": "2020-08-05T11:22:33.293Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        143,
+                        38
+                    ],
+                    [
+                        789,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496753262,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T11:22:33.082Z",
+            "updatedAt": "2020-08-05T11:22:33.082Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        583,
+                        168
+                    ],
+                    [
+                        1019,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

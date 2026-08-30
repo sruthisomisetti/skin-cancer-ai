@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054201,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T16:51:00.677Z",
+            "updatedAt": "2020-07-20T00:25:50.942Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        713,
+                        476
+                    ],
+                    [
+                        833,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432543,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:25:46.596Z",
+            "updatedAt": "2020-07-20T00:25:50.942Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        473
+                    ],
+                    [
+                        472,
+                        1176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432544,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:25:50.746Z",
+            "updatedAt": "2020-07-20T00:25:58.167Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        123
+                    ],
+                    [
+                        1024,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

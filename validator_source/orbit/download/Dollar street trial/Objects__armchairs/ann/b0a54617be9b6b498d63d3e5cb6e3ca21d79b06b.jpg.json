@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278952943,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:43:26.201Z",
+            "updatedAt": "2020-07-07T15:11:28.973Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        129
+                    ],
+                    [
+                        1375,
+                        976
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278952951,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:43:37.596Z",
+            "updatedAt": "2020-07-07T15:11:28.973Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        423
+                    ],
+                    [
+                        579,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481527537,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T15:11:08.081Z",
+            "updatedAt": "2020-07-07T15:11:28.973Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        858
+                    ],
+                    [
+                        963,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481527580,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T15:11:28.829Z",
+            "updatedAt": "2020-07-07T15:11:31.835Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1356,
+                        783
+                    ],
+                    [
+                        1523,
+                        860
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

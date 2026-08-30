@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279083897,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:03:00.676Z",
+            "updatedAt": "2020-07-26T15:18:12.220Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        249
+                    ],
+                    [
+                        628,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964322,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:17:43.955Z",
+            "updatedAt": "2020-07-26T15:18:12.220Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        200
+                    ],
+                    [
+                        603,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964324,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:17:55.437Z",
+            "updatedAt": "2020-07-26T15:18:12.220Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        355
+                    ],
+                    [
+                        620,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964329,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:18:11.980Z",
+            "updatedAt": "2020-07-26T15:18:11.980Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        598,
+                        67
+                    ],
+                    [
+                        634,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

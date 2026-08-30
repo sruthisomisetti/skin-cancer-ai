@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381873,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:09:08.417Z",
+            "updatedAt": "2020-07-25T23:12:55.581Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        180
+                    ],
+                    [
+                        891,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941991,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:12:32.095Z",
+            "updatedAt": "2020-07-25T23:12:55.581Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        647,
+                        132
+                    ],
+                    [
+                        778,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941992,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:12:40.297Z",
+            "updatedAt": "2020-07-25T23:12:55.581Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        828,
+                        145
+                    ],
+                    [
+                        954,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941993,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:12:55.346Z",
+            "updatedAt": "2020-07-25T23:12:55.346Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        0
+                    ],
+                    [
+                        539,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052297,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T15:53:49.797Z",
+            "updatedAt": "2020-07-19T10:45:32.161Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        357
+                    ],
+                    [
+                        712,
+                        620
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488411229,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:45:05.129Z",
+            "updatedAt": "2020-07-19T10:45:32.161Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        390
+                    ],
+                    [
+                        255,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488411234,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:45:21.169Z",
+            "updatedAt": "2020-07-19T10:45:32.161Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        342
+                    ],
+                    [
+                        256,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488411237,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:45:31.918Z",
+            "updatedAt": "2020-07-19T10:45:31.918Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        442
+                    ],
+                    [
+                        97,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278156178,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T16:12:19.097Z",
+            "updatedAt": "2019-10-08T16:15:31.012Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        113
+                    ],
+                    [
+                        594,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278156195,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T16:12:37.069Z",
+            "updatedAt": "2019-10-08T16:15:31.012Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        249
+                    ],
+                    [
+                        646,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278156210,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T16:13:01.830Z",
+            "updatedAt": "2019-10-08T16:15:31.012Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        282
+                    ],
+                    [
+                        748,
+                        489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278156304,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T16:15:08.711Z",
+            "updatedAt": "2019-10-08T16:15:31.012Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        406
+                    ],
+                    [
+                        404,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

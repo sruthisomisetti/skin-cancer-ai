@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279346061,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T19:38:16.353Z",
+            "updatedAt": "2020-07-25T20:46:20.080Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        656,
+                        348
+                    ],
+                    [
+                        1185,
+                        733
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941351,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:45:59.950Z",
+            "updatedAt": "2020-07-25T20:46:20.080Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        334
+                    ],
+                    [
+                        588,
+                        825
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941353,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T20:46:19.863Z",
+            "updatedAt": "2020-07-25T20:46:19.863Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        608
+                    ],
+                    [
+                        1276,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490877048,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:09:16.653Z",
+            "updatedAt": "2020-08-05T19:17:13.524Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        692,
+                        0
+                    ],
+                    [
+                        1022,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490877116,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:09:39.334Z",
+            "updatedAt": "2020-08-05T19:17:13.524Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        204
+                    ],
+                    [
+                        223,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490877126,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:09:50.894Z",
+            "updatedAt": "2020-08-05T19:17:13.524Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        97
+                    ],
+                    [
+                        961,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490880434,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:23:18.737Z",
+            "updatedAt": "2020-08-05T19:17:13.524Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        611,
+                        251
+                    ],
+                    [
+                        741,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490880478,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T10:23:41.816Z",
+            "updatedAt": "2020-08-05T19:17:13.524Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        72
+                    ],
+                    [
+                        537,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951471,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:16:45.840Z",
+            "updatedAt": "2020-08-05T19:17:13.524Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        807,
+                        67
+                    ],
+                    [
+                        912,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951472,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:17:13.296Z",
+            "updatedAt": "2020-08-05T19:17:13.296Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        99
+                    ],
+                    [
+                        655,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

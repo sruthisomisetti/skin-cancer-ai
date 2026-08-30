@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278688674,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:24:55.004Z",
+            "updatedAt": "2019-10-09T06:26:50.919Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        305
+                    ],
+                    [
+                        979,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278688694,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:25:29.950Z",
+            "updatedAt": "2019-10-09T06:26:50.919Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        339
+                    ],
+                    [
+                        959,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

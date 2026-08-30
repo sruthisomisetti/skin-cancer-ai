@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1466
+    },
+    "objects": [
+        {
+            "id": 282055460,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T17:44:22.120Z",
+            "updatedAt": "2020-07-16T20:57:22.511Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        14
+                    ],
+                    [
+                        1212,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773300,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:57:22.298Z",
+            "updatedAt": "2020-07-16T20:57:52.045Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        650,
+                        710
+                    ],
+                    [
+                        919,
+                        950
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

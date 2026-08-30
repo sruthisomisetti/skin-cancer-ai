@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278972716,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:33:07.336Z",
+            "updatedAt": "2019-10-09T12:34:20.041Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        99
+                    ],
+                    [
+                        886,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278972748,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:33:31.725Z",
+            "updatedAt": "2019-10-09T12:34:20.041Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        872,
+                        321
+                    ],
+                    [
+                        1020,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278972776,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:33:58.768Z",
+            "updatedAt": "2019-10-09T12:34:20.041Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        237
+                    ],
+                    [
+                        379,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278972789,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:34:19.754Z",
+            "updatedAt": "2019-10-09T12:34:19.754Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        92
+                    ],
+                    [
+                        786,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

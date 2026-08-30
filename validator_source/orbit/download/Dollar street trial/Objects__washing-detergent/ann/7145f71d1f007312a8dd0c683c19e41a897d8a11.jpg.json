@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 494217464,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T12:13:20.104Z",
+            "updatedAt": "2020-07-29T12:13:38.069Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        678,
+                        383
+                    ],
+                    [
+                        959,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494217483,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T12:13:37.884Z",
+            "updatedAt": "2020-07-29T12:13:37.884Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        845,
+                        339
+                    ],
+                    [
+                        1465,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

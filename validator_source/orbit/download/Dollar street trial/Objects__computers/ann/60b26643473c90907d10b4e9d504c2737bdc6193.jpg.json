@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282322805,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:12:04.100Z",
+            "updatedAt": "2020-08-04T18:34:48.287Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        430,
+                        142
+                    ],
+                    [
+                        759,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282896366,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:04:33.247Z",
+            "updatedAt": "2020-08-04T18:34:48.287Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        296
+                    ],
+                    [
+                        990,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487398203,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:56:26.326Z",
+            "updatedAt": "2020-08-04T18:34:48.287Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        113
+                    ],
+                    [
+                        1017,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586033,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:34:48.065Z",
+            "updatedAt": "2020-08-04T18:34:48.065Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        204
+                    ],
+                    [
+                        580,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

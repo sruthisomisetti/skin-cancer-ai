@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 682
+    },
+    "objects": [
+        {
+            "id": 282244005,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:04:25.097Z",
+            "updatedAt": "2020-07-29T16:18:37.942Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        0
+                    ],
+                    [
+                        343,
+                        904
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282244008,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:04:30.356Z",
+            "updatedAt": "2020-07-29T16:18:52.865Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        345
+                    ],
+                    [
+                        681,
+                        864
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

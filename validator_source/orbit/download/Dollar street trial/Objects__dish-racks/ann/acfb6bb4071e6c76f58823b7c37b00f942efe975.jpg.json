@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052208,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T15:50:31.436Z",
+            "updatedAt": "2020-08-07T19:57:01.914Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        168
+                    ],
+                    [
+                        699,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000067,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T19:56:56.047Z",
+            "updatedAt": "2020-08-07T19:57:01.914Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        256
+                    ],
+                    [
+                        590,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000069,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T19:57:01.700Z",
+            "updatedAt": "2020-08-07T19:57:01.700Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        382
+                    ],
+                    [
+                        452,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

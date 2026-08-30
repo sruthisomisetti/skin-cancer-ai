@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282066377,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:15:10.412Z",
+            "updatedAt": "2020-07-24T19:05:09.818Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        258
+                    ],
+                    [
+                        591,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918710,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:04:40.604Z",
+            "updatedAt": "2020-07-24T19:05:09.818Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        33
+                    ],
+                    [
+                        598,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918713,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:04:56.025Z",
+            "updatedAt": "2020-07-24T19:05:09.818Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        659,
+                        259
+                    ],
+                    [
+                        766,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918717,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:05:09.467Z",
+            "updatedAt": "2020-07-24T19:05:09.467Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        840,
+                        302
+                    ],
+                    [
+                        867,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

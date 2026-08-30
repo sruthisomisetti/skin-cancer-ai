@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278952708,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:39:35.802Z",
+            "updatedAt": "2020-08-07T18:43:01.341Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        149
+                    ],
+                    [
+                        1295,
+                        1013
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278952715,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:39:44.915Z",
+            "updatedAt": "2020-08-07T18:43:01.341Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        481
+                    ],
+                    [
+                        801,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278952723,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:39:55.959Z",
+            "updatedAt": "2020-08-07T18:43:01.341Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        679,
+                        285
+                    ],
+                    [
+                        884,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989357,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:42:51.706Z",
+            "updatedAt": "2020-08-07T18:43:01.341Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        310
+                    ],
+                    [
+                        271,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989359,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:43:01.072Z",
+            "updatedAt": "2020-08-07T18:43:01.072Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        103
+                    ],
+                    [
+                        684,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

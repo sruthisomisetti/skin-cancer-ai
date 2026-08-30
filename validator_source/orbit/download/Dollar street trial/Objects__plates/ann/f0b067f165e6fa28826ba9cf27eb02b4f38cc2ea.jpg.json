@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281301773,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-11T19:59:28.850Z",
+            "updatedAt": "2020-08-08T19:52:27.527Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        175
+                    ],
+                    [
+                        613,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498678221,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T19:52:27.356Z",
+            "updatedAt": "2020-08-08T19:52:27.356Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        795,
+                        211
+                    ],
+                    [
+                        988,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

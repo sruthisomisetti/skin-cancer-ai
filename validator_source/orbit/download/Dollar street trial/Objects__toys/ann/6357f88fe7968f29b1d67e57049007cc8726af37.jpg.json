@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491233687,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:05:33.298Z",
+            "updatedAt": "2020-07-27T21:08:58.178Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        399
+                    ],
+                    [
+                        326,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233700,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:06:11.067Z",
+            "updatedAt": "2020-07-27T21:08:58.178Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        470,
+                        525
+                    ],
+                    [
+                        606,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233731,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:08:42.549Z",
+            "updatedAt": "2020-07-27T21:08:58.178Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        526
+                    ],
+                    [
+                        505,
+                        578
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233733,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:08:57.928Z",
+            "updatedAt": "2020-07-27T21:08:57.928Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        556
+                    ],
+                    [
+                        627,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

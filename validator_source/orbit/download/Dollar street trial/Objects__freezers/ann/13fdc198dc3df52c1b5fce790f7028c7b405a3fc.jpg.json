@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282048389,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-13T13:32:35.636Z",
+            "updatedAt": "2019-10-14T19:24:01.029Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        1146,
+                        627
+                    ],
+                    [
+                        1428,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282440360,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T19:23:59.342Z",
+            "updatedAt": "2019-10-15T05:51:52.066Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        95
+                    ],
+                    [
+                        1448,
+                        888
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489177815,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:49:49.486Z",
+            "updatedAt": "2020-07-21T13:50:05.058Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        433
+                    ],
+                    [
+                        670,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489177820,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T13:50:04.843Z",
+            "updatedAt": "2020-07-21T13:50:04.843Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        315
+                    ],
+                    [
+                        498,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

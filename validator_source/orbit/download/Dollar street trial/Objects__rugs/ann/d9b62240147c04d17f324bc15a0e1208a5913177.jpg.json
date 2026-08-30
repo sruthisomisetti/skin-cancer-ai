@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282986307,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:56:36.602Z",
+            "updatedAt": "2020-07-25T10:32:48.764Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        266
+                    ],
+                    [
+                        858,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935610,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:32:35.670Z",
+            "updatedAt": "2020-07-25T10:32:48.764Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        16
+                    ],
+                    [
+                        685,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935612,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:32:48.553Z",
+            "updatedAt": "2020-07-25T10:32:48.553Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        122
+                    ],
+                    [
+                        548,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

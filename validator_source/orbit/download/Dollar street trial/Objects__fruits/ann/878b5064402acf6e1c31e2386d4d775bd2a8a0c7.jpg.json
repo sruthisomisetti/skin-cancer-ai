@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1493
+    },
+    "objects": [
+        {
+            "id": 282245580,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:38:30.841Z",
+            "updatedAt": "2020-08-05T09:22:46.268Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        813,
+                        166
+                    ],
+                    [
+                        1010,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496737479,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:22:13.591Z",
+            "updatedAt": "2020-08-05T09:22:46.268Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        298
+                    ],
+                    [
+                        803,
+                        445
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496737509,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:22:28.020Z",
+            "updatedAt": "2020-08-05T09:22:46.268Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        9
+                    ],
+                    [
+                        453,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496737517,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:22:35.994Z",
+            "updatedAt": "2020-08-05T09:22:46.268Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        129
+                    ],
+                    [
+                        899,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496737546,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T09:22:46.051Z",
+            "updatedAt": "2020-08-05T09:22:46.051Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        529
+                    ],
+                    [
+                        1285,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

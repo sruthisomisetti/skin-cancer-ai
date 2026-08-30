@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491882467,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:12:45.550Z",
+            "updatedAt": "2020-07-28T14:13:02.519Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        142
+                    ],
+                    [
+                        762,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491882473,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:13:02.337Z",
+            "updatedAt": "2020-07-28T14:13:02.337Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        273
+                    ],
+                    [
+                        253,
+                        649
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

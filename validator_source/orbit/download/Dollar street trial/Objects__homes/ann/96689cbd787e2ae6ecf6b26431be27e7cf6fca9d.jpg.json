@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278859813,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T10:20:31.040Z",
+            "updatedAt": "2019-10-09T10:22:06.835Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        108
+                    ],
+                    [
+                        1000,
+                        836
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278859824,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T10:20:51.876Z",
+            "updatedAt": "2019-10-09T10:22:06.835Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        603,
+                        758
+                    ],
+                    [
+                        706,
+                        795
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278859844,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T10:21:47.594Z",
+            "updatedAt": "2019-10-09T10:22:06.835Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        856
+                    ],
+                    [
+                        368,
+                        902
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278859858,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T10:22:06.535Z",
+            "updatedAt": "2019-10-09T10:22:06.535Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        305
+                    ],
+                    [
+                        455,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

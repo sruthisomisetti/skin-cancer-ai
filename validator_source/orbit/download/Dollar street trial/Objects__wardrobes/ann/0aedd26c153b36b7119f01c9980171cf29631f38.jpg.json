@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278310380,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:02:36.347Z",
+            "updatedAt": "2020-07-28T15:12:15.457Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        34
+                    ],
+                    [
+                        716,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491889902,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T15:12:05.517Z",
+            "updatedAt": "2020-07-28T15:12:15.457Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        808,
+                        102
+                    ],
+                    [
+                        882,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491889911,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T15:12:15.243Z",
+            "updatedAt": "2020-07-28T15:12:15.243Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        711,
+                        5
+                    ],
+                    [
+                        813,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

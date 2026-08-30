@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282443111,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T20:08:35.860Z",
+            "updatedAt": "2020-07-18T12:28:52.823Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        18
+                    ],
+                    [
+                        1359,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320963,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:28:47.138Z",
+            "updatedAt": "2020-07-18T12:28:52.823Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        748,
+                        257
+                    ],
+                    [
+                        1100,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320965,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T12:28:52.597Z",
+            "updatedAt": "2020-07-18T12:28:52.597Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        490
+                    ],
+                    [
+                        434,
+                        712
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279380945,
+            "classId": 714923,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T19:51:14.405Z",
+            "updatedAt": "2020-07-26T19:28:10.670Z",
+            "tags": [],
+            "classTitle": "Teeth",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        454
+                    ],
+                    [
+                        560,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976807,
+            "classId": 714974,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T19:27:51.093Z",
+            "updatedAt": "2020-07-26T19:28:10.670Z",
+            "tags": [],
+            "classTitle": "Earings",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        433
+                    ],
+                    [
+                        57,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976818,
+            "classId": 1625769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T19:28:10.462Z",
+            "updatedAt": "2020-07-26T19:28:10.462Z",
+            "tags": [],
+            "classTitle": "Necklace",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        650
+                    ],
+                    [
+                        626,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

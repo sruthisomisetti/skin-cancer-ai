@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282320642,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:06:40.861Z",
+            "updatedAt": "2020-08-04T18:26:12.201Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        178
+                    ],
+                    [
+                        299,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282883023,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:02:29.528Z",
+            "updatedAt": "2020-08-04T18:26:12.201Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        104
+                    ],
+                    [
+                        843,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487387904,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:44:47.650Z",
+            "updatedAt": "2020-08-04T18:26:12.201Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        89
+                    ],
+                    [
+                        832,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487387906,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:45:00.194Z",
+            "updatedAt": "2020-08-04T18:26:12.201Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        1
+                    ],
+                    [
+                        266,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585697,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:26:11.988Z",
+            "updatedAt": "2020-08-04T18:26:11.988Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        294
+                    ],
+                    [
+                        630,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

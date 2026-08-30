@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381555,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-09T20:02:54.345Z",
+            "updatedAt": "2020-07-15T21:01:55.582Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        299
+                    ],
+                    [
+                        922,
+                        986
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582556,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T21:01:16.587Z",
+            "updatedAt": "2020-07-15T21:01:55.582Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        156
+                    ],
+                    [
+                        194,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582564,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T21:01:35.766Z",
+            "updatedAt": "2020-07-15T21:01:55.582Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        2
+                    ],
+                    [
+                        312,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582572,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T21:01:55.362Z",
+            "updatedAt": "2020-07-15T21:01:55.362Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        103
+                    ],
+                    [
+                        1008,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

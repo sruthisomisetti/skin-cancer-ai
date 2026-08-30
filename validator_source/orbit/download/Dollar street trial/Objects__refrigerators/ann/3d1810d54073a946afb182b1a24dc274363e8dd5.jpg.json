@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051383,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:22:24.648Z",
+            "updatedAt": "2020-07-24T17:37:59.444Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        700
+                    ],
+                    [
+                        817,
+                        1535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915487,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:37:45.546Z",
+            "updatedAt": "2020-07-24T17:37:59.444Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        221
+                    ],
+                    [
+                        842,
+                        684
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915497,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:37:58.756Z",
+            "updatedAt": "2020-07-24T17:37:58.756Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        564
+                    ],
+                    [
+                        248,
+                        1535
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 281301591,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-11T19:54:00.383Z",
+            "updatedAt": "2020-08-08T18:09:12.598Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        413
+                    ],
+                    [
+                        1280,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281859577,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T04:45:06.516Z",
+            "updatedAt": "2020-08-08T18:09:12.598Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        251
+                    ],
+                    [
+                        1081,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281859579,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T04:45:14.474Z",
+            "updatedAt": "2020-08-08T18:09:12.598Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        885,
+                        203
+                    ],
+                    [
+                        1405,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498641157,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:09:12.390Z",
+            "updatedAt": "2020-08-08T18:09:12.390Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        32
+                    ],
+                    [
+                        585,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

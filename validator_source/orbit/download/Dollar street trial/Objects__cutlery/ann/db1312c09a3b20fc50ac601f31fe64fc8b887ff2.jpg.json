@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487725630,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T13:49:41.844Z",
+            "updatedAt": "2020-07-16T13:50:08.575Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        165
+                    ],
+                    [
+                        563,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487725634,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T13:49:58.028Z",
+            "updatedAt": "2020-07-16T13:50:08.575Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        128
+                    ],
+                    [
+                        830,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487725636,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T13:50:07.449Z",
+            "updatedAt": "2020-07-16T13:50:07.449Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        188,
+                        290
+                    ],
+                    [
+                        508,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

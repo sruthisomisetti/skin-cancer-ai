@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488330431,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:14:19.187Z",
+            "updatedAt": "2020-07-18T15:14:41.748Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        404,
+                        286
+                    ],
+                    [
+                        559,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330437,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:14:33.922Z",
+            "updatedAt": "2020-07-18T15:14:41.748Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        521
+                    ],
+                    [
+                        538,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330440,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:14:41.555Z",
+            "updatedAt": "2020-07-18T15:14:41.555Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        462
+                    ],
+                    [
+                        602,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

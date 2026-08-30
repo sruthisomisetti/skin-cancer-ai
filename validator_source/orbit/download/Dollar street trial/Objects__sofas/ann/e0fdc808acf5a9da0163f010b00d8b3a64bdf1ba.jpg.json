@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 490942054,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:42:48.514Z",
+            "updatedAt": "2020-07-25T23:43:02.726Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        80
+                    ],
+                    [
+                        1031,
+                        765
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942055,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:43:02.524Z",
+            "updatedAt": "2020-07-25T23:43:02.524Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        477
+                    ],
+                    [
+                        596,
+                        628
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

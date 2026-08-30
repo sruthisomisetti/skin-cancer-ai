@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 279652880,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T14:04:21.042Z",
+            "updatedAt": "2020-07-27T08:18:40.379Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        711,
+                        201
+                    ],
+                    [
+                        1175,
+                        856
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491059136,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T08:18:34.178Z",
+            "updatedAt": "2020-07-27T08:18:40.379Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        498
+                    ],
+                    [
+                        789,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491059141,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T08:18:40.189Z",
+            "updatedAt": "2020-07-27T08:18:40.189Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        845,
+                        5
+                    ],
+                    [
+                        1299,
+                        580
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

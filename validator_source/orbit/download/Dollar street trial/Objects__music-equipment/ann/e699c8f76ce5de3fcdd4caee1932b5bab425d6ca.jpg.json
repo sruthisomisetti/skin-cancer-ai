@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282980128,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T17:13:45.617Z",
+            "updatedAt": "2020-07-22T14:04:18.179Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        491
+                    ],
+                    [
+                        1005,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490062180,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T14:03:40.311Z",
+            "updatedAt": "2020-07-22T14:04:18.179Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        397
+                    ],
+                    [
+                        576,
+                        825
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490062183,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T14:03:52.672Z",
+            "updatedAt": "2020-07-22T14:04:18.179Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        110
+                    ],
+                    [
+                        366,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490062191,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T14:04:17.974Z",
+            "updatedAt": "2020-07-22T14:04:17.974Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        748,
+                        744
+                    ],
+                    [
+                        828,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

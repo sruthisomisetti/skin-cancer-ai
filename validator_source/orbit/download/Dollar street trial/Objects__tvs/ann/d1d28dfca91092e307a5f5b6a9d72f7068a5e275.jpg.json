@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282065211,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:34:08.751Z",
+            "updatedAt": "2020-07-28T12:57:25.342Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        812,
+                        381
+                    ],
+                    [
+                        1430,
+                        838
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065226,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:34:47.658Z",
+            "updatedAt": "2020-07-28T12:57:25.342Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        282
+                    ],
+                    [
+                        681,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867515,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:57:07.205Z",
+            "updatedAt": "2020-07-28T12:57:25.342Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        997,
+                        311
+                    ],
+                    [
+                        1049,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867521,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:57:12.830Z",
+            "updatedAt": "2020-07-28T12:57:25.342Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        1223,
+                        246
+                    ],
+                    [
+                        1333,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867532,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:57:25.080Z",
+            "updatedAt": "2020-07-28T12:57:25.080Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        659,
+                        0
+                    ],
+                    [
+                        762,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

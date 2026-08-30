@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055562,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:49:44.341Z",
+            "updatedAt": "2019-10-13T17:51:20.255Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        273
+                    ],
+                    [
+                        834,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055567,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:50:11.813Z",
+            "updatedAt": "2019-10-13T17:51:20.255Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        845,
+                        466
+                    ],
+                    [
+                        889,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282057207,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:51:19.947Z",
+            "updatedAt": "2019-10-13T17:51:19.947Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        469
+                    ],
+                    [
+                        334,
+                        534
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

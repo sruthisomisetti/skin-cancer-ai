@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065122,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:30:40.951Z",
+            "updatedAt": "2020-07-28T12:55:06.550Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        201,
+                        334
+                    ],
+                    [
+                        223,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065126,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:30:49.821Z",
+            "updatedAt": "2020-07-28T12:55:06.550Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        173
+                    ],
+                    [
+                        769,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867398,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:54:44.409Z",
+            "updatedAt": "2020-07-28T12:55:06.550Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        34
+                    ],
+                    [
+                        550,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867400,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:54:48.784Z",
+            "updatedAt": "2020-07-28T12:55:06.550Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        611,
+                        92
+                    ],
+                    [
+                        665,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867415,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:55:06.329Z",
+            "updatedAt": "2020-07-28T12:55:06.329Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        541
+                    ],
+                    [
+                        421,
+                        629
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

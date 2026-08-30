@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282277639,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T12:59:23.125Z",
+            "updatedAt": "2019-10-15T09:14:40.207Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        322
+                    ],
+                    [
+                        679,
+                        574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282922868,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T09:14:39.978Z",
+            "updatedAt": "2019-10-15T09:14:39.978Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        896,
+                        283
+                    ],
+                    [
+                        1023,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

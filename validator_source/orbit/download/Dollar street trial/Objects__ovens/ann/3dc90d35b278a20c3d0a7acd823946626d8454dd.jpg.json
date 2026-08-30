@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282953299,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T12:19:11.497Z",
+            "updatedAt": "2020-07-22T17:14:11.231Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        468
+                    ],
+                    [
+                        1033,
+                        818
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490233860,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:14:01.088Z",
+            "updatedAt": "2020-07-22T17:14:11.231Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        326
+                    ],
+                    [
+                        310,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490233862,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:14:11.017Z",
+            "updatedAt": "2020-07-22T17:14:11.017Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        319
+                    ],
+                    [
+                        204,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

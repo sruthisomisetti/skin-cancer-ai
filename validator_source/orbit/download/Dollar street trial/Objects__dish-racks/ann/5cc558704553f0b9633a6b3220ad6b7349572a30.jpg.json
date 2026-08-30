@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278857942,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T09:36:36.921Z",
+            "updatedAt": "2020-07-17T19:14:01.610Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        38
+                    ],
+                    [
+                        1326,
+                        995
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907467,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:13:34.815Z",
+            "updatedAt": "2020-07-17T19:14:01.610Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        135
+                    ],
+                    [
+                        612,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907473,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:13:48.688Z",
+            "updatedAt": "2020-07-17T19:14:01.610Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        133
+                    ],
+                    [
+                        504,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907479,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:14:01.354Z",
+            "updatedAt": "2020-07-17T19:14:01.354Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        299
+                    ],
+                    [
+                        1256,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

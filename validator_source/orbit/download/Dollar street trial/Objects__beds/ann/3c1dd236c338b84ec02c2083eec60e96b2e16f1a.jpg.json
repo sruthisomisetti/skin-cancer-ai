@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1536,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279187356,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T16:50:44.387Z",
+            "updatedAt": "2020-08-03T20:27:16.864Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        576
+                    ],
+                    [
+                        978,
+                        1374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316607,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:27:16.632Z",
+            "updatedAt": "2020-08-03T20:27:16.632Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        944
+                    ],
+                    [
+                        476,
+                        1026
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

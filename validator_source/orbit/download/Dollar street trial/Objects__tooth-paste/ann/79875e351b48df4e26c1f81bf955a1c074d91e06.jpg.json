@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278863236,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T11:04:00.564Z",
+            "updatedAt": "2020-07-27T19:28:19.847Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        599,
+                        506
+                    ],
+                    [
+                        960,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278863247,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T11:04:14.654Z",
+            "updatedAt": "2020-07-27T19:28:19.847Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        534,
+                        140
+                    ],
+                    [
+                        725,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491232032,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T19:28:08.101Z",
+            "updatedAt": "2020-07-27T19:28:19.847Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        847
+                    ],
+                    [
+                        606,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491232034,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T19:28:14.037Z",
+            "updatedAt": "2020-07-27T19:28:19.847Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        573
+                    ],
+                    [
+                        627,
+                        785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491232036,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T19:28:19.616Z",
+            "updatedAt": "2020-07-27T19:28:19.616Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        346
+                    ],
+                    [
+                        798,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

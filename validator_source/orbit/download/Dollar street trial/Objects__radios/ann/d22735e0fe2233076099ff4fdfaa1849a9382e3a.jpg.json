@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049632,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:35:45.637Z",
+            "updatedAt": "2020-07-24T16:48:40.196Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        225
+                    ],
+                    [
+                        685,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049640,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:36:13.811Z",
+            "updatedAt": "2019-10-13T14:36:13.811Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        16
+                    ],
+                    [
+                        280,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

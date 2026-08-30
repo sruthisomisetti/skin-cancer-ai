@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489321758,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:50:48.047Z",
+            "updatedAt": "2020-08-04T22:10:16.063Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        762,
+                        630
+                    ],
+                    [
+                        938,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496593914,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T22:10:15.854Z",
+            "updatedAt": "2020-08-04T22:10:15.854Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        823,
+                        387
+                    ],
+                    [
+                        1021,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

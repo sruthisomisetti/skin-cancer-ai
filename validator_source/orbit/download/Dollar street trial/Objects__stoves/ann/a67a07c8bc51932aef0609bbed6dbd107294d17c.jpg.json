@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279085076,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:29:12.681Z",
+            "updatedAt": "2020-07-26T18:19:31.502Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        290
+                    ],
+                    [
+                        720,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976104,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:19:05.069Z",
+            "updatedAt": "2020-07-26T18:19:31.502Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        423,
+                        251
+                    ],
+                    [
+                        702,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976106,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:19:20.527Z",
+            "updatedAt": "2020-07-26T18:19:31.502Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        265
+                    ],
+                    [
+                        246,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976108,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:19:31.308Z",
+            "updatedAt": "2020-07-26T18:19:31.308Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        485
+                    ],
+                    [
+                        404,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 481845409,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T08:30:33.760Z",
+            "updatedAt": "2020-07-08T08:37:44.095Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        881,
+                        804
+                    ],
+                    [
+                        952,
+                        917
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279651743,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T13:48:06.817Z",
+            "updatedAt": "2020-07-08T08:37:44.095Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        42
+                    ],
+                    [
+                        644,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481846878,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T08:37:05.192Z",
+            "updatedAt": "2020-07-08T08:37:44.095Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        764,
+                        776
+                    ],
+                    [
+                        876,
+                        913
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481846896,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T08:37:27.034Z",
+            "updatedAt": "2020-07-08T08:37:44.095Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        687,
+                        893
+                    ],
+                    [
+                        1023,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481846909,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T08:37:43.947Z",
+            "updatedAt": "2020-07-08T08:38:03.077Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        642
+                    ],
+                    [
+                        624,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

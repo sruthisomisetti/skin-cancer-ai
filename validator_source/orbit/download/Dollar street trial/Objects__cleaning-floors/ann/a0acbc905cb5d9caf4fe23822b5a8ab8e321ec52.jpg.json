@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487887447,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:51:57.602Z",
+            "updatedAt": "2020-07-17T11:52:20.096Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        1
+                    ],
+                    [
+                        1098,
+                        1014
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887454,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:52:14.783Z",
+            "updatedAt": "2020-07-17T11:52:20.096Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        382
+                    ],
+                    [
+                        524,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887457,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:52:19.865Z",
+            "updatedAt": "2020-07-17T11:52:19.865Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        314
+                    ],
+                    [
+                        741,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

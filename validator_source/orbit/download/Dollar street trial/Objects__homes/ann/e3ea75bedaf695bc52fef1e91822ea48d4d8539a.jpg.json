@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278973059,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:38:32.221Z",
+            "updatedAt": "2020-07-20T00:01:39.984Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        70
+                    ],
+                    [
+                        731,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278974283,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:38:54.188Z",
+            "updatedAt": "2020-07-20T00:01:39.984Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        405
+                    ],
+                    [
+                        298,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432394,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:01:35.120Z",
+            "updatedAt": "2020-07-20T00:01:39.984Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        439
+                    ],
+                    [
+                        167,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432395,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:01:39.761Z",
+            "updatedAt": "2020-07-20T00:01:39.761Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        445
+                    ],
+                    [
+                        71,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

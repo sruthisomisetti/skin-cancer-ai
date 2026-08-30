@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382114,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T20:15:28.257Z",
+            "updatedAt": "2019-10-09T20:15:41.052Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        0
+                    ],
+                    [
+                        814,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279382121,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T20:15:40.707Z",
+            "updatedAt": "2019-10-09T20:15:50.329Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        756
+                    ],
+                    [
+                        549,
+                        1012
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

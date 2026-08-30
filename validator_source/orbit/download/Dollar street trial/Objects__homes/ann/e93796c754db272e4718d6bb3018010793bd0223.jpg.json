@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278974780,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:46:26.871Z",
+            "updatedAt": "2019-10-09T12:47:07.338Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        5
+                    ],
+                    [
+                        1308,
+                        943
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278979688,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:46:42.533Z",
+            "updatedAt": "2019-10-09T12:47:07.338Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        596
+                    ],
+                    [
+                        794,
+                        978
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278979707,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:47:07.029Z",
+            "updatedAt": "2019-10-09T12:47:07.029Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        668,
+                        774
+                    ],
+                    [
+                        757,
+                        930
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

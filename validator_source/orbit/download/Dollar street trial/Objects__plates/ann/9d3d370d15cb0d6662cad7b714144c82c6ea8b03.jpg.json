@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490792242,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:53:11.628Z",
+            "updatedAt": "2020-08-08T18:59:47.528Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        644
+                    ],
+                    [
+                        858,
+                        879
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792262,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:53:53.756Z",
+            "updatedAt": "2020-08-08T18:59:47.528Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        264
+                    ],
+                    [
+                        366,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490792268,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:54:05.918Z",
+            "updatedAt": "2020-08-08T18:59:47.528Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        270
+                    ],
+                    [
+                        272,
+                        358
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677921,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:59:30.818Z",
+            "updatedAt": "2020-08-08T18:59:47.528Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        895
+                    ],
+                    [
+                        150,
+                        1000
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498677924,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-08T18:59:47.305Z",
+            "updatedAt": "2020-08-08T18:59:47.305Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        705
+                    ],
+                    [
+                        166,
+                        817
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

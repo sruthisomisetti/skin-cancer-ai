@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278321557,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-08T21:10:22.032Z",
+            "updatedAt": "2020-07-25T12:09:06.948Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        100
+                    ],
+                    [
+                        629,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935953,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T12:09:06.706Z",
+            "updatedAt": "2020-07-25T12:09:06.706Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        870,
+                        480
+                    ],
+                    [
+                        997,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

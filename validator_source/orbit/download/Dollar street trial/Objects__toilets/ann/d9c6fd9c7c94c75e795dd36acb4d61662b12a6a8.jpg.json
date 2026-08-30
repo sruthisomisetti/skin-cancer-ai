@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1819
+    },
+    "objects": [
+        {
+            "id": 278651026,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:56:56.414Z",
+            "updatedAt": "2020-07-27T15:12:00.370Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        134
+                    ],
+                    [
+                        1628,
+                        842
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278651033,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T04:57:02.758Z",
+            "updatedAt": "2020-07-27T15:11:46.995Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        1434,
+                        304
+                    ],
+                    [
+                        1529,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491230393,
+            "classId": 714985,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:15:34.500Z",
+            "updatedAt": "2020-07-27T18:15:58.274Z",
+            "tags": [],
+            "classTitle": "Wheel barrow",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        330
+                    ],
+                    [
+                        1006,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230408,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:15:58.052Z",
+            "updatedAt": "2020-07-27T18:15:58.052Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        96
+                    ],
+                    [
+                        665,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279652048,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T13:54:01.444Z",
+            "updatedAt": "2020-07-08T09:01:58.083Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        5
+                    ],
+                    [
+                        858,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481848276,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T09:01:43.281Z",
+            "updatedAt": "2020-07-08T09:01:58.083Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        548
+                    ],
+                    [
+                        462,
+                        656
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481848294,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T09:01:57.952Z",
+            "updatedAt": "2020-07-08T09:02:16.373Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        51
+                    ],
+                    [
+                        230,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

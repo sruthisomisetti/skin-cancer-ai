@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487906855,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:41:28.384Z",
+            "updatedAt": "2020-08-07T12:49:31.117Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        451
+                    ],
+                    [
+                        855,
+                        696
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497548533,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T12:48:49.939Z",
+            "updatedAt": "2020-08-07T12:49:31.117Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        471
+                    ],
+                    [
+                        278,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497548535,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T12:48:57.244Z",
+            "updatedAt": "2020-08-07T12:49:31.117Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        250
+                    ],
+                    [
+                        434,
+                        404
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497548546,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T12:49:30.855Z",
+            "updatedAt": "2020-08-07T12:49:30.855Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        243
+                    ],
+                    [
+                        537,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

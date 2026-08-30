@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281874523,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T06:13:23.830Z",
+            "updatedAt": "2020-07-25T15:42:30.070Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        78
+                    ],
+                    [
+                        698,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936942,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T15:42:26.982Z",
+            "updatedAt": "2020-07-25T15:42:30.070Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        739,
+                        99
+                    ],
+                    [
+                        1023,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

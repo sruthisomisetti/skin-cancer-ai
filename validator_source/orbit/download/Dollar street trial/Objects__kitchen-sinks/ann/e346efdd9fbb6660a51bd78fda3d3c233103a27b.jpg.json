@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1759
+    },
+    "objects": [
+        {
+            "id": 488817900,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:52:52.166Z",
+            "updatedAt": "2020-07-20T17:53:31.769Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        913
+                    ],
+                    [
+                        1178,
+                        1011
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817905,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:53:06.226Z",
+            "updatedAt": "2020-07-20T17:53:31.769Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        703,
+                        806
+                    ],
+                    [
+                        794,
+                        881
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817907,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:53:31.452Z",
+            "updatedAt": "2020-07-20T17:53:34.558Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        1189,
+                        699
+                    ],
+                    [
+                        1557,
+                        1007
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

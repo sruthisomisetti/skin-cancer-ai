@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487910150,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:39:59.360Z",
+            "updatedAt": "2020-08-07T20:07:33.208Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        394
+                    ],
+                    [
+                        807,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910156,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:40:12.055Z",
+            "updatedAt": "2020-08-07T20:07:33.208Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        456
+                    ],
+                    [
+                        1158,
+                        955
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910182,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:40:24.572Z",
+            "updatedAt": "2020-08-07T20:07:33.208Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        231
+                    ],
+                    [
+                        791,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910186,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:40:32.591Z",
+            "updatedAt": "2020-08-07T20:07:33.208Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1185,
+                        255
+                    ],
+                    [
+                        1338,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000244,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T20:07:32.993Z",
+            "updatedAt": "2020-08-07T20:07:32.993Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        1273,
+                        590
+                    ],
+                    [
+                        1536,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

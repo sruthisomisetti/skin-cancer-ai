@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 497179009,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T10:40:57.513Z",
+            "updatedAt": "2020-08-06T10:41:11.350Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        111
+                    ],
+                    [
+                        362,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497179022,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T10:41:11.182Z",
+            "updatedAt": "2020-08-06T10:41:11.182Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        860,
+                        119
+                    ],
+                    [
+                        1023,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

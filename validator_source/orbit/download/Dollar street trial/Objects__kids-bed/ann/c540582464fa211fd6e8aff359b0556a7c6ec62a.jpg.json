@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279585819,
+            "classId": 714931,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T07:48:32.276Z",
+            "updatedAt": "2020-07-20T10:20:13.002Z",
+            "tags": [],
+            "classTitle": "Kids bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        102
+                    ],
+                    [
+                        1018,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488526183,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T10:20:02.410Z",
+            "updatedAt": "2020-07-20T10:20:13.002Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        633,
+                        172
+                    ],
+                    [
+                        903,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488526192,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T10:20:12.804Z",
+            "updatedAt": "2020-07-20T10:20:12.804Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        63
+                    ],
+                    [
+                        286,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

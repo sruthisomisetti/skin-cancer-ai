@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278321392,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T21:04:25.701Z",
+            "updatedAt": "2019-10-08T21:06:28.517Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        240
+                    ],
+                    [
+                        1147,
+                        777
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278321406,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T21:05:09.011Z",
+            "updatedAt": "2019-10-08T21:06:28.517Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        764,
+                        413
+                    ],
+                    [
+                        915,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278321433,
+            "classId": 714976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T21:06:22.273Z",
+            "updatedAt": "2019-10-08T21:06:28.517Z",
+            "tags": [],
+            "classTitle": "Fruit trees",
+            "points": {
+                "exterior": [
+                    [
+                        1098,
+                        435
+                    ],
+                    [
+                        1473,
+                        925
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282180665,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T05:57:56.427Z",
+            "updatedAt": "2020-07-14T22:20:41.515Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        441
+                    ],
+                    [
+                        610,
+                        835
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487082479,
+            "classId": 714985,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T22:20:41.269Z",
+            "updatedAt": "2020-07-14T22:20:45.911Z",
+            "tags": [],
+            "classTitle": "Wheel barrow",
+            "points": {
+                "exterior": [
+                    [
+                        667,
+                        189
+                    ],
+                    [
+                        1024,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

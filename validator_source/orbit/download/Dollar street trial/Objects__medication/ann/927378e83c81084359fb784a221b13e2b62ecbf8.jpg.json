@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052850,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T16:11:34.866Z",
+            "updatedAt": "2019-10-13T16:19:54.237Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        289
+                    ],
+                    [
+                        419,
+                        830
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052853,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T16:11:40.781Z",
+            "updatedAt": "2019-10-13T16:19:54.237Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        673,
+                        375
+                    ],
+                    [
+                        890,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053096,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T16:19:54.075Z",
+            "updatedAt": "2019-10-13T16:19:54.075Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        377
+                    ],
+                    [
+                        679,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

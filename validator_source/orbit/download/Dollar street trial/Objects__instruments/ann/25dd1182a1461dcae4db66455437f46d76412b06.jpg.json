@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051602,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:31:12.947Z",
+            "updatedAt": "2020-07-18T20:43:26.931Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        54
+                    ],
+                    [
+                        912,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051641,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:32:28.615Z",
+            "updatedAt": "2020-07-18T20:43:26.931Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        289
+                    ],
+                    [
+                        629,
+                        489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338376,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:43:26.705Z",
+            "updatedAt": "2020-07-18T20:43:26.705Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        177
+                    ],
+                    [
+                        296,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

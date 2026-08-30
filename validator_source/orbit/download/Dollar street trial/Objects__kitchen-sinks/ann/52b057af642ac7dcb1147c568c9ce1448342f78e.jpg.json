@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278309099,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:47:35.398Z",
+            "updatedAt": "2020-07-20T14:48:48.677Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        110
+                    ],
+                    [
+                        1021,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488677046,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:48:48.350Z",
+            "updatedAt": "2020-07-20T14:48:48.350Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        451
+                    ],
+                    [
+                        572,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

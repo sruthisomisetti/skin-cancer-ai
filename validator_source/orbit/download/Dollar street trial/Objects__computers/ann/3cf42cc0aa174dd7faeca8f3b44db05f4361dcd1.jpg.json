@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282320754,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:06:54.211Z",
+            "updatedAt": "2020-08-04T18:27:36.659Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        38
+                    ],
+                    [
+                        1255,
+                        839
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487387925,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:45:36.556Z",
+            "updatedAt": "2020-08-04T18:27:36.659Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        1083,
+                        0
+                    ],
+                    [
+                        1310,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585725,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:27:03.962Z",
+            "updatedAt": "2020-08-04T18:27:36.659Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        678
+                    ],
+                    [
+                        767,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585727,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:27:09.594Z",
+            "updatedAt": "2020-08-04T18:27:36.659Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        756,
+                        832
+                    ],
+                    [
+                        1213,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585734,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:27:21.638Z",
+            "updatedAt": "2020-08-04T18:27:36.659Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        965,
+                        557
+                    ],
+                    [
+                        1340,
+                        670
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585741,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:27:36.461Z",
+            "updatedAt": "2020-08-04T18:27:36.461Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        814,
+                        605
+                    ],
+                    [
+                        1035,
+                        850
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

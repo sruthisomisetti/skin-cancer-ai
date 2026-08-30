@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282423466,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T16:27:00.442Z",
+            "updatedAt": "2019-10-14T16:27:15.646Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        0
+                    ],
+                    [
+                        945,
+                        464
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282423474,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T16:27:16.187Z",
+            "updatedAt": "2019-10-14T16:27:21.436Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        153
+                    ],
+                    [
+                        1506,
+                        1006
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

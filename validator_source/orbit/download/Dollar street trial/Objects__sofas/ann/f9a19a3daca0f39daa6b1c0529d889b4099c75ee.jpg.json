@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1473
+    },
+    "objects": [
+        {
+            "id": 279382554,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:22:50.537Z",
+            "updatedAt": "2020-07-25T23:52:22.636Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        127
+                    ],
+                    [
+                        1473,
+                        691
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942072,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:51:36.714Z",
+            "updatedAt": "2020-07-25T23:52:22.636Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        864
+                    ],
+                    [
+                        652,
+                        1010
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942073,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:52:00.858Z",
+            "updatedAt": "2020-07-25T23:52:22.636Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        511,
+                        644
+                    ],
+                    [
+                        634,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942074,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:52:22.362Z",
+            "updatedAt": "2020-07-25T23:52:22.362Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        767,
+                        735
+                    ],
+                    [
+                        1040,
+                        971
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

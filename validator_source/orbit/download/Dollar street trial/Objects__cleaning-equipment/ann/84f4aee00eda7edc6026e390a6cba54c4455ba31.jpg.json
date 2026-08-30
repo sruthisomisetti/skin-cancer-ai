@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 576,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282039495,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T07:20:42.925Z",
+            "updatedAt": "2020-07-15T13:27:18.623Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        0
+                    ],
+                    [
+                        731,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282039537,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T07:21:56.489Z",
+            "updatedAt": "2020-07-15T13:27:18.623Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        171
+                    ],
+                    [
+                        1024,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282039540,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T07:22:10.946Z",
+            "updatedAt": "2020-07-15T13:27:18.623Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        848,
+                        4
+                    ],
+                    [
+                        1024,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487333595,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T13:27:11.860Z",
+            "updatedAt": "2020-07-15T13:27:18.623Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        436
+                    ],
+                    [
+                        350,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487333599,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T13:27:18.398Z",
+            "updatedAt": "2020-07-15T13:27:18.398Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        416
+                    ],
+                    [
+                        560,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

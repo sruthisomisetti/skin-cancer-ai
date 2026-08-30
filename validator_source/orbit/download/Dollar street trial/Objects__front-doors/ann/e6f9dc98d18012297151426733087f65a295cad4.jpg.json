@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279187319,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:49:53.860Z",
+            "updatedAt": "2020-07-18T15:20:36.331Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        167
+                    ],
+                    [
+                        666,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330570,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:20:36.147Z",
+            "updatedAt": "2020-07-18T15:20:36.147Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        950
+                    ],
+                    [
+                        338,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

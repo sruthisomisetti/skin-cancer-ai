@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282054712,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T17:11:53.676Z",
+            "updatedAt": "2019-10-13T17:12:09.676Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        184
+                    ],
+                    [
+                        873,
+                        860
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054720,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T17:12:09.468Z",
+            "updatedAt": "2019-10-13T17:12:14.288Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        188
+                    ],
+                    [
+                        407,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

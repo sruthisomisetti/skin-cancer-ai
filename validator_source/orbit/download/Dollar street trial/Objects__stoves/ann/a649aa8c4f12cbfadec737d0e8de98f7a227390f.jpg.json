@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490976099,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:18:35.780Z",
+            "updatedAt": "2020-07-26T18:18:44.255Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        80
+                    ],
+                    [
+                        819,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490976101,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T18:18:44.041Z",
+            "updatedAt": "2020-07-26T18:18:44.041Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        136
+                    ],
+                    [
+                        180,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

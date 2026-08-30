@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279623056,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T12:14:36.725Z",
+            "updatedAt": "2020-07-13T12:58:16.436Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        243
+                    ],
+                    [
+                        1529,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735569,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:57:52.698Z",
+            "updatedAt": "2020-07-13T12:58:16.436Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        254
+                    ],
+                    [
+                        238,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735582,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:58:05.973Z",
+            "updatedAt": "2020-07-13T12:58:16.436Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        579
+                    ],
+                    [
+                        427,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735592,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:58:16.312Z",
+            "updatedAt": "2020-07-13T12:58:16.312Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1214,
+                        277
+                    ],
+                    [
+                        1351,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

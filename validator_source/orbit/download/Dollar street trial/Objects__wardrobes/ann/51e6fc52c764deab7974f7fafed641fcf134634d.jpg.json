@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278311451,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:21:38.845Z",
+            "updatedAt": "2020-07-28T18:29:11.000Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        5
+                    ],
+                    [
+                        983,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491899552,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T18:29:10.722Z",
+            "updatedAt": "2020-07-28T18:29:10.722Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        307
+                    ],
+                    [
+                        209,
+                        628
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

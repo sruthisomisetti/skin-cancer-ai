@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 278318410,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T20:15:55.295Z",
+            "updatedAt": "2020-07-27T15:04:05.113Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        45
+                    ],
+                    [
+                        920,
+                        921
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491203995,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:00:52.831Z",
+            "updatedAt": "2020-07-27T15:04:05.113Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        760,
+                        113
+                    ],
+                    [
+                        932,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491204179,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T15:04:04.170Z",
+            "updatedAt": "2020-07-27T15:04:04.170Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        897,
+                        102
+                    ],
+                    [
+                        1009,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

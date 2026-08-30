@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282065049,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:28:20.028Z",
+            "updatedAt": "2020-07-28T12:52:28.986Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        227
+                    ],
+                    [
+                        1096,
+                        712
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867295,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:52:15.568Z",
+            "updatedAt": "2020-07-28T12:52:28.986Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        1108,
+                        579
+                    ],
+                    [
+                        1364,
+                        835
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867302,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:52:28.786Z",
+            "updatedAt": "2020-07-28T12:52:28.786Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        706,
+                        14
+                    ],
+                    [
+                        857,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

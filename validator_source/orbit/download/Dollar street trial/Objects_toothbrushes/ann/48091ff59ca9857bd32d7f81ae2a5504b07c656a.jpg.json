@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271940737,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:52.278Z",
+            "updatedAt": "2020-07-31T09:41:11.267Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        264
+                    ],
+                    [
+                        631,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271940739,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:52.278Z",
+            "updatedAt": "2020-07-31T09:41:11.267Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        329
+                    ],
+                    [
+                        477,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278187840,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-08T16:49:51.578Z",
+            "updatedAt": "2020-07-31T09:41:11.267Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        410
+                    ],
+                    [
+                        376,
+                        691
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495198845,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T09:41:11.065Z",
+            "updatedAt": "2020-07-31T09:41:11.065Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        504
+                    ],
+                    [
+                        759,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

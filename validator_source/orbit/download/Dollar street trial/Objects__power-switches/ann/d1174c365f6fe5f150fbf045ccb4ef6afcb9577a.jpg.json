@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1470
+    },
+    "objects": [
+        {
+            "id": 281992740,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:02:32.228Z",
+            "updatedAt": "2019-10-12T19:02:38.542Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        355
+                    ],
+                    [
+                        657,
+                        854
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992742,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-12T19:02:38.350Z",
+            "updatedAt": "2019-10-12T19:02:38.350Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        786,
+                        145
+                    ],
+                    [
+                        1076,
+                        859
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

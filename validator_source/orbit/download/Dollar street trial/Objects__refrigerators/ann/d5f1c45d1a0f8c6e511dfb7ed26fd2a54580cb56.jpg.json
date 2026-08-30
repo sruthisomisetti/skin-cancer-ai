@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282066225,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:07:08.868Z",
+            "updatedAt": "2020-07-24T18:52:08.656Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        76
+                    ],
+                    [
+                        670,
+                        1003
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916719,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:51:11.398Z",
+            "updatedAt": "2020-07-24T18:52:08.656Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        85
+                    ],
+                    [
+                        365,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916722,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:51:22.991Z",
+            "updatedAt": "2020-07-24T18:52:08.656Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        682,
+                        209
+                    ],
+                    [
+                        975,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916726,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:51:38.799Z",
+            "updatedAt": "2020-07-24T18:52:08.656Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        837,
+                        487
+                    ],
+                    [
+                        929,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916727,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:51:49.657Z",
+            "updatedAt": "2020-07-24T18:52:08.656Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        719,
+                        480
+                    ],
+                    [
+                        853,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916728,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:51:55.143Z",
+            "updatedAt": "2020-07-24T18:52:08.656Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        872,
+                        513
+                    ],
+                    [
+                        925,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916732,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:52:08.377Z",
+            "updatedAt": "2020-07-24T18:52:08.377Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        404
+                    ],
+                    [
+                        771,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

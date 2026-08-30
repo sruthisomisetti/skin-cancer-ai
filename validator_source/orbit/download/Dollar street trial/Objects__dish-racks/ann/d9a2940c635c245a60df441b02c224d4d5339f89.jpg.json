@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052778,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T16:09:54.547Z",
+            "updatedAt": "2020-08-07T20:54:32.137Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        663
+                    ],
+                    [
+                        658,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000726,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T20:54:16.057Z",
+            "updatedAt": "2020-08-07T20:54:32.137Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        804
+                    ],
+                    [
+                        721,
+                        924
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000728,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T20:54:31.912Z",
+            "updatedAt": "2020-08-07T20:54:31.912Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        822,
+                        936
+                    ],
+                    [
+                        907,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

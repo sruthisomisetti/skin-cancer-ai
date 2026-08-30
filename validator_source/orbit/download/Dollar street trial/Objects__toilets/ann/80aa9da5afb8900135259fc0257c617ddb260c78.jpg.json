@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278312205,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:33:12.451Z",
+            "updatedAt": "2020-07-27T14:14:16.540Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        508
+                    ],
+                    [
+                        974,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278312231,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:33:56.213Z",
+            "updatedAt": "2020-07-27T14:14:16.540Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        374
+                    ],
+                    [
+                        110,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181159,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:11:51.099Z",
+            "updatedAt": "2020-07-27T14:14:16.540Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        679
+                    ],
+                    [
+                        542,
+                        825
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181266,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:13:53.866Z",
+            "updatedAt": "2020-07-27T14:14:16.540Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        410
+                    ],
+                    [
+                        437,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181270,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:14:03.634Z",
+            "updatedAt": "2020-07-27T14:14:16.540Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        468
+                    ],
+                    [
+                        196,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491181274,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:14:16.288Z",
+            "updatedAt": "2020-07-27T14:14:16.288Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        381
+                    ],
+                    [
+                        510,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

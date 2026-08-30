@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282054609,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:07:54.939Z",
+            "updatedAt": "2019-10-14T19:10:10.164Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        205
+                    ],
+                    [
+                        773,
+                        445
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054624,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:08:29.563Z",
+            "updatedAt": "2019-10-13T17:09:28.006Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        468
+                    ],
+                    [
+                        634,
+                        557
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054645,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T17:09:27.703Z",
+            "updatedAt": "2019-10-13T17:09:27.703Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        12
+                    ],
+                    [
+                        355,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

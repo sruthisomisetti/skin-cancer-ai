@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488549130,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T11:48:24.501Z",
+            "updatedAt": "2020-07-20T11:48:52.029Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        371
+                    ],
+                    [
+                        865,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488549155,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T11:48:33.884Z",
+            "updatedAt": "2020-07-20T11:48:52.029Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        173
+                    ],
+                    [
+                        163,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488549164,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T11:48:51.797Z",
+            "updatedAt": "2020-07-20T11:48:51.797Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        429
+                    ],
+                    [
+                        452,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

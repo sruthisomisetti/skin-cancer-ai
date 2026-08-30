@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282441028,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T19:29:40.862Z",
+            "updatedAt": "2020-07-18T11:14:08.921Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        79
+                    ],
+                    [
+                        1264,
+                        900
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320135,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:13:58.664Z",
+            "updatedAt": "2020-07-18T11:14:08.921Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        742
+                    ],
+                    [
+                        204,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488320138,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T11:14:08.696Z",
+            "updatedAt": "2020-07-18T11:14:08.696Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        516
+                    ],
+                    [
+                        90,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

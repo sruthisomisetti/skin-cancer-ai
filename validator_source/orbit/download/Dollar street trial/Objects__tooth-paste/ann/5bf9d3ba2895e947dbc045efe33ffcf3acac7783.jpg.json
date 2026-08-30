@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278207410,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:26:52.649Z",
+            "updatedAt": "2019-10-08T17:27:22.089Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        26
+                    ],
+                    [
+                        808,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278207416,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:27:02.819Z",
+            "updatedAt": "2019-10-08T17:27:22.089Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        421
+                    ],
+                    [
+                        581,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278207428,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:27:21.740Z",
+            "updatedAt": "2019-10-08T17:27:21.740Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        406
+                    ],
+                    [
+                        965,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

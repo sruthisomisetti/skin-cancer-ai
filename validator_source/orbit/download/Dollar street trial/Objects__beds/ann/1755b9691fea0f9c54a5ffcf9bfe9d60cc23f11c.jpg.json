@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 483114317,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:47:10.224Z",
+            "updatedAt": "2020-08-03T20:01:16.673Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        333
+                    ],
+                    [
+                        1024,
+                        1075
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314826,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:59:24.409Z",
+            "updatedAt": "2020-08-03T20:01:16.673Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        646
+                    ],
+                    [
+                        285,
+                        849
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314836,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:00:04.467Z",
+            "updatedAt": "2020-08-03T20:01:16.673Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        207
+                    ],
+                    [
+                        222,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314849,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:00:49.482Z",
+            "updatedAt": "2020-08-03T20:01:16.673Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        373
+                    ],
+                    [
+                        138,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314853,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:00:55.866Z",
+            "updatedAt": "2020-08-03T20:01:16.673Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        385
+                    ],
+                    [
+                        60,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314858,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:01:16.476Z",
+            "updatedAt": "2020-08-03T20:01:16.476Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        916,
+                        489
+                    ],
+                    [
+                        971,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

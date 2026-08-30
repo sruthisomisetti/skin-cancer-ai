@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278307801,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:39:35.176Z",
+            "updatedAt": "2020-07-27T12:51:21.503Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        488
+                    ],
+                    [
+                        439,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172699,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:50:44.200Z",
+            "updatedAt": "2020-07-27T12:51:21.503Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        299
+                    ],
+                    [
+                        348,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172705,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:50:50.829Z",
+            "updatedAt": "2020-07-27T12:51:21.503Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        386
+                    ],
+                    [
+                        375,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172710,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:51:02.717Z",
+            "updatedAt": "2020-07-27T12:51:21.503Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        605
+                    ],
+                    [
+                        615,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172718,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:51:21.319Z",
+            "updatedAt": "2020-07-27T12:51:21.319Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        50
+                    ],
+                    [
+                        755,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

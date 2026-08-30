@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278958590,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T12:07:20.880Z",
+            "updatedAt": "2019-10-09T12:08:53.936Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        125
+                    ],
+                    [
+                        764,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278958616,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T12:07:45.855Z",
+            "updatedAt": "2019-10-09T12:08:53.936Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        742
+                    ],
+                    [
+                        715,
+                        934
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278960244,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T12:08:44.267Z",
+            "updatedAt": "2019-10-09T12:08:53.936Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        645,
+                        381
+                    ],
+                    [
+                        718,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

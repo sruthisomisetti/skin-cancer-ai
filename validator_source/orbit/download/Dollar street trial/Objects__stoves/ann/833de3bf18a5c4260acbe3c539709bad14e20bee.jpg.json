@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1457
+    },
+    "objects": [
+        {
+            "id": 279083917,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:03:38.255Z",
+            "updatedAt": "2020-07-26T15:19:49.363Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        415
+                    ],
+                    [
+                        1052,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279083931,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T13:04:09.248Z",
+            "updatedAt": "2020-07-26T15:19:49.363Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        73
+                    ],
+                    [
+                        1065,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964386,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:19:49.159Z",
+            "updatedAt": "2020-07-26T15:19:49.159Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        820,
+                        131
+                    ],
+                    [
+                        887,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

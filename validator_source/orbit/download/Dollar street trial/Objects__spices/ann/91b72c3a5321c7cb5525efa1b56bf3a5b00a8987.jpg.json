@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282252582,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T12:50:32.939Z",
+            "updatedAt": "2020-07-26T09:19:20.648Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        373
+                    ],
+                    [
+                        968,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960140,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:19:20.445Z",
+            "updatedAt": "2020-07-26T09:19:20.445Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        714
+                    ],
+                    [
+                        220,
+                        931
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

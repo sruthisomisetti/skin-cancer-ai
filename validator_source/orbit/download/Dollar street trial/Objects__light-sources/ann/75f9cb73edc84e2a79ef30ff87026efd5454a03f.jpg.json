@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488819391,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:53:30.769Z",
+            "updatedAt": "2020-07-20T18:54:15.201Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        380
+                    ],
+                    [
+                        440,
+                        438
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819393,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:53:45.514Z",
+            "updatedAt": "2020-07-20T18:54:15.201Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        328
+                    ],
+                    [
+                        713,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819395,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:54:03.055Z",
+            "updatedAt": "2020-07-20T18:54:15.201Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        80
+                    ],
+                    [
+                        678,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819398,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:54:15.003Z",
+            "updatedAt": "2020-07-20T18:54:15.003Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        622,
+                        449
+                    ],
+                    [
+                        1023,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

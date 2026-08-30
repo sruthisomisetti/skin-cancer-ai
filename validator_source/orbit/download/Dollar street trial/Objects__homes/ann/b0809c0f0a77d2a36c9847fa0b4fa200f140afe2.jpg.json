@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278864152,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:04:44.160Z",
+            "updatedAt": "2019-10-09T11:05:08.209Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        128
+                    ],
+                    [
+                        1494,
+                        985
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278864171,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:05:07.913Z",
+            "updatedAt": "2019-10-09T11:05:07.913Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        429,
+                        889
+                    ],
+                    [
+                        589,
+                        989
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

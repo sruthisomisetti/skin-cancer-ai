@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 702,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051426,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:24:50.298Z",
+            "updatedAt": "2020-07-24T17:46:46.483Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        4
+                    ],
+                    [
+                        938,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915722,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:46:34.153Z",
+            "updatedAt": "2020-07-24T17:46:46.483Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        371
+                    ],
+                    [
+                        334,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915726,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:46:38.598Z",
+            "updatedAt": "2020-07-24T17:46:46.483Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        350
+                    ],
+                    [
+                        451,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490915730,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T17:46:46.265Z",
+            "updatedAt": "2020-07-24T17:46:46.265Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        461
+                    ],
+                    [
+                        495,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490939159,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:35:01.963Z",
+            "updatedAt": "2020-07-25T18:35:17.780Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        141
+                    ],
+                    [
+                        743,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939160,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:35:17.569Z",
+            "updatedAt": "2020-07-25T18:35:17.569Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        801,
+                        257
+                    ],
+                    [
+                        1020,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

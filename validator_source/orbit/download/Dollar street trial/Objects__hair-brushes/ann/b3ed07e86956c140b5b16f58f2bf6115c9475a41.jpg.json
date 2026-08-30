@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279515718,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-10T06:29:38.390Z",
+            "updatedAt": "2020-07-19T14:10:06.568Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        276
+                    ],
+                    [
+                        703,
+                        1270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279515733,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-10T06:29:51.443Z",
+            "updatedAt": "2020-07-19T14:10:06.568Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        1123
+                    ],
+                    [
+                        743,
+                        2041
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488417781,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T14:10:06.331Z",
+            "updatedAt": "2020-07-19T14:10:06.331Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        820,
+                        906
+                    ],
+                    [
+                        992,
+                        1288
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

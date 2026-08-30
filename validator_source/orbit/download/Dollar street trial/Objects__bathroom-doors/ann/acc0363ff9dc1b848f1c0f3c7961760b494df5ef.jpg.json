@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279774432,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:51:10.876Z",
+            "updatedAt": "2020-07-08T12:25:23.710Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        129
+                    ],
+                    [
+                        758,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481950671,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:25:07.754Z",
+            "updatedAt": "2020-07-08T12:25:23.710Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        367
+                    ],
+                    [
+                        414,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481950696,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:25:23.592Z",
+            "updatedAt": "2020-07-08T12:25:28.841Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        854,
+                        165
+                    ],
+                    [
+                        932,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

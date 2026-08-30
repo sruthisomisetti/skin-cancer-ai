@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055330,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:37:10.752Z",
+            "updatedAt": "2019-10-13T17:47:00.932Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        133
+                    ],
+                    [
+                        742,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055419,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:42:27.926Z",
+            "updatedAt": "2019-10-13T17:47:00.932Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        817,
+                        330
+                    ],
+                    [
+                        977,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055423,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:42:34.016Z",
+            "updatedAt": "2020-07-28T12:19:46.924Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        7
+                    ],
+                    [
+                        727,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055498,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:46:31.959Z",
+            "updatedAt": "2020-07-28T12:19:35.849Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        321
+                    ],
+                    [
+                        195,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282055512,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:47:00.618Z",
+            "updatedAt": "2019-10-13T17:47:00.618Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        423
+                    ],
+                    [
+                        317,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

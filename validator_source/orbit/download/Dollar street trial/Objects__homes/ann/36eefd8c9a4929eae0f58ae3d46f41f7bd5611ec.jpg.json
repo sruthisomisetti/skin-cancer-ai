@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278311277,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:18:44.676Z",
+            "updatedAt": "2019-10-09T13:25:29.428Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        483
+                    ],
+                    [
+                        983,
+                        846
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278311313,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:19:14.706Z",
+            "updatedAt": "2019-10-09T13:25:29.428Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        553
+                    ],
+                    [
+                        665,
+                        867
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278311346,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:19:49.158Z",
+            "updatedAt": "2019-10-09T13:25:29.428Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        441
+                    ],
+                    [
+                        943,
+                        558
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278311454,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:21:41.686Z",
+            "updatedAt": "2019-10-09T13:25:29.428Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        726,
+                        574
+                    ],
+                    [
+                        889,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

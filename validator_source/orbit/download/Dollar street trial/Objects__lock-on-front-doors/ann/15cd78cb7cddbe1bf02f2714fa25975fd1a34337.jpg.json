@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282961914,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:53:56.640Z",
+            "updatedAt": "2020-07-21T15:55:51.613Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        48
+                    ],
+                    [
+                        779,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489399083,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T15:55:51.423Z",
+            "updatedAt": "2020-07-21T15:55:51.423Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        460
+                    ],
+                    [
+                        1023,
+                        994
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

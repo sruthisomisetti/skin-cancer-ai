@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 487887433,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:51:12.179Z",
+            "updatedAt": "2020-07-17T11:51:39.471Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        16
+                    ],
+                    [
+                        1020,
+                        815
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887438,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:51:23.582Z",
+            "updatedAt": "2020-07-17T11:51:39.471Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        156
+                    ],
+                    [
+                        382,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887444,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:51:39.278Z",
+            "updatedAt": "2020-07-17T11:51:39.278Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        1095,
+                        0
+                    ],
+                    [
+                        1362,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

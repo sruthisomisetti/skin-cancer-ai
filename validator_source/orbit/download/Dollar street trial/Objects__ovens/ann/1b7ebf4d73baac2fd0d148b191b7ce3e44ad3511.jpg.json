@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1510
+    },
+    "objects": [
+        {
+            "id": 282397036,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-14T15:17:59.641Z",
+            "updatedAt": "2020-07-22T17:00:12.454Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        82
+                    ],
+                    [
+                        1142,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490233616,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:00:12.190Z",
+            "updatedAt": "2020-07-22T17:00:12.190Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        2
+                    ],
+                    [
+                        252,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

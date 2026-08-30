@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1539,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278949638,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T11:22:59.808Z",
+            "updatedAt": "2019-10-09T11:24:39.810Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        1072
+                    ],
+                    [
+                        712,
+                        1283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949643,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T11:23:07.438Z",
+            "updatedAt": "2019-10-09T11:24:39.810Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        600
+                    ],
+                    [
+                        392,
+                        942
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949743,
+            "classId": 715038,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T11:24:39.473Z",
+            "updatedAt": "2019-10-09T11:24:46.014Z",
+            "tags": [],
+            "classTitle": "Cleaning floor",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        274
+                    ],
+                    [
+                        814,
+                        1056
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

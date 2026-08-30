@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1613
+    },
+    "objects": [
+        {
+            "id": 281988466,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T18:13:07.531Z",
+            "updatedAt": "2019-10-12T18:13:49.626Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        123
+                    ],
+                    [
+                        1360,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281988474,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T18:13:36.437Z",
+            "updatedAt": "2019-10-12T18:13:49.626Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        585,
+                        536
+                    ],
+                    [
+                        1107,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

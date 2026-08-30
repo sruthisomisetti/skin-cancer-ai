@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278862033,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:54:28.149Z",
+            "updatedAt": "2020-07-07T13:20:09.355Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        100
+                    ],
+                    [
+                        696,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481507753,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T13:20:09.159Z",
+            "updatedAt": "2020-07-07T13:20:59.115Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        394
+                    ],
+                    [
+                        326,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

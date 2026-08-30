@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278257598,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:40:59.985Z",
+            "updatedAt": "2019-10-08T17:41:15.858Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        680,
+                        399
+                    ],
+                    [
+                        791,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278257618,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:41:15.654Z",
+            "updatedAt": "2019-10-09T12:08:43.847Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        471
+                    ],
+                    [
+                        1365,
+                        974
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

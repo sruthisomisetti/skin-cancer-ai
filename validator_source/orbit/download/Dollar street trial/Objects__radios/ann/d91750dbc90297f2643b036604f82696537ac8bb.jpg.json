@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049661,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:37:20.599Z",
+            "updatedAt": "2019-10-13T14:37:45.365Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        72
+                    ],
+                    [
+                        910,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049666,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:37:30.036Z",
+            "updatedAt": "2019-10-13T14:37:45.365Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        58
+                    ],
+                    [
+                        716,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049670,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:37:45.154Z",
+            "updatedAt": "2019-10-13T14:37:45.154Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        846,
+                        8
+                    ],
+                    [
+                        917,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

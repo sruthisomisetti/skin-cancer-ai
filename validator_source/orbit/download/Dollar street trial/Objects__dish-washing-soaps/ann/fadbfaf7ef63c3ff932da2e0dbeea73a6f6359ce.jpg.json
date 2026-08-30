@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487892863,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T15:12:52.187Z",
+            "updatedAt": "2020-07-17T15:13:12.646Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        191
+                    ],
+                    [
+                        1217,
+                        996
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487892884,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T15:13:12.441Z",
+            "updatedAt": "2020-07-17T15:13:12.441Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        76
+                    ],
+                    [
+                        1050,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

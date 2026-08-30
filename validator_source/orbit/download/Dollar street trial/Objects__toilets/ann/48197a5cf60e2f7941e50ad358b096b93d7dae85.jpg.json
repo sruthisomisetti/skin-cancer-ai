@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278310342,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:01:49.379Z",
+            "updatedAt": "2020-07-27T13:39:21.096Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        4
+                    ],
+                    [
+                        334,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310358,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:02:10.252Z",
+            "updatedAt": "2020-07-27T13:39:21.096Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        341
+                    ],
+                    [
+                        548,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310376,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:02:32.948Z",
+            "updatedAt": "2020-07-27T13:39:21.096Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        374
+                    ],
+                    [
+                        413,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491179134,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:39:20.870Z",
+            "updatedAt": "2020-07-27T13:39:20.870Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        554,
+                        575
+                    ],
+                    [
+                        656,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

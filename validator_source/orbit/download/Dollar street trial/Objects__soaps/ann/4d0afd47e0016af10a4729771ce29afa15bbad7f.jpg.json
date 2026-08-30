@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278257908,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T17:45:30.787Z",
+            "updatedAt": "2019-10-08T17:47:03.420Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        685,
+                        385
+                    ],
+                    [
+                        979,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278258009,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T17:47:03.199Z",
+            "updatedAt": "2019-10-08T17:47:03.199Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        500
+                    ],
+                    [
+                        851,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

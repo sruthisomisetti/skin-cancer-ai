@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282243554,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:51:47.318Z",
+            "updatedAt": "2020-08-04T11:15:45.377Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        358
+                    ],
+                    [
+                        971,
+                        964
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554971,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:15:44.735Z",
+            "updatedAt": "2020-08-04T11:15:44.735Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        271
+                    ],
+                    [
+                        107,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

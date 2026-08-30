@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282441525,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:32:54.717Z",
+            "updatedAt": "2019-10-14T19:33:17.243Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        58
+                    ],
+                    [
+                        824,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282441531,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:33:17.006Z",
+            "updatedAt": "2019-10-14T19:33:21.950Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        379
+                    ],
+                    [
+                        80,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

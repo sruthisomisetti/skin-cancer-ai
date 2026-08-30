@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282317980,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:00:17.229Z",
+            "updatedAt": "2020-08-04T18:11:51.069Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        142
+                    ],
+                    [
+                        800,
+                        584
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487378916,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:38:14.852Z",
+            "updatedAt": "2020-08-04T18:11:51.069Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        415
+                    ],
+                    [
+                        474,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496585384,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:11:50.832Z",
+            "updatedAt": "2020-08-04T18:11:50.832Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        858,
+                        15
+                    ],
+                    [
+                        935,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

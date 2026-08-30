@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282241618,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:46:24.755Z",
+            "updatedAt": "2020-07-13T21:03:37.180Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        114
+                    ],
+                    [
+                        1007,
+                        899
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154335,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:03:28.174Z",
+            "updatedAt": "2020-07-13T21:03:37.180Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        209
+                    ],
+                    [
+                        897,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154338,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:03:37.050Z",
+            "updatedAt": "2020-07-13T21:03:47.712Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        711,
+                        726
+                    ],
+                    [
+                        990,
+                        879
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

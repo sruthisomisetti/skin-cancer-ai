@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278714613,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:11:34.564Z",
+            "updatedAt": "2020-07-19T21:49:49.605Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        89
+                    ],
+                    [
+                        750,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714626,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:12:02.544Z",
+            "updatedAt": "2020-07-19T21:49:49.605Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        517
+                    ],
+                    [
+                        121,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714644,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:12:51.812Z",
+            "updatedAt": "2020-07-19T21:49:49.605Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        568
+                    ],
+                    [
+                        282,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714651,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:13:11.260Z",
+            "updatedAt": "2020-07-19T21:49:49.605Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        199
+                    ],
+                    [
+                        639,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430457,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:49:49.404Z",
+            "updatedAt": "2020-07-19T21:49:49.404Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        79
+                    ],
+                    [
+                        725,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

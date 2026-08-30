@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 278714902,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T08:22:03.551Z",
+            "updatedAt": "2020-08-07T08:31:25.750Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        20
+                    ],
+                    [
+                        683,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497488030,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T08:31:25.523Z",
+            "updatedAt": "2020-08-07T08:31:25.523Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        512
+                    ],
+                    [
+                        372,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

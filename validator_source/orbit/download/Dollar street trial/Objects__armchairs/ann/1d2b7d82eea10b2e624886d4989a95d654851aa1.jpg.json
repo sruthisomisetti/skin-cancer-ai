@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 481448402,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T11:04:58.420Z",
+            "updatedAt": "2020-08-03T12:56:57.919Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        552
+                    ],
+                    [
+                        445,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481448438,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T11:05:21.755Z",
+            "updatedAt": "2020-08-03T12:56:57.919Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        179
+                    ],
+                    [
+                        537,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496127316,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T12:56:57.045Z",
+            "updatedAt": "2020-08-03T12:56:57.045Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        403
+                    ],
+                    [
+                        1023,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

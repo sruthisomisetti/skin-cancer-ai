@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282441027,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:29:40.745Z",
+            "updatedAt": "2019-10-14T19:30:00.885Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        194
+                    ],
+                    [
+                        640,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282441029,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:30:00.638Z",
+            "updatedAt": "2019-10-14T19:30:11.355Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        39
+                    ],
+                    [
+                        877,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

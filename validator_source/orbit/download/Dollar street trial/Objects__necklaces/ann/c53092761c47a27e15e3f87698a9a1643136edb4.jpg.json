@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490553792,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T10:15:27.465Z",
+            "updatedAt": "2020-08-05T18:36:56.154Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        261
+                    ],
+                    [
+                        562,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490553810,
+            "classId": 1625769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T10:16:04.467Z",
+            "updatedAt": "2020-08-05T18:36:56.154Z",
+            "tags": [],
+            "classTitle": "Necklace",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        210
+                    ],
+                    [
+                        803,
+                        776
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951056,
+            "classId": 714974,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:36:40.710Z",
+            "updatedAt": "2020-08-05T18:36:56.154Z",
+            "tags": [],
+            "classTitle": "Earings",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        214
+                    ],
+                    [
+                        493,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951060,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:36:55.842Z",
+            "updatedAt": "2020-08-05T18:36:55.842Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        648
+                    ],
+                    [
+                        474,
+                        780
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

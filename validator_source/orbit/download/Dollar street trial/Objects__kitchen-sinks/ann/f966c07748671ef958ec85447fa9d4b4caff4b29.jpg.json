@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278322204,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T21:29:05.629Z",
+            "updatedAt": "2019-10-12T10:49:05.178Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        530
+                    ],
+                    [
+                        1289,
+                        956
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281942829,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T10:49:05.057Z",
+            "updatedAt": "2019-10-12T10:49:05.057Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        772
+                    ],
+                    [
+                        186,
+                        851
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

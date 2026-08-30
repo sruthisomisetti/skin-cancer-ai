@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 282243560,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:51:57.041Z",
+            "updatedAt": "2020-07-13T21:09:29.873Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        7
+                    ],
+                    [
+                        1130,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154539,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:09:29.770Z",
+            "updatedAt": "2020-07-13T21:09:34.287Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        22
+                    ],
+                    [
+                        484,
+                        674
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

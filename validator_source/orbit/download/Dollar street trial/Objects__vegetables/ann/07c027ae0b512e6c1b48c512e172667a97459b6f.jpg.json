@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282041633,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:17:57.064Z",
+            "updatedAt": "2020-07-28T13:12:52.903Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        516
+                    ],
+                    [
+                        540,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867925,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:12:52.689Z",
+            "updatedAt": "2020-07-28T13:12:52.689Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        365
+                    ],
+                    [
+                        607,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

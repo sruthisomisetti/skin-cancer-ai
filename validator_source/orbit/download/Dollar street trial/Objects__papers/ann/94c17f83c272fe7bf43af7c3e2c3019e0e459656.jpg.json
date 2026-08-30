@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281992880,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T19:20:06.238Z",
+            "updatedAt": "2019-10-12T19:22:22.841Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        221
+                    ],
+                    [
+                        688,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992895,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T19:21:40.324Z",
+            "updatedAt": "2019-10-12T19:22:22.841Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        904,
+                        256
+                    ],
+                    [
+                        1022,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281992902,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T19:21:57.471Z",
+            "updatedAt": "2019-10-12T19:22:46.119Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        19
+                    ],
+                    [
+                        655,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

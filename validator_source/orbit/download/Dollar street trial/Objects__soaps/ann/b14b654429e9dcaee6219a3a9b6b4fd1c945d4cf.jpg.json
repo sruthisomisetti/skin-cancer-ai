@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278185953,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T16:23:35.435Z",
+            "updatedAt": "2020-07-25T16:16:44.786Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        55
+                    ],
+                    [
+                        615,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490937224,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T16:16:44.597Z",
+            "updatedAt": "2020-07-25T16:16:44.597Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        628,
+                        664
+                    ],
+                    [
+                        841,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

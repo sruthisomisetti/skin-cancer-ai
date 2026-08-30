@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282066285,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:10:17.451Z",
+            "updatedAt": "2020-07-24T18:57:15.579Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        68
+                    ],
+                    [
+                        588,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918598,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:56:50.471Z",
+            "updatedAt": "2020-07-24T18:57:15.579Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        356
+                    ],
+                    [
+                        564,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918604,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:57:01.735Z",
+            "updatedAt": "2020-07-24T18:57:15.579Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        872,
+                        144
+                    ],
+                    [
+                        1018,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918610,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:57:15.352Z",
+            "updatedAt": "2020-07-24T18:57:15.352Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        823,
+                        417
+                    ],
+                    [
+                        1013,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

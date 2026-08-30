@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1263
+    },
+    "objects": [
+        {
+            "id": 488962307,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T09:57:22.704Z",
+            "updatedAt": "2020-07-21T09:57:47.385Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        1024,
+                        330
+                    ],
+                    [
+                        1258,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488962315,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T09:57:33.980Z",
+            "updatedAt": "2020-07-21T09:57:47.385Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        640
+                    ],
+                    [
+                        581,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488962327,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T09:57:47.180Z",
+            "updatedAt": "2020-07-21T09:57:47.180Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        863,
+                        730
+                    ],
+                    [
+                        1155,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

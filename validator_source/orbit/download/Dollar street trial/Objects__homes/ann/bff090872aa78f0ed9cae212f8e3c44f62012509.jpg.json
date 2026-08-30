@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278949636,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:22:53.271Z",
+            "updatedAt": "2019-10-09T11:23:42.243Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        14
+                    ],
+                    [
+                        956,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949647,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:23:20.963Z",
+            "updatedAt": "2019-10-09T11:23:42.243Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        158
+                    ],
+                    [
+                        1015,
+                        769
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949653,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:23:41.967Z",
+            "updatedAt": "2019-10-09T11:23:41.967Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        754
+                    ],
+                    [
+                        928,
+                        1008
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

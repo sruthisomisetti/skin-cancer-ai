@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282282308,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T13:15:28.499Z",
+            "updatedAt": "2020-07-26T12:35:28.872Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        302
+                    ],
+                    [
+                        845,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282924487,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T09:26:52.626Z",
+            "updatedAt": "2020-07-26T12:35:28.872Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        501,
+                        72
+                    ],
+                    [
+                        679,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490961771,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T12:35:28.679Z",
+            "updatedAt": "2020-07-26T12:35:28.679Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        574
+                    ],
+                    [
+                        611,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

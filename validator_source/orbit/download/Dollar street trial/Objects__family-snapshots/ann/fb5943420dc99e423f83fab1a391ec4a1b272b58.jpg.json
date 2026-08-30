@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488159311,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T08:57:20.140Z",
+            "updatedAt": "2020-07-18T08:57:28.644Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        129
+                    ],
+                    [
+                        665,
+                        982
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488159313,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T08:57:28.405Z",
+            "updatedAt": "2020-07-18T08:57:28.405Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        465
+                    ],
+                    [
+                        544,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

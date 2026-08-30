@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487910128,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:39:16.550Z",
+            "updatedAt": "2020-07-17T20:39:27.709Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        337
+                    ],
+                    [
+                        785,
+                        777
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910133,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:39:27.510Z",
+            "updatedAt": "2020-07-17T20:39:27.510Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        827
+                    ],
+                    [
+                        608,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

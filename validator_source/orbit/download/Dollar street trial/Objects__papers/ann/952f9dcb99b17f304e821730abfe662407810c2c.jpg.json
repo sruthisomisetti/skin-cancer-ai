@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281992941,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T19:24:04.037Z",
+            "updatedAt": "2020-07-22T19:52:44.864Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        171
+                    ],
+                    [
+                        779,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490305897,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T19:52:44.701Z",
+            "updatedAt": "2020-07-22T19:52:44.701Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        913,
+                        42
+                    ],
+                    [
+                        1020,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

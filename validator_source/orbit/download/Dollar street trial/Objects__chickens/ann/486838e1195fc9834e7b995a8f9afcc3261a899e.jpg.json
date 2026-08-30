@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282052466,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T15:59:58.364Z",
+            "updatedAt": "2019-10-13T16:00:07.611Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        756,
+                        188
+                    ],
+                    [
+                        947,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052469,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-13T16:00:07.357Z",
+            "updatedAt": "2019-10-13T16:00:07.357Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        651
+                    ],
+                    [
+                        768,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

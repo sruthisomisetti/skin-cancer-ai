@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282049492,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:29:50.662Z",
+            "updatedAt": "2019-10-13T14:30:02.792Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        484,
+                        126
+                    ],
+                    [
+                        1459,
+                        957
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049496,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:30:02.592Z",
+            "updatedAt": "2019-10-13T14:30:02.592Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        754
+                    ],
+                    [
+                        484,
+                        1014
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

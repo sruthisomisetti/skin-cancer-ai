@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489304007,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:35:18.983Z",
+            "updatedAt": "2020-07-21T14:35:29.685Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        153
+                    ],
+                    [
+                        755,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489304016,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:35:29.478Z",
+            "updatedAt": "2020-07-21T14:35:29.478Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        5
+                    ],
+                    [
+                        684,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

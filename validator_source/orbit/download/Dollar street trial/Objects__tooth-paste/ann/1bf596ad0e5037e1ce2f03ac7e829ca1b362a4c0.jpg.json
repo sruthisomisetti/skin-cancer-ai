@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278297618,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T18:35:25.735Z",
+            "updatedAt": "2020-07-27T18:31:28.174Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        177
+                    ],
+                    [
+                        697,
+                        1473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230650,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:31:16.809Z",
+            "updatedAt": "2020-07-27T18:31:28.174Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        372
+                    ],
+                    [
+                        452,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230655,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:31:27.946Z",
+            "updatedAt": "2020-07-27T18:31:27.946Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        1327
+                    ],
+                    [
+                        1023,
+                        2047
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

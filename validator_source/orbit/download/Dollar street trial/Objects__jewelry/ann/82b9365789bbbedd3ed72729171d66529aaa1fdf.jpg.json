@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052088,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T15:46:07.322Z",
+            "updatedAt": "2019-10-14T07:35:22.793Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        18
+                    ],
+                    [
+                        675,
+                        1377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282185618,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T07:35:22.642Z",
+            "updatedAt": "2019-10-14T07:35:22.642Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        554,
+                        22
+                    ],
+                    [
+                        942,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

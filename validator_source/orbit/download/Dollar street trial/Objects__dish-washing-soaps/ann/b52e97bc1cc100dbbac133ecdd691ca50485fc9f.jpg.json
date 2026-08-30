@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278318514,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:17:39.086Z",
+            "updatedAt": "2020-07-17T14:37:25.189Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        299
+                    ],
+                    [
+                        754,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487891830,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T14:37:07.847Z",
+            "updatedAt": "2020-07-17T14:37:25.189Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        0
+                    ],
+                    [
+                        975,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487891842,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T14:37:24.958Z",
+            "updatedAt": "2020-07-17T14:37:24.958Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        95
+                    ],
+                    [
+                        1020,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

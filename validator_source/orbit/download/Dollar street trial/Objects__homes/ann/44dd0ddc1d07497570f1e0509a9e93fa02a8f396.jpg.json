@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278319184,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T20:33:54.249Z",
+            "updatedAt": "2020-07-19T21:31:02.447Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        456
+                    ],
+                    [
+                        748,
+                        545
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279390091,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T21:06:53.395Z",
+            "updatedAt": "2020-07-19T21:31:02.447Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        437
+                    ],
+                    [
+                        975,
+                        881
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430383,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:31:02.236Z",
+            "updatedAt": "2020-07-19T21:31:02.236Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        749
+                    ],
+                    [
+                        194,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

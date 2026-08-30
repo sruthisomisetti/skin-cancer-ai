@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282246138,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:45:33.457Z",
+            "updatedAt": "2020-08-05T11:19:52.301Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        49
+                    ],
+                    [
+                        1019,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282246141,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:45:36.479Z",
+            "updatedAt": "2020-08-05T11:19:52.301Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        431
+                    ],
+                    [
+                        987,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496753123,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T11:19:52.072Z",
+            "updatedAt": "2020-08-05T11:19:52.072Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        201
+                    ],
+                    [
+                        413,
+                        830
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490942015,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:27:48.395Z",
+            "updatedAt": "2020-07-25T23:28:25.182Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        259
+                    ],
+                    [
+                        894,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942016,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:27:56.196Z",
+            "updatedAt": "2020-07-25T23:28:25.182Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        598
+                    ],
+                    [
+                        979,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942017,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:28:19.493Z",
+            "updatedAt": "2020-07-25T23:28:25.182Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        306
+                    ],
+                    [
+                        1019,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942018,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:28:24.983Z",
+            "updatedAt": "2020-07-25T23:28:24.983Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        386
+                    ],
+                    [
+                        991,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

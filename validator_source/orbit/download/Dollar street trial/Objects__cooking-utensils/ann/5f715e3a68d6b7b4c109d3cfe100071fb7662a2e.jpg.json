@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282041370,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T08:55:18.767Z",
+            "updatedAt": "2020-07-15T20:43:03.318Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        752,
+                        275
+                    ],
+                    [
+                        1024,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582055,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T20:43:03.101Z",
+            "updatedAt": "2020-07-15T20:43:32.790Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        98
+                    ],
+                    [
+                        966,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

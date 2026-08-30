@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 487906842,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:40:36.980Z",
+            "updatedAt": "2020-07-17T18:40:59.951Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        10
+                    ],
+                    [
+                        1359,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487906846,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:40:50.886Z",
+            "updatedAt": "2020-07-17T18:40:59.951Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        168
+                    ],
+                    [
+                        782,
+                        744
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487906848,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:40:59.712Z",
+            "updatedAt": "2020-07-17T18:40:59.712Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        532
+                    ],
+                    [
+                        514,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

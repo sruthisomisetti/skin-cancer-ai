@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282443003,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T20:05:12.315Z",
+            "updatedAt": "2019-10-14T20:05:34.617Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        185
+                    ],
+                    [
+                        962,
+                        454
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282443010,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T20:05:34.387Z",
+            "updatedAt": "2020-07-27T18:02:39.528Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        170
+                    ],
+                    [
+                        392,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

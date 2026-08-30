@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282043937,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T10:24:19.251Z",
+            "updatedAt": "2020-07-28T14:38:39.244Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        408
+                    ],
+                    [
+                        672,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491883385,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:38:39.058Z",
+            "updatedAt": "2020-07-28T14:38:39.058Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        106
+                    ],
+                    [
+                        938,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

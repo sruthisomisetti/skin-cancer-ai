@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282043240,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:53:37.367Z",
+            "updatedAt": "2019-10-13T09:53:42.040Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        303
+                    ],
+                    [
+                        969,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282043241,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:53:41.809Z",
+            "updatedAt": "2019-10-13T09:53:46.877Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        579
+                    ],
+                    [
+                        947,
+                        852
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

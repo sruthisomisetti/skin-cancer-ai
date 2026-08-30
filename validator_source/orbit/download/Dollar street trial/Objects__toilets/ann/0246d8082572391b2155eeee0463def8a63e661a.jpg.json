@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1819
+    },
+    "objects": [
+        {
+            "id": 278291027,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:17:02.972Z",
+            "updatedAt": "2020-07-27T11:05:47.352Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        686,
+                        142
+                    ],
+                    [
+                        1480,
+                        1012
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858094,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T09:40:40.062Z",
+            "updatedAt": "2020-07-27T11:05:47.352Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        567,
+                        195
+                    ],
+                    [
+                        734,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491106474,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T11:05:47.165Z",
+            "updatedAt": "2020-07-27T11:05:51.288Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        644
+                    ],
+                    [
+                        622,
+                        906
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

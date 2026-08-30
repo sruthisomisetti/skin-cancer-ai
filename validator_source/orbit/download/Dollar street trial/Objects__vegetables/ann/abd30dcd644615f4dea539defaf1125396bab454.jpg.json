@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 491882565,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:16:06.583Z",
+            "updatedAt": "2020-07-28T14:16:32.271Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        772
+                    ],
+                    [
+                        384,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491882580,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:16:25.971Z",
+            "updatedAt": "2020-07-28T14:16:32.271Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        694
+                    ],
+                    [
+                        338,
+                        834
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491882583,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:16:32.073Z",
+            "updatedAt": "2020-07-28T14:16:32.073Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        925
+                    ],
+                    [
+                        715,
+                        1132
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

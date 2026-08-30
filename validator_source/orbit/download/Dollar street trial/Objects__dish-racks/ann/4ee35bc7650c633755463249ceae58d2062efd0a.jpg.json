@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487907299,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:06:14.190Z",
+            "updatedAt": "2020-07-17T19:06:24.993Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        225
+                    ],
+                    [
+                        764,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487907305,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T19:06:24.799Z",
+            "updatedAt": "2020-07-17T19:06:24.799Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        281
+                    ],
+                    [
+                        460,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 278949645,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:23:11.903Z",
+            "updatedAt": "2020-07-07T12:23:46.847Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        906,
+                        564
+                    ],
+                    [
+                        1158,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481461894,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T12:23:17.171Z",
+            "updatedAt": "2020-07-07T12:23:46.847Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        1318,
+                        546
+                    ],
+                    [
+                        1533,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481461936,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T12:23:46.249Z",
+            "updatedAt": "2020-07-07T12:23:57.760Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        13
+                    ],
+                    [
+                        1383,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

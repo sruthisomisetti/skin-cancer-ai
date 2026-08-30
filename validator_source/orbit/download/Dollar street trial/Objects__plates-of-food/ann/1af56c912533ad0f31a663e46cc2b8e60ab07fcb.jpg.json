@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 490793402,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:50:35.811Z",
+            "updatedAt": "2020-08-05T18:53:00.562Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        0
+                    ],
+                    [
+                        1462,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951204,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:52:45.845Z",
+            "updatedAt": "2020-08-05T18:53:00.562Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        806,
+                        507
+                    ],
+                    [
+                        975,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951207,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:52:50.245Z",
+            "updatedAt": "2020-08-05T18:53:00.562Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        282
+                    ],
+                    [
+                        712,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951209,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:53:00.369Z",
+            "updatedAt": "2020-08-05T18:53:00.369Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        881,
+                        246
+                    ],
+                    [
+                        1033,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

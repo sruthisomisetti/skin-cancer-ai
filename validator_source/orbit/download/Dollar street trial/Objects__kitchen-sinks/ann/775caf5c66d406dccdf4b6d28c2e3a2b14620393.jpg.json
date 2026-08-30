@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278312017,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:29:39.062Z",
+            "updatedAt": "2019-10-12T08:43:26.176Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        484
+                    ],
+                    [
+                        919,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278312106,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:31:20.719Z",
+            "updatedAt": "2019-10-12T08:43:26.176Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        883,
+                        353
+                    ],
+                    [
+                        952,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281888024,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:43:25.991Z",
+            "updatedAt": "2019-10-12T08:43:25.991Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        508
+                    ],
+                    [
+                        321,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

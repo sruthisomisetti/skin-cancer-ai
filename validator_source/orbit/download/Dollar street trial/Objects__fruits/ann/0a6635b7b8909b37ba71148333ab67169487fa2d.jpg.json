@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282244546,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:23:44.095Z",
+            "updatedAt": "2020-08-05T08:15:02.181Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        43
+                    ],
+                    [
+                        1079,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496707739,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T08:15:01.992Z",
+            "updatedAt": "2020-08-05T08:15:01.992Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        646,
+                        744
+                    ],
+                    [
+                        1362,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278968767,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:32:04.001Z",
+            "updatedAt": "2020-07-26T14:46:25.485Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        243
+                    ],
+                    [
+                        676,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963870,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:45:46.061Z",
+            "updatedAt": "2020-07-26T14:46:25.485Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        188
+                    ],
+                    [
+                        724,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963871,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:45:58.330Z",
+            "updatedAt": "2020-07-26T14:46:25.485Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        112
+                    ],
+                    [
+                        255,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963874,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:46:08.780Z",
+            "updatedAt": "2020-07-26T14:46:25.485Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        112
+                    ],
+                    [
+                        334,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490963878,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T14:46:25.280Z",
+            "updatedAt": "2020-07-26T14:46:25.280Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        173
+                    ],
+                    [
+                        169,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

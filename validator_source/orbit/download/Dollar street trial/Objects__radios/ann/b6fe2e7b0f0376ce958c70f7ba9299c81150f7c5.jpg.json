@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282049518,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:30:58.997Z",
+            "updatedAt": "2019-10-13T14:31:17.111Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        286
+                    ],
+                    [
+                        1256,
+                        708
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049521,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:31:09.065Z",
+            "updatedAt": "2019-10-13T14:31:09.065Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        229
+                    ],
+                    [
+                        1107,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

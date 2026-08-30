@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 279223263,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:43:27.055Z",
+            "updatedAt": "2020-08-03T21:33:04.789Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        187
+                    ],
+                    [
+                        1426,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735528,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:56:51.450Z",
+            "updatedAt": "2020-08-03T21:33:04.789Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        1236,
+                        123
+                    ],
+                    [
+                        1362,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735551,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:57:26.611Z",
+            "updatedAt": "2020-08-03T21:33:04.789Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        966,
+                        43
+                    ],
+                    [
+                        1227,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496327093,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:33:04.577Z",
+            "updatedAt": "2020-08-03T21:33:04.577Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        320
+                    ],
+                    [
+                        284,
+                        926
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278958634,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-09T12:08:16.401Z",
+            "updatedAt": "2019-10-12T16:56:37.393Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        468
+                    ],
+                    [
+                        978,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278958639,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-09T12:08:23.219Z",
+            "updatedAt": "2019-10-12T16:56:37.393Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        456
+                    ],
+                    [
+                        257,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281954301,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T16:56:37.227Z",
+            "updatedAt": "2019-10-12T16:56:37.227Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        639
+                    ],
+                    [
+                        664,
+                        808
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

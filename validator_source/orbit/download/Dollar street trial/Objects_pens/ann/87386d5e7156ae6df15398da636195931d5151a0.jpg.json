@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282424956,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:23:33.681Z",
+            "updatedAt": "2020-07-30T16:28:32.491Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        689,
+                        248
+                    ],
+                    [
+                        945,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494854562,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:28:32.276Z",
+            "updatedAt": "2020-07-30T16:28:32.276Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        42
+                    ],
+                    [
+                        647,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

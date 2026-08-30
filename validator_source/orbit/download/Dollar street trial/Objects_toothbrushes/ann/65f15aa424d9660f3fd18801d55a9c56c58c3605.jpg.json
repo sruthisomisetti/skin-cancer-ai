@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 495289564,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:13:33.880Z",
+            "updatedAt": "2020-07-31T18:13:56.681Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        398
+                    ],
+                    [
+                        543,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495289575,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:13:56.497Z",
+            "updatedAt": "2020-07-31T18:13:56.497Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        263
+                    ],
+                    [
+                        483,
+                        607
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

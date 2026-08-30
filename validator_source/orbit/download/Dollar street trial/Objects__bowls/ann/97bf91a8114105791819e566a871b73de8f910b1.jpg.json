@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282570231,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T20:18:58.912Z",
+            "updatedAt": "2020-08-04T13:31:16.360Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        145
+                    ],
+                    [
+                        983,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496564089,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T13:31:16.148Z",
+            "updatedAt": "2020-08-04T13:31:16.148Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        83
+                    ],
+                    [
+                        634,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278859983,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:26:59.083Z",
+            "updatedAt": "2020-08-03T12:56:19.248Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        81
+                    ],
+                    [
+                        1061,
+                        959
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496124995,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T12:55:50.359Z",
+            "updatedAt": "2020-08-03T12:56:19.248Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        96
+                    ],
+                    [
+                        704,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496125298,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T12:56:01.212Z",
+            "updatedAt": "2020-08-03T12:56:19.248Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        0
+                    ],
+                    [
+                        363,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496126003,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T12:56:19.008Z",
+            "updatedAt": "2020-08-03T12:56:19.008Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1330,
+                        328
+                    ],
+                    [
+                        1374,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

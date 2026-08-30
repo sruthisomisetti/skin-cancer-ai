@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1824
+    },
+    "objects": [
+        {
+            "id": 282053106,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T16:20:16.382Z",
+            "updatedAt": "2020-07-19T11:19:58.073Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        903,
+                        549
+                    ],
+                    [
+                        1784,
+                        842
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282570672,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T20:30:02.484Z",
+            "updatedAt": "2020-07-19T11:20:13.175Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        618
+                    ],
+                    [
+                        799,
+                        1014
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

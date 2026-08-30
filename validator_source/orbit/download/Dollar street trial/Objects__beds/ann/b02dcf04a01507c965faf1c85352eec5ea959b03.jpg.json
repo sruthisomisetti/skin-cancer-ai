@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 485735660,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:59:48.128Z",
+            "updatedAt": "2020-07-13T13:00:37.203Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        293
+                    ],
+                    [
+                        936,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735675,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:00:10.999Z",
+            "updatedAt": "2020-07-13T13:00:37.203Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        562,
+                        229
+                    ],
+                    [
+                        671,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485735705,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:00:37.085Z",
+            "updatedAt": "2020-07-13T13:00:37.085Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        670,
+                        159
+                    ],
+                    [
+                        727,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

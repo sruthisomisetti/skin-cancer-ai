@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278715770,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:40:35.676Z",
+            "updatedAt": "2019-10-09T09:48:37.270Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        3
+                    ],
+                    [
+                        1008,
+                        670
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278716952,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:41:01.703Z",
+            "updatedAt": "2019-10-09T09:48:37.270Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        646,
+                        557
+                    ],
+                    [
+                        765,
+                        589
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278724008,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:43:39.128Z",
+            "updatedAt": "2019-10-09T09:48:37.270Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        111
+                    ],
+                    [
+                        534,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278858436,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T09:48:36.979Z",
+            "updatedAt": "2019-10-09T09:48:36.979Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        982,
+                        562
+                    ],
+                    [
+                        1002,
+                        612
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

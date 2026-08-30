@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278309858,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:52:39.172Z",
+            "updatedAt": "2019-10-08T18:53:02.866Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        825,
+                        399
+                    ],
+                    [
+                        919,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309862,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:52:46.244Z",
+            "updatedAt": "2019-10-08T18:53:02.866Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        278
+                    ],
+                    [
+                        332,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309935,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:53:02.251Z",
+            "updatedAt": "2019-10-09T12:59:03.441Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        302
+                    ],
+                    [
+                        774,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282048739,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T13:44:46.326Z",
+            "updatedAt": "2019-10-13T13:45:00.731Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        7
+                    ],
+                    [
+                        726,
+                        545
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282048747,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T13:45:00.593Z",
+            "updatedAt": "2019-10-13T13:45:07.182Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        518
+                    ],
+                    [
+                        791,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

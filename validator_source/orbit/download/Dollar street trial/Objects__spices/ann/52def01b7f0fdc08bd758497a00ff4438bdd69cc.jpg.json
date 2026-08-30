@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282250324,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T12:24:21.584Z",
+            "updatedAt": "2020-07-26T09:00:20.960Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        494
+                    ],
+                    [
+                        610,
+                        606
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960101,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:00:12.155Z",
+            "updatedAt": "2020-07-26T09:00:20.960Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        384
+                    ],
+                    [
+                        370,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960103,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:00:20.768Z",
+            "updatedAt": "2020-07-26T09:00:20.768Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        435
+                    ],
+                    [
+                        797,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

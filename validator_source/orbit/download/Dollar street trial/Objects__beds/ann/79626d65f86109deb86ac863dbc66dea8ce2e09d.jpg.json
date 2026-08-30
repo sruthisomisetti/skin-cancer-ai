@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496317000,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:48:40.285Z",
+            "updatedAt": "2020-08-03T20:49:15.241Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        749,
+                        555
+                    ],
+                    [
+                        1024,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326658,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:48:57.513Z",
+            "updatedAt": "2020-08-03T20:49:15.241Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        902
+                    ],
+                    [
+                        221,
+                        945
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326662,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:49:15.048Z",
+            "updatedAt": "2020-08-03T20:49:15.048Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        447
+                    ],
+                    [
+                        1021,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282570296,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T20:20:46.124Z",
+            "updatedAt": "2020-07-13T21:20:47.503Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        262
+                    ],
+                    [
+                        907,
+                        857
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154889,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:20:47.386Z",
+            "updatedAt": "2020-07-13T21:20:52.046Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        195
+                    ],
+                    [
+                        766,
+                        772
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

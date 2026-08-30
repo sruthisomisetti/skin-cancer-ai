@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382254,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-09T20:17:55.107Z",
+            "updatedAt": "2019-10-09T20:18:45.301Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        147
+                    ],
+                    [
+                        661,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279382270,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-09T20:18:12.430Z",
+            "updatedAt": "2019-10-09T20:18:45.301Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        20
+                    ],
+                    [
+                        498,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

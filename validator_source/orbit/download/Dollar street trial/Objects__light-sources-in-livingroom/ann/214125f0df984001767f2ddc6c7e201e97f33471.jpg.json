@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488963595,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T10:03:47.016Z",
+            "updatedAt": "2020-07-21T10:04:01.299Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        523
+                    ],
+                    [
+                        557,
+                        1091
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488963607,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T10:04:01.096Z",
+            "updatedAt": "2020-07-21T10:04:01.096Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        901
+                    ],
+                    [
+                        427,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

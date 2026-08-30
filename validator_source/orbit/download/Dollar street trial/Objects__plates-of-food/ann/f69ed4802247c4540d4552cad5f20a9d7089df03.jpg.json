@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490904942,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T13:17:46.269Z",
+            "updatedAt": "2020-07-24T13:18:19.811Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        186
+                    ],
+                    [
+                        652,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490904958,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T13:17:58.527Z",
+            "updatedAt": "2020-07-24T13:18:19.811Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        1
+                    ],
+                    [
+                        358,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490904969,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T13:18:07.106Z",
+            "updatedAt": "2020-07-24T13:18:19.811Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        768,
+                        317
+                    ],
+                    [
+                        941,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490904981,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T13:18:19.624Z",
+            "updatedAt": "2020-07-24T13:18:19.624Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        474,
+                        0
+                    ],
+                    [
+                        802,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

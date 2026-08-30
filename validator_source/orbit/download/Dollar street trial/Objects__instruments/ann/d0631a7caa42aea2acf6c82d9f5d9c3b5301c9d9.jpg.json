@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282052749,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:09:12.618Z",
+            "updatedAt": "2020-07-18T20:54:06.558Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        160
+                    ],
+                    [
+                        1536,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338533,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:54:06.363Z",
+            "updatedAt": "2020-07-18T20:54:10.639Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        380
+                    ],
+                    [
+                        705,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

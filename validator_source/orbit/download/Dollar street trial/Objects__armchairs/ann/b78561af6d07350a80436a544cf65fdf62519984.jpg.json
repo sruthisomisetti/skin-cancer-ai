@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 278953168,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:47:56.857Z",
+            "updatedAt": "2020-07-07T15:26:03.388Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        367
+                    ],
+                    [
+                        559,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278953176,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:48:02.844Z",
+            "updatedAt": "2020-07-07T15:26:03.388Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        365
+                    ],
+                    [
+                        308,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481528704,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T15:26:03.191Z",
+            "updatedAt": "2020-07-07T15:26:12.099Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        595
+                    ],
+                    [
+                        683,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

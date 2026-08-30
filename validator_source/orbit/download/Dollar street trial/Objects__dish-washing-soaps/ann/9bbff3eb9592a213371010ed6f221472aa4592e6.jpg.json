@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278318331,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:14:25.251Z",
+            "updatedAt": "2020-08-06T20:54:33.799Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        49
+                    ],
+                    [
+                        714,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278318335,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:14:28.552Z",
+            "updatedAt": "2020-08-06T20:54:33.799Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        700,
+                        145
+                    ],
+                    [
+                        853,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497424129,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T20:54:05.295Z",
+            "updatedAt": "2020-08-06T20:54:33.799Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        554
+                    ],
+                    [
+                        401,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497424132,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T20:54:33.584Z",
+            "updatedAt": "2020-08-06T20:54:33.584Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        187
+                    ],
+                    [
+                        140,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

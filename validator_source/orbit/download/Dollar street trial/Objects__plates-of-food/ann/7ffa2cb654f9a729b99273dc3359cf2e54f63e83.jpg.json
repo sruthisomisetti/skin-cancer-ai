@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490888118,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T11:47:41.261Z",
+            "updatedAt": "2020-07-24T11:47:55.455Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        185
+                    ],
+                    [
+                        498,
+                        565
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490888126,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T11:47:55.262Z",
+            "updatedAt": "2020-07-24T11:47:55.262Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        97
+                    ],
+                    [
+                        788,
+                        642
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

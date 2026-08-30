@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1819
+    },
+    "objects": [
+        {
+            "id": 278257820,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:44:09.038Z",
+            "updatedAt": "2019-10-08T17:45:58.466Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        836,
+                        79
+                    ],
+                    [
+                        1279,
+                        861
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278257834,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-08T17:44:19.739Z",
+            "updatedAt": "2019-10-08T17:45:58.466Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        462
+                    ],
+                    [
+                        1011,
+                        885
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

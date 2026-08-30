@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1510
+    },
+    "objects": [
+        {
+            "id": 282368030,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:26:23.608Z",
+            "updatedAt": "2020-07-15T15:27:03.595Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        54
+                    ],
+                    [
+                        1218,
+                        919
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487419229,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:26:31.772Z",
+            "updatedAt": "2020-07-15T15:26:31.772Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        945,
+                        928
+                    ],
+                    [
+                        1125,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

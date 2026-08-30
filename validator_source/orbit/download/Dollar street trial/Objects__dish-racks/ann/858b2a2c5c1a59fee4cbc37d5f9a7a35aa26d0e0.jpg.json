@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 660,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278952556,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:36:40.049Z",
+            "updatedAt": "2019-10-13T15:38:06.935Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        129
+                    ],
+                    [
+                        387,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278952568,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:36:52.282Z",
+            "updatedAt": "2019-10-13T15:38:06.935Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        78
+                    ],
+                    [
+                        651,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051827,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T15:38:06.788Z",
+            "updatedAt": "2019-10-13T15:38:06.788Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        359
+                    ],
+                    [
+                        784,
+                        656
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

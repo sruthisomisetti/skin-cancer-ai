@@ -1,0 +1,700 @@
+{
+    "classes": [
+        {
+            "title": "Shower",
+            "shape": "rectangle",
+            "color": "#BB022D",
+            "geometry_config": {}
+        },
+        {
+            "title": "Necklace",
+            "shape": "rectangle",
+            "color": "#4A2376",
+            "geometry_config": {}
+        },
+        {
+            "title": "Rug",
+            "shape": "rectangle",
+            "color": "#569108",
+            "geometry_config": {}
+        },
+        {
+            "title": "Light sources by bed, reading light",
+            "shape": "rectangle",
+            "color": "#16DA36",
+            "geometry_config": {}
+        },
+        {
+            "title": "Cleaning floor",
+            "shape": "rectangle",
+            "color": "#7BD3E0",
+            "geometry_config": {}
+        },
+        {
+            "title": "Light sources",
+            "shape": "rectangle",
+            "color": "#995405",
+            "geometry_config": {}
+        },
+        {
+            "title": "Social drinks",
+            "shape": "rectangle",
+            "color": "#D5445E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Plates of food",
+            "shape": "rectangle",
+            "color": "#A038CC",
+            "geometry_config": {}
+        },
+        {
+            "title": "Light sources in living room",
+            "shape": "rectangle",
+            "color": "#E8B43B",
+            "geometry_config": {}
+        },
+        {
+            "title": "Light sources kitchen",
+            "shape": "rectangle",
+            "color": "#0E08C4",
+            "geometry_config": {}
+        },
+        {
+            "title": "Goat",
+            "shape": "rectangle",
+            "color": "#990B0B",
+            "geometry_config": {}
+        },
+        {
+            "title": "Bowl",
+            "shape": "rectangle",
+            "color": "#C38C50",
+            "geometry_config": {}
+        },
+        {
+            "title": "Jacket",
+            "shape": "rectangle",
+            "color": "#EFE82A",
+            "geometry_config": {}
+        },
+        {
+            "title": "Wheel barrow",
+            "shape": "rectangle",
+            "color": "#0300CC",
+            "geometry_config": {}
+        },
+        {
+            "title": "Car key",
+            "shape": "rectangle",
+            "color": "#AF28DC",
+            "geometry_config": {}
+        },
+        {
+            "title": "Dishwasher",
+            "shape": "rectangle",
+            "color": "#9709B3",
+            "geometry_config": {}
+        },
+        {
+            "title": "Pet food",
+            "shape": "rectangle",
+            "color": "#9172EE",
+            "geometry_config": {}
+        },
+        {
+            "title": "Instrument",
+            "shape": "rectangle",
+            "color": "#862D43",
+            "geometry_config": {}
+        },
+        {
+            "title": "Alcoholic drink",
+            "shape": "rectangle",
+            "color": "#C50737",
+            "geometry_config": {}
+        },
+        {
+            "title": "Chicken",
+            "shape": "rectangle",
+            "color": "#B272EE",
+            "geometry_config": {}
+        },
+        {
+            "title": "Motorcycle",
+            "shape": "rectangle",
+            "color": "#158EB7",
+            "geometry_config": {}
+        },
+        {
+            "title": "Diaper",
+            "shape": "rectangle",
+            "color": "#7750D7",
+            "geometry_config": {}
+        },
+        {
+            "title": "Fruit trees",
+            "shape": "rectangle",
+            "color": "#367B32",
+            "geometry_config": {}
+        },
+        {
+            "title": "Make up",
+            "shape": "rectangle",
+            "color": "#AA0370",
+            "geometry_config": {}
+        },
+        {
+            "title": "Earings",
+            "shape": "rectangle",
+            "color": "#BE6F50",
+            "geometry_config": {}
+        },
+        {
+            "title": "Wrist watch",
+            "shape": "rectangle",
+            "color": "#497C27",
+            "geometry_config": {}
+        },
+        {
+            "title": "Menstruation pads",
+            "shape": "rectangle",
+            "color": "#64DBED",
+            "geometry_config": {}
+        },
+        {
+            "title": "Family snapshot",
+            "shape": "rectangle",
+            "color": "#FF33FF",
+            "geometry_config": {}
+        },
+        {
+            "title": "Car",
+            "shape": "rectangle",
+            "color": "#912755",
+            "geometry_config": {}
+        },
+        {
+            "title": "Frontdoor keys",
+            "shape": "rectangle",
+            "color": "#C36983",
+            "geometry_config": {}
+        },
+        {
+            "title": "Oven",
+            "shape": "rectangle",
+            "color": "#C65DA8",
+            "geometry_config": {}
+        },
+        {
+            "title": "Radio",
+            "shape": "rectangle",
+            "color": "#38589F",
+            "geometry_config": {}
+        },
+        {
+            "title": "Bike",
+            "shape": "rectangle",
+            "color": "#E18966",
+            "geometry_config": {}
+        },
+        {
+            "title": "Mosquito protections",
+            "shape": "rectangle",
+            "color": "#25AF12",
+            "geometry_config": {}
+        },
+        {
+            "title": "Music equipment",
+            "shape": "rectangle",
+            "color": "#CA1652",
+            "geometry_config": {}
+        },
+        {
+            "title": "Jewelry",
+            "shape": "rectangle",
+            "color": "#55F7B6",
+            "geometry_config": {}
+        },
+        {
+            "title": "Computer",
+            "shape": "rectangle",
+            "color": "#8E7ECE",
+            "geometry_config": {}
+        },
+        {
+            "title": "Pet",
+            "shape": "rectangle",
+            "color": "#7214F5",
+            "geometry_config": {}
+        },
+        {
+            "title": "Wall clock",
+            "shape": "rectangle",
+            "color": "#62D57B",
+            "geometry_config": {}
+        },
+        {
+            "title": "Freezers",
+            "shape": "rectangle",
+            "color": "#4A12AB",
+            "geometry_config": {}
+        },
+        {
+            "title": "Meat",
+            "shape": "rectangle",
+            "color": "#3AA63E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Paper",
+            "shape": "rectangle",
+            "color": "#34268C",
+            "geometry_config": {}
+        },
+        {
+            "title": "Fruits",
+            "shape": "rectangle",
+            "color": "#921C72",
+            "geometry_config": {}
+        },
+        {
+            "title": "Refrigerator",
+            "shape": "rectangle",
+            "color": "#9C6640",
+            "geometry_config": {}
+        },
+        {
+            "title": "Tools",
+            "shape": "rectangle",
+            "color": "#A11B44",
+            "geometry_config": {}
+        },
+        {
+            "title": "Cleaning equipment",
+            "shape": "rectangle",
+            "color": "#2813C3",
+            "geometry_config": {}
+        },
+        {
+            "title": "Medication",
+            "shape": "rectangle",
+            "color": "#89D123",
+            "geometry_config": {}
+        },
+        {
+            "title": "Vegetable",
+            "shape": "rectangle",
+            "color": "#67DAE0",
+            "geometry_config": {}
+        },
+        {
+            "title": "TV",
+            "shape": "rectangle",
+            "color": "#4EBC70",
+            "geometry_config": {}
+        },
+        {
+            "title": "Power switch",
+            "shape": "rectangle",
+            "color": "#DE9873",
+            "geometry_config": {}
+        },
+        {
+            "title": "Guest beds",
+            "shape": "rectangle",
+            "color": "#1C7D36",
+            "geometry_config": {}
+        },
+        {
+            "title": "Bathroom door",
+            "shape": "rectangle",
+            "color": "#16B197",
+            "geometry_config": {}
+        },
+        {
+            "title": "Power outlet",
+            "shape": "rectangle",
+            "color": "#58BE1E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Cooking utensils",
+            "shape": "rectangle",
+            "color": "#950E1E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Trash",
+            "shape": "rectangle",
+            "color": "#6BE61E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Water outlet",
+            "shape": "rectangle",
+            "color": "#A76939",
+            "geometry_config": {}
+        },
+        {
+            "title": "Toy",
+            "shape": "rectangle",
+            "color": "#BEC101",
+            "geometry_config": {}
+        },
+        {
+            "title": "Book",
+            "shape": "rectangle",
+            "color": "#EAEE17",
+            "geometry_config": {}
+        },
+        {
+            "title": "Toilet paper",
+            "shape": "rectangle",
+            "color": "#343CCB",
+            "geometry_config": {}
+        },
+        {
+            "title": "Sofa",
+            "shape": "rectangle",
+            "color": "#397BA7",
+            "geometry_config": {}
+        },
+        {
+            "title": "Kids bed",
+            "shape": "rectangle",
+            "color": "#163D98",
+            "geometry_config": {}
+        },
+        {
+            "title": "Cutlery",
+            "shape": "rectangle",
+            "color": "#049F1E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Washing detergent",
+            "shape": "rectangle",
+            "color": "#00995C",
+            "geometry_config": {}
+        },
+        {
+            "title": "Roof",
+            "shape": "rectangle",
+            "color": "#EC4236",
+            "geometry_config": {}
+        },
+        {
+            "title": "Cup",
+            "shape": "rectangle",
+            "color": "#DF1190",
+            "geometry_config": {}
+        },
+        {
+            "title": "Hair brush",
+            "shape": "rectangle",
+            "color": "#68A611",
+            "geometry_config": {}
+        },
+        {
+            "title": "Phone",
+            "shape": "rectangle",
+            "color": "#5FAFEC",
+            "geometry_config": {}
+        },
+        {
+            "title": "Teeth",
+            "shape": "rectangle",
+            "color": "#6142A9",
+            "geometry_config": {}
+        },
+        {
+            "title": "Grains",
+            "shape": "rectangle",
+            "color": "#66CD4C",
+            "geometry_config": {}
+        },
+        {
+            "title": "Salt",
+            "shape": "rectangle",
+            "color": "#548EB6",
+            "geometry_config": {}
+        },
+        {
+            "title": "Plate",
+            "shape": "rectangle",
+            "color": "#149062",
+            "geometry_config": {}
+        },
+        {
+            "title": "Dish washing soap",
+            "shape": "rectangle",
+            "color": "#F55B9E",
+            "geometry_config": {}
+        },
+        {
+            "title": "Toilet",
+            "shape": "rectangle",
+            "color": "#07DF88",
+            "geometry_config": {}
+        },
+        {
+            "title": "Kitchen sink",
+            "shape": "rectangle",
+            "color": "#20AC7B",
+            "geometry_config": {}
+        },
+        {
+            "title": "Toothpaste",
+            "shape": "rectangle",
+            "color": "#70EC04",
+            "geometry_config": {}
+        },
+        {
+            "title": "Armchair",
+            "shape": "rectangle",
+            "color": "#16D070",
+            "geometry_config": {}
+        },
+        {
+            "title": "Dish brush",
+            "shape": "rectangle",
+            "color": "#7E2069",
+            "geometry_config": {}
+        },
+        {
+            "title": "Shampoo",
+            "shape": "rectangle",
+            "color": "#10BDE0",
+            "geometry_config": {}
+        },
+        {
+            "title": "Palms",
+            "shape": "rectangle",
+            "color": "#AE09A1",
+            "geometry_config": {}
+        },
+        {
+            "title": "Spices",
+            "shape": "rectangle",
+            "color": "#E8B373",
+            "geometry_config": {}
+        },
+        {
+            "title": "Lock on front door",
+            "shape": "rectangle",
+            "color": "#0A7FF5",
+            "geometry_config": {}
+        },
+        {
+            "title": "Dish rack",
+            "shape": "rectangle",
+            "color": "#04A6A9",
+            "geometry_config": {}
+        },
+        {
+            "title": "Wardrobe",
+            "shape": "rectangle",
+            "color": "#2F377F",
+            "geometry_config": {}
+        },
+        {
+            "title": "Soap",
+            "shape": "rectangle",
+            "color": "#0EE1DE",
+            "geometry_config": {}
+        },
+        {
+            "title": "Cooking pot",
+            "shape": "rectangle",
+            "color": "#71CAEA",
+            "geometry_config": {}
+        },
+        {
+            "title": "Front door",
+            "shape": "rectangle",
+            "color": "#5CD1BD",
+            "geometry_config": {}
+        },
+        {
+            "title": "Stove",
+            "shape": "rectangle",
+            "color": "#24CEF0",
+            "geometry_config": {}
+        },
+        {
+            "title": "Bed",
+            "shape": "rectangle",
+            "color": "#A554E8",
+            "geometry_config": {}
+        },
+        {
+            "title": "Home",
+            "shape": "rectangle",
+            "color": "#3087B5",
+            "geometry_config": {}
+        },
+        {
+            "title": "Shoe",
+            "shape": "rectangle",
+            "color": "#32CD8F",
+            "geometry_config": {}
+        },
+        {
+            "title": "Toothbrush",
+            "shape": "rectangle",
+            "color": "#EC5C22",
+            "geometry_config": {}
+        },
+        {
+            "title": "Glasses",
+            "shape": "rectangle",
+            "color": "#D123C0",
+            "geometry_config": {}
+        },
+        {
+            "title": "Pen",
+            "shape": "rectangle",
+            "color": "#389992",
+            "geometry_config": {}
+        },
+        {
+            "title": "Hand",
+            "shape": "rectangle",
+            "color": "#23CD34",
+            "geometry_config": {}
+        }
+    ],
+    "tags": [
+        {
+            "name": "Not good image",
+            "value_type": "none",
+            "color": "#2D97C8"
+        },
+        {
+            "name": "agriculture-land",
+            "value_type": "none",
+            "color": "#E3D778"
+        },
+        {
+            "name": "bedroom",
+            "value_type": "none",
+            "color": "#C68153"
+        },
+        {
+            "name": "parking-lot",
+            "value_type": "none",
+            "color": "#58D2DF"
+        },
+        {
+            "name": "backyard",
+            "value_type": "none",
+            "color": "#1D6BAA"
+        },
+        {
+            "name": "vegetable-plot",
+            "value_type": "none",
+            "color": "#2D449A"
+        },
+        {
+            "name": "bathroom",
+            "value_type": "none",
+            "color": "#77A7D4"
+        },
+        {
+            "name": "ceiling",
+            "value_type": "none",
+            "color": "#DE7063"
+        },
+        {
+            "name": "worship-place",
+            "value_type": "none",
+            "color": "#D0FB41"
+        },
+        {
+            "name": "child-room",
+            "value_type": "none",
+            "color": "#AAE477"
+        },
+        {
+            "name": "street-view",
+            "value_type": "none",
+            "color": "#03B070"
+        },
+        {
+            "name": "drying-clothes",
+            "value_type": "none",
+            "color": "#13A446"
+        },
+        {
+            "name": "floor",
+            "value_type": "none",
+            "color": "#4B8226"
+        },
+        {
+            "name": "place-where-guests-are-served-dinner",
+            "value_type": "none",
+            "color": "#C167DA"
+        },
+        {
+            "name": "hallway",
+            "value_type": "none",
+            "color": "#53F3EB"
+        },
+        {
+            "name": "kitchen",
+            "value_type": "none",
+            "color": "#57BCA1"
+        },
+        {
+            "name": "living-room",
+            "value_type": "none",
+            "color": "#D1AA85"
+        },
+        {
+            "name": "place-for-dinner",
+            "value_type": "none",
+            "color": "#4EF21C"
+        },
+        {
+            "name": "play-area",
+            "value_type": "none",
+            "color": "#7BC837"
+        },
+        {
+            "name": "sitting-area",
+            "value_type": "none",
+            "color": "#729F1D"
+        },
+        {
+            "name": "waste-dump",
+            "value_type": "none",
+            "color": "#F7E54B"
+        },
+        {
+            "name": "steam-exit",
+            "value_type": "none",
+            "color": "#C70F2E"
+        },
+        {
+            "name": "storage-room",
+            "value_type": "none",
+            "color": "#3AE994"
+        },
+        {
+            "name": "wall-inside",
+            "value_type": "none",
+            "color": "#D96E30"
+        },
+        {
+            "name": "work-area",
+            "value_type": "none",
+            "color": "#48C346"
+        },
+        {
+            "name": "wall",
+            "value_type": "none",
+            "color": "#FF3352"
+        }
+    ]
+}

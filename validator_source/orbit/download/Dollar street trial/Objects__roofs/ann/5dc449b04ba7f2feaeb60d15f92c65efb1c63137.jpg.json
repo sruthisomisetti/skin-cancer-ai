@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279588067,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-10T08:01:17.397Z",
+            "updatedAt": "2020-07-24T20:17:19.864Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        502
+                    ],
+                    [
+                        893,
+                        889
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490919294,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T20:17:19.661Z",
+            "updatedAt": "2020-07-24T20:17:19.661Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        661,
+                        1022
+                    ],
+                    [
+                        900,
+                        1176
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

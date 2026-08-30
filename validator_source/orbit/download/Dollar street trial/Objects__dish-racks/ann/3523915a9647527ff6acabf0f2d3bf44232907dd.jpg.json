@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 487906911,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:45:11.624Z",
+            "updatedAt": "2020-08-07T13:02:48.234Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        353
+                    ],
+                    [
+                        1520,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497548919,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T13:02:32.341Z",
+            "updatedAt": "2020-08-07T13:02:48.234Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        554,
+                        344
+                    ],
+                    [
+                        1331,
+                        817
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497548926,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T13:02:48.003Z",
+            "updatedAt": "2020-08-07T13:02:48.003Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        1511,
+                        708
+                    ],
+                    [
+                        1818,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

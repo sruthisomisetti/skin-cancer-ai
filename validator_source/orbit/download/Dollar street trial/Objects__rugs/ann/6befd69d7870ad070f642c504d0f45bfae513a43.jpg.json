@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282985244,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:46:00.965Z",
+            "updatedAt": "2020-07-25T09:05:39.098Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        11
+                    ],
+                    [
+                        1229,
+                        978
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490934729,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T09:05:38.928Z",
+            "updatedAt": "2020-07-25T09:05:38.928Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        0
+                    ],
+                    [
+                        1022,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

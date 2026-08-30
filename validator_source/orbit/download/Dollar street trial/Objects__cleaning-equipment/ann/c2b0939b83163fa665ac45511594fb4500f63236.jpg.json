@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282042772,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T09:26:23.945Z",
+            "updatedAt": "2020-07-15T13:43:30.531Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        579,
+                        513
+                    ],
+                    [
+                        800,
+                        978
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282042786,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T09:26:56.756Z",
+            "updatedAt": "2020-07-15T13:43:30.531Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        1071,
+                        538
+                    ],
+                    [
+                        1352,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487334315,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T13:43:25.899Z",
+            "updatedAt": "2020-07-15T13:43:30.531Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        606,
+                        572
+                    ],
+                    [
+                        656,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487334317,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T13:43:30.333Z",
+            "updatedAt": "2020-07-15T13:43:30.333Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        479
+                    ],
+                    [
+                        602,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282057212,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:51:48.926Z",
+            "updatedAt": "2020-07-28T12:21:49.558Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        208
+                    ],
+                    [
+                        634,
+                        424
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282057223,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:52:34.906Z",
+            "updatedAt": "2020-07-28T12:21:49.558Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        619
+                    ],
+                    [
+                        592,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282057225,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T17:52:40.117Z",
+            "updatedAt": "2020-07-28T12:21:49.558Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        447
+                    ],
+                    [
+                        261,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490248,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:20:42.712Z",
+            "updatedAt": "2020-07-28T12:21:49.558Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        129
+                    ],
+                    [
+                        157,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490284,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:21:26.618Z",
+            "updatedAt": "2020-07-28T12:21:49.558Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        663,
+                        458
+                    ],
+                    [
+                        772,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490294,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:21:34.856Z",
+            "updatedAt": "2020-07-28T12:21:49.558Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        683,
+                        308
+                    ],
+                    [
+                        788,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490303,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:21:49.358Z",
+            "updatedAt": "2020-07-28T12:21:49.358Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        813,
+                        275
+                    ],
+                    [
+                        916,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

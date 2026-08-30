@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988937,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:18:16.390Z",
+            "updatedAt": "2020-08-05T22:59:10.503Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        74
+                    ],
+                    [
+                        446,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496963203,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:58:46.548Z",
+            "updatedAt": "2020-08-05T22:59:10.503Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        586
+                    ],
+                    [
+                        673,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496963212,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:59:10.294Z",
+            "updatedAt": "2020-08-05T22:59:10.294Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        645,
+                        5
+                    ],
+                    [
+                        886,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

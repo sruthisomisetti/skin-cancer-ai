@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 490918620,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:57:51.208Z",
+            "updatedAt": "2020-07-24T18:58:33.507Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        239
+                    ],
+                    [
+                        869,
+                        728
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918625,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:58:10.429Z",
+            "updatedAt": "2020-07-24T18:58:33.507Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        1165,
+                        846
+                    ],
+                    [
+                        1420,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918633,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:58:33.302Z",
+            "updatedAt": "2020-07-24T18:58:33.302Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        1364,
+                        2
+                    ],
+                    [
+                        1532,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

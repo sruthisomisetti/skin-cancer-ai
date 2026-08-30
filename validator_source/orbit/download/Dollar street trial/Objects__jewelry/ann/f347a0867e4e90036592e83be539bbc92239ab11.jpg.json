@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282185952,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T07:46:47.628Z",
+            "updatedAt": "2020-07-20T01:01:59.367Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        11
+                    ],
+                    [
+                        1175,
+                        941
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432720,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T01:01:59.174Z",
+            "updatedAt": "2020-07-20T01:01:59.174Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        449
+                    ],
+                    [
+                        713,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

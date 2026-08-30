@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278314838,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:44:26.312Z",
+            "updatedAt": "2020-07-20T15:18:49.666Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        320
+                    ],
+                    [
+                        1536,
+                        746
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887923,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:34:13.930Z",
+            "updatedAt": "2020-07-20T15:18:49.666Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        222
+                    ],
+                    [
+                        599,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488715877,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:18:49.455Z",
+            "updatedAt": "2020-07-20T15:18:49.455Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        495
+                    ],
+                    [
+                        947,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

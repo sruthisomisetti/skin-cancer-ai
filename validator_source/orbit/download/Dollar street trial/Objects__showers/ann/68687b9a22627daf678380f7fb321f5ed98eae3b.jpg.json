@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985174,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:48:51.879Z",
+            "updatedAt": "2020-08-05T22:24:36.914Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        551
+                    ],
+                    [
+                        368,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962502,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:24:36.708Z",
+            "updatedAt": "2020-08-05T22:24:36.708Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        1050
+                    ],
+                    [
+                        615,
+                        1139
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

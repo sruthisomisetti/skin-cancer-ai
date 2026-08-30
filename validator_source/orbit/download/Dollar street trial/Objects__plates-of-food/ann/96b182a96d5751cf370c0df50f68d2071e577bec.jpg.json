@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490899392,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:10:08.903Z",
+            "updatedAt": "2020-07-24T12:10:36.941Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        135
+                    ],
+                    [
+                        1126,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490899420,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:10:25.221Z",
+            "updatedAt": "2020-07-24T12:10:36.941Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1020,
+                        5
+                    ],
+                    [
+                        1358,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490899429,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:10:36.617Z",
+            "updatedAt": "2020-07-24T12:10:36.617Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        1
+                    ],
+                    [
+                        380,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

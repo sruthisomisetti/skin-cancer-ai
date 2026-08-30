@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496962944,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:43:56.312Z",
+            "updatedAt": "2020-08-05T22:44:16.357Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        571
+                    ],
+                    [
+                        545,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962949,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:44:16.127Z",
+            "updatedAt": "2020-08-05T22:44:16.127Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        71
+                    ],
+                    [
+                        579,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

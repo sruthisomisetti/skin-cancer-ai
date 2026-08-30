@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282569241,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T20:11:12.378Z",
+            "updatedAt": "2020-07-27T18:06:21.311Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        475
+                    ],
+                    [
+                        453,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282569251,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T20:11:34.253Z",
+            "updatedAt": "2020-07-27T18:06:21.311Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        165
+                    ],
+                    [
+                        1135,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230177,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:05:10.018Z",
+            "updatedAt": "2020-07-27T18:06:21.311Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        955,
+                        142
+                    ],
+                    [
+                        1320,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230181,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:05:17.470Z",
+            "updatedAt": "2020-07-27T18:06:21.311Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        888,
+                        677
+                    ],
+                    [
+                        1361,
+                        974
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230193,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:05:49.846Z",
+            "updatedAt": "2020-07-27T18:06:21.311Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        1168,
+                        85
+                    ],
+                    [
+                        1340,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491230206,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T18:06:21.100Z",
+            "updatedAt": "2020-07-27T18:06:24.939Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        824,
+                        30
+                    ],
+                    [
+                        1007,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

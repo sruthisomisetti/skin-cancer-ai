@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282241730,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:50:10.223Z",
+            "updatedAt": "2020-08-04T11:13:29.165Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        414
+                    ],
+                    [
+                        1087,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554861,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:13:23.490Z",
+            "updatedAt": "2020-08-04T11:13:29.165Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        385
+                    ],
+                    [
+                        560,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554866,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T11:13:28.979Z",
+            "updatedAt": "2020-08-04T11:13:28.979Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        775,
+                        403
+                    ],
+                    [
+                        848,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

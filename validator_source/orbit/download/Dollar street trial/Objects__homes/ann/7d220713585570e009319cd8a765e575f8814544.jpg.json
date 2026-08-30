@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278727915,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:47:59.080Z",
+            "updatedAt": "2019-10-09T08:54:03.244Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        113
+                    ],
+                    [
+                        819,
+                        840
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278727971,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:49:22.568Z",
+            "updatedAt": "2019-10-09T08:54:03.244Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        902
+                    ],
+                    [
+                        503,
+                        944
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278728053,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:51:54.923Z",
+            "updatedAt": "2019-10-09T08:54:03.244Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        484
+                    ],
+                    [
+                        574,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278728136,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:54:02.946Z",
+            "updatedAt": "2019-10-09T08:54:02.946Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        508
+                    ],
+                    [
+                        563,
+                        898
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 282055005,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T17:24:02.148Z",
+            "updatedAt": "2020-07-19T12:13:28.950Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        225
+                    ],
+                    [
+                        1409,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415956,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:13:03.765Z",
+            "updatedAt": "2020-07-19T12:13:28.950Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        985,
+                        55
+                    ],
+                    [
+                        1232,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415958,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:13:13.933Z",
+            "updatedAt": "2020-07-19T12:13:28.950Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        953,
+                        174
+                    ],
+                    [
+                        980,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488415961,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T12:13:28.755Z",
+            "updatedAt": "2020-07-19T12:13:28.755Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        1234,
+                        120
+                    ],
+                    [
+                        1365,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

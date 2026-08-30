@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278714711,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:16:27.106Z",
+            "updatedAt": "2019-10-09T08:20:24.393Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        106
+                    ],
+                    [
+                        1018,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714796,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:18:42.371Z",
+            "updatedAt": "2019-10-09T08:20:24.393Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        652,
+                        621
+                    ],
+                    [
+                        784,
+                        854
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714840,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:20:06.538Z",
+            "updatedAt": "2019-10-09T08:20:24.393Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        966
+                    ],
+                    [
+                        604,
+                        1001
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714843,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:20:14.068Z",
+            "updatedAt": "2019-10-09T08:20:24.393Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        658,
+                        971
+                    ],
+                    [
+                        725,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278714849,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T08:20:24.078Z",
+            "updatedAt": "2019-10-09T08:20:24.078Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        755,
+                        982
+                    ],
+                    [
+                        833,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

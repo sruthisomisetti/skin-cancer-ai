@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278311555,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T19:23:26.995Z",
+            "updatedAt": "2020-07-28T18:33:33.314Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        40
+                    ],
+                    [
+                        1175,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491899624,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T18:33:33.120Z",
+            "updatedAt": "2020-07-28T18:33:33.120Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        527
+                    ],
+                    [
+                        817,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

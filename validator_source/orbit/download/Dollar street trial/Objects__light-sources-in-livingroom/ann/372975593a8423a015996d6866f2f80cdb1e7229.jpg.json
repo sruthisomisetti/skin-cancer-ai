@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488964411,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T10:08:51.174Z",
+            "updatedAt": "2020-07-21T10:09:44.243Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        394
+                    ],
+                    [
+                        533,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488964454,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T10:09:44.025Z",
+            "updatedAt": "2020-07-21T10:09:44.025Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        539
+                    ],
+                    [
+                        68,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

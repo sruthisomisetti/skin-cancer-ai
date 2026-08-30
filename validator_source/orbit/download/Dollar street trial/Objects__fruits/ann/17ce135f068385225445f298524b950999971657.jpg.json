@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244610,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:25:08.057Z",
+            "updatedAt": "2020-07-18T15:43:46.601Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        127
+                    ],
+                    [
+                        732,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488331009,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:43:46.354Z",
+            "updatedAt": "2020-07-18T15:43:46.354Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        196
+                    ],
+                    [
+                        463,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

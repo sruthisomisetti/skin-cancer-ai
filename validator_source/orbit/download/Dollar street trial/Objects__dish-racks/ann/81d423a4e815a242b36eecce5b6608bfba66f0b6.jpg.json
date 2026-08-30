@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278949906,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:27:20.068Z",
+            "updatedAt": "2019-10-13T15:37:10.607Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        470
+                    ],
+                    [
+                        876,
+                        794
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949924,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:27:36.919Z",
+            "updatedAt": "2019-10-13T15:37:10.607Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        275
+                    ],
+                    [
+                        307,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278949928,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:27:41.470Z",
+            "updatedAt": "2019-10-13T15:37:10.607Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        232
+                    ],
+                    [
+                        562,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051790,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T15:37:09.860Z",
+            "updatedAt": "2019-10-13T15:37:09.860Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        220
+                    ],
+                    [
+                        1013,
+                        993
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278979711,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-09T12:47:13.651Z",
+            "updatedAt": "2020-07-26T15:00:37.499Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        222
+                    ],
+                    [
+                        953,
+                        642
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490964049,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T15:00:37.324Z",
+            "updatedAt": "2020-07-26T15:00:37.324Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        168
+                    ],
+                    [
+                        140,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

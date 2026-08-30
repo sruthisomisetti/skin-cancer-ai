@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279390041,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T21:04:33.827Z",
+            "updatedAt": "2020-07-19T21:26:30.426Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        0
+                    ],
+                    [
+                        1354,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279390071,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T21:05:57.900Z",
+            "updatedAt": "2020-07-19T21:26:30.426Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        204
+                    ],
+                    [
+                        640,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430368,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:26:30.200Z",
+            "updatedAt": "2020-07-19T21:26:30.200Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        1137,
+                        708
+                    ],
+                    [
+                        1365,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282065478,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:45:22.107Z",
+            "updatedAt": "2020-07-28T13:06:31.355Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        58
+                    ],
+                    [
+                        1299,
+                        850
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867803,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:06:25.012Z",
+            "updatedAt": "2020-07-28T13:06:31.355Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        876,
+                        820
+                    ],
+                    [
+                        1207,
+                        1017
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867805,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:06:31.153Z",
+            "updatedAt": "2020-07-28T13:06:31.153Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        521,
+                        5
+                    ],
+                    [
+                        721,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

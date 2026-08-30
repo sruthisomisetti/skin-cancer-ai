@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490903839,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T12:56:44.604Z",
+            "updatedAt": "2020-08-05T20:30:44.847Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        131
+                    ],
+                    [
+                        940,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496955544,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T20:30:44.654Z",
+            "updatedAt": "2020-08-05T20:30:44.654Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        199
+                    ],
+                    [
+                        858,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

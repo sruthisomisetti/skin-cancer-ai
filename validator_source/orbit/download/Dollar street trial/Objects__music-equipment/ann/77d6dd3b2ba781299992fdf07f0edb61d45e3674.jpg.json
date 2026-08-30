@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282607085,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-14T21:35:23.119Z",
+            "updatedAt": "2019-10-14T21:36:04.822Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        321
+                    ],
+                    [
+                        702,
+                        811
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282607097,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-14T21:35:54.082Z",
+            "updatedAt": "2019-10-14T21:36:04.822Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        749,
+                        280
+                    ],
+                    [
+                        1024,
+                        839
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

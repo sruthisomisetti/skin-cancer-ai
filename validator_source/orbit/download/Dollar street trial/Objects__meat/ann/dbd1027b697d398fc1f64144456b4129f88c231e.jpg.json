@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282819224,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T06:42:54.902Z",
+            "updatedAt": "2020-07-21T18:38:11.203Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        261
+                    ],
+                    [
+                        1157,
+                        795
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489485144,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:38:10.910Z",
+            "updatedAt": "2020-07-21T18:38:10.910Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        1089,
+                        710
+                    ],
+                    [
+                        1365,
+                        822
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

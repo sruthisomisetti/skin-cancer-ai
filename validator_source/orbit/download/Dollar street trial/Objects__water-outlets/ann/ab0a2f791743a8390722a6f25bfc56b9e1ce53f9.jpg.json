@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1244,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053638,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T16:35:59.658Z",
+            "updatedAt": "2020-07-29T14:40:47.980Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        27
+                    ],
+                    [
+                        483,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494224563,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T14:40:47.749Z",
+            "updatedAt": "2020-07-29T14:40:47.749Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        0
+                    ],
+                    [
+                        1019,
+                        651
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

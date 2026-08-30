@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 489321639,
+            "classId": 715017,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:46:55.665Z",
+            "updatedAt": "2020-08-04T22:08:48.368Z",
+            "tags": [],
+            "classTitle": "Light sources kitchen",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        141
+                    ],
+                    [
+                        587,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496593910,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T22:08:01.228Z",
+            "updatedAt": "2020-08-04T22:08:48.368Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1289,
+                        721
+                    ],
+                    [
+                        1351,
+                        799
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496593911,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T22:08:48.124Z",
+            "updatedAt": "2020-08-04T22:08:48.124Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        614,
+                        684
+                    ],
+                    [
+                        667,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279651682,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T13:46:59.759Z",
+            "updatedAt": "2020-07-08T08:27:32.977Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        796,
+                        265
+                    ],
+                    [
+                        866,
+                        675
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279651693,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T13:47:08.093Z",
+            "updatedAt": "2020-07-08T08:27:32.977Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        280
+                    ],
+                    [
+                        318,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481845227,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T08:27:32.836Z",
+            "updatedAt": "2020-07-08T08:27:36.634Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        159
+                    ],
+                    [
+                        658,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

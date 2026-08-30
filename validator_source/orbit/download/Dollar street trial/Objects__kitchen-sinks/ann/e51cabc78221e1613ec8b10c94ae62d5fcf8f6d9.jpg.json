@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 488817911,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:54:41.278Z",
+            "updatedAt": "2020-07-20T17:56:36.824Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        289
+                    ],
+                    [
+                        1364,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817918,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:56:11.102Z",
+            "updatedAt": "2020-07-20T17:56:36.824Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        1059,
+                        176
+                    ],
+                    [
+                        1182,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488817919,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T17:56:36.631Z",
+            "updatedAt": "2020-07-20T17:56:36.631Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        317
+                    ],
+                    [
+                        953,
+                        956
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

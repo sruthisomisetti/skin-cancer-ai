@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 486839585,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T12:42:38.331Z",
+            "updatedAt": "2020-07-14T12:43:30.046Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        158
+                    ],
+                    [
+                        236,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486839598,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T12:42:51.149Z",
+            "updatedAt": "2020-07-14T12:43:30.046Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        271
+                    ],
+                    [
+                        239,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486839606,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T12:43:03.419Z",
+            "updatedAt": "2020-07-14T12:43:57.724Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        238
+                    ],
+                    [
+                        514,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486839638,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T12:43:29.856Z",
+            "updatedAt": "2020-07-14T12:43:44.349Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        514
+                    ],
+                    [
+                        413,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

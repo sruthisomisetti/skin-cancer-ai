@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279186679,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:34:29.814Z",
+            "updatedAt": "2020-07-18T15:01:23.687Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        78
+                    ],
+                    [
+                        880,
+                        612
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322478,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:00:51.140Z",
+            "updatedAt": "2020-07-18T15:01:23.687Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        497
+                    ],
+                    [
+                        315,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322482,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:01:08.718Z",
+            "updatedAt": "2020-07-18T15:01:23.687Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        584,
+                        612
+                    ],
+                    [
+                        717,
+                        656
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322487,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:01:23.465Z",
+            "updatedAt": "2020-07-18T15:01:23.465Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        413
+                    ],
+                    [
+                        362,
+                        675
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

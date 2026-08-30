@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 282052964,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T16:15:39.689Z",
+            "updatedAt": "2020-07-24T18:25:18.231Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        534,
+                        111
+                    ],
+                    [
+                        1044,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916433,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:24:05.093Z",
+            "updatedAt": "2020-07-24T18:25:18.231Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        460
+                    ],
+                    [
+                        367,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916436,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:24:16.164Z",
+            "updatedAt": "2020-07-24T18:25:18.231Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        197
+                    ],
+                    [
+                        552,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916446,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:24:43.300Z",
+            "updatedAt": "2020-07-24T18:25:18.231Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        1237,
+                        724
+                    ],
+                    [
+                        1356,
+                        867
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916453,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:25:01.847Z",
+            "updatedAt": "2020-07-24T18:25:18.231Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        1214,
+                        1
+                    ],
+                    [
+                        1324,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490916461,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T18:25:17.807Z",
+            "updatedAt": "2020-07-24T18:25:17.807Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1206,
+                        27
+                    ],
+                    [
+                        1260,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

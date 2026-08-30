@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488819639,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:12:04.757Z",
+            "updatedAt": "2020-08-04T19:28:51.892Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        608,
+                        584
+                    ],
+                    [
+                        681,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488819667,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:12:12.924Z",
+            "updatedAt": "2020-08-04T19:28:51.892Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        929
+                    ],
+                    [
+                        861,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587170,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:28:51.678Z",
+            "updatedAt": "2020-08-04T19:28:51.678Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        830
+                    ],
+                    [
+                        412,
+                        905
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

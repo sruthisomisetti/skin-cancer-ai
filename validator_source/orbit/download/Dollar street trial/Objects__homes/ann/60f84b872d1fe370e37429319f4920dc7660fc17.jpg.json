@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282933728,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T11:16:35.079Z",
+            "updatedAt": "2020-07-19T21:45:50.430Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        91
+                    ],
+                    [
+                        906,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430430,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:45:29.375Z",
+            "updatedAt": "2020-07-19T21:45:50.430Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        281
+                    ],
+                    [
+                        413,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430432,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:45:49.475Z",
+            "updatedAt": "2020-07-19T21:45:49.475Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        123
+                    ],
+                    [
+                        866,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

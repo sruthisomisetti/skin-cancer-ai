@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278318241,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T20:12:56.511Z",
+            "updatedAt": "2020-07-17T14:08:44.018Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        143
+                    ],
+                    [
+                        1031,
+                        964
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487890365,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T14:08:24.543Z",
+            "updatedAt": "2020-07-17T14:08:44.018Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        688,
+                        20
+                    ],
+                    [
+                        1081,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487890371,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T14:08:43.793Z",
+            "updatedAt": "2020-07-17T14:08:43.793Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1103,
+                        167
+                    ],
+                    [
+                        1414,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

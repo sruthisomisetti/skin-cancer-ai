@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490941932,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:19:48.927Z",
+            "updatedAt": "2020-07-25T22:20:51.117Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        271
+                    ],
+                    [
+                        742,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941933,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:20:50.811Z",
+            "updatedAt": "2020-07-25T22:20:50.811Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        257
+                    ],
+                    [
+                        604,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1530,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279198867,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:10:33.230Z",
+            "updatedAt": "2020-07-13T08:26:54.416Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        677
+                    ],
+                    [
+                        933,
+                        1528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485667922,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T08:26:21.102Z",
+            "updatedAt": "2020-07-13T08:26:54.416Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        748,
+                        844
+                    ],
+                    [
+                        807,
+                        905
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485667946,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T08:26:54.139Z",
+            "updatedAt": "2020-07-13T08:27:20.112Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        875,
+                        428
+                    ],
+                    [
+                        998,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

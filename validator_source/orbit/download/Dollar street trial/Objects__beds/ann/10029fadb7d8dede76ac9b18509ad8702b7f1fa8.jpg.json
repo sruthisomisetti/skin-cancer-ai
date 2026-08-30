@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278193403,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-08T16:53:56.327Z",
+            "updatedAt": "2020-08-03T19:56:10.975Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        33,
+                        115
+                    ],
+                    [
+                        985,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314748,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:54:58.116Z",
+            "updatedAt": "2020-08-03T19:56:10.975Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        100
+                    ],
+                    [
+                        54,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314752,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:55:07.978Z",
+            "updatedAt": "2020-08-03T19:56:10.975Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        228
+                    ],
+                    [
+                        89,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314757,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:55:12.711Z",
+            "updatedAt": "2020-08-03T19:56:10.975Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        175
+                    ],
+                    [
+                        143,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314775,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:55:58.119Z",
+            "updatedAt": "2020-08-03T19:56:10.975Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        209
+                    ],
+                    [
+                        610,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314777,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:56:10.759Z",
+            "updatedAt": "2020-08-03T19:56:10.759Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        225
+                    ],
+                    [
+                        123,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

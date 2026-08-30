@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279311950,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T18:50:10.590Z",
+            "updatedAt": "2019-10-09T18:50:46.033Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        231
+                    ],
+                    [
+                        593,
+                        803
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279311964,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T18:50:30.403Z",
+            "updatedAt": "2019-10-09T18:50:46.033Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        932,
+                        307
+                    ],
+                    [
+                        1000,
+                        726
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279311989,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T18:50:45.857Z",
+            "updatedAt": "2019-10-09T18:50:45.857Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        616,
+                        411
+                    ],
+                    [
+                        799,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

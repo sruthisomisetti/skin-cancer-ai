@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282185754,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T07:40:39.851Z",
+            "updatedAt": "2020-07-20T00:57:02.825Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        1036,
+                        78
+                    ],
+                    [
+                        1259,
+                        684
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432698,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T00:57:02.612Z",
+            "updatedAt": "2020-07-20T00:57:02.612Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        151
+                    ],
+                    [
+                        995,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051459,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:26:25.639Z",
+            "updatedAt": "2019-10-13T15:26:41.423Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        48
+                    ],
+                    [
+                        796,
+                        994
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051466,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:26:41.125Z",
+            "updatedAt": "2019-10-13T15:26:41.125Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        751,
+                        799
+                    ],
+                    [
+                        962,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488410957,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:32:38.816Z",
+            "updatedAt": "2020-07-19T10:32:56.042Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        357
+                    ],
+                    [
+                        261,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488410961,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:32:55.799Z",
+            "updatedAt": "2020-07-19T10:32:55.799Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        370
+                    ],
+                    [
+                        96,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 15847415,
+            "tagId": 26127783,
+            "name": "Not good image",
+            "value": null,
+            "labelerLogin": null,
+            "createdAt": "2019-10-09T18:27:27.664Z",
+            "updatedAt": "2019-10-09T18:27:27.664Z"
+        }
+    ],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 486103494,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:42:30.978Z",
+            "updatedAt": "2020-07-13T13:42:42.607Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        1
+                    ],
+                    [
+                        1024,
+                        574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486103509,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:42:42.489Z",
+            "updatedAt": "2020-07-13T13:42:46.913Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        859,
+                        525
+                    ],
+                    [
+                        1021,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

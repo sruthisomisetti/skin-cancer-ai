@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487910930,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:45:00.507Z",
+            "updatedAt": "2020-08-07T20:20:39.436Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        804,
+                        490
+                    ],
+                    [
+                        1253,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910934,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:45:15.956Z",
+            "updatedAt": "2020-08-07T20:20:39.436Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        628,
+                        342
+                    ],
+                    [
+                        903,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487910939,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T20:45:28.893Z",
+            "updatedAt": "2020-08-07T20:20:39.436Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        885,
+                        312
+                    ],
+                    [
+                        1320,
+                        570
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000410,
+            "classId": 714974,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T20:20:39.180Z",
+            "updatedAt": "2020-08-07T20:20:39.180Z",
+            "tags": [],
+            "classTitle": "Earings",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        267
+                    ],
+                    [
+                        502,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

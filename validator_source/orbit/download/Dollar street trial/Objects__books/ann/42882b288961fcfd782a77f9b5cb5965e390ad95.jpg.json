@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 496556304,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:01:23.813Z",
+            "updatedAt": "2020-08-04T12:01:30.159Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        248
+                    ],
+                    [
+                        802,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496556309,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:01:29.910Z",
+            "updatedAt": "2020-08-04T12:01:34.843Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        520
+                    ],
+                    [
+                        835,
+                        876
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

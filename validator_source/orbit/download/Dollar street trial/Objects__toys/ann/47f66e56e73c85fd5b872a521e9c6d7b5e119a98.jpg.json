@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282047179,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T12:39:16.083Z",
+            "updatedAt": "2020-07-27T20:49:44.715Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        562,
+                        370
+                    ],
+                    [
+                        811,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233554,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:49:10.107Z",
+            "updatedAt": "2020-07-27T20:49:44.715Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        130
+                    ],
+                    [
+                        299,
+                        638
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233560,
+            "classId": 714931,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:49:31.690Z",
+            "updatedAt": "2020-07-27T20:49:44.715Z",
+            "tags": [],
+            "classTitle": "Kids bed",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        54
+                    ],
+                    [
+                        657,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233563,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T20:49:44.464Z",
+            "updatedAt": "2020-07-27T20:49:44.464Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        486
+                    ],
+                    [
+                        366,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

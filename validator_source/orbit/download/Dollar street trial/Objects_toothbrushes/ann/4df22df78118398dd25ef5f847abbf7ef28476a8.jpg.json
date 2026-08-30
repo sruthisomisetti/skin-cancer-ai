@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271941042,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.111Z",
+            "updatedAt": "2020-07-31T09:43:28.027Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        244
+                    ],
+                    [
+                        603,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271941045,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.111Z",
+            "updatedAt": "2020-07-31T09:43:28.027Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        220
+                    ],
+                    [
+                        463,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495205240,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T09:42:53.179Z",
+            "updatedAt": "2020-07-31T09:43:28.027Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        511
+                    ],
+                    [
+                        393,
+                        640
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495205280,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T09:43:27.794Z",
+            "updatedAt": "2020-07-31T09:43:27.794Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        936,
+                        426
+                    ],
+                    [
+                        1021,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

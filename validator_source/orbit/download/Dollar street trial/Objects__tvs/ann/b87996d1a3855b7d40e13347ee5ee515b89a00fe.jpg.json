@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 282064959,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:23:51.740Z",
+            "updatedAt": "2020-07-28T12:49:08.801Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        275
+                    ],
+                    [
+                        921,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867145,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:48:19.894Z",
+            "updatedAt": "2020-07-28T12:49:08.801Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        605
+                    ],
+                    [
+                        352,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867176,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:49:08.606Z",
+            "updatedAt": "2020-07-28T12:49:12.837Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        618
+                    ],
+                    [
+                        367,
+                        686
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

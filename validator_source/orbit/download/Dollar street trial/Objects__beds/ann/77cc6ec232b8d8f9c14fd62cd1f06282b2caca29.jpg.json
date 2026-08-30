@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279200755,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:20:50.250Z",
+            "updatedAt": "2020-07-13T12:04:05.515Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        195
+                    ],
+                    [
+                        1019,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485707507,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:04:05.394Z",
+            "updatedAt": "2020-07-13T12:04:22.408Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        132
+                    ],
+                    [
+                        347,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

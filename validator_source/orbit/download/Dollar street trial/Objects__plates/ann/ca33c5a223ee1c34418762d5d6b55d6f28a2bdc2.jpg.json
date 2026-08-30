@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279594725,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T09:05:31.548Z",
+            "updatedAt": "2019-10-10T09:05:58.536Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        202
+                    ],
+                    [
+                        1396,
+                        584
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279594737,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T09:05:41.580Z",
+            "updatedAt": "2019-10-10T09:05:58.536Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        888,
+                        618
+                    ],
+                    [
+                        1361,
+                        798
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279594745,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T09:05:46.275Z",
+            "updatedAt": "2019-10-10T09:05:58.536Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        629
+                    ],
+                    [
+                        635,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279594760,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T09:05:58.150Z",
+            "updatedAt": "2019-10-10T09:05:58.150Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        660,
+                        650
+                    ],
+                    [
+                        1037,
+                        794
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

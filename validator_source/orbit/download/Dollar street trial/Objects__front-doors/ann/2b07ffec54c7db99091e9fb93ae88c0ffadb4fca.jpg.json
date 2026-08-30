@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279861664,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:08:55.423Z",
+            "updatedAt": "2020-07-18T13:24:27.579Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        38
+                    ],
+                    [
+                        659,
+                        668
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321459,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:24:10.381Z",
+            "updatedAt": "2020-07-18T13:24:27.579Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        329
+                    ],
+                    [
+                        223,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321463,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:24:27.395Z",
+            "updatedAt": "2020-07-18T13:24:27.395Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        299
+                    ],
+                    [
+                        480,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

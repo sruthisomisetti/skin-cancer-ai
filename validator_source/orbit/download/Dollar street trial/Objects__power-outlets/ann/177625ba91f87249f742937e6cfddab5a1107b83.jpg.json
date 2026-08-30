@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279515849,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:31:39.318Z",
+            "updatedAt": "2020-07-24T13:30:15.167Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        806,
+                        288
+                    ],
+                    [
+                        936,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279515860,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:31:48.230Z",
+            "updatedAt": "2020-07-24T13:30:03.803Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        529
+                    ],
+                    [
+                        430,
+                        868
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065695,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T19:55:02.767Z",
+            "updatedAt": "2019-10-13T19:55:11.393Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        185
+                    ],
+                    [
+                        740,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065698,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T19:55:11.165Z",
+            "updatedAt": "2019-10-13T19:55:11.165Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        86
+                    ],
+                    [
+                        740,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278952529,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:36:00.308Z",
+            "updatedAt": "2020-08-03T16:33:01.602Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        440
+                    ],
+                    [
+                        591,
+                        983
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496307916,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:33:01.398Z",
+            "updatedAt": "2020-08-03T16:33:01.398Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        605,
+                        382
+                    ],
+                    [
+                        639,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

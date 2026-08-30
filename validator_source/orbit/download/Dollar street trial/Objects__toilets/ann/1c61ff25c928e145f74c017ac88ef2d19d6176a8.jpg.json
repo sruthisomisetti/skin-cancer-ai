@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 278297362,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:29:45.055Z",
+            "updatedAt": "2020-07-27T12:43:27.049Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        124
+                    ],
+                    [
+                        883,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278297374,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:30:04.934Z",
+            "updatedAt": "2020-07-27T12:43:27.049Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        1019,
+                        242
+                    ],
+                    [
+                        1148,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172424,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:43:26.813Z",
+            "updatedAt": "2020-07-27T12:43:26.813Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        900
+                    ],
+                    [
+                        391,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

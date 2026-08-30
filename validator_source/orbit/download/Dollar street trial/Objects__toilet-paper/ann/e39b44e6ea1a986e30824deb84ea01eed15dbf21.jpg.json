@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 649,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279852686,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T15:31:27.782Z",
+            "updatedAt": "2019-10-10T15:32:18.903Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        197
+                    ],
+                    [
+                        592,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279852692,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T15:31:31.557Z",
+            "updatedAt": "2019-10-10T15:32:18.903Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        126
+                    ],
+                    [
+                        464,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279852762,
+            "classId": 714977,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T15:32:18.668Z",
+            "updatedAt": "2019-10-10T15:32:18.668Z",
+            "tags": [],
+            "classTitle": "Diaper",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        0
+                    ],
+                    [
+                        1024,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279215846,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T17:36:53.678Z",
+            "updatedAt": "2020-07-18T15:29:25.870Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        660,
+                        158
+                    ],
+                    [
+                        847,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330701,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:29:12.349Z",
+            "updatedAt": "2020-07-18T15:29:25.870Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        788,
+                        477
+                    ],
+                    [
+                        822,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330709,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:29:25.669Z",
+            "updatedAt": "2020-07-18T15:29:25.669Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        751,
+                        824
+                    ],
+                    [
+                        843,
+                        880
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

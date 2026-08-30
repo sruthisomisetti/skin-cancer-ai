@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278155245,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T15:45:35.784Z",
+            "updatedAt": "2019-10-08T15:51:15.856Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        19
+                    ],
+                    [
+                        997,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278155365,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T15:48:43.845Z",
+            "updatedAt": "2019-10-08T15:51:15.856Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        1015
+                    ],
+                    [
+                        507,
+                        1223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278155493,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T15:51:15.483Z",
+            "updatedAt": "2019-10-08T15:51:29.464Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        1084
+                    ],
+                    [
+                        675,
+                        1235
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

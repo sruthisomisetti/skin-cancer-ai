@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278689050,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:36:31.740Z",
+            "updatedAt": "2019-10-09T21:12:34.634Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        584
+                    ],
+                    [
+                        345,
+                        610
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278689079,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T06:37:59.044Z",
+            "updatedAt": "2019-10-09T21:12:34.634Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        41
+                    ],
+                    [
+                        886,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279390317,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T21:12:16.663Z",
+            "updatedAt": "2019-10-15T11:14:50.353Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        18
+                    ],
+                    [
+                        859,
+                        613
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279305909,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:13:39.594Z",
+            "updatedAt": "2020-07-13T13:09:21.758Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        267
+                    ],
+                    [
+                        1024,
+                        1363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485736088,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:09:03.474Z",
+            "updatedAt": "2020-07-13T13:09:21.758Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        650,
+                        207
+                    ],
+                    [
+                        757,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485736095,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:09:13.288Z",
+            "updatedAt": "2020-07-13T13:09:21.758Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        177
+                    ],
+                    [
+                        105,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485736099,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:09:21.600Z",
+            "updatedAt": "2020-07-13T13:09:26.878Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        730,
+                        262
+                    ],
+                    [
+                        758,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

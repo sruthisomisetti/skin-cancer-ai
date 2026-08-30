@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 278315656,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:51:29.787Z",
+            "updatedAt": "2020-07-27T14:32:17.766Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        815,
+                        350
+                    ],
+                    [
+                        1375,
+                        869
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278315659,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T19:51:43.170Z",
+            "updatedAt": "2020-07-27T14:32:17.766Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        18
+                    ],
+                    [
+                        439,
+                        875
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491182293,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T14:32:17.483Z",
+            "updatedAt": "2020-07-27T14:32:17.483Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        740,
+                        155
+                    ],
+                    [
+                        815,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279381413,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-09T20:00:15.809Z",
+            "updatedAt": "2020-07-15T20:57:35.118Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        167
+                    ],
+                    [
+                        676,
+                        601
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582453,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T20:57:14.091Z",
+            "updatedAt": "2020-07-15T20:57:35.118Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        3
+                    ],
+                    [
+                        861,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487582462,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T20:57:34.890Z",
+            "updatedAt": "2020-07-15T20:57:34.890Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        354
+                    ],
+                    [
+                        836,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

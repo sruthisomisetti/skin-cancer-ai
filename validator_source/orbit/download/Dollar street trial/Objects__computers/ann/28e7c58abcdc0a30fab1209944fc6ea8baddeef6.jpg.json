@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282319813,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:04:43.645Z",
+            "updatedAt": "2020-07-15T14:43:46.248Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        221
+                    ],
+                    [
+                        784,
+                        840
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487387875,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:43:19.697Z",
+            "updatedAt": "2020-07-15T14:43:46.248Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        597,
+                        70
+                    ],
+                    [
+                        685,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487387886,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:43:45.530Z",
+            "updatedAt": "2020-07-15T14:43:45.530Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        482
+                    ],
+                    [
+                        140,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

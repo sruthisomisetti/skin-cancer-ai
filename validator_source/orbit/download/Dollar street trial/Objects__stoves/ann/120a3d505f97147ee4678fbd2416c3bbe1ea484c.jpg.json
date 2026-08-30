@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 282929927,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T10:08:10.994Z",
+            "updatedAt": "2020-07-26T13:19:57.536Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        369
+                    ],
+                    [
+                        1253,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490962531,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T13:19:57.348Z",
+            "updatedAt": "2020-07-26T13:19:57.348Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        106
+                    ],
+                    [
+                        1111,
+                        642
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

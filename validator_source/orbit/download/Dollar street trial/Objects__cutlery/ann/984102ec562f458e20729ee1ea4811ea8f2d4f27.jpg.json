@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279606234,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:10:07.993Z",
+            "updatedAt": "2020-07-16T12:41:48.660Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        129
+                    ],
+                    [
+                        773,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279606239,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-10T11:10:13.795Z",
+            "updatedAt": "2020-07-16T12:41:48.660Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        99
+                    ],
+                    [
+                        552,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487722850,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:41:28.161Z",
+            "updatedAt": "2020-07-16T12:41:48.660Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        366
+                    ],
+                    [
+                        673,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487722863,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:41:48.436Z",
+            "updatedAt": "2020-07-16T12:41:52.544Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        384
+                    ],
+                    [
+                        1024,
+                        666
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

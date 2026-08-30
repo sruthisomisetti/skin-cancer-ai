@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1456
+    },
+    "objects": [
+        {
+            "id": 282044093,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:36:50.158Z",
+            "updatedAt": "2019-10-13T10:39:33.765Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        230
+                    ],
+                    [
+                        593,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044095,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:36:54.768Z",
+            "updatedAt": "2019-10-13T10:39:33.765Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        224
+                    ],
+                    [
+                        760,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044098,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:36:59.763Z",
+            "updatedAt": "2019-10-13T10:39:33.765Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        755,
+                        326
+                    ],
+                    [
+                        925,
+                        658
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044125,
+            "classId": 714906,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:39:33.554Z",
+            "updatedAt": "2019-10-13T10:39:33.554Z",
+            "tags": [],
+            "classTitle": "Wardrobe",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        5
+                    ],
+                    [
+                        1435,
+                        1013
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

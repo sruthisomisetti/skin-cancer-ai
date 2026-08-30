@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051865,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T15:39:13.886Z",
+            "updatedAt": "2020-08-07T18:43:47.450Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        204
+                    ],
+                    [
+                        682,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497989361,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:43:47.234Z",
+            "updatedAt": "2020-08-07T18:43:47.234Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        220
+                    ],
+                    [
+                        658,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

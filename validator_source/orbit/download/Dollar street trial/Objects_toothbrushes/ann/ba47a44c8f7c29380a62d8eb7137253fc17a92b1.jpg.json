@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271941176,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.364Z",
+            "updatedAt": "2020-07-31T18:45:57.067Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        338
+                    ],
+                    [
+                        596,
+                        586
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278194995,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-08T17:11:55.256Z",
+            "updatedAt": "2020-07-31T18:45:57.067Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        313
+                    ],
+                    [
+                        124,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495290344,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:45:56.785Z",
+            "updatedAt": "2020-07-31T18:45:56.785Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        406
+                    ],
+                    [
+                        764,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

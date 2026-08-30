@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279652906,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:04:44.267Z",
+            "updatedAt": "2020-08-03T19:13:22.284Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        3
+                    ],
+                    [
+                        1019,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481881776,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:09:47.103Z",
+            "updatedAt": "2020-08-03T19:13:22.284Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        489
+                    ],
+                    [
+                        468,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481881803,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:10:02.664Z",
+            "updatedAt": "2020-08-03T19:13:22.284Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        528
+                    ],
+                    [
+                        357,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496313838,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:13:22.024Z",
+            "updatedAt": "2020-08-03T19:13:22.024Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        368
+                    ],
+                    [
+                        276,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 487869728,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:16:28.549Z",
+            "updatedAt": "2020-08-04T13:51:06.254Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        835,
+                        217
+                    ],
+                    [
+                        1015,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487869735,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:16:43.212Z",
+            "updatedAt": "2020-08-04T13:51:06.254Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        956,
+                        209
+                    ],
+                    [
+                        1026,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487869743,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:16:51.978Z",
+            "updatedAt": "2020-08-04T13:51:06.254Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        490
+                    ],
+                    [
+                        993,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496567802,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T13:51:06.054Z",
+            "updatedAt": "2020-08-04T13:51:06.054Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        1191,
+                        393
+                    ],
+                    [
+                        1223,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 481456211,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T11:31:27.324Z",
+            "updatedAt": "2020-07-07T11:33:20.482Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        252
+                    ],
+                    [
+                        572,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481456369,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T11:33:20.327Z",
+            "updatedAt": "2020-07-07T11:34:39.912Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        233
+                    ],
+                    [
+                        783,
+                        512
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

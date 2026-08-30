@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 271940688,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:52.278Z",
+            "updatedAt": "2020-07-31T18:19:55.508Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        370
+                    ],
+                    [
+                        1121,
+                        631
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495289735,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:19:55.317Z",
+            "updatedAt": "2020-07-31T18:19:55.317Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        357
+                    ],
+                    [
+                        487,
+                        948
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051890,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:39:57.812Z",
+            "updatedAt": "2020-07-24T18:19:13.218Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        50
+                    ],
+                    [
+                        654,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051898,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T15:40:08.253Z",
+            "updatedAt": "2020-07-24T18:19:41.173Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        0
+                    ],
+                    [
+                        323,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

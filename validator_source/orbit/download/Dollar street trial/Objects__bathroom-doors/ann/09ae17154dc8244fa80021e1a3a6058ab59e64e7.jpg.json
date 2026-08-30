@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279650163,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T13:23:46.932Z",
+            "updatedAt": "2020-08-03T17:24:32.357Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        410,
+                        5
+                    ],
+                    [
+                        993,
+                        1248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308372,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:24:20.984Z",
+            "updatedAt": "2020-08-03T17:24:32.357Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        438
+                    ],
+                    [
+                        282,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308374,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:24:32.128Z",
+            "updatedAt": "2020-08-03T17:24:32.128Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        1063
+                    ],
+                    [
+                        313,
+                        1103
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

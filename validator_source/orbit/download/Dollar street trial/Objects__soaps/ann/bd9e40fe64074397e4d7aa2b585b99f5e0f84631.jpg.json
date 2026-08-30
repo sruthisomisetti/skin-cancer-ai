@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278186051,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T16:25:24.145Z",
+            "updatedAt": "2020-07-25T16:18:57.925Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        291
+                    ],
+                    [
+                        1093,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490937261,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T16:18:57.742Z",
+            "updatedAt": "2020-07-25T16:18:57.742Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        1198,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

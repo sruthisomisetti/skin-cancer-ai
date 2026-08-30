@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282061192,
+            "classId": 714986,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T18:21:26.704Z",
+            "updatedAt": "2019-10-13T18:21:32.440Z",
+            "tags": [],
+            "classTitle": "Jacket",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        163
+                    ],
+                    [
+                        774,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282061194,
+            "classId": 714986,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T18:21:32.094Z",
+            "updatedAt": "2019-10-13T18:21:32.094Z",
+            "tags": [],
+            "classTitle": "Jacket",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        124
+                    ],
+                    [
+                        1020,
+                        1016
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

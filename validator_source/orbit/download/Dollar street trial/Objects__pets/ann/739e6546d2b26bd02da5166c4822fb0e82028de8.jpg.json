@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 490419968,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T08:22:53.552Z",
+            "updatedAt": "2020-07-23T08:23:14.823Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        771,
+                        499
+                    ],
+                    [
+                        907,
+                        811
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490419990,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T08:23:01.997Z",
+            "updatedAt": "2020-07-23T08:23:14.823Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        1518,
+                        762
+                    ],
+                    [
+                        1804,
+                        968
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490419996,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T08:23:14.613Z",
+            "updatedAt": "2020-07-23T08:23:14.613Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        948,
+                        93
+                    ],
+                    [
+                        1057,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

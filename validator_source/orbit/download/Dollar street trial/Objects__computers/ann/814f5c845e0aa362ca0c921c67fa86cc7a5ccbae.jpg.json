@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282326390,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:18:03.546Z",
+            "updatedAt": "2020-08-04T18:41:40.483Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        232
+                    ],
+                    [
+                        1311,
+                        882
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282899295,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T08:06:19.341Z",
+            "updatedAt": "2020-08-04T18:41:40.483Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        960,
+                        241
+                    ],
+                    [
+                        1242,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586167,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T18:41:40.288Z",
+            "updatedAt": "2020-08-04T18:41:40.288Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        432
+                    ],
+                    [
+                        161,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

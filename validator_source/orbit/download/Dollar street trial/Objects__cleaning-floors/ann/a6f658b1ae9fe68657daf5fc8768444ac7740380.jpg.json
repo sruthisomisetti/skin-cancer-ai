@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487887568,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:57:43.236Z",
+            "updatedAt": "2020-07-17T11:59:10.299Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        249
+                    ],
+                    [
+                        776,
+                        586
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887573,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:58:02.794Z",
+            "updatedAt": "2020-07-17T11:59:10.299Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        448
+                    ],
+                    [
+                        530,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887594,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:58:48.615Z",
+            "updatedAt": "2020-07-17T11:59:10.299Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        275
+                    ],
+                    [
+                        731,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487887599,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T11:59:10.078Z",
+            "updatedAt": "2020-07-17T11:59:13.267Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        352
+                    ],
+                    [
+                        90,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

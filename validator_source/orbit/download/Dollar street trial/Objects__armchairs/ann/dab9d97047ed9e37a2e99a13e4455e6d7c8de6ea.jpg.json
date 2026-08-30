@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 278953910,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:57:51.432Z",
+            "updatedAt": "2020-08-03T17:01:51.404Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        231
+                    ],
+                    [
+                        1820,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481840602,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T07:29:33.793Z",
+            "updatedAt": "2020-08-03T17:01:51.404Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        210
+                    ],
+                    [
+                        646,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308168,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:00:59.293Z",
+            "updatedAt": "2020-08-03T17:01:51.404Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1368,
+                        109
+                    ],
+                    [
+                        1410,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308173,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:01:26.873Z",
+            "updatedAt": "2020-08-03T17:01:51.404Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        4
+                    ],
+                    [
+                        293,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308176,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:01:51.243Z",
+            "updatedAt": "2020-08-03T17:01:51.243Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        921,
+                        1
+                    ],
+                    [
+                        1053,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

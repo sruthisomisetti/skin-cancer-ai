@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279591658,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-10T08:42:29.322Z",
+            "updatedAt": "2020-07-23T20:31:04.407Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        761,
+                        69
+                    ],
+                    [
+                        938,
+                        672
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281872469,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T05:17:10.307Z",
+            "updatedAt": "2020-07-23T20:31:04.407Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        630,
+                        250
+                    ],
+                    [
+                        774,
+                        649
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281872471,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T05:17:18.261Z",
+            "updatedAt": "2020-07-23T20:31:04.407Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        211
+                    ],
+                    [
+                        666,
+                        624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490791682,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T20:31:04.188Z",
+            "updatedAt": "2020-07-23T20:31:04.188Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        213
+                    ],
+                    [
+                        433,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

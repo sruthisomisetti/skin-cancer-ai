@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1487
+    },
+    "objects": [
+        {
+            "id": 282054634,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T17:08:55.024Z",
+            "updatedAt": "2019-10-13T17:09:13.099Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        223
+                    ],
+                    [
+                        991,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054641,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T17:09:12.891Z",
+            "updatedAt": "2019-10-13T17:09:21.993Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1004,
+                        516
+                    ],
+                    [
+                        1261,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

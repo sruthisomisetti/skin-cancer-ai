@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282424720,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T17:12:59.356Z",
+            "updatedAt": "2020-07-30T16:21:54.185Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        235
+                    ],
+                    [
+                        634,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494852580,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T16:21:53.892Z",
+            "updatedAt": "2020-07-30T16:21:53.892Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        707,
+                        287
+                    ],
+                    [
+                        1023,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

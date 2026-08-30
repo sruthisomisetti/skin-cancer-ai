@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282061084,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:17:30.974Z",
+            "updatedAt": "2020-07-28T12:27:18.104Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        63
+                    ],
+                    [
+                        831,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490527,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:27:17.895Z",
+            "updatedAt": "2020-07-28T12:27:17.895Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        361
+                    ],
+                    [
+                        235,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

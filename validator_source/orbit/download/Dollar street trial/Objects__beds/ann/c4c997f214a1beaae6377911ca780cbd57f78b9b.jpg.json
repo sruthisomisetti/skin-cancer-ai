@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 485737393,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:16:37.555Z",
+            "updatedAt": "2020-07-13T13:16:54.910Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        360
+                    ],
+                    [
+                        213,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485737413,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:16:54.810Z",
+            "updatedAt": "2020-07-13T13:17:10.303Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        185,
+                        150
+                    ],
+                    [
+                        688,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

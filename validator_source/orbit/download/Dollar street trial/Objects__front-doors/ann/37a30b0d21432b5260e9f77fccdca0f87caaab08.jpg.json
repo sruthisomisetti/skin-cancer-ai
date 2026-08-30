@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279862825,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:19:49.853Z",
+            "updatedAt": "2020-07-18T13:57:48.157Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        4
+                    ],
+                    [
+                        634,
+                        945
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321755,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:57:47.923Z",
+            "updatedAt": "2020-07-18T13:57:47.923Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        612
+                    ],
+                    [
+                        959,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

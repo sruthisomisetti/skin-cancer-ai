@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278319100,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:31:48.491Z",
+            "updatedAt": "2019-10-12T10:16:56.524Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        329
+                    ],
+                    [
+                        751,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281937518,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T10:16:55.777Z",
+            "updatedAt": "2019-10-12T10:16:55.777Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        616,
+                        336
+                    ],
+                    [
+                        752,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

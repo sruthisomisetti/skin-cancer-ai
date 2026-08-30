@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279861466,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:06:57.713Z",
+            "updatedAt": "2020-07-18T13:18:28.534Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        79
+                    ],
+                    [
+                        629,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321411,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:18:15.278Z",
+            "updatedAt": "2020-07-18T13:18:28.534Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        640,
+                        235
+                    ],
+                    [
+                        655,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321413,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:18:28.338Z",
+            "updatedAt": "2020-07-18T13:18:28.338Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        233
+                    ],
+                    [
+                        637,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

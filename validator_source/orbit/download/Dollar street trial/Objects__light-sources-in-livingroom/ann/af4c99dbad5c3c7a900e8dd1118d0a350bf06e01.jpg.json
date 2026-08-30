@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489120601,
+            "classId": 714961,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T12:15:44.786Z",
+            "updatedAt": "2020-08-04T20:03:02.424Z",
+            "tags": [],
+            "classTitle": "Pet",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        154
+                    ],
+                    [
+                        630,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587768,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:02:42.761Z",
+            "updatedAt": "2020-08-04T20:03:02.424Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        213
+                    ],
+                    [
+                        453,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587770,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T20:03:02.188Z",
+            "updatedAt": "2020-08-04T20:03:02.188Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        95
+                    ],
+                    [
+                        974,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

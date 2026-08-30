@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490941912,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:15:48.508Z",
+            "updatedAt": "2020-07-25T22:16:00.695Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        327
+                    ],
+                    [
+                        1016,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941913,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:16:00.483Z",
+            "updatedAt": "2020-07-25T22:16:00.483Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        842,
+                        349
+                    ],
+                    [
+                        1023,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

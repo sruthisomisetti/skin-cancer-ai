@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279215646,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T17:32:20.656Z",
+            "updatedAt": "2019-10-09T17:33:32.855Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        885,
+                        760
+                    ],
+                    [
+                        1024,
+                        1148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279215693,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-09T17:33:31.105Z",
+            "updatedAt": "2019-10-09T17:33:31.105Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        29
+                    ],
+                    [
+                        715,
+                        1365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279382050,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:13:35.615Z",
+            "updatedAt": "2020-07-25T23:29:44.273Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        272
+                    ],
+                    [
+                        952,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279382059,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:14:00.502Z",
+            "updatedAt": "2020-07-25T23:29:44.273Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        285
+                    ],
+                    [
+                        433,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942019,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:29:34.248Z",
+            "updatedAt": "2020-07-25T23:29:44.273Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        317
+                    ],
+                    [
+                        588,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942020,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:29:44.027Z",
+            "updatedAt": "2020-07-25T23:29:44.027Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        245
+                    ],
+                    [
+                        357,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271931896,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:15.652Z",
+            "updatedAt": "2020-07-30T11:27:21.350Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        163
+                    ],
+                    [
+                        897,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044834,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T11:09:02.625Z",
+            "updatedAt": "2020-07-30T11:27:21.350Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        40
+                    ],
+                    [
+                        1021,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494564051,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T11:27:21.102Z",
+            "updatedAt": "2020-07-30T11:27:21.102Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        253
+                    ],
+                    [
+                        660,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

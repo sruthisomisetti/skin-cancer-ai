@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281227576,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-11T17:43:21.567Z",
+            "updatedAt": "2020-08-03T17:26:16.723Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        126
+                    ],
+                    [
+                        654,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308414,
+            "classId": 714985,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:26:16.531Z",
+            "updatedAt": "2020-08-03T17:26:21.464Z",
+            "tags": [],
+            "classTitle": "Wheel barrow",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        221
+                    ],
+                    [
+                        290,
+                        612
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

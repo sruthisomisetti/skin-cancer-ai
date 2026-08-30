@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1592
+    },
+    "objects": [
+        {
+            "id": 282052110,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T15:46:55.726Z",
+            "updatedAt": "2019-10-13T15:52:47.604Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        190
+                    ],
+                    [
+                        1158,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052279,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T15:52:47.255Z",
+            "updatedAt": "2019-10-13T15:52:47.255Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        1025,
+                        659
+                    ],
+                    [
+                        1208,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

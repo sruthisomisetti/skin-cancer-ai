@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281223214,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-11T16:23:33.907Z",
+            "updatedAt": "2019-10-11T17:30:40.140Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        6
+                    ],
+                    [
+                        732,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281226969,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T17:30:39.970Z",
+            "updatedAt": "2019-10-11T17:30:39.970Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        218
+                    ],
+                    [
+                        811,
+                        767
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064853,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:15:26.469Z",
+            "updatedAt": "2020-07-13T20:51:19.150Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        90
+                    ],
+                    [
+                        714,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064857,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:15:49.616Z",
+            "updatedAt": "2019-10-13T19:16:05.799Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        80
+                    ],
+                    [
+                        417,
+                        758
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064861,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:16:05.443Z",
+            "updatedAt": "2019-10-13T19:16:05.443Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        129
+                    ],
+                    [
+                        360,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

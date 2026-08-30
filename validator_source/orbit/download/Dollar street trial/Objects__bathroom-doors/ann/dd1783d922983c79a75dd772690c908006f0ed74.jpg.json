@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279851445,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T15:10:40.005Z",
+            "updatedAt": "2020-07-08T12:46:04.307Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        3
+                    ],
+                    [
+                        795,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481953123,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:45:50.802Z",
+            "updatedAt": "2020-07-08T12:46:04.307Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        432
+                    ],
+                    [
+                        512,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481953153,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:46:04.168Z",
+            "updatedAt": "2020-07-08T12:46:09.563Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        425
+                    ],
+                    [
+                        319,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

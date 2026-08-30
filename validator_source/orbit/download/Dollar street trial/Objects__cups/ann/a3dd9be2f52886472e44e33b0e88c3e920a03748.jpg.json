@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279596521,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T09:28:04.684Z",
+            "updatedAt": "2019-10-10T09:28:09.274Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        435
+                    ],
+                    [
+                        611,
+                        761
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279596524,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-10T09:28:08.991Z",
+            "updatedAt": "2019-10-10T09:28:08.991Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        383
+                    ],
+                    [
+                        684,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

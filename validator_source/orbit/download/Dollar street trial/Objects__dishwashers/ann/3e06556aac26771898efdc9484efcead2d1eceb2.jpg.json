@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487773206,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:51:56.411Z",
+            "updatedAt": "2020-07-16T20:52:28.855Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        189
+                    ],
+                    [
+                        858,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773215,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:52:28.646Z",
+            "updatedAt": "2020-07-16T20:52:28.646Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        1020,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

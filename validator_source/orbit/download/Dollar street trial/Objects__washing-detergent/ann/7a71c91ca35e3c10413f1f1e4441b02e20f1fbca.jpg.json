@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 494217562,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T12:14:55.826Z",
+            "updatedAt": "2020-07-29T12:15:10.364Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        15
+                    ],
+                    [
+                        817,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494217582,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T12:15:10.166Z",
+            "updatedAt": "2020-07-29T12:15:14.096Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        558
+                    ],
+                    [
+                        812,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

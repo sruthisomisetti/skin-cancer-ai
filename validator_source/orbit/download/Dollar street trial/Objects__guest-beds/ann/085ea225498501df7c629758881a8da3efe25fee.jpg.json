@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488410867,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:27:56.573Z",
+            "updatedAt": "2020-07-19T10:28:26.313Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        481
+                    ],
+                    [
+                        1009,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488410877,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:28:25.658Z",
+            "updatedAt": "2020-07-19T10:28:25.658Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        630,
+                        278
+                    ],
+                    [
+                        708,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

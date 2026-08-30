@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 281946529,
+            "classId": 714923,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T11:46:49.741Z",
+            "updatedAt": "2019-10-12T11:46:57.307Z",
+            "tags": [],
+            "classTitle": "Teeth",
+            "points": {
+                "exterior": [
+                    [
+                        646,
+                        353
+                    ],
+                    [
+                        1201,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281946536,
+            "classId": 714923,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T11:46:57.163Z",
+            "updatedAt": "2019-10-12T11:46:57.163Z",
+            "tags": [],
+            "classTitle": "Teeth",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        357
+                    ],
+                    [
+                        1194,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282961111,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:19:22.148Z",
+            "updatedAt": "2020-07-16T11:45:29.130Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        136
+                    ],
+                    [
+                        933,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487705053,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T11:45:28.948Z",
+            "updatedAt": "2020-07-16T11:45:28.948Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        845
+                    ],
+                    [
+                        356,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

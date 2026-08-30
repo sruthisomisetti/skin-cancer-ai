@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244026,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:05:02.947Z",
+            "updatedAt": "2020-07-29T16:22:07.410Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        453,
+                        217
+                    ],
+                    [
+                        669,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494235008,
+            "classId": 714862,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T16:22:07.215Z",
+            "updatedAt": "2020-07-29T16:22:07.215Z",
+            "tags": [],
+            "classTitle": "Glasses",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        0
+                    ],
+                    [
+                        372,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

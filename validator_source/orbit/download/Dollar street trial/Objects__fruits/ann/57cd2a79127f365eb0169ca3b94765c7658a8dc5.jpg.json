@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488331125,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:52:30.909Z",
+            "updatedAt": "2020-08-05T08:57:09.492Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        131
+                    ],
+                    [
+                        702,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496735705,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T08:56:59.742Z",
+            "updatedAt": "2020-08-05T08:57:09.492Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        273
+                    ],
+                    [
+                        472,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496735709,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T08:57:09.288Z",
+            "updatedAt": "2020-08-05T08:57:09.288Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        427,
+                        13
+                    ],
+                    [
+                        685,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282980388,
+            "classId": 714988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:24:02.589Z",
+            "updatedAt": "2020-07-18T19:22:24.482Z",
+            "tags": [],
+            "classTitle": "Goat",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        206
+                    ],
+                    [
+                        539,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282980392,
+            "classId": 714988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:24:07.502Z",
+            "updatedAt": "2020-07-18T19:22:24.482Z",
+            "tags": [],
+            "classTitle": "Goat",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        272
+                    ],
+                    [
+                        1009,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488337523,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T19:22:02.163Z",
+            "updatedAt": "2020-07-18T19:22:24.482Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        173
+                    ],
+                    [
+                        415,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488337525,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T19:22:24.241Z",
+            "updatedAt": "2020-07-18T19:22:24.241Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        277
+                    ],
+                    [
+                        186,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

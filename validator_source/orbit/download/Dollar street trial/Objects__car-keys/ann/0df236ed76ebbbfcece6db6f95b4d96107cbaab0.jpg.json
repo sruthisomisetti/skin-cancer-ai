@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1539
+    },
+    "objects": [
+        {
+            "id": 282054745,
+            "classId": 714984,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T17:13:20.932Z",
+            "updatedAt": "2020-07-14T12:39:08.106Z",
+            "tags": [],
+            "classTitle": "Car key",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        355
+                    ],
+                    [
+                        730,
+                        869
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486839419,
+            "classId": 714969,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-14T12:39:07.899Z",
+            "updatedAt": "2020-07-14T19:26:16.487Z",
+            "tags": [],
+            "classTitle": "Frontdoor keys",
+            "points": {
+                "exterior": [
+                    [
+                        738,
+                        388
+                    ],
+                    [
+                        900,
+                        769
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

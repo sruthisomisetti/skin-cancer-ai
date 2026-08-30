@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 494216202,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T11:56:32.701Z",
+            "updatedAt": "2020-07-29T11:56:59.561Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        42
+                    ],
+                    [
+                        557,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494216230,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T11:56:47.699Z",
+            "updatedAt": "2020-07-29T11:56:59.561Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        398
+                    ],
+                    [
+                        640,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494216242,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T11:56:59.365Z",
+            "updatedAt": "2020-07-29T11:56:59.365Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        387
+                    ],
+                    [
+                        163,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279307013,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:17:43.862Z",
+            "updatedAt": "2020-07-13T13:20:33.024Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        223
+                    ],
+                    [
+                        1009,
+                        996
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485737535,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:20:32.933Z",
+            "updatedAt": "2020-07-13T13:20:38.219Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        934,
+                        231
+                    ],
+                    [
+                        973,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

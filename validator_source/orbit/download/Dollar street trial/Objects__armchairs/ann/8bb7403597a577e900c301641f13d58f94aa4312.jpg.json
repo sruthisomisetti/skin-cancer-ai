@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278950172,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:31:44.993Z",
+            "updatedAt": "2020-07-07T14:04:09.242Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        400
+                    ],
+                    [
+                        925,
+                        1511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481515887,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T14:04:09.082Z",
+            "updatedAt": "2020-07-07T14:04:19.997Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        580,
+                        2
+                    ],
+                    [
+                        1018,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279386188,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-09T20:48:57.202Z",
+            "updatedAt": "2020-07-29T13:15:53.768Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        378
+                    ],
+                    [
+                        571,
+                        628
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281172063,
+            "classId": 714929,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T14:16:34.560Z",
+            "updatedAt": "2019-10-11T14:16:34.560Z",
+            "tags": [],
+            "classTitle": "Washing detergent",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        444
+                    ],
+                    [
+                        854,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

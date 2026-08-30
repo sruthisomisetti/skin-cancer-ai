@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279215750,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:35:02.205Z",
+            "updatedAt": "2020-08-03T21:22:18.188Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        149
+                    ],
+                    [
+                        1030,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 485715450,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T12:36:21.632Z",
+            "updatedAt": "2020-08-03T21:22:18.188Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        1000,
+                        83
+                    ],
+                    [
+                        1197,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326974,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:21:46.283Z",
+            "updatedAt": "2020-08-03T21:22:18.188Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        257
+                    ],
+                    [
+                        333,
+                        584
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326978,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:22:12.730Z",
+            "updatedAt": "2020-08-03T21:22:18.188Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        1067,
+                        443
+                    ],
+                    [
+                        1174,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496326980,
+            "classId": 714973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T21:22:17.931Z",
+            "updatedAt": "2020-08-03T21:22:17.931Z",
+            "tags": [],
+            "classTitle": "Wrist watch",
+            "points": {
+                "exterior": [
+                    [
+                        1214,
+                        443
+                    ],
+                    [
+                        1270,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

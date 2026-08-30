@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278317849,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:04:49.238Z",
+            "updatedAt": "2020-07-20T15:36:49.082Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        749
+                    ],
+                    [
+                        862,
+                        1026
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317867,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:05:16.277Z",
+            "updatedAt": "2020-07-20T15:36:49.082Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        513
+                    ],
+                    [
+                        689,
+                        754
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278317875,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T20:05:32.640Z",
+            "updatedAt": "2020-07-20T15:36:49.082Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        906
+                    ],
+                    [
+                        433,
+                        989
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281918958,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T09:44:34.399Z",
+            "updatedAt": "2020-07-20T15:36:49.082Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        492
+                    ],
+                    [
+                        115,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488800648,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T15:36:48.843Z",
+            "updatedAt": "2020-07-20T15:36:48.843Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        434
+                    ],
+                    [
+                        344,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

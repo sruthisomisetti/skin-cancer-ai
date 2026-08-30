@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 280200930,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T05:44:27.618Z",
+            "updatedAt": "2019-10-11T05:44:41.658Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        24
+                    ],
+                    [
+                        222,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 280200933,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T05:44:41.448Z",
+            "updatedAt": "2019-10-11T05:44:47.217Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        18
+                    ],
+                    [
+                        449,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

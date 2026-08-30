@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278945849,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:18:53.197Z",
+            "updatedAt": "2019-10-09T11:20:00.597Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        158
+                    ],
+                    [
+                        1007,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278945858,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:19:14.054Z",
+            "updatedAt": "2019-10-09T11:20:00.597Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        151
+                    ],
+                    [
+                        1006,
+                        840
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278945868,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:19:32.116Z",
+            "updatedAt": "2019-10-09T11:20:00.597Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        513
+                    ],
+                    [
+                        691,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278945875,
+            "classId": 714976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:19:52.988Z",
+            "updatedAt": "2019-10-09T11:20:00.597Z",
+            "tags": [],
+            "classTitle": "Fruit trees",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        644
+                    ],
+                    [
+                        494,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278945879,
+            "classId": 714976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:20:00.247Z",
+            "updatedAt": "2019-10-09T11:20:00.247Z",
+            "tags": [],
+            "classTitle": "Fruit trees",
+            "points": {
+                "exterior": [
+                    [
+                        594,
+                        373
+                    ],
+                    [
+                        1007,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

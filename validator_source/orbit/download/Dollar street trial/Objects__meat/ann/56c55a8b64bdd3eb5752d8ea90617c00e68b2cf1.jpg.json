@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282423798,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-14T16:37:06.387Z",
+            "updatedAt": "2020-07-21T18:26:32.205Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        145
+                    ],
+                    [
+                        763,
+                        569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489414112,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T18:26:31.979Z",
+            "updatedAt": "2020-07-21T18:26:31.979Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        831,
+                        121
+                    ],
+                    [
+                        972,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

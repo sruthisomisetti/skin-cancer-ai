@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 494217054,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T12:10:21.160Z",
+            "updatedAt": "2020-07-29T12:10:41.514Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        256
+                    ],
+                    [
+                        710,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494217084,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T12:10:41.316Z",
+            "updatedAt": "2020-07-29T12:10:41.316Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        0
+                    ],
+                    [
+                        560,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

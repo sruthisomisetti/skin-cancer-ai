@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278958598,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:07:27.408Z",
+            "updatedAt": "2019-10-09T12:07:44.523Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        175
+                    ],
+                    [
+                        1516,
+                        726
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278958613,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T12:07:44.260Z",
+            "updatedAt": "2019-10-09T12:07:48.234Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        1148,
+                        431
+                    ],
+                    [
+                        1318,
+                        715
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

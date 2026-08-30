@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 498000840,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:10:01.684Z",
+            "updatedAt": "2020-08-07T21:10:28.651Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        579,
+                        9
+                    ],
+                    [
+                        874,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000841,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:10:08.999Z",
+            "updatedAt": "2020-08-07T21:10:28.651Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        311
+                    ],
+                    [
+                        612,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000843,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:10:18.649Z",
+            "updatedAt": "2020-08-07T21:10:28.651Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        434
+                    ],
+                    [
+                        536,
+                        670
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498000844,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T21:10:28.397Z",
+            "updatedAt": "2020-08-07T21:10:28.397Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        18
+                    ],
+                    [
+                        539,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

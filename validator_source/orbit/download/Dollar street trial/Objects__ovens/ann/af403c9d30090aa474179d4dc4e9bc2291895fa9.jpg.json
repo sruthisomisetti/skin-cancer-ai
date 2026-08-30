@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282422006,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-14T15:46:07.865Z",
+            "updatedAt": "2020-07-22T17:32:31.654Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        499
+                    ],
+                    [
+                        960,
+                        962
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282953800,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T12:33:10.379Z",
+            "updatedAt": "2020-07-22T17:32:31.654Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        521,
+                        75
+                    ],
+                    [
+                        973,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490234096,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:32:16.553Z",
+            "updatedAt": "2020-07-22T17:32:31.654Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        1220,
+                        379
+                    ],
+                    [
+                        1281,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490234098,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:32:21.890Z",
+            "updatedAt": "2020-07-22T17:32:31.654Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        1454,
+                        385
+                    ],
+                    [
+                        1518,
+                        446
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490234103,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:32:31.451Z",
+            "updatedAt": "2020-07-22T17:32:31.451Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1315,
+                        380
+                    ],
+                    [
+                        1421,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

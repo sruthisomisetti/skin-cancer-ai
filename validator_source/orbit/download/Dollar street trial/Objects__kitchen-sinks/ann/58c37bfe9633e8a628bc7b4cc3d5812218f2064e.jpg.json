@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278309224,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:50:50.880Z",
+            "updatedAt": "2020-07-20T14:53:46.390Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        387
+                    ],
+                    [
+                        1365,
+                        795
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309243,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T18:51:10.116Z",
+            "updatedAt": "2020-07-20T14:53:46.390Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        237
+                    ],
+                    [
+                        153,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488689163,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T14:53:29.417Z",
+            "updatedAt": "2020-07-20T14:54:23.506Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        794,
+                        568
+                    ],
+                    [
+                        1235,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

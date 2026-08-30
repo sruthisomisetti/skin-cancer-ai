@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279776200,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T14:55:19.942Z",
+            "updatedAt": "2020-07-27T10:27:24.038Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        565,
+                        161
+                    ],
+                    [
+                        926,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491100233,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T10:27:23.834Z",
+            "updatedAt": "2020-07-27T10:27:23.834Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        355
+                    ],
+                    [
+                        272,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

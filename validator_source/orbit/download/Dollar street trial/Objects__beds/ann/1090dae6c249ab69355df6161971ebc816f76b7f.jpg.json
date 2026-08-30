@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 483114138,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:45:23.266Z",
+            "updatedAt": "2020-07-09T13:46:05.687Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        123
+                    ],
+                    [
+                        1010,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114161,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:45:36.157Z",
+            "updatedAt": "2020-07-09T13:46:05.687Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        154
+                    ],
+                    [
+                        414,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114177,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:45:49.173Z",
+            "updatedAt": "2020-07-09T13:46:05.687Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        396
+                    ],
+                    [
+                        295,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 483114204,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-09T13:46:05.523Z",
+            "updatedAt": "2020-07-09T13:46:09.115Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        230
+                    ],
+                    [
+                        121,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

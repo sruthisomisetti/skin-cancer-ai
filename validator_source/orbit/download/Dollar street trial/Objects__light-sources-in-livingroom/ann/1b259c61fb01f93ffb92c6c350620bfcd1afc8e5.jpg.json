@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488963497,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T10:01:04.692Z",
+            "updatedAt": "2020-08-04T19:36:19.964Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        81
+                    ],
+                    [
+                        785,
+                        959
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488963506,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T10:01:20.246Z",
+            "updatedAt": "2020-08-04T19:36:19.964Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        825
+                    ],
+                    [
+                        678,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496587321,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:36:19.733Z",
+            "updatedAt": "2020-08-04T19:36:19.733Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        665
+                    ],
+                    [
+                        482,
+                        913
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

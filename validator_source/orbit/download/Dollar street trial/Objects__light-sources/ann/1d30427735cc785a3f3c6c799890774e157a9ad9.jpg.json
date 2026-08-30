@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 488819139,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T18:36:16.374Z",
+            "updatedAt": "2020-08-04T19:16:00.891Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        49
+                    ],
+                    [
+                        812,
+                        898
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496586966,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T19:16:00.645Z",
+            "updatedAt": "2020-08-04T19:16:00.645Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        896
+                    ],
+                    [
+                        807,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

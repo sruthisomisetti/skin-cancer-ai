@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282933357,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T11:08:16.910Z",
+            "updatedAt": "2020-07-19T20:56:11.809Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        27
+                    ],
+                    [
+                        879,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430205,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T20:56:11.614Z",
+            "updatedAt": "2020-07-19T20:56:11.614Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        709,
+                        453
+                    ],
+                    [
+                        1022,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

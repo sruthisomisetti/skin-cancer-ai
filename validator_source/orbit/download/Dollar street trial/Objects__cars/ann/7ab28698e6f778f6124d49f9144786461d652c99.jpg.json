@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 282039090,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T07:04:00.341Z",
+            "updatedAt": "2020-07-14T20:33:56.306Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        390
+                    ],
+                    [
+                        1508,
+                        895
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282039096,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-13T07:04:07.814Z",
+            "updatedAt": "2020-07-14T20:33:56.306Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        316
+                    ],
+                    [
+                        637,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487080344,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T20:33:19.987Z",
+            "updatedAt": "2020-07-14T20:33:56.306Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1596,
+                        392
+                    ],
+                    [
+                        2047,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487080361,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-14T20:33:56.075Z",
+            "updatedAt": "2020-07-14T20:34:01.400Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        2048,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

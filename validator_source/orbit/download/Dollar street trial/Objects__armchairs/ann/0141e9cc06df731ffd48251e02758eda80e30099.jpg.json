@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278859761,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:18:45.752Z",
+            "updatedAt": "2020-07-07T11:00:51.620Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        353
+                    ],
+                    [
+                        849,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481447600,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T11:00:51.256Z",
+            "updatedAt": "2020-07-07T11:01:05.846Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        708,
+                        323
+                    ],
+                    [
+                        1019,
+                        525
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

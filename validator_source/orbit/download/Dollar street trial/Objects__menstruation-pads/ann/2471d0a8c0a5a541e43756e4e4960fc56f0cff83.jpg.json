@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1533
+    },
+    "objects": [
+        {
+            "id": 282046743,
+            "classId": 714972,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T12:06:59.755Z",
+            "updatedAt": "2020-07-21T22:45:26.509Z",
+            "tags": [],
+            "classTitle": "Menstruation pads",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        258
+                    ],
+                    [
+                        940,
+                        853
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282046747,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T12:07:23.193Z",
+            "updatedAt": "2019-10-13T12:07:46.504Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        1098,
+                        113
+                    ],
+                    [
+                        1533,
+                        690
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487889977,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T13:53:34.768Z",
+            "updatedAt": "2020-08-10T10:52:13.660Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        499
+                    ],
+                    [
+                        1013,
+                        730
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 498952027,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-10T10:52:13.499Z",
+            "updatedAt": "2020-08-10T10:52:13.499Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        309
+                    ],
+                    [
+                        686,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

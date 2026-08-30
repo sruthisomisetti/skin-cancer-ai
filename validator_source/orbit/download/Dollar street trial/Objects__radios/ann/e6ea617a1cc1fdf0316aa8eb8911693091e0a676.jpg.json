@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282049698,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:39:09.095Z",
+            "updatedAt": "2019-10-13T14:39:44.364Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        160
+                    ],
+                    [
+                        1114,
+                        983
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049704,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:39:27.589Z",
+            "updatedAt": "2019-10-13T14:39:44.364Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        818
+                    ],
+                    [
+                        384,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049708,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:39:39.194Z",
+            "updatedAt": "2019-10-13T14:39:44.364Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        1168,
+                        325
+                    ],
+                    [
+                        1324,
+                        763
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049711,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T14:39:44.176Z",
+            "updatedAt": "2019-10-13T14:39:44.176Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        857,
+                        737
+                    ],
+                    [
+                        1191,
+                        902
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282319173,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:03:14.845Z",
+            "updatedAt": "2020-07-15T14:40:29.822Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        474,
+                        243
+                    ],
+                    [
+                        725,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487387814,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T14:40:29.602Z",
+            "updatedAt": "2020-07-15T14:40:29.602Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        251
+                    ],
+                    [
+                        333,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

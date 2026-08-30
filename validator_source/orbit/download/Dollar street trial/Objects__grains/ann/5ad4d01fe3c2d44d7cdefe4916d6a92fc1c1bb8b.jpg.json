@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278972752,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-09T12:33:36.587Z",
+            "updatedAt": "2019-10-12T17:14:33.009Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        364
+                    ],
+                    [
+                        574,
+                        505
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281976971,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T17:14:32.859Z",
+            "updatedAt": "2019-10-12T17:14:32.859Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        711,
+                        429
+                    ],
+                    [
+                        837,
+                        510
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282048323,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T13:29:32.208Z",
+            "updatedAt": "2020-07-27T21:15:11.413Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        5
+                    ],
+                    [
+                        1242,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233798,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:15:04.959Z",
+            "updatedAt": "2020-07-27T21:15:11.413Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        866
+                    ],
+                    [
+                        394,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491233799,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T21:15:11.219Z",
+            "updatedAt": "2020-07-27T21:15:11.219Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        968,
+                        881
+                    ],
+                    [
+                        1135,
+                        1021
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

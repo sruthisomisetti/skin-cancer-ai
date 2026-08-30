@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282053932,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:42:19.264Z",
+            "updatedAt": "2019-10-13T16:43:24.587Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        8
+                    ],
+                    [
+                        495,
+                        988
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053962,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:43:07.099Z",
+            "updatedAt": "2020-08-03T11:52:46.797Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        510,
+                        99
+                    ],
+                    [
+                        1200,
+                        988
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282053971,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-13T16:43:24.243Z",
+            "updatedAt": "2020-08-03T11:51:54.331Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        1186,
+                        281
+                    ],
+                    [
+                        1534,
+                        960
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

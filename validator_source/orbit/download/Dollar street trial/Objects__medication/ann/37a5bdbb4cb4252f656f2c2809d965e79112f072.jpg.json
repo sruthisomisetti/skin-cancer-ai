@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282044404,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:50:11.612Z",
+            "updatedAt": "2020-07-21T20:04:16.970Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        708,
+                        46
+                    ],
+                    [
+                        965,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044408,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:50:16.276Z",
+            "updatedAt": "2020-07-21T20:04:16.970Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        441
+                    ],
+                    [
+                        834,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282044411,
+            "classId": 714946,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-13T10:50:21.365Z",
+            "updatedAt": "2020-07-21T20:04:16.970Z",
+            "tags": [],
+            "classTitle": "Medication",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        124
+                    ],
+                    [
+                        680,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489591461,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T20:04:16.623Z",
+            "updatedAt": "2020-07-21T20:04:24.569Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        1429,
+                        138
+                    ],
+                    [
+                        1770,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

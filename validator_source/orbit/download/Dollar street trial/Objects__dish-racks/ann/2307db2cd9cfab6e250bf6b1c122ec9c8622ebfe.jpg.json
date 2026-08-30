@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282047949,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T13:15:13.703Z",
+            "updatedAt": "2020-07-17T18:37:09.410Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        446
+                    ],
+                    [
+                        766,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487906778,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T18:37:09.154Z",
+            "updatedAt": "2020-07-17T18:37:09.154Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        152
+                    ],
+                    [
+                        738,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

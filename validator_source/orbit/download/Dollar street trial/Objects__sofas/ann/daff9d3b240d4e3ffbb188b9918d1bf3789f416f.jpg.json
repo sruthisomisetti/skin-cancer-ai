@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279382153,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia7",
+            "createdAt": "2019-10-09T20:16:21.590Z",
+            "updatedAt": "2020-07-25T23:38:19.566Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        293
+                    ],
+                    [
+                        1299,
+                        925
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942042,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:38:02.006Z",
+            "updatedAt": "2020-07-25T23:38:19.566Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        865,
+                        69
+                    ],
+                    [
+                        944,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942043,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:38:19.344Z",
+            "updatedAt": "2020-07-25T23:38:19.344Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        160
+                    ],
+                    [
+                        819,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

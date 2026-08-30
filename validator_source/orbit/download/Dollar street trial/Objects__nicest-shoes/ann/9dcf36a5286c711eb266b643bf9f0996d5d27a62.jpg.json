@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 490215383,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T16:09:52.929Z",
+            "updatedAt": "2020-07-22T16:10:06.605Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        106
+                    ],
+                    [
+                        745,
+                        712
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490215391,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T16:10:06.360Z",
+            "updatedAt": "2020-07-22T16:10:06.360Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        135
+                    ],
+                    [
+                        1303,
+                        811
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065720,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T19:56:56.210Z",
+            "updatedAt": "2019-10-13T19:57:47.428Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        195
+                    ],
+                    [
+                        758,
+                        936
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065727,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T19:57:28.844Z",
+            "updatedAt": "2019-10-13T19:57:47.428Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        751,
+                        3
+                    ],
+                    [
+                        929,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

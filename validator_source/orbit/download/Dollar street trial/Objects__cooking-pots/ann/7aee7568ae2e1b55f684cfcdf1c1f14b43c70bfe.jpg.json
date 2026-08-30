@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487576588,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T19:00:50.168Z",
+            "updatedAt": "2020-08-02T17:30:50.101Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        104
+                    ],
+                    [
+                        771,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495556857,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-02T17:30:49.885Z",
+            "updatedAt": "2020-08-02T17:30:49.885Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        0
+                    ],
+                    [
+                        955,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

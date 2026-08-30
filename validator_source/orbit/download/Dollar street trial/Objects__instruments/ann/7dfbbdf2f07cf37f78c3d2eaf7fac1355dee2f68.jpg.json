@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282052158,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:48:55.832Z",
+            "updatedAt": "2019-10-13T15:49:27.244Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        287
+                    ],
+                    [
+                        785,
+                        939
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282052172,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T15:49:27.086Z",
+            "updatedAt": "2019-10-13T15:49:35.972Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        0
+                    ],
+                    [
+                        1024,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

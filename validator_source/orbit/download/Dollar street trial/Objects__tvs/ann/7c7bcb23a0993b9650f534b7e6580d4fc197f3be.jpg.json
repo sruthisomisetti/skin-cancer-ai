@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282063165,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:34:08.750Z",
+            "updatedAt": "2020-07-28T12:31:51.054Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        74
+                    ],
+                    [
+                        698,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490738,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:31:46.505Z",
+            "updatedAt": "2020-07-28T12:31:51.054Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        277
+                    ],
+                    [
+                        162,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491490744,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:31:50.866Z",
+            "updatedAt": "2020-07-28T12:31:50.866Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        603
+                    ],
+                    [
+                        155,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

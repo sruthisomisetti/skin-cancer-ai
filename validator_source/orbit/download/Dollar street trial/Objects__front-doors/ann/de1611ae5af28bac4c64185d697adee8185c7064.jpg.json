@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279187226,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:48:10.282Z",
+            "updatedAt": "2020-07-18T15:16:45.301Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        28
+                    ],
+                    [
+                        939,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330485,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:16:35.505Z",
+            "updatedAt": "2020-07-18T15:16:45.301Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        630,
+                        655
+                    ],
+                    [
+                        703,
+                        777
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488330491,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:16:45.131Z",
+            "updatedAt": "2020-07-18T15:16:45.131Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        556
+                    ],
+                    [
+                        314,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

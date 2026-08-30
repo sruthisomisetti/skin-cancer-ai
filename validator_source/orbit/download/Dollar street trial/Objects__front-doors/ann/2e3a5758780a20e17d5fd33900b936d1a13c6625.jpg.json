@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 279861948,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:11:43.715Z",
+            "updatedAt": "2020-07-18T13:28:38.400Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        141
+                    ],
+                    [
+                        972,
+                        939
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321490,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:28:20.909Z",
+            "updatedAt": "2020-07-18T13:28:38.400Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        922,
+                        394
+                    ],
+                    [
+                        979,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321491,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:28:26.058Z",
+            "updatedAt": "2020-07-18T13:28:38.400Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1086,
+                        442
+                    ],
+                    [
+                        1196,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321492,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:28:37.701Z",
+            "updatedAt": "2020-07-18T13:28:37.701Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        961,
+                        950
+                    ],
+                    [
+                        1110,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490793564,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:57:43.797Z",
+            "updatedAt": "2020-08-05T18:59:25.716Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        74
+                    ],
+                    [
+                        1186,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793571,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:58:06.350Z",
+            "updatedAt": "2020-08-05T18:59:25.716Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        109
+                    ],
+                    [
+                        269,
+                        946
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490793574,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T21:58:12.864Z",
+            "updatedAt": "2020-08-05T18:59:25.716Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        1151,
+                        62
+                    ],
+                    [
+                        1295,
+                        929
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951283,
+            "classId": 714956,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:59:03.927Z",
+            "updatedAt": "2020-08-05T18:59:25.716Z",
+            "tags": [],
+            "classTitle": "Meat",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        390
+                    ],
+                    [
+                        1123,
+                        719
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951287,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:59:25.479Z",
+            "updatedAt": "2020-08-05T18:59:25.479Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        33
+                    ],
+                    [
+                        1192,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

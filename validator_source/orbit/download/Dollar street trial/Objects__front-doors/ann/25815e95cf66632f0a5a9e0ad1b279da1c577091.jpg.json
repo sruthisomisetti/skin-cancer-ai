@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279861511,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T17:07:21.141Z",
+            "updatedAt": "2020-07-18T13:19:33.923Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        154
+                    ],
+                    [
+                        719,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488321422,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T13:19:33.676Z",
+            "updatedAt": "2020-07-18T13:19:33.676Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        499
+                    ],
+                    [
+                        325,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

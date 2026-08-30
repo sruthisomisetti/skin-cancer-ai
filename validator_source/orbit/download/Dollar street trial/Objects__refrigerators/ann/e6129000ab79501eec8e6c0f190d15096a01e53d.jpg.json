@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282066323,
+            "classId": 714952,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-13T20:12:20.598Z",
+            "updatedAt": "2020-07-24T19:01:17.845Z",
+            "tags": [],
+            "classTitle": "Refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        515,
+                        43
+                    ],
+                    [
+                        636,
+                        358
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918661,
+            "classId": 714959,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:00:23.054Z",
+            "updatedAt": "2020-07-24T19:01:17.845Z",
+            "tags": [],
+            "classTitle": "Freezers",
+            "points": {
+                "exterior": [
+                    [
+                        509,
+                        339
+                    ],
+                    [
+                        624,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918663,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:00:54.029Z",
+            "updatedAt": "2020-07-24T19:01:17.845Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        320
+                    ],
+                    [
+                        390,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490918666,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T19:01:15.938Z",
+            "updatedAt": "2020-07-24T19:01:15.938Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        358
+                    ],
+                    [
+                        153,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

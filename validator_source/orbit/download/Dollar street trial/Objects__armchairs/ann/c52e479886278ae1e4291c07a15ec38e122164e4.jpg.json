@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278953695,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:53:52.218Z",
+            "updatedAt": "2020-07-07T15:38:51.681Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        65
+                    ],
+                    [
+                        575,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278953698,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:53:56.743Z",
+            "updatedAt": "2020-07-07T15:39:15.222Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        520,
+                        23
+                    ],
+                    [
+                        812,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278953703,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:54:00.336Z",
+            "updatedAt": "2019-10-09T11:54:12.863Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        550
+                    ],
+                    [
+                        444,
+                        631
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

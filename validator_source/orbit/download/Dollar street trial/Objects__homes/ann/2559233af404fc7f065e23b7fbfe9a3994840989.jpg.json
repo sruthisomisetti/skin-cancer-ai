@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278257187,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T17:35:14.335Z",
+            "updatedAt": "2020-07-19T21:09:44.335Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        257
+                    ],
+                    [
+                        792,
+                        769
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278257267,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T17:36:16.041Z",
+            "updatedAt": "2020-07-19T21:09:44.335Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        622
+                    ],
+                    [
+                        694,
+                        713
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278257470,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T17:39:10.363Z",
+            "updatedAt": "2020-07-19T21:09:44.335Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        697,
+                        645
+                    ],
+                    [
+                        790,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430290,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:09:26.469Z",
+            "updatedAt": "2020-07-19T21:09:44.335Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        667
+                    ],
+                    [
+                        1024,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430295,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:09:44.125Z",
+            "updatedAt": "2020-07-19T21:09:44.125Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        280
+                    ],
+                    [
+                        975,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

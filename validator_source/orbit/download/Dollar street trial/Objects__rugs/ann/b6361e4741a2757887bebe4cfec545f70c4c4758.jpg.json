@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282986206,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia20",
+            "createdAt": "2019-10-15T17:53:02.984Z",
+            "updatedAt": "2020-07-25T09:23:01.279Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        79
+                    ],
+                    [
+                        1525,
+                        1018
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490934990,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T09:22:39.791Z",
+            "updatedAt": "2020-07-25T09:23:01.279Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        34
+                    ],
+                    [
+                        844,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935038,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T09:22:49.626Z",
+            "updatedAt": "2020-07-25T09:23:01.279Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        1219,
+                        181
+                    ],
+                    [
+                        1487,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935043,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T09:23:01.097Z",
+            "updatedAt": "2020-07-25T09:23:01.097Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        1321,
+                        177
+                    ],
+                    [
+                        1524,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

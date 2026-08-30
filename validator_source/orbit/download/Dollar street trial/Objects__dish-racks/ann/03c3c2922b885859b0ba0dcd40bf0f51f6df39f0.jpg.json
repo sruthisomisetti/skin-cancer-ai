@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 487773038,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:41:42.542Z",
+            "updatedAt": "2020-08-07T08:26:09.203Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        3
+                    ],
+                    [
+                        539,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773044,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:42:02.475Z",
+            "updatedAt": "2020-08-07T08:26:09.203Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        107
+                    ],
+                    [
+                        833,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487773047,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T20:42:18.146Z",
+            "updatedAt": "2020-08-07T08:26:09.203Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        234
+                    ],
+                    [
+                        494,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497487898,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T08:26:08.962Z",
+            "updatedAt": "2020-08-07T08:26:08.962Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        935,
+                        345
+                    ],
+                    [
+                        1024,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

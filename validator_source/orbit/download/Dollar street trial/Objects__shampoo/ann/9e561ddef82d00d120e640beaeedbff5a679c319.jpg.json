@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 718
+    },
+    "objects": [
+        {
+            "id": 280204099,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T06:12:47.243Z",
+            "updatedAt": "2020-07-25T14:22:27.296Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        258
+                    ],
+                    [
+                        461,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 280204106,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-11T06:12:56.847Z",
+            "updatedAt": "2020-07-25T14:22:27.296Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        216
+                    ],
+                    [
+                        303,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936577,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T14:22:00.273Z",
+            "updatedAt": "2020-07-25T14:22:27.296Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        620
+                    ],
+                    [
+                        427,
+                        774
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936578,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T14:22:16.266Z",
+            "updatedAt": "2020-07-25T14:22:27.296Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        570
+                    ],
+                    [
+                        393,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490936580,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T14:22:27.061Z",
+            "updatedAt": "2020-07-25T14:22:27.061Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        624
+                    ],
+                    [
+                        400,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

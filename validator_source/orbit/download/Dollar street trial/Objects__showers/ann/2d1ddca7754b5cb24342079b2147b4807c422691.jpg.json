@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490984607,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T21:57:35.045Z",
+            "updatedAt": "2020-08-05T21:41:12.174Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        104
+                    ],
+                    [
+                        574,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490984626,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T21:59:34.599Z",
+            "updatedAt": "2020-08-05T21:41:12.174Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        707
+                    ],
+                    [
+                        201,
+                        891
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496961523,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T21:41:11.956Z",
+            "updatedAt": "2020-08-05T21:41:11.956Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        117
+                    ],
+                    [
+                        619,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

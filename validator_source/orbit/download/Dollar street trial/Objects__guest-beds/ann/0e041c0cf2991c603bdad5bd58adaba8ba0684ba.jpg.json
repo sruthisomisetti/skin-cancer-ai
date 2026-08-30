@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049797,
+            "classId": 714942,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-13T14:44:51.263Z",
+            "updatedAt": "2020-07-19T10:30:35.871Z",
+            "tags": [],
+            "classTitle": "Guest beds",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        351
+                    ],
+                    [
+                        782,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488410897,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:29:57.205Z",
+            "updatedAt": "2020-07-19T10:30:35.871Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        274
+                    ],
+                    [
+                        809,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488410900,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:30:17.151Z",
+            "updatedAt": "2020-07-19T10:30:35.871Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        800,
+                        129
+                    ],
+                    [
+                        831,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488410902,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T10:30:35.626Z",
+            "updatedAt": "2020-07-19T10:30:35.626Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        228
+                    ],
+                    [
+                        597,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

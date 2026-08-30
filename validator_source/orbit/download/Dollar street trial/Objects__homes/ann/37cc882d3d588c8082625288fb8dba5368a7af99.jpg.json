@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278314751,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:41:46.000Z",
+            "updatedAt": "2019-10-08T19:45:19.151Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        189
+                    ],
+                    [
+                        855,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278314807,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:43:06.719Z",
+            "updatedAt": "2019-10-08T19:45:19.151Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        483
+                    ],
+                    [
+                        146,
+                        570
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

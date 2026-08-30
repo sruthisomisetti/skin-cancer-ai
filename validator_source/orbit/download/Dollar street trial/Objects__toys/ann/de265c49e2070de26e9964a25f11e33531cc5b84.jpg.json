@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282051371,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:21:57.288Z",
+            "updatedAt": "2019-10-13T15:22:13.055Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        133
+                    ],
+                    [
+                        420,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051376,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:22:05.968Z",
+            "updatedAt": "2019-10-13T15:22:13.055Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        310
+                    ],
+                    [
+                        649,
+                        526
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282051378,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-13T15:22:12.875Z",
+            "updatedAt": "2019-10-13T15:22:20.054Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        144
+                    ],
+                    [
+                        633,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

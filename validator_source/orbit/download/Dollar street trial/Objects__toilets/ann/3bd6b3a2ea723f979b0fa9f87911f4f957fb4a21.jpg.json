@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 278309990,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:54:13.724Z",
+            "updatedAt": "2020-07-27T13:25:29.916Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        603
+                    ],
+                    [
+                        398,
+                        920
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310009,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:54:39.448Z",
+            "updatedAt": "2020-07-27T13:25:29.916Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        536
+                    ],
+                    [
+                        246,
+                        571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173767,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:25:22.671Z",
+            "updatedAt": "2020-07-27T13:25:29.916Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        652
+                    ],
+                    [
+                        650,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491173769,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T13:25:29.661Z",
+            "updatedAt": "2020-07-27T13:25:29.661Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        646,
+                        638
+                    ],
+                    [
+                        683,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

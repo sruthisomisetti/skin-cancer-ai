@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490939322,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:54:08.174Z",
+            "updatedAt": "2020-08-06T11:00:38.799Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        223
+                    ],
+                    [
+                        908,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939323,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:54:24.759Z",
+            "updatedAt": "2020-08-06T11:00:38.799Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        2
+                    ],
+                    [
+                        537,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497185120,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-06T11:00:38.582Z",
+            "updatedAt": "2020-08-06T11:00:48.311Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        82
+                    ],
+                    [
+                        989,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282039561,
+            "classId": 714975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T07:22:59.644Z",
+            "updatedAt": "2019-10-13T07:23:06.143Z",
+            "tags": [],
+            "classTitle": "Make up",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        36
+                    ],
+                    [
+                        1255,
+                        696
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282039564,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T07:23:05.983Z",
+            "updatedAt": "2019-10-13T07:23:25.185Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        624
+                    ],
+                    [
+                        964,
+                        774
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

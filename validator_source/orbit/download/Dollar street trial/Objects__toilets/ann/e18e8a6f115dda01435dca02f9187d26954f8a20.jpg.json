@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278651122,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-09T05:01:14.800Z",
+            "updatedAt": "2020-07-27T15:14:57.330Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        135
+                    ],
+                    [
+                        886,
+                        794
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278952394,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T11:33:33.935Z",
+            "updatedAt": "2020-07-27T15:15:12.978Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        866,
+                        104
+                    ],
+                    [
+                        960,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

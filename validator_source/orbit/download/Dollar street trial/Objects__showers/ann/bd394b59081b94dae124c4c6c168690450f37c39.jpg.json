@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 685
+    },
+    "objects": [
+        {
+            "id": 490988855,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:47:33.284Z",
+            "updatedAt": "2020-07-26T23:48:05.441Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        149
+                    ],
+                    [
+                        533,
+                        888
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988857,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:47:47.078Z",
+            "updatedAt": "2020-07-26T23:48:05.441Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        543,
+                        831
+                    ],
+                    [
+                        596,
+                        862
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988859,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:48:00.364Z",
+            "updatedAt": "2020-07-26T23:48:05.441Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        724
+                    ],
+                    [
+                        268,
+                        803
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988860,
+            "classId": 714912,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:48:05.137Z",
+            "updatedAt": "2020-07-26T23:48:08.387Z",
+            "tags": [],
+            "classTitle": "Shampoo",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        779
+                    ],
+                    [
+                        85,
+                        872
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

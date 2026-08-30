@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281993485,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:06:00.572Z",
+            "updatedAt": "2020-07-22T19:46:28.592Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        217
+                    ],
+                    [
+                        722,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993493,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:06:23.506Z",
+            "updatedAt": "2020-07-22T19:46:28.592Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        833,
+                        17
+                    ],
+                    [
+                        973,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490305739,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T19:46:28.392Z",
+            "updatedAt": "2020-07-22T19:46:28.392Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        2
+                    ],
+                    [
+                        460,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

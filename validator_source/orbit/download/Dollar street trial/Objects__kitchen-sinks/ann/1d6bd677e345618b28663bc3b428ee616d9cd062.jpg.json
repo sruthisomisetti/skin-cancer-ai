@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 278201493,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:24:41.879Z",
+            "updatedAt": "2019-10-08T17:26:35.305Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        276
+                    ],
+                    [
+                        772,
+                        853
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278201504,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:24:51.947Z",
+            "updatedAt": "2019-10-08T17:26:35.305Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        568
+                    ],
+                    [
+                        502,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278206858,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:25:04.886Z",
+            "updatedAt": "2019-10-08T17:26:35.305Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        148
+                    ],
+                    [
+                        413,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278206868,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T17:25:19.475Z",
+            "updatedAt": "2019-10-12T07:32:52.658Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        290
+                    ],
+                    [
+                        683,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

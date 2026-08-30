@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279515783,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:30:42.521Z",
+            "updatedAt": "2020-07-24T13:28:08.198Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        320
+                    ],
+                    [
+                        462,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279516196,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-10T06:36:33.519Z",
+            "updatedAt": "2020-07-24T13:28:16.937Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        615,
+                        278
+                    ],
+                    [
+                        885,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

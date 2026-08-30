@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 769,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282421722,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-14T15:37:05.499Z",
+            "updatedAt": "2020-07-22T17:19:02.998Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        353
+                    ],
+                    [
+                        619,
+                        659
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490233933,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:18:43.138Z",
+            "updatedAt": "2020-07-22T17:19:02.998Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        120
+                    ],
+                    [
+                        747,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490233938,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:19:02.788Z",
+            "updatedAt": "2020-07-22T17:19:02.788Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        804,
+                        69
+                    ],
+                    [
+                        837,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

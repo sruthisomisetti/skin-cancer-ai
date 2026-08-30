@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490059669,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T13:47:49.157Z",
+            "updatedAt": "2020-08-05T14:25:26.119Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        279
+                    ],
+                    [
+                        742,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845746,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:24:26.629Z",
+            "updatedAt": "2020-08-05T14:25:26.119Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        799,
+                        642
+                    ],
+                    [
+                        870,
+                        713
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845756,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:24:37.739Z",
+            "updatedAt": "2020-08-05T14:25:26.119Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        730,
+                        689
+                    ],
+                    [
+                        867,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845776,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:25:16.680Z",
+            "updatedAt": "2020-08-05T14:25:26.119Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        725,
+                        681
+                    ],
+                    [
+                        818,
+                        779
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496845781,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T14:25:25.882Z",
+            "updatedAt": "2020-08-05T14:25:25.882Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        790,
+                        825
+                    ],
+                    [
+                        904,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

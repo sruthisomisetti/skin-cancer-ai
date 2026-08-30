@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 281993421,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:02:46.510Z",
+            "updatedAt": "2019-10-12T20:03:22.753Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        506,
+                        396
+                    ],
+                    [
+                        1056,
+                        836
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993424,
+            "classId": 714864,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:02:54.515Z",
+            "updatedAt": "2019-10-12T20:03:22.753Z",
+            "tags": [],
+            "classTitle": "Pen",
+            "points": {
+                "exterior": [
+                    [
+                        1032,
+                        476
+                    ],
+                    [
+                        1124,
+                        640
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993429,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:03:09.042Z",
+            "updatedAt": "2020-07-22T19:58:40.702Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        129
+                    ],
+                    [
+                        648,
+                        505
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281993434,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-12T20:03:22.512Z",
+            "updatedAt": "2020-07-22T19:58:49.811Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        1031,
+                        588
+                    ],
+                    [
+                        1343,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278859917,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:24:29.213Z",
+            "updatedAt": "2020-07-07T10:28:34.139Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        324
+                    ],
+                    [
+                        553,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278859918,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:24:38.813Z",
+            "updatedAt": "2019-10-09T10:24:45.766Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        490
+                    ],
+                    [
+                        806,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

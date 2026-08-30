@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281887904,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:32:53.888Z",
+            "updatedAt": "2019-10-12T08:33:01.069Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        58
+                    ],
+                    [
+                        954,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281887908,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T08:33:00.910Z",
+            "updatedAt": "2019-10-12T08:33:00.910Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        40
+                    ],
+                    [
+                        941,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

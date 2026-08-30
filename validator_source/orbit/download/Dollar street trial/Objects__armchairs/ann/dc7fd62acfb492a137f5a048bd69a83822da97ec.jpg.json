@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278953929,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:58:11.645Z",
+            "updatedAt": "2020-08-03T17:02:49.799Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        246
+                    ],
+                    [
+                        515,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308182,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:02:17.043Z",
+            "updatedAt": "2020-08-03T17:02:49.799Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        191
+                    ],
+                    [
+                        614,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496308188,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T17:02:49.573Z",
+            "updatedAt": "2020-08-03T17:02:49.573Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        261
+                    ],
+                    [
+                        719,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 481897730,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:28:19.330Z",
+            "updatedAt": "2020-07-08T11:28:55.210Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        608
+                    ],
+                    [
+                        504,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481897781,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:28:48.506Z",
+            "updatedAt": "2020-07-08T11:28:55.210Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        648
+                    ],
+                    [
+                        396,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481897793,
+            "classId": 714909,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:28:55.080Z",
+            "updatedAt": "2020-07-08T11:28:59.067Z",
+            "tags": [],
+            "classTitle": "Lock on front door",
+            "points": {
+                "exterior": [
+                    [
+                        665,
+                        615
+                    ],
+                    [
+                        763,
+                        762
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279653629,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T14:14:19.429Z",
+            "updatedAt": "2020-07-27T08:23:09.798Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        746,
+                        238
+                    ],
+                    [
+                        882,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279653643,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T14:14:32.137Z",
+            "updatedAt": "2020-07-27T08:23:09.798Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        8
+                    ],
+                    [
+                        818,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279653840,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T14:15:09.184Z",
+            "updatedAt": "2020-07-27T08:23:09.798Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        6
+                    ],
+                    [
+                        670,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491059363,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T08:23:09.577Z",
+            "updatedAt": "2020-07-27T08:23:09.577Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        591
+                    ],
+                    [
+                        183,
+                        670
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281918924,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T09:42:38.988Z",
+            "updatedAt": "2019-10-12T09:43:38.792Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        199
+                    ],
+                    [
+                        534,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281918929,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T09:43:00.242Z",
+            "updatedAt": "2019-10-12T09:43:38.792Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        408
+                    ],
+                    [
+                        348,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281918941,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T09:43:38.641Z",
+            "updatedAt": "2019-10-12T09:43:38.641Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        390
+                    ],
+                    [
+                        571,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

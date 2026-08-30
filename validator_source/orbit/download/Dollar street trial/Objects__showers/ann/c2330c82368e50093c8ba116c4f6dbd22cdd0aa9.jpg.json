@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988872,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T23:50:48.358Z",
+            "updatedAt": "2020-08-05T22:50:34.261Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        87
+                    ],
+                    [
+                        559,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496963027,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:50:07.431Z",
+            "updatedAt": "2020-08-05T22:50:34.261Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        1081
+                    ],
+                    [
+                        460,
+                        1112
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496963032,
+            "classId": 714915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:50:33.902Z",
+            "updatedAt": "2020-08-05T22:50:33.902Z",
+            "tags": [],
+            "classTitle": "Toothpaste",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        954
+                    ],
+                    [
+                        77,
+                        1125
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

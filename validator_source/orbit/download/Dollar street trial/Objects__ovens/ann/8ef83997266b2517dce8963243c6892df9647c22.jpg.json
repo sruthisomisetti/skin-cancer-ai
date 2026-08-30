@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282421888,
+            "classId": 714968,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-14T15:42:33.769Z",
+            "updatedAt": "2020-07-22T17:25:07.555Z",
+            "tags": [],
+            "classTitle": "Oven",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        268
+                    ],
+                    [
+                        986,
+                        795
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490234026,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T17:25:07.318Z",
+            "updatedAt": "2020-07-22T17:25:07.318Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        1
+                    ],
+                    [
+                        390,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

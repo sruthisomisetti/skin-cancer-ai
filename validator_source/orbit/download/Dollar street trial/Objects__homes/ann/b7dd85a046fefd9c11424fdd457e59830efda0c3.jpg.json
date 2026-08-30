@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278864256,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:07:12.238Z",
+            "updatedAt": "2019-10-09T11:07:50.555Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        277
+                    ],
+                    [
+                        356,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278864270,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:07:31.713Z",
+            "updatedAt": "2019-10-09T11:07:50.555Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        16
+                    ],
+                    [
+                        994,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278864285,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:07:50.251Z",
+            "updatedAt": "2019-10-09T11:07:50.251Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        574
+                    ],
+                    [
+                        384,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

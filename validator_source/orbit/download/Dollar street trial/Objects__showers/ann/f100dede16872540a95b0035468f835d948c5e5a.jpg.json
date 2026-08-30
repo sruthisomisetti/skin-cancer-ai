@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1530,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490988943,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:19:10.181Z",
+            "updatedAt": "2020-07-27T00:19:24.348Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        804,
+                        159
+                    ],
+                    [
+                        976,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490988945,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T00:19:24.103Z",
+            "updatedAt": "2020-07-27T00:19:24.103Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        1160
+                    ],
+                    [
+                        360,
+                        1244
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

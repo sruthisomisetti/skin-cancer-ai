@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282443057,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T20:06:53.988Z",
+            "updatedAt": "2020-07-28T12:43:16.811Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        456
+                    ],
+                    [
+                        582,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491667119,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:42:48.157Z",
+            "updatedAt": "2020-07-28T12:43:16.811Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        716,
+                        47
+                    ],
+                    [
+                        819,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491776761,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:43:16.609Z",
+            "updatedAt": "2020-07-28T12:43:16.609Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        132
+                    ],
+                    [
+                        690,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

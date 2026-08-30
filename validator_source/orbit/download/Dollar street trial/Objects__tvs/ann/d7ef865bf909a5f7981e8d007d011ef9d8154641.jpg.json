@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282065293,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:37:55.180Z",
+            "updatedAt": "2020-07-28T13:00:35.307Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        103
+                    ],
+                    [
+                        715,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282065300,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:38:07.205Z",
+            "updatedAt": "2020-07-28T13:00:35.307Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        61
+                    ],
+                    [
+                        197,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867644,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:59:55.669Z",
+            "updatedAt": "2020-07-28T13:00:35.307Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        328
+                    ],
+                    [
+                        318,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867660,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:00:35.028Z",
+            "updatedAt": "2020-07-28T13:00:35.028Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        812,
+                        247
+                    ],
+                    [
+                        1024,
+                        679
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

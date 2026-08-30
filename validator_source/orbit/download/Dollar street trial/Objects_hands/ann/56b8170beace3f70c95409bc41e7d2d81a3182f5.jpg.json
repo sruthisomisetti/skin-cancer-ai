@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 271941591,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:26:11.641Z",
+            "updatedAt": "2019-10-01T14:26:11.641Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        671,
+                        44
+                    ],
+                    [
+                        1035,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271941592,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:26:11.641Z",
+            "updatedAt": "2019-10-01T14:26:11.641Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        76
+                    ],
+                    [
+                        664,
+                        864
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

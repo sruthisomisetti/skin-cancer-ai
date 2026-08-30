@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 575,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278309274,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:52:04.194Z",
+            "updatedAt": "2019-10-08T18:57:13.417Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        157
+                    ],
+                    [
+                        700,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309926,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:52:51.002Z",
+            "updatedAt": "2019-10-08T18:57:13.417Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        355
+                    ],
+                    [
+                        360,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309952,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:53:26.560Z",
+            "updatedAt": "2019-10-08T18:57:13.417Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        254
+                    ],
+                    [
+                        758,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310093,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:56:50.979Z",
+            "updatedAt": "2019-10-08T18:57:13.417Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        337
+                    ],
+                    [
+                        290,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

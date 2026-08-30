@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1820,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282606770,
+            "classId": 714964,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia6",
+            "createdAt": "2019-10-14T21:19:25.765Z",
+            "updatedAt": "2020-08-05T13:52:21.471Z",
+            "tags": [],
+            "classTitle": "Music equipment",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        232
+                    ],
+                    [
+                        901,
+                        1476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496844828,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T13:52:06.660Z",
+            "updatedAt": "2020-08-05T13:52:21.471Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        293
+                    ],
+                    [
+                        840,
+                        446
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496844834,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T13:52:21.239Z",
+            "updatedAt": "2020-08-05T13:52:21.239Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        868,
+                        265
+                    ],
+                    [
+                        965,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

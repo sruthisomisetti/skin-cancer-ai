@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278187577,
+            "classId": 714905,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-08T16:44:41.586Z",
+            "updatedAt": "2020-07-25T16:29:11.480Z",
+            "tags": [],
+            "classTitle": "Soap",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        310
+                    ],
+                    [
+                        920,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278952490,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia8",
+            "createdAt": "2019-10-09T11:35:08.070Z",
+            "updatedAt": "2020-07-25T16:29:11.480Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        41
+                    ],
+                    [
+                        1023,
+                        930
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490937423,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T16:29:11.260Z",
+            "updatedAt": "2020-07-25T16:29:11.260Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        920,
+                        415
+                    ],
+                    [
+                        1151,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

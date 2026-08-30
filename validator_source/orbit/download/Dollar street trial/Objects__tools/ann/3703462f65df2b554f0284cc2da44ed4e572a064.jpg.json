@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282424612,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T17:07:36.243Z",
+            "updatedAt": "2019-10-14T17:10:46.831Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        0
+                    ],
+                    [
+                        734,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282424626,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T17:08:22.925Z",
+            "updatedAt": "2019-10-14T17:09:53.295Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        0
+                    ],
+                    [
+                        989,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282424644,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-14T17:09:53.058Z",
+            "updatedAt": "2019-10-14T17:10:03.198Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        690,
+                        264
+                    ],
+                    [
+                        925,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

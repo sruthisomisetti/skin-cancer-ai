@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282245986,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:42:38.231Z",
+            "updatedAt": "2020-08-05T10:59:12.585Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        224
+                    ],
+                    [
+                        780,
+                        935
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282245992,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:42:42.783Z",
+            "updatedAt": "2020-08-05T10:59:12.585Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        862,
+                        386
+                    ],
+                    [
+                        1355,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496751946,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T10:59:12.361Z",
+            "updatedAt": "2020-08-05T10:59:12.361Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        970,
+                        518
+                    ],
+                    [
+                        1363,
+                        776
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

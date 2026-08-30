@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279858646,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T16:38:29.546Z",
+            "updatedAt": "2020-07-23T12:03:10.949Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        522,
+                        212
+                    ],
+                    [
+                        656,
+                        480
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279858685,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-10T16:38:46.993Z",
+            "updatedAt": "2020-07-23T12:03:10.949Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        458
+                    ],
+                    [
+                        1011,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490568894,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T12:03:10.712Z",
+            "updatedAt": "2020-07-23T12:03:14.253Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        368
+                    ],
+                    [
+                        201,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

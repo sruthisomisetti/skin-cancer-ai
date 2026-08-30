@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1563
+    },
+    "objects": [
+        {
+            "id": 490940103,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:50:32.633Z",
+            "updatedAt": "2020-07-25T19:50:46.987Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        164
+                    ],
+                    [
+                        980,
+                        867
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490940115,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T19:50:46.813Z",
+            "updatedAt": "2020-07-25T19:50:46.813Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        803,
+                        164
+                    ],
+                    [
+                        1211,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

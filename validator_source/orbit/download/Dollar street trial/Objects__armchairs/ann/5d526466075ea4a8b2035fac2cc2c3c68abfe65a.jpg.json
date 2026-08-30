@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278861602,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T10:45:22.213Z",
+            "updatedAt": "2020-08-03T15:45:30.854Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        42
+                    ],
+                    [
+                        417,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496301626,
+            "classId": 780362,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T15:45:30.631Z",
+            "updatedAt": "2020-08-03T15:45:30.631Z",
+            "tags": [],
+            "classTitle": "Rug",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        363
+                    ],
+                    [
+                        1023,
+                        1269
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

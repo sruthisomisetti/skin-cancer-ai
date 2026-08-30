@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278297338,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:29:06.473Z",
+            "updatedAt": "2020-07-27T12:40:52.073Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        647
+                    ],
+                    [
+                        919,
+                        905
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278860169,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T10:32:34.876Z",
+            "updatedAt": "2020-07-27T12:40:52.073Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1035,
+                        654
+                    ],
+                    [
+                        1123,
+                        740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491172295,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T12:40:51.400Z",
+            "updatedAt": "2020-07-27T12:40:54.401Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        735,
+                        435
+                    ],
+                    [
+                        803,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

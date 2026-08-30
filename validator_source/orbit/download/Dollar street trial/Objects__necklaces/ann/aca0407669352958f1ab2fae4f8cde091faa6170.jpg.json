@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 490553643,
+            "classId": 1625769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-23T10:11:04.588Z",
+            "updatedAt": "2020-08-05T18:34:49.820Z",
+            "tags": [],
+            "classTitle": "Necklace",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        5
+                    ],
+                    [
+                        1382,
+                        919
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951024,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T18:34:49.613Z",
+            "updatedAt": "2020-08-05T18:34:49.613Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        1
+                    ],
+                    [
+                        996,
+                        871
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

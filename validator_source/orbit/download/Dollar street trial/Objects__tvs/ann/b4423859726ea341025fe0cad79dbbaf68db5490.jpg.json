@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064929,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T19:22:13.508Z",
+            "updatedAt": "2020-07-28T12:46:05.341Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        126
+                    ],
+                    [
+                        942,
+                        795
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867028,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T12:46:05.115Z",
+            "updatedAt": "2020-07-28T12:46:05.115Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        181
+                    ],
+                    [
+                        84,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

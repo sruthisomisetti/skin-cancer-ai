@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282251022,
+            "classId": 714910,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-14T12:35:09.648Z",
+            "updatedAt": "2020-07-26T09:08:52.102Z",
+            "tags": [],
+            "classTitle": "Spices",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        404
+                    ],
+                    [
+                        897,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960117,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:08:32.798Z",
+            "updatedAt": "2020-07-26T09:08:52.102Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        624,
+                        86
+                    ],
+                    [
+                        925,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490960118,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T09:08:51.881Z",
+            "updatedAt": "2020-07-26T09:08:51.881Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        985,
+                        713
+                    ],
+                    [
+                        1364,
+                        906
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

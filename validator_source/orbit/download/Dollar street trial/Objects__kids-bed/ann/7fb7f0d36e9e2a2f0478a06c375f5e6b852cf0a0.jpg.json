@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279520519,
+            "classId": 714931,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-10T07:12:21.851Z",
+            "updatedAt": "2020-07-20T09:22:41.113Z",
+            "tags": [],
+            "classTitle": "Kids bed",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        297
+                    ],
+                    [
+                        571,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282955974,
+            "classId": 714931,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T13:25:32.790Z",
+            "updatedAt": "2020-07-20T09:22:21.824Z",
+            "tags": [],
+            "classTitle": "Kids bed",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        0
+                    ],
+                    [
+                        664,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488497120,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T09:21:49.499Z",
+            "updatedAt": "2020-07-20T09:22:21.824Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        645,
+                        31
+                    ],
+                    [
+                        841,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488497130,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T09:22:04.363Z",
+            "updatedAt": "2020-07-20T09:22:21.824Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        803,
+                        377
+                    ],
+                    [
+                        873,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488497150,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T09:22:21.576Z",
+            "updatedAt": "2020-07-20T09:22:21.576Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        651,
+                        245
+                    ],
+                    [
+                        752,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 271941331,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:26:10.651Z",
+            "updatedAt": "2020-07-30T11:33:11.055Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        130
+                    ],
+                    [
+                        458,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 271941332,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:26:10.651Z",
+            "updatedAt": "2020-07-30T11:33:11.055Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        430,
+                        193
+                    ],
+                    [
+                        826,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494565858,
+            "classId": 714963,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-30T11:33:10.812Z",
+            "updatedAt": "2020-07-30T11:33:10.812Z",
+            "tags": [],
+            "classTitle": "Jewelry",
+            "points": {
+                "exterior": [
+                    [
+                        568,
+                        156
+                    ],
+                    [
+                        758,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

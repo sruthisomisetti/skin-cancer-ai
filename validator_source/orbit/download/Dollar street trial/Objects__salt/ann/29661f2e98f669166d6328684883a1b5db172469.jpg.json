@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278945784,
+            "classId": 714921,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "removed-18369",
+            "createdAt": "2019-10-09T11:16:43.780Z",
+            "updatedAt": "2020-07-25T10:54:37.193Z",
+            "tags": [],
+            "classTitle": "Salt",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        662
+                    ],
+                    [
+                        658,
+                        1146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935690,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:54:25.515Z",
+            "updatedAt": "2020-07-25T10:54:37.193Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        345
+                    ],
+                    [
+                        682,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490935691,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T10:54:37.003Z",
+            "updatedAt": "2020-07-25T10:54:37.003Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        416
+                    ],
+                    [
+                        403,
+                        847
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282249884,
+            "classId": 714982,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T12:15:35.392Z",
+            "updatedAt": "2020-07-22T21:03:06.373Z",
+            "tags": [],
+            "classTitle": "Pet food",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        336
+                    ],
+                    [
+                        724,
+                        601
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490307941,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-22T21:03:05.927Z",
+            "updatedAt": "2020-07-22T21:03:29.704Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        928,
+                        301
+                    ],
+                    [
+                        1000,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

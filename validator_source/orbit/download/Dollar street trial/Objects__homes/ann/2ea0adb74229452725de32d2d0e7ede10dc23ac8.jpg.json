@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278307764,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:38:45.362Z",
+            "updatedAt": "2020-07-19T21:17:38.501Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        180
+                    ],
+                    [
+                        768,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278307854,
+            "classId": 714901,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:40:36.464Z",
+            "updatedAt": "2020-07-19T21:17:21.472Z",
+            "tags": [],
+            "classTitle": "Stove",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        414
+                    ],
+                    [
+                        462,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278307872,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:40:58.932Z",
+            "updatedAt": "2020-07-19T21:17:21.472Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        737,
+                        445
+                    ],
+                    [
+                        950,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430335,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:17:21.198Z",
+            "updatedAt": "2020-07-19T21:17:21.198Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        174
+                    ],
+                    [
+                        767,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

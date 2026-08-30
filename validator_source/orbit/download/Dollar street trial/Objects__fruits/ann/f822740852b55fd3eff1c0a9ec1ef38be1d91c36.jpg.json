@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1371
+    },
+    "objects": [
+        {
+            "id": 282246356,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:49:50.944Z",
+            "updatedAt": "2020-08-05T11:41:49.012Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        423
+                    ],
+                    [
+                        600,
+                        753
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282246361,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:49:54.702Z",
+            "updatedAt": "2020-08-05T11:41:49.012Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        633,
+                        368
+                    ],
+                    [
+                        1181,
+                        728
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496755445,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T11:41:48.811Z",
+            "updatedAt": "2020-08-05T11:41:48.811Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        1042,
+                        220
+                    ],
+                    [
+                        1337,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

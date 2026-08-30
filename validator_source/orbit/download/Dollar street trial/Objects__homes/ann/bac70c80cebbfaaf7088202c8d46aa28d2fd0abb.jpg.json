@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 278865466,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:13:23.100Z",
+            "updatedAt": "2019-10-09T11:14:49.185Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        760
+                    ],
+                    [
+                        330,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278865505,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:14:05.452Z",
+            "updatedAt": "2020-07-19T23:44:29.737Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        9
+                    ],
+                    [
+                        1665,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278879180,
+            "classId": 714951,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:14:28.879Z",
+            "updatedAt": "2019-10-09T11:14:49.185Z",
+            "tags": [],
+            "classTitle": "Tools",
+            "points": {
+                "exterior": [
+                    [
+                        634,
+                        719
+                    ],
+                    [
+                        846,
+                        891
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

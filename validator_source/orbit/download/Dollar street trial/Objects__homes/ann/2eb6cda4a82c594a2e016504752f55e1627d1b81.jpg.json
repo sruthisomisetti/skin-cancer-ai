@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278309032,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:45:48.046Z",
+            "updatedAt": "2019-10-08T18:50:51.531Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        346
+                    ],
+                    [
+                        985,
+                        742
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309043,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:46:09.109Z",
+            "updatedAt": "2019-10-08T18:50:51.531Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        769
+                    ],
+                    [
+                        354,
+                        844
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309165,
+            "classId": 714928,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:49:17.137Z",
+            "updatedAt": "2019-10-08T18:50:51.531Z",
+            "tags": [],
+            "classTitle": "Roof",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        352
+                    ],
+                    [
+                        952,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278309225,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T18:50:51.269Z",
+            "updatedAt": "2019-10-08T18:50:51.269Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        813
+                    ],
+                    [
+                        116,
+                        945
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

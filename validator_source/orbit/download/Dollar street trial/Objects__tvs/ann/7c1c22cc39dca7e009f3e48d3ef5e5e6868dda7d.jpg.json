@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282063159,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:33:25.794Z",
+            "updatedAt": "2020-07-28T12:31:24.239Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        256
+                    ],
+                    [
+                        1196,
+                        717
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282063164,
+            "classId": 714971,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia3",
+            "createdAt": "2019-10-13T18:33:57.221Z",
+            "updatedAt": "2020-07-28T12:31:13.895Z",
+            "tags": [],
+            "classTitle": "Family snapshot",
+            "points": {
+                "exterior": [
+                    [
+                        1192,
+                        563
+                    ],
+                    [
+                        1483,
+                        747
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

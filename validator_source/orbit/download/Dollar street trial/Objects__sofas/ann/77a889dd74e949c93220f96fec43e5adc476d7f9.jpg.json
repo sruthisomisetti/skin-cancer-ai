@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 281950977,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T14:32:32.233Z",
+            "updatedAt": "2020-07-25T22:10:25.448Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        278
+                    ],
+                    [
+                        1064,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941885,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:10:15.001Z",
+            "updatedAt": "2020-07-25T22:10:25.448Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        622,
+                        659
+                    ],
+                    [
+                        662,
+                        709
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490941886,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T22:10:25.231Z",
+            "updatedAt": "2020-07-25T22:10:25.231Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        351
+                    ],
+                    [
+                        407,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

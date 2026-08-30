@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064886,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:18:34.151Z",
+            "updatedAt": "2020-08-04T10:54:54.790Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        202
+                    ],
+                    [
+                        911,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064889,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-13T19:18:46.906Z",
+            "updatedAt": "2020-08-04T10:54:54.790Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        232
+                    ],
+                    [
+                        768,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496554426,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T10:54:54.590Z",
+            "updatedAt": "2020-08-04T10:54:54.590Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        283
+                    ],
+                    [
+                        306,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

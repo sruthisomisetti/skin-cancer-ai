@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 278950001,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:29:19.855Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        744
+                    ],
+                    [
+                        326,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278950030,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia19",
+            "createdAt": "2019-10-09T11:29:24.837Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        510
+                    ],
+                    [
+                        1270,
+                        887
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481513377,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T13:47:08.481Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        527
+                    ],
+                    [
+                        605,
+                        725
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481513414,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-07T13:47:26.614Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        1165,
+                        682
+                    ],
+                    [
+                        1511,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496307824,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:27:54.601Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        479
+                    ],
+                    [
+                        326,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496307828,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:28:09.148Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        473
+                    ],
+                    [
+                        512,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496307832,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:28:23.922Z",
+            "updatedAt": "2020-08-03T16:28:41.718Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        554
+                    ],
+                    [
+                        400,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496307839,
+            "classId": 714936,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T16:28:41.425Z",
+            "updatedAt": "2020-08-03T16:28:41.425Z",
+            "tags": [],
+            "classTitle": "Toy",
+            "points": {
+                "exterior": [
+                    [
+                        757,
+                        668
+                    ],
+                    [
+                        912,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

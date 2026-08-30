@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282055530,
+            "classId": 714983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T17:48:01.442Z",
+            "updatedAt": "2020-07-16T21:17:01.524Z",
+            "tags": [],
+            "classTitle": "Dishwasher",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        36
+                    ],
+                    [
+                        818,
+                        666
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487777759,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T21:17:01.174Z",
+            "updatedAt": "2020-07-16T21:17:01.174Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        388
+                    ],
+                    [
+                        188,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

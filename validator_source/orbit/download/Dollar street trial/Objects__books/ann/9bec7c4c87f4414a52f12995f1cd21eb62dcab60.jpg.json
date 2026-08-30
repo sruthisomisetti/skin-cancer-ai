@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282054984,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:23:02.687Z",
+            "updatedAt": "2020-08-04T12:37:22.915Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        146
+                    ],
+                    [
+                        1391,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282054988,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T17:23:12.435Z",
+            "updatedAt": "2020-08-04T12:37:22.915Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        639
+                    ],
+                    [
+                        1369,
+                        1011
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496557533,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-04T12:37:22.657Z",
+            "updatedAt": "2020-08-04T12:37:22.657Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        881,
+                        718
+                    ],
+                    [
+                        1046,
+                        821
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

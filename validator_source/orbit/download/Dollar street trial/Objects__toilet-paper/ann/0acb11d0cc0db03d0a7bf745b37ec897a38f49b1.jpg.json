@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279643341,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T13:16:46.615Z",
+            "updatedAt": "2020-07-27T08:11:58.295Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        120
+                    ],
+                    [
+                        1199,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 279643416,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia11",
+            "createdAt": "2019-10-10T13:17:28.465Z",
+            "updatedAt": "2020-07-27T08:11:58.295Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        199
+                    ],
+                    [
+                        371,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491058869,
+            "classId": 714975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-27T08:11:58.070Z",
+            "updatedAt": "2020-07-27T08:11:58.070Z",
+            "tags": [],
+            "classTitle": "Make up",
+            "points": {
+                "exterior": [
+                    [
+                        473,
+                        488
+                    ],
+                    [
+                        541,
+                        698
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

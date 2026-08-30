@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278953809,
+            "classId": 714908,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:56:00.190Z",
+            "updatedAt": "2020-08-07T18:57:36.569Z",
+            "tags": [],
+            "classTitle": "Dish rack",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        210
+                    ],
+                    [
+                        1188,
+                        941
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278953817,
+            "classId": 714920,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia12",
+            "createdAt": "2019-10-09T11:56:12.967Z",
+            "updatedAt": "2020-08-07T18:57:36.569Z",
+            "tags": [],
+            "classTitle": "Plate",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        16
+                    ],
+                    [
+                        993,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497990922,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:57:11.101Z",
+            "updatedAt": "2020-08-07T18:57:36.569Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        550
+                    ],
+                    [
+                        967,
+                        825
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 497991077,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-07T18:57:36.389Z",
+            "updatedAt": "2020-08-07T18:57:36.389Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        427
+                    ],
+                    [
+                        257,
+                        531
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282961244,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:26:52.880Z",
+            "updatedAt": "2020-07-16T12:25:02.244Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        166
+                    ],
+                    [
+                        636,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282961245,
+            "classId": 714930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T15:26:56.072Z",
+            "updatedAt": "2020-07-16T12:25:02.244Z",
+            "tags": [],
+            "classTitle": "Cutlery",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        360
+                    ],
+                    [
+                        703,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487722161,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-16T12:25:02.063Z",
+            "updatedAt": "2020-07-16T12:25:02.063Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        11
+                    ],
+                    [
+                        1021,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

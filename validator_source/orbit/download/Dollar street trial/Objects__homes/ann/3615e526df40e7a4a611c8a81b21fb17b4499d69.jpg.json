@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278310872,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:11:14.633Z",
+            "updatedAt": "2020-07-19T21:21:20.526Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        3
+                    ],
+                    [
+                        832,
+                        576
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278310916,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:12:00.246Z",
+            "updatedAt": "2020-07-19T21:21:41.020Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        433
+                    ],
+                    [
+                        558,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278311000,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-08T19:13:36.089Z",
+            "updatedAt": "2020-07-19T21:21:20.526Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        285
+                    ],
+                    [
+                        373,
+                        558
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488430351,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T21:21:20.349Z",
+            "updatedAt": "2020-07-19T21:21:20.349Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        426
+                    ],
+                    [
+                        305,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

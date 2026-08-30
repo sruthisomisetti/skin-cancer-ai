@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 488820185,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:53:49.671Z",
+            "updatedAt": "2020-07-20T19:54:06.391Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        45
+                    ],
+                    [
+                        1647,
+                        852
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488820189,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T19:54:06.179Z",
+            "updatedAt": "2020-07-20T19:54:06.179Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        1622,
+                        621
+                    ],
+                    [
+                        1820,
+                        802
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

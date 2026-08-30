@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490942060,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:47:13.511Z",
+            "updatedAt": "2020-07-25T23:48:07.128Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        270
+                    ],
+                    [
+                        755,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942061,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:47:24.031Z",
+            "updatedAt": "2020-07-25T23:48:07.128Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        866,
+                        491
+                    ],
+                    [
+                        977,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942062,
+            "classId": 714944,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:47:38.184Z",
+            "updatedAt": "2020-07-25T23:48:07.128Z",
+            "tags": [],
+            "classTitle": "TV",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        118
+                    ],
+                    [
+                        153,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942063,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:47:54.047Z",
+            "updatedAt": "2020-07-25T23:48:07.128Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        222
+                    ],
+                    [
+                        290,
+                        467
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490942064,
+            "classId": 714967,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T23:48:06.896Z",
+            "updatedAt": "2020-07-25T23:48:06.896Z",
+            "tags": [],
+            "classTitle": "Radio",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        281
+                    ],
+                    [
+                        155,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

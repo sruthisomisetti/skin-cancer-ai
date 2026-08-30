@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1537
+    },
+    "objects": [
+        {
+            "id": 279197010,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T17:01:37.235Z",
+            "updatedAt": "2020-08-03T20:39:42.893Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        69,
+                        237
+                    ],
+                    [
+                        1423,
+                        938
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316836,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:39:21.028Z",
+            "updatedAt": "2020-08-03T20:39:42.893Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        174
+                    ],
+                    [
+                        431,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496316841,
+            "classId": 714932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T20:39:42.699Z",
+            "updatedAt": "2020-08-03T20:39:42.699Z",
+            "tags": [],
+            "classTitle": "Sofa",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        305
+                    ],
+                    [
+                        227,
+                        738
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

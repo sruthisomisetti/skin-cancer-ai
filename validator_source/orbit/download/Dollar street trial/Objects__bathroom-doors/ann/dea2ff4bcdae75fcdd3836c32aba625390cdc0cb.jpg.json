@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279851488,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T15:11:19.417Z",
+            "updatedAt": "2020-07-08T12:47:08.024Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        41
+                    ],
+                    [
+                        712,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481953218,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:46:31.525Z",
+            "updatedAt": "2020-07-08T12:47:08.024Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        913,
+                        645
+                    ],
+                    [
+                        1024,
+                        789
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481953271,
+            "classId": 714939,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:46:49.666Z",
+            "updatedAt": "2020-07-08T12:47:08.024Z",
+            "tags": [],
+            "classTitle": "Cooking utensils",
+            "points": {
+                "exterior": [
+                    [
+                        715,
+                        457
+                    ],
+                    [
+                        1024,
+                        711
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481953334,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T12:47:07.907Z",
+            "updatedAt": "2020-07-08T12:47:21.684Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        385
+                    ],
+                    [
+                        272,
+                        424
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489174971,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T12:46:21.412Z",
+            "updatedAt": "2020-07-21T12:46:38.714Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        1
+                    ],
+                    [
+                        754,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489174982,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T12:46:38.526Z",
+            "updatedAt": "2020-07-21T12:46:38.526Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        749,
+                        121
+                    ],
+                    [
+                        1020,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

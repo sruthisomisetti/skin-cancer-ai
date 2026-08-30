@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 721,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282053102,
+            "classId": 714981,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T16:20:09.983Z",
+            "updatedAt": "2020-07-18T20:56:15.442Z",
+            "tags": [],
+            "classTitle": "Instrument",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        152
+                    ],
+                    [
+                        840,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488338541,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T20:56:15.146Z",
+            "updatedAt": "2020-07-18T20:56:15.146Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        439
+                    ],
+                    [
+                        620,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

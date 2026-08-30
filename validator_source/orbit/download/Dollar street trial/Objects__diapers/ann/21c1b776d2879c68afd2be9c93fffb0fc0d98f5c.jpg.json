@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282049657,
+            "classId": 714977,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T14:37:07.117Z",
+            "updatedAt": "2019-10-13T14:37:22.071Z",
+            "tags": [],
+            "classTitle": "Diaper",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        238
+                    ],
+                    [
+                        428,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282049662,
+            "classId": 714977,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-13T14:37:21.839Z",
+            "updatedAt": "2019-10-13T14:37:38.363Z",
+            "tags": [],
+            "classTitle": "Diaper",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        291
+                    ],
+                    [
+                        318,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282440273,
+            "classId": 714960,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:20:50.498Z",
+            "updatedAt": "2020-07-28T15:00:14.611Z",
+            "tags": [],
+            "classTitle": "Wall clock",
+            "points": {
+                "exterior": [
+                    [
+                        642,
+                        228
+                    ],
+                    [
+                        873,
+                        464
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282440291,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-14T19:21:32.403Z",
+            "updatedAt": "2020-07-28T15:00:14.611Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        893,
+                        389
+                    ],
+                    [
+                        1024,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491889409,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T14:59:44.429Z",
+            "updatedAt": "2020-07-28T15:00:14.611Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        419
+                    ],
+                    [
+                        587,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491889421,
+            "classId": 715018,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T15:00:14.404Z",
+            "updatedAt": "2020-07-28T15:00:14.404Z",
+            "tags": [],
+            "classTitle": "Light sources in living room",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        203
+                    ],
+                    [
+                        598,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

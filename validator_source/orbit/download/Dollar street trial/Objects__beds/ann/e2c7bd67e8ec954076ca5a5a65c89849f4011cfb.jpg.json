@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 279309484,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia2",
+            "createdAt": "2019-10-09T18:28:16.809Z",
+            "updatedAt": "2020-07-13T13:46:07.028Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        233
+                    ],
+                    [
+                        1464,
+                        1020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486105593,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:43:52.992Z",
+            "updatedAt": "2020-07-13T13:46:07.028Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        1260,
+                        231
+                    ],
+                    [
+                        1300,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486105608,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:44:07.852Z",
+            "updatedAt": "2020-07-13T13:46:07.028Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        146
+                    ],
+                    [
+                        576,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486106816,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:44:24.123Z",
+            "updatedAt": "2020-07-13T13:46:07.028Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        576,
+                        151
+                    ],
+                    [
+                        614,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486106821,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:44:31.728Z",
+            "updatedAt": "2020-07-13T13:46:07.028Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        1296,
+                        240
+                    ],
+                    [
+                        1339,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486106880,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T13:46:06.903Z",
+            "updatedAt": "2020-07-13T13:46:13.854Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        1211,
+                        528
+                    ],
+                    [
+                        1536,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

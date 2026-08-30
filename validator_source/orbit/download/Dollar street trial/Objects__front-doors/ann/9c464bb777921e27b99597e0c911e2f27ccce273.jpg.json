@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279186269,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-09T16:20:42.357Z",
+            "updatedAt": "2020-07-18T14:47:30.362Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        215
+                    ],
+                    [
+                        542,
+                        841
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322317,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:47:25.896Z",
+            "updatedAt": "2020-07-18T14:47:30.362Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        572
+                    ],
+                    [
+                        383,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488322318,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T14:47:30.131Z",
+            "updatedAt": "2020-07-18T14:47:30.131Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        549
+                    ],
+                    [
+                        430,
+                        578
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

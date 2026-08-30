@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282064184,
+            "classId": 714978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-13T18:43:36.746Z",
+            "updatedAt": "2019-10-13T18:44:06.626Z",
+            "tags": [],
+            "classTitle": "Motorcycle",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        396
+                    ],
+                    [
+                        966,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282064193,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-13T18:44:06.281Z",
+            "updatedAt": "2019-10-13T18:44:06.281Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        69,
+                        149
+                    ],
+                    [
+                        852,
+                        487
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

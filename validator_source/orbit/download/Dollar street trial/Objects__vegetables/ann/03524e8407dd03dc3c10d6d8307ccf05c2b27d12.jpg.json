@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282041624,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia4",
+            "createdAt": "2019-10-13T09:17:05.896Z",
+            "updatedAt": "2020-07-28T13:11:42.634Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        692,
+                        399
+                    ],
+                    [
+                        846,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867904,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:11:37.907Z",
+            "updatedAt": "2020-07-28T13:11:42.634Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        407
+                    ],
+                    [
+                        445,
+                        734
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 491867907,
+            "classId": 714922,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-28T13:11:42.430Z",
+            "updatedAt": "2020-07-28T13:11:42.430Z",
+            "tags": [],
+            "classTitle": "Grains",
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        353
+                    ],
+                    [
+                        881,
+                        658
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

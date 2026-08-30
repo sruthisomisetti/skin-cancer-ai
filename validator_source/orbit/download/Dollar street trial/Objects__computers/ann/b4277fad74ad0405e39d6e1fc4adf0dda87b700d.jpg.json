@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1820
+    },
+    "objects": [
+        {
+            "id": 282368135,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:26:37.158Z",
+            "updatedAt": "2020-07-15T15:27:40.065Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        4
+                    ],
+                    [
+                        1445,
+                        1019
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487419258,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:27:23.970Z",
+            "updatedAt": "2020-07-15T15:27:28.777Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        744
+                    ],
+                    [
+                        1120,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

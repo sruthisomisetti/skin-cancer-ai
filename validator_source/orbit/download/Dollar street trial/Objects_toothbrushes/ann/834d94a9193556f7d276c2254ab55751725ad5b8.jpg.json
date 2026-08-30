@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 271941060,
+            "classId": 714867,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "humanintheloop",
+            "createdAt": "2019-10-01T14:25:53.111Z",
+            "updatedAt": "2020-07-31T18:25:37.351Z",
+            "tags": [],
+            "classTitle": "Toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        54
+                    ],
+                    [
+                        911,
+                        931
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495289858,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:25:14.124Z",
+            "updatedAt": "2020-07-31T18:25:37.351Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        621
+                    ],
+                    [
+                        594,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495289860,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:25:20.316Z",
+            "updatedAt": "2020-07-31T18:25:37.351Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        442
+                    ],
+                    [
+                        157,
+                        543
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 495289865,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-31T18:25:37.163Z",
+            "updatedAt": "2020-07-31T18:25:37.163Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        820,
+                        861
+                    ],
+                    [
+                        1085,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

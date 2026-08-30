@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1534
+    },
+    "objects": [
+        {
+            "id": 278297498,
+            "classId": 714918,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia17",
+            "createdAt": "2019-10-08T18:32:52.374Z",
+            "updatedAt": "2020-07-27T12:48:13.626Z",
+            "tags": [],
+            "classTitle": "Toilet",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        767
+                    ],
+                    [
+                        814,
+                        876
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278860351,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-09T10:38:03.268Z",
+            "updatedAt": "2020-07-27T12:48:27.300Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        702
+                    ],
+                    [
+                        516,
+                        828
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

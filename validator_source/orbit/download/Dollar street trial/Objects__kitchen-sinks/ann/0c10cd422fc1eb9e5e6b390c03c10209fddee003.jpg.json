@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281885304,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:18:45.740Z",
+            "updatedAt": "2020-07-20T12:00:23.028Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        486
+                    ],
+                    [
+                        1021,
+                        837
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281885309,
+            "classId": 714987,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:19:29.597Z",
+            "updatedAt": "2020-07-20T12:00:23.028Z",
+            "tags": [],
+            "classTitle": "Bowl",
+            "points": {
+                "exterior": [
+                    [
+                        470,
+                        377
+                    ],
+                    [
+                        761,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 281885316,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-12T07:19:52.885Z",
+            "updatedAt": "2020-07-20T12:00:23.028Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        412,
+                        105
+                    ],
+                    [
+                        631,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488549744,
+            "classId": 714913,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T12:00:22.804Z",
+            "updatedAt": "2020-07-20T12:00:26.487Z",
+            "tags": [],
+            "classTitle": "Dish brush",
+            "points": {
+                "exterior": [
+                    [
+                        887,
+                        585
+                    ],
+                    [
+                        1020,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

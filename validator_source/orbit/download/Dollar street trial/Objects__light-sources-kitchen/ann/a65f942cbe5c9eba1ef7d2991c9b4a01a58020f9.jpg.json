@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 489304023,
+            "classId": 715034,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:35:48.150Z",
+            "updatedAt": "2020-07-21T14:36:09.045Z",
+            "tags": [],
+            "classTitle": "Light sources",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        378
+                    ],
+                    [
+                        863,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489304037,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:36:04.638Z",
+            "updatedAt": "2020-07-21T14:36:09.045Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        690,
+                        278
+                    ],
+                    [
+                        750,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 489304040,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-21T14:36:08.829Z",
+            "updatedAt": "2020-07-21T14:36:08.829Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        195
+                    ],
+                    [
+                        249,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

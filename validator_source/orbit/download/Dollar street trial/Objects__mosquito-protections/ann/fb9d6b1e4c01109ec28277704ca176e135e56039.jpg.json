@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282038594,
+            "classId": 714965,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia13",
+            "createdAt": "2019-10-13T06:12:13.955Z",
+            "updatedAt": "2019-10-13T08:19:57.864Z",
+            "tags": [],
+            "classTitle": "Mosquito protections",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        339
+                    ],
+                    [
+                        639,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282041064,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T08:19:57.675Z",
+            "updatedAt": "2019-10-13T08:20:05.006Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        242
+                    ],
+                    [
+                        653,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

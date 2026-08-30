@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 488432326,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:49:18.724Z",
+            "updatedAt": "2020-07-19T23:49:51.562Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        1022,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432328,
+            "classId": 714979,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:49:37.264Z",
+            "updatedAt": "2020-07-19T23:49:51.562Z",
+            "tags": [],
+            "classTitle": "Chicken",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        644
+                    ],
+                    [
+                        313,
+                        925
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488432329,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-19T23:49:51.325Z",
+            "updatedAt": "2020-07-19T23:49:51.325Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        326
+                    ],
+                    [
+                        798,
+                        708
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

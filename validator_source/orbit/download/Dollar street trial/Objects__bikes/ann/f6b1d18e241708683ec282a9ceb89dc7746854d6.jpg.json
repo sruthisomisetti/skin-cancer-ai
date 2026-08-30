@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282243644,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T09:54:30.364Z",
+            "updatedAt": "2020-07-13T21:12:33.522Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        40
+                    ],
+                    [
+                        1010,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 486154611,
+            "classId": 714914,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-13T21:12:33.343Z",
+            "updatedAt": "2020-07-13T21:12:37.516Z",
+            "tags": [],
+            "classTitle": "Armchair",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        34
+                    ],
+                    [
+                        963,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

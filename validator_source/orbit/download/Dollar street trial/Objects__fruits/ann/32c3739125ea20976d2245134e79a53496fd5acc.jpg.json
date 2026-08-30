@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282244702,
+            "classId": 714954,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-14T10:27:11.562Z",
+            "updatedAt": "2020-08-05T08:37:05.442Z",
+            "tags": [],
+            "classTitle": "Fruits",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        207
+                    ],
+                    [
+                        618,
+                        512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488331029,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:45:46.580Z",
+            "updatedAt": "2020-08-05T08:37:05.442Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        256
+                    ],
+                    [
+                        339,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488331033,
+            "classId": 714924,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:45:56.306Z",
+            "updatedAt": "2020-08-05T08:37:05.442Z",
+            "tags": [],
+            "classTitle": "Phone",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        58
+                    ],
+                    [
+                        664,
+                        157
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488331036,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-18T15:46:13.749Z",
+            "updatedAt": "2020-08-05T08:37:05.442Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        767,
+                        198
+                    ],
+                    [
+                        884,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496733171,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T08:37:05.120Z",
+            "updatedAt": "2020-08-05T08:37:05.120Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        746,
+                        317
+                    ],
+                    [
+                        1008,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

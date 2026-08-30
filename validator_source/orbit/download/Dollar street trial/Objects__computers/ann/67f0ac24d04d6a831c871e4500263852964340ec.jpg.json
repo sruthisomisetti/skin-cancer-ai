@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 282323281,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:13:10.825Z",
+            "updatedAt": "2020-07-15T15:01:29.768Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        226
+                    ],
+                    [
+                        791,
+                        972
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487405774,
+            "classId": 715041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:01:15.618Z",
+            "updatedAt": "2020-07-15T15:01:29.768Z",
+            "tags": [],
+            "classTitle": "Light sources by bed, reading light",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        240
+                    ],
+                    [
+                        381,
+                        498
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487406939,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:01:28.930Z",
+            "updatedAt": "2020-07-15T15:01:28.930Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        247
+                    ],
+                    [
+                        176,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

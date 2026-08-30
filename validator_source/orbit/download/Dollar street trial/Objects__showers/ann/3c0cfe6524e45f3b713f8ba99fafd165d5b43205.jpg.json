@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1533,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985044,
+            "classId": 714934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:16:12.164Z",
+            "updatedAt": "2020-07-26T22:16:52.588Z",
+            "tags": [],
+            "classTitle": "Toilet paper",
+            "points": {
+                "exterior": [
+                    [
+                        648,
+                        1135
+                    ],
+                    [
+                        767,
+                        1276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985046,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:16:26.496Z",
+            "updatedAt": "2020-07-26T22:16:52.588Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        603,
+                        186
+                    ],
+                    [
+                        786,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490985049,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:16:52.274Z",
+            "updatedAt": "2020-07-26T22:16:52.274Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        504
+                    ],
+                    [
+                        434,
+                        950
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278312350,
+            "classId": 714916,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia10",
+            "createdAt": "2019-10-08T19:36:14.512Z",
+            "updatedAt": "2020-07-20T11:53:24.408Z",
+            "tags": [],
+            "classTitle": "Kitchen sink",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        75
+                    ],
+                    [
+                        1365,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488549339,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T11:53:18.307Z",
+            "updatedAt": "2020-07-20T11:53:24.408Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        502
+                    ],
+                    [
+                        421,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 488549346,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-20T11:53:24.241Z",
+            "updatedAt": "2020-07-20T11:53:28.184Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        620,
+                        524
+                    ],
+                    [
+                        826,
+                        712
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

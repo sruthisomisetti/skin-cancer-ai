@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 278297475,
+            "classId": 714919,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia9",
+            "createdAt": "2019-10-08T18:32:09.708Z",
+            "updatedAt": "2020-08-06T20:55:23.700Z",
+            "tags": [],
+            "classTitle": "Dish washing soap",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        200
+                    ],
+                    [
+                        1035,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487890604,
+            "classId": 714871,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T14:18:48.815Z",
+            "updatedAt": "2020-07-17T14:19:06.131Z",
+            "tags": [],
+            "classTitle": "Hand",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        5
+                    ],
+                    [
+                        1109,
+                        773
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487890611,
+            "classId": 714876,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-17T14:19:05.872Z",
+            "updatedAt": "2020-07-17T14:19:05.872Z",
+            "tags": [],
+            "classTitle": "Shoe",
+            "points": {
+                "exterior": [
+                    [
+                        965,
+                        531
+                    ],
+                    [
+                        1093,
+                        729
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

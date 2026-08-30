@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 282054062,
+            "classId": 714937,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia15",
+            "createdAt": "2019-10-13T16:45:14.411Z",
+            "updatedAt": "2020-07-29T14:55:59.488Z",
+            "tags": [],
+            "classTitle": "Water outlet",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        290
+                    ],
+                    [
+                        1254,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 494225267,
+            "classId": 714949,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-29T14:55:59.305Z",
+            "updatedAt": "2020-07-29T14:55:59.305Z",
+            "tags": [],
+            "classTitle": "Cleaning equipment",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        710
+                    ],
+                    [
+                        827,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

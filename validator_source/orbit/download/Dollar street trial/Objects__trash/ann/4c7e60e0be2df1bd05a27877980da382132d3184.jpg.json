@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 281226980,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-11T17:30:51.262Z",
+            "updatedAt": "2019-10-13T04:31:37.851Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        583
+                    ],
+                    [
+                        636,
+                        974
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 282027769,
+            "classId": 714938,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup2",
+            "createdAt": "2019-10-13T04:31:37.688Z",
+            "updatedAt": "2019-10-13T04:31:37.688Z",
+            "tags": [],
+            "classTitle": "Trash",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        199
+                    ],
+                    [
+                        672,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

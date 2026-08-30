@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1440
+    },
+    "objects": [
+        {
+            "id": 282369030,
+            "classId": 714962,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia16",
+            "createdAt": "2019-10-14T14:28:47.099Z",
+            "updatedAt": "2020-07-15T15:31:46.414Z",
+            "tags": [],
+            "classTitle": "Computer",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        74
+                    ],
+                    [
+                        1313,
+                        950
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 487419432,
+            "classId": 714926,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-15T15:31:46.207Z",
+            "updatedAt": "2020-07-15T15:31:46.207Z",
+            "tags": [],
+            "classTitle": "Cup",
+            "points": {
+                "exterior": [
+                    [
+                        1313,
+                        255
+                    ],
+                    [
+                        1438,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

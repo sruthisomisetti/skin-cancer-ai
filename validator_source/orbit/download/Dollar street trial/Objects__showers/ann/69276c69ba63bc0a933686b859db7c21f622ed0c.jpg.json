@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490985175,
+            "classId": 1627513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-26T22:49:42.508Z",
+            "updatedAt": "2020-08-05T22:25:15.951Z",
+            "tags": [],
+            "classTitle": "Shower",
+            "points": {
+                "exterior": [
+                    [
+                        614,
+                        159
+                    ],
+                    [
+                        665,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496962516,
+            "classId": 714900,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T22:25:15.714Z",
+            "updatedAt": "2020-08-05T22:25:15.714Z",
+            "tags": [],
+            "classTitle": "Bed",
+            "points": {
+                "exterior": [
+                    [
+                        776,
+                        432
+                    ],
+                    [
+                        1024,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

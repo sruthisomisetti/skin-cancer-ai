@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 490886864,
+            "classId": 715022,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-24T11:32:55.183Z",
+            "updatedAt": "2020-08-05T19:45:13.473Z",
+            "tags": [],
+            "classTitle": "Plates of food",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        58
+                    ],
+                    [
+                        1158,
+                        959
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496951677,
+            "classId": 714945,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-05T19:45:13.192Z",
+            "updatedAt": "2020-08-05T19:45:13.192Z",
+            "tags": [],
+            "classTitle": "Vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        204
+                    ],
+                    [
+                        997,
+                        756
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

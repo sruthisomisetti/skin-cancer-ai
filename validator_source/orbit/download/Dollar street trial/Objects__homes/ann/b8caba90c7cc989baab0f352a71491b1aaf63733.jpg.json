@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1365,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 278864306,
+            "classId": 714899,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:08:17.798Z",
+            "updatedAt": "2019-10-09T11:09:56.791Z",
+            "tags": [],
+            "classTitle": "Home",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        30
+                    ],
+                    [
+                        1019,
+                        1145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278865224,
+            "classId": 714902,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:08:46.599Z",
+            "updatedAt": "2019-10-09T11:09:56.791Z",
+            "tags": [],
+            "classTitle": "Front door",
+            "points": {
+                "exterior": [
+                    [
+                        666,
+                        707
+                    ],
+                    [
+                        808,
+                        975
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278865246,
+            "classId": 714970,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:09:10.110Z",
+            "updatedAt": "2019-10-09T11:09:56.791Z",
+            "tags": [],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        757
+                    ],
+                    [
+                        540,
+                        1058
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 278865260,
+            "classId": 714966,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia1",
+            "createdAt": "2019-10-09T11:09:23.922Z",
+            "updatedAt": "2019-10-09T11:09:56.791Z",
+            "tags": [],
+            "classTitle": "Bike",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        660
+                    ],
+                    [
+                        337,
+                        821
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

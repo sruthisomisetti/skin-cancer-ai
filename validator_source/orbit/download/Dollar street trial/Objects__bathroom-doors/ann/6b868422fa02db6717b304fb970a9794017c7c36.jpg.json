@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 681,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 279655227,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia18",
+            "createdAt": "2019-10-10T14:23:09.137Z",
+            "updatedAt": "2020-07-08T11:31:47.904Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        88
+                    ],
+                    [
+                        587,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 481898081,
+            "classId": 714904,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "RaghdaHITL",
+            "createdAt": "2020-07-08T11:31:47.755Z",
+            "updatedAt": "2020-07-08T11:32:04.738Z",
+            "tags": [],
+            "classTitle": "Cooking pot",
+            "points": {
+                "exterior": [
+                    [
+                        781,
+                        140
+                    ],
+                    [
+                        900,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

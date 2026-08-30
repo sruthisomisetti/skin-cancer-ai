@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 490939150,
+            "classId": 715023,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:33:25.227Z",
+            "updatedAt": "2020-07-25T18:33:56.486Z",
+            "tags": [],
+            "classTitle": "Social drinks",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        79
+                    ],
+                    [
+                        931,
+                        641
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 490939152,
+            "classId": 714980,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-07-25T18:33:56.237Z",
+            "updatedAt": "2020-07-25T18:33:56.237Z",
+            "tags": [],
+            "classTitle": "Alcoholic drink",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        172
+                    ],
+                    [
+                        594,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

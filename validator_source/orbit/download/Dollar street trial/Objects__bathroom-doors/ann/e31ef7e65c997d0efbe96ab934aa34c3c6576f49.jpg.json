@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 282782253,
+            "classId": 714941,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "roia_sup",
+            "createdAt": "2019-10-15T05:31:28.345Z",
+            "updatedAt": "2020-08-03T19:36:27.730Z",
+            "tags": [],
+            "classTitle": "Bathroom door",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        65
+                    ],
+                    [
+                        801,
+                        1005
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314268,
+            "classId": 714935,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:35:22.180Z",
+            "updatedAt": "2020-08-03T19:36:27.730Z",
+            "tags": [],
+            "classTitle": "Book",
+            "points": {
+                "exterior": [
+                    [
+                        1121,
+                        314
+                    ],
+                    [
+                        1327,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314271,
+            "classId": 714955,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:35:35.526Z",
+            "updatedAt": "2020-08-03T19:36:27.730Z",
+            "tags": [],
+            "classTitle": "Paper",
+            "points": {
+                "exterior": [
+                    [
+                        1138,
+                        243
+                    ],
+                    [
+                        1233,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314275,
+            "classId": 714940,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:35:57.552Z",
+            "updatedAt": "2020-08-03T19:36:27.730Z",
+            "tags": [],
+            "classTitle": "Power outlet",
+            "points": {
+                "exterior": [
+                    [
+                        895,
+                        434
+                    ],
+                    [
+                        920,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314277,
+            "classId": 714943,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:36:07.523Z",
+            "updatedAt": "2020-08-03T19:36:27.730Z",
+            "tags": [],
+            "classTitle": "Power switch",
+            "points": {
+                "exterior": [
+                    [
+                        916,
+                        439
+                    ],
+                    [
+                        944,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 496314283,
+            "classId": 714925,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ReemHITL",
+            "createdAt": "2020-08-03T19:36:27.529Z",
+            "updatedAt": "2020-08-03T19:36:27.529Z",
+            "tags": [],
+            "classTitle": "Hair brush",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        787
+                    ],
+                    [
+                        363,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
