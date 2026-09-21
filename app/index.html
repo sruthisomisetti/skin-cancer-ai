@@ -26,7 +26,12 @@
         rel="stylesheet"
         href="style.css"
     >
-<link rel="manifest" href="manifest.json">
+
+    <link
+        rel="manifest"
+        href="manifest.json"
+    >
+
 </head>
 
 
@@ -356,7 +361,7 @@
      TENSORFLOW
 ===================================================== -->
 
-<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js"></script>
+<script src="./tflite/tf.min.js"></script>
 
 
 <!-- =====================================================
@@ -380,25 +385,37 @@
 ===================================================== -->
 
 <script src="script.js"></script>
+
+
 <script>
+
 if ("serviceWorker" in navigator) {
+
     window.addEventListener("load", () => {
+
         navigator.serviceWorker
             .register("./service-worker.js")
             .then(registration => {
+
                 console.log(
                     "SkinCare AI service worker registered:",
                     registration.scope
                 );
+
             })
             .catch(error => {
+
                 console.error(
                     "Service worker registration failed:",
                     error
                 );
+
             });
+
     });
+
 }
+
 </script>
 
 

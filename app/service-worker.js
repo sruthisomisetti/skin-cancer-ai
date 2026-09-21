@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "skincare-ai-v2";
+const CACHE_NAME = "skincare-ai-v3";
 
 const APP_FILES = [
     "./",
@@ -11,13 +11,32 @@ const APP_FILES = [
     "./lesionTranslations.js",
     "./manifest.json",
 
+    // TensorFlow.js
+    "./tflite/tf.min.js",
+
+    // TFLite runtime
+    "./tflite/tf-tflite-alpha9.min.js",
+
+    // AI models
     "./model/skin_gate.tflite",
     "./model/skin_cancer_efficientnet.tflite",
 
-    "./tflite/tf-tflite-alpha9.min.js",
+    // TFLite WASM
+    "./wasm/tflite_web_api_cc.js",
+    "./wasm/tflite_web_api_cc.wasm",
 
-   
+    "./wasm/tflite_web_api_cc_simd.js",
+    "./wasm/tflite_web_api_cc_simd.wasm",
+
+    "./wasm/tflite_web_api_cc_simd_threaded.js",
+    "./wasm/tflite_web_api_cc_simd_threaded.wasm",
+    "./wasm/tflite_web_api_cc_simd_threaded.worker.js",
+
+    "./wasm/tflite_web_api_cc_threaded.js",
+    "./wasm/tflite_web_api_cc_threaded.wasm",
+    "./wasm/tflite_web_api_cc_threaded.worker.js"
 ];
+
 
 // =====================================================
 // INSTALL
@@ -101,8 +120,7 @@ self.addEventListener("activate", event => {
 
 self.addEventListener("fetch", event => {
 
-    const request =
-        event.request;
+    const request = event.request;
 
 
     // Only handle GET requests
@@ -120,6 +138,7 @@ self.addEventListener("fetch", event => {
         caches.match(request)
             .then(cachedResponse => {
 
+                // Use cached version when available
                 if (cachedResponse) {
 
                     return cachedResponse;
@@ -127,7 +146,9 @@ self.addEventListener("fetch", event => {
                 }
 
 
+                // Otherwise try the network
                 return fetch(request)
+
                     .then(networkResponse => {
 
                         // Cache successful responses
@@ -162,6 +183,7 @@ self.addEventListener("fetch", event => {
 
                     .catch(() => {
 
+                        // Offline fallback
                         return caches.match(
                             "./index.html"
                         );
