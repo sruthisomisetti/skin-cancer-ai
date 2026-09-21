@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "skincare-ai-v3";
+const CACHE_NAME = "skincare-ai-v4";
 
 const APP_FILES = [
     "./",
@@ -37,121 +37,123 @@ const APP_FILES = [
     "./wasm/tflite_web_api_cc_threaded.worker.js"
 ];
 
+const LANGUAGES = [
+    "en-US",
+    "te-IN",
+    "hi-IN",
+    "ta-IN",
+    "kn-IN",
+    "ml-IN",
+    "mr-IN",
+    "bn-IN",
+    "gu-IN",
+    "pa-IN",
+    "ur-IN",
+    "or-IN",
+    "fr-FR",
+    "es-ES",
+    "de-DE",
+    "it-IT",
+    "pt-PT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "ar-SA"
+];
 
-// =====================================================
-// INSTALL
-// =====================================================
+const AUDIO_FILES = [
+    "error.wav",
+    "no-result.wav",
+    "result.wav",
+    "select-image.wav",
+    "test.wav",
+    "warning.wav"
+];
+
+function getAudioFiles() {
+    const files = [];
+
+    for (const language of LANGUAGES) {
+        for (const audioFile of AUDIO_FILES) {
+            files.push(`./audio/${language}/${audioFile}`);
+        }
+    }
+
+    return files;
+}
 
 self.addEventListener("install", event => {
-
-    console.log(
-        "SkinCare AI service worker installing..."
-    );
+    console.log("SkinCare AI v4 service worker installing...");
 
     event.waitUntil(
-
         caches.open(CACHE_NAME)
-            .then(cache => {
+            .then(async cache => {
 
-                return cache.addAll(
-                    APP_FILES
+                // Cache main application files
+                await cache.addAll(APP_FILES);
+
+                // Cache all possible voice files.
+                // Missing files are ignored because
+                // some languages only have result.wav.
+                const audioFiles = getAudioFiles();
+
+                await Promise.all(
+                    audioFiles.map(async file => {
+                        try {
+                            const response = await fetch(file);
+
+                            if (response.ok) {
+                                await cache.put(file, response);
+                                console.log("Cached audio:", file);
+                            }
+                        } catch (error) {
+                            console.log("Audio not available:", file);
+                        }
+                    })
                 );
-
             })
-
-            .then(() => {
-
-                return self.skipWaiting();
-
-            })
-
+            .then(() => self.skipWaiting())
     );
-
 });
 
-
-// =====================================================
-// ACTIVATE
-// =====================================================
 
 self.addEventListener("activate", event => {
 
-    console.log(
-        "SkinCare AI service worker activated."
-    );
+    console.log("SkinCare AI v4 service worker activated.");
 
     event.waitUntil(
-
         caches.keys()
-            .then(cacheNames => {
-
-                return Promise.all(
-
+            .then(cacheNames =>
+                Promise.all(
                     cacheNames
-                        .filter(
-                            cacheName =>
-                                cacheName !== CACHE_NAME
-                        )
-                        .map(
-                            cacheName =>
-                                caches.delete(
-                                    cacheName
-                                )
-                        )
-
-                );
-
-            })
-
-            .then(() => {
-
-                return self.clients.claim();
-
-            })
-
+                        .filter(cacheName => cacheName !== CACHE_NAME)
+                        .map(cacheName => caches.delete(cacheName))
+                )
+            )
+            .then(() => self.clients.claim())
     );
-
 });
 
-
-// =====================================================
-// FETCH
-// =====================================================
 
 self.addEventListener("fetch", event => {
 
     const request = event.request;
 
-
-    // Only handle GET requests
-    if (
-        request.method !== "GET"
-    ) {
-
+    if (request.method !== "GET") {
         return;
-
     }
 
-
     event.respondWith(
-
         caches.match(request)
             .then(cachedResponse => {
 
-                // Use cached version when available
                 if (cachedResponse) {
-
                     return cachedResponse;
-
                 }
 
-
-                // Otherwise try the network
                 return fetch(request)
-
                     .then(networkResponse => {
 
-                        // Cache successful responses
                         if (
                             networkResponse &&
                             networkResponse.status === 200 &&
@@ -161,37 +163,19 @@ self.addEventListener("fetch", event => {
                             const responseClone =
                                 networkResponse.clone();
 
-
-                            caches.open(
-                                CACHE_NAME
-                            )
-                            .then(cache => {
-
-                                cache.put(
-                                    request,
-                                    responseClone
-                                );
-
-                            });
-
+                            caches.open(CACHE_NAME)
+                                .then(cache => {
+                                    cache.put(request, responseClone);
+                                });
                         }
 
-
                         return networkResponse;
-
                     })
-
                     .catch(() => {
 
-                        // Offline fallback
-                        return caches.match(
-                            "./index.html"
-                        );
+                        return caches.match("./index.html");
 
                     });
-
             })
-
     );
-
 });
