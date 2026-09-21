@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training datasets
+gate_dataset/
+
+# Temporary / development packages
+alpha9-temp/
+*.tgz
+
+# Training / conversion artifacts
+*.keras
+
+# Model backups
+app/model/*_old.tflite
+app/model/skin_cancer_fixed.tflite
+
+# Generated files
+project-tree.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Old project / training artifacts
+old-skin-project/
+skin_gate_savedmodel/
+
+# Development / training scripts
+convert_fixed.py
+convert_skin_gate.py
+create_non_skin.py
+evaluate_skin_gate.py
+test_skin_gate.py
+train_skin_gate.py
+
+# TFLite development package
+app/tflite/package/
+
+# Development helper inside app
+app/fix_cancer_model.py
+app/convert_fixed.py

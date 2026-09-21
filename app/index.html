@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="theme-color"
+        content="#0f766e"
+    >
+
+    <meta
+        name="description"
+        content="Offline AI-assisted skin image screening application"
+    >
+
+    <title>SkinCare AI</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+<link rel="manifest" href="manifest.json">
+</head>
+
+
+<body>
+
+<div class="app">
+
+
+    <!-- =================================================
+         HEADER
+    ================================================== -->
+
+    <header class="app-header">
+
+        <div class="brand">
+
+            <h1 id="appTitle">
+                SkinCare AI
+            </h1>
+
+            <p id="appSubtitle">
+                AI-assisted skin image screening
+            </p>
+
+        </div>
+
+
+        <select
+            id="languageSelect"
+            aria-label="Select language"
+        >
+
+            <option value="en-US">English</option>
+            <option value="te-IN">తెలుగు</option>
+            <option value="hi-IN">हिन्दी</option>
+            <option value="ta-IN">தமிழ்</option>
+            <option value="kn-IN">ಕನ್ನಡ</option>
+            <option value="ml-IN">മലയാളം</option>
+            <option value="mr-IN">मराठी</option>
+            <option value="bn-IN">বাংলা</option>
+            <option value="gu-IN">ગુજરાતી</option>
+            <option value="pa-IN">ਪੰਜਾਬੀ</option>
+            <option value="ur-IN">اردو</option>
+            <option value="or-IN">ଓଡ଼ିଆ</option>
+
+            <option value="fr-FR">Français</option>
+            <option value="es-ES">Español</option>
+            <option value="de-DE">Deutsch</option>
+            <option value="it-IT">Italiano</option>
+            <option value="pt-PT">Português</option>
+            <option value="ja-JP">日本語</option>
+            <option value="ko-KR">한국어</option>
+            <option value="ru-RU">Русский</option>
+            <option value="ar-SA">العربية</option>
+
+        </select>
+
+    </header>
+
+
+    <!-- =================================================
+         MAIN
+    ================================================== -->
+
+    <main>
+
+
+        <!-- INTRO -->
+
+        <section class="intro-card">
+
+            <div class="intro-icon">
+                🔬
+            </div>
+
+            <h2 id="introTitle">
+                Check a skin image
+            </h2>
+
+            <p id="introText">
+                Upload or capture a clear image
+                of the skin area you want to screen.
+            </p>
+
+        </section>
+
+
+        <!-- =================================================
+             IMAGE
+        ================================================== -->
+
+        <section class="image-card">
+
+            <div
+                id="previewContainer"
+                class="preview-container"
+            >
+
+                <div
+                    id="previewPlaceholder"
+                    class="preview-placeholder"
+                >
+
+                    <span class="preview-icon">
+                        🖼️
+                    </span>
+
+                    <span id="previewText">
+                        No image selected
+                    </span>
+
+                </div>
+
+
+                <img
+                    id="previewImage"
+                    alt="Selected skin image"
+                >
+
+            </div>
+
+
+            <div class="image-actions">
+
+                <label
+                    for="imageInput"
+                    class="primary-button"
+                    id="chooseImageButton"
+                >
+                    🖼️ Choose Image
+                </label>
+
+                <input
+                    type="file"
+                    id="imageInput"
+                    accept="image/*"
+                    hidden
+                >
+
+
+                <label
+                    for="cameraInput"
+                    class="secondary-button"
+                    id="takePhotoButton"
+                >
+                    📷 Take Photo
+                </label>
+
+                <input
+                    type="file"
+                    id="cameraInput"
+                    accept="image/*"
+                    capture="environment"
+                    hidden
+                >
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             ANALYZE
+        ================================================== -->
+
+        <section class="analyze-section">
+
+            <button
+                id="analyzeButton"
+                class="analyze-button"
+                type="button"
+                disabled
+            >
+                🔍 Analyze Image
+            </button>
+
+            <p
+                id="offlineStatus"
+                class="offline-status"
+            >
+                🟢 Offline AI ready
+            </p>
+
+        </section>
+
+
+        <!-- =================================================
+             RESULT
+        ================================================== -->
+
+        <section
+            id="result"
+            class="result-card"
+        >
+
+            <div class="result-placeholder">
+
+                <span class="result-placeholder-icon">
+                    📊
+                </span>
+
+                <h2 id="resultTitle">
+                    Result
+                </h2>
+
+                <p id="resultPlaceholderText">
+                    Your screening result will
+                    appear here.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             VOICE
+        ================================================== -->
+
+        <section class="voice-section">
+
+            <button
+                id="voiceButton"
+                class="voice-button"
+                type="button"
+                disabled
+            >
+                🔊 Listen
+            </button>
+
+        </section>
+
+
+        <!-- =================================================
+             HISTORY
+        ================================================== -->
+
+        <section class="history-card">
+
+            <div class="section-heading">
+
+                <div>
+
+                    <h2 id="historyTitle">
+                        Previous History
+                    </h2>
+
+                    <p id="historySubtitle">
+                        Your recent screening results
+                    </p>
+
+                </div>
+
+
+                <button
+                    id="clearHistoryButton"
+                    class="clear-button"
+                    type="button"
+                >
+
+                    🗑️
+
+                    <span id="clearHistoryText">
+                        Clear
+                    </span>
+
+                </button>
+
+            </div>
+
+
+            <div
+                id="historyList"
+                class="history-list"
+            >
+
+                <p id="noHistoryText">
+                    No previous results.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             MEDICAL NOTICE
+        ================================================== -->
+
+        <section class="notice-card">
+
+            <h3 id="noticeTitle">
+                ⚠️ Important
+            </h3>
+
+            <p id="noticeText">
+                This application provides an
+                AI-assisted screening result.
+                It does not replace examination
+                or diagnosis by a qualified
+                healthcare professional.
+            </p>
+
+        </section>
+
+
+    </main>
+
+
+    <!-- =================================================
+         FOOTER
+    ================================================== -->
+
+    <footer>
+
+        <p id="footerText">
+            SkinCare AI • Offline-first screening
+        </p>
+
+    </footer>
+
+
+</div>
+
+
+<!-- =====================================================
+     TENSORFLOW
+===================================================== -->
+
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js"></script>
+
+
+<!-- =====================================================
+     TFLITE
+===================================================== -->
+
+<script src="./tflite/tf-tflite-alpha9.min.js"></script>
+
+
+<!-- =====================================================
+     TRANSLATIONS
+===================================================== -->
+
+<script src="translations.js"></script>
+
+<script src="lesionTranslations.js"></script>
+
+
+<!-- =====================================================
+     MAIN APP
+===================================================== -->
+
+<script src="script.js"></script>
+<script>
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker
+            .register("./service-worker.js")
+            .then(registration => {
+                console.log(
+                    "SkinCare AI service worker registered:",
+                    registration.scope
+                );
+            })
+            .catch(error => {
+                console.error(
+                    "Service worker registration failed:",
+                    error
+                );
+            });
+    });
+}
+</script>
+
+
+</body>
+
+</html>
