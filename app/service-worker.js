@@ -82,59 +82,6 @@ function getAudioFiles() {
     return files;
 }
 
-self.addEventListener("install", event => {
-    console.log("SkinCare AI v4 service worker installing...");
-
-    event.waitUntil(
-        caches.open(CACHE_NAME)
-            .then(async cache => {
-
-                // Cache main application files
-                await cache.addAll(APP_FILES);
-
-                // Cache all possible voice files.
-                // Missing files are ignored because
-                // some languages only have result.wav.
-                const audioFiles = getAudioFiles();
-
-                await Promise.all(
-                    audioFiles.map(async file => {
-                        try {
-                            const response = await fetch(file);
-
-                            if (response.ok) {
-                                await cache.put(file, response);
-                                console.log("Cached audio:", file);
-                            }
-                        } catch (error) {
-                            console.log("Audio not available:", file);
-                        }
-                    })
-                );
-            })
-            .then(() => self.skipWaiting())
-    );
-});
-
-
-self.addEventListener("activate", event => {
-
-    console.log("SkinCare AI v4 service worker activated.");
-
-    event.waitUntil(
-        caches.keys()
-            .then(cacheNames =>
-                Promise.all(
-                    cacheNames
-                        .filter(cacheName => cacheName !== CACHE_NAME)
-                        .map(cacheName => caches.delete(cacheName))
-                )
-            )
-            .then(() => self.clients.claim())
-    );
-});
-
-
 self.addEventListener("fetch", event => {
 
     const request = event.request;
@@ -143,7 +90,42 @@ self.addEventListener("fetch", event => {
         return;
     }
 
+    const url = new URL(request.url);
+
+    // Special handling for offline audio.
+    // Browsers may request WAV files using HTTP Range requests.
+    // We return the complete cached WAV file instead.
+    if (url.pathname.includes("/audio/")) {
+
+        event.respondWith(
+            caches.match(url.pathname)
+                .then(cachedResponse => {
+
+                    if (cachedResponse) {
+                        return cachedResponse;
+                    }
+
+                    return fetch(request);
+                })
+                .catch(() => {
+                    return new Response(
+                        "Offline audio unavailable",
+                        {
+                            status: 503,
+                            headers: {
+                                "Content-Type": "text/plain"
+                            }
+                        }
+                    );
+                })
+        );
+
+        return;
+    }
+
+    // Normal application requests
     event.respondWith(
+
         caches.match(request)
             .then(cachedResponse => {
 
