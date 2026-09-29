@@ -1851,16 +1851,25 @@ function displayCancerResult(prediction, gradcamDataUrl) {
             ${abcdeCardHtml}
             ${gradcamCardHtml}
 
+            ${prediction.confidence < 0.60 ? `
+                <div class="low-confidence-notice" style="background: #fffbeb; border: 1px solid #fef3c7; color: #b45309; padding: 12px; border-radius: 10px; font-size: 12px; margin-top: 14px; text-align: left;">
+                    ℹ️ ${lang.confidenceNotice || "Confidence indicates the model's estimated certainty and should not be interpreted as a diagnosis."}
+                </div>
+            ` : ''}
+
             <div class="medical-warning-box" style="margin-top: 16px;">
                 <strong>⚠️ Important Notice:</strong> ${lang.screeningNotice || "This result is an AI screening result, not a confirmed diagnosis."} ${lang.consultDoctor || "Please consult a qualified dermatologist for examination."}
             </div>
 
             <div class="result-actions" style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 16px;">
-                <button onclick="openReportModal()" class="btn btn-primary" style="flex: 1; min-width: 160px;">
+                <button onclick="openReportModal()" class="btn btn-primary" style="flex: 1; min-width: 140px;">
                     📄 ${lang.viewReport || "View Report"}
                 </button>
-                <button onclick="downloadCurrentPdf()" class="btn btn-secondary" style="flex: 1; min-width: 160px; background: var(--primary-dark); color: white; border: none;">
+                <button onclick="downloadCurrentPdf()" class="btn btn-secondary" style="flex: 1; min-width: 140px; background: var(--primary-dark); color: white; border: none;">
                     ⬇️ ${lang.downloadPdf || "Download PDF"}
+                </button>
+                <button onclick="resetScanAndAnalyze()" class="btn btn-secondary" style="flex: 1; min-width: 140px; background: #f1f5f9; color: var(--text-primary); border: 1px solid var(--border-color);">
+                    ${lang.analyzeAnother || "🔄 Analyze Another Image"}
                 </button>
             </div>
         </div>
@@ -1981,16 +1990,22 @@ analyzeButton.addEventListener("click", async () => {
             <p>${lang.pleaseWait || "Please wait."}</p>
         </div>
     `;
-
     try {
-        // =========================================================
-        // PRE-CHECK — DIRECT SKIN PHOTOGRAPH VALIDATION
-        // Rejects screenshots, chat screens (WhatsApp), documents, UI captures
-        // =========================================================
+        const progressBox = document.getElementById("analysisProgressBox");
+        const progressText = document.getElementById("analysisProgressText");
+        if (progressBox) progressBox.style.display = "block";
+
+        const updateStep = (msg) => {
+            if (progressText) progressText.textContent = msg;
+        };
+
+        updateStep(lang.stepCheckingImage || "Checking image quality...");
+
         const validation = await validateDirectSkinPhotograph(selectedImage);
 
         if (!validation.isValid) {
             console.log("Image rejected by direct skin photo pre-check validation.");
+            if (progressBox) progressBox.style.display = "none";
 
             result.innerHTML = `
                 <div class="analysis-result non-skin-result">
@@ -2013,11 +2028,13 @@ analyzeButton.addEventListener("click", async () => {
         }
 
         // STEP 1 — SKIN GATE EVALUATION (TFLite Model)
+        updateStep(lang.stepCheckingSkin || "Checking for skin photo...");
         const skinScore = await checkIfSkin(selectedImage);
 
         // STEP 2 — NON-SKIN REJECTION
         if (skinScore < SKIN_GATE_THRESHOLD) {
             console.log("Image rejected by skin gate.");
+            if (progressBox) progressBox.style.display = "none";
 
             result.innerHTML = `
                 <div class="analysis-result non-skin-result">
@@ -2038,6 +2055,7 @@ analyzeButton.addEventListener("click", async () => {
         }
 
         // STEP 3 — SKIN CONFIRMED, RUN CANCER CLASSIFIER
+        updateStep(lang.stepAnalyzingLesion || "Analyzing skin lesion...");
         result.innerHTML = `
             <div class="analysis-result normal-result" style="text-align: center;">
                 <div style="font-size: 36px; margin-bottom: 10px;">🧬</div>
@@ -2079,6 +2097,7 @@ analyzeButton.addEventListener("click", async () => {
 
         let gradcamDataUrl = null;
         try {
+            updateStep(lang.stepPreparingResult || "Preparing screening result...");
             console.log("Generating genuine offline Grad-CAM for class:", prediction.key, targetIdx);
             gradcamDataUrl = await generateGradCamDataUrl(selectedImage, targetIdx);
         } catch (gErr) {
@@ -2122,9 +2141,59 @@ analyzeButton.addEventListener("click", async () => {
             </div>
         `;
     } finally {
+        const progressBox = document.getElementById("analysisProgressBox");
+        if (progressBox) progressBox.style.display = "none";
         analyzeButton.disabled = false;
     }
 });
+
+function resetScanAndAnalyze() {
+    selectedImage = null;
+    lastResult = null;
+    previewObjectURL = null;
+    currentScanRecord = null;
+    activeReportAbcdeData = null;
+    lastAbcdeAnalysis = null;
+    currentlyViewingReportRecord = null;
+
+    const imgInput = document.getElementById("imageInput");
+    const camInput = document.getElementById("cameraInput");
+    if (imgInput) imgInput.value = "";
+    if (camInput) camInput.value = "";
+
+    const prevImg = document.getElementById("previewImage");
+    const prevPlaceholder = document.getElementById("previewPlaceholder");
+    const camOverlay = document.getElementById("cameraOverlay");
+    const qualityCard = document.getElementById("qualityCheckCard");
+
+    if (prevImg) {
+        prevImg.src = "";
+        prevImg.style.display = "none";
+    }
+    if (prevPlaceholder) prevPlaceholder.style.display = "flex";
+    if (camOverlay) camOverlay.style.display = "none";
+    if (qualityCard) qualityCard.style.display = "none";
+
+    const analyzeBtn = document.getElementById("analyzeButton");
+    if (analyzeBtn) analyzeBtn.disabled = true;
+
+    const voiceBtn = document.getElementById("voiceButton");
+    if (voiceBtn) voiceBtn.disabled = true;
+
+    const lang = getCurrentTranslations();
+    const resContainer = document.getElementById("result");
+    if (resContainer) {
+        resContainer.innerHTML = `
+            <div class="preview-placeholder">
+                <span class="preview-icon">📊</span>
+                <h2 id="resultTitle">${lang.result || "Result"}</h2>
+                <p id="resultPlaceholderText">${lang.resultPlaceholderText || "Your screening result will appear here after analysis."}</p>
+            </div>
+        `;
+    }
+
+    console.log("Scan state cleanly reset. Ready for next image.");
+}
 
 
 // =====================================================

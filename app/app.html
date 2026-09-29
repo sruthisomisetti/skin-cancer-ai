@@ -96,24 +96,43 @@
             <h2 class="card-title" id="introTitle">🔬 Check a skin image</h2>
             <p class="card-subtitle" id="introText">Upload or capture a clear photograph of the skin area for AI screening.</p>
 
-            <!-- IMAGE PREVIEW -->
+            <!-- PHOTO CAPTURE GUIDANCE BOX -->
+            <div id="photoGuidanceCard" class="photo-guidance-box" style="margin-bottom: 16px; padding: 14px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 12px; text-align: left;">
+                <div style="font-weight: 700; font-size: 14px; color: #166534; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;">
+                    📸 <span id="photoGuideTitle">How to capture a good skin photo</span>
+                </div>
+                <ul style="margin: 0; padding-left: 20px; font-size: 12px; color: #15803d; line-height: 1.6;">
+                    <li id="photoGuideLighting">Use good, even lighting (avoid shadows)</li>
+                    <li id="photoGuideCentered">Keep the skin lesion centered in the frame</li>
+                    <li id="photoGuideClose">Move close enough to fill the frame clearly</li>
+                    <li id="photoGuideSteady">Hold camera steady to avoid blur</li>
+                    <li id="photoGuideGlare">Avoid reflections and heavy flashlight glare</li>
+                    <li id="photoGuideSingle">Focus on a single lesion area when possible</li>
+                </ul>
+            </div>
+
+            <!-- IMAGE PREVIEW WITH TARGET OVERLAY -->
             <div id="previewContainer" class="preview-container">
                 <div id="previewPlaceholder" class="preview-placeholder">
                     <span class="preview-icon">🖼️</span>
                     <span id="previewText">No image selected</span>
                 </div>
                 <img id="previewImage" class="preview-image" alt="Selected skin lesion">
+                <div id="cameraOverlay" class="camera-target-overlay" style="display: none;">
+                    <div class="target-ring"></div>
+                    <div class="target-hint" id="captureGuideText">Center lesion inside the ring</div>
+                </div>
             </div>
 
             <!-- ACTION BUTTONS -->
             <div class="action-buttons">
                 <label for="imageInput" class="btn btn-primary" id="chooseImageButton">
-                    🖼️ Choose Image
+                    🖼️ <span id="chooseGalleryText">Choose from Gallery</span>
                 </label>
                 <input type="file" id="imageInput" accept="image/*" hidden>
 
                 <label for="cameraInput" class="btn btn-secondary" id="takePhotoButton">
-                    📷 Take Photo
+                    📷 <span id="useCameraText">Take Photo / Use Camera</span>
                 </label>
                 <input type="file" id="cameraInput" accept="image/*" capture="environment" hidden>
             </div>
@@ -135,11 +154,15 @@
             </div>
         </div>
 
-        <!-- ANALYZE BUTTON & STATUS -->
+        <!-- ANALYZE BUTTON & MULTI-STEP LOADING STATUS -->
         <div class="card" style="text-align: center;">
-            <button id="analyzeButton" class="btn btn-primary" style="width: 100%; max-width: 320px; font-size: 16px; padding: 16px;" disabled>
-                🔍 Analyze Image
+            <button id="analyzeButton" class="btn btn-primary" style="width: 100%; max-width: 340px; font-size: 16px; padding: 16px;" disabled>
+                <span id="analyzeButtonText">🔍 Analyze Image</span>
             </button>
+            <div id="analysisProgressBox" style="display: none; margin-top: 12px; font-size: 13px; font-weight: 700; color: var(--primary-dark);">
+                <span class="spinner-ring" style="display: inline-block; width: 14px; height: 14px; border: 2px solid var(--primary); border-top-color: transparent; border-radius: 50%; animation: spin 0.8s linear infinite; margin-right: 6px; vertical-align: middle;"></span>
+                <span id="analysisProgressText">Checking image quality...</span>
+            </div>
             <p id="offlineStatus" style="margin: 10px 0 0; font-size: 13px; color: var(--success); font-weight: 600;">
                 🟢 100% Offline AI Ready
             </p>
