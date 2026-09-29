@@ -2,7 +2,13 @@
 
 const TRANSLATIONS = {
     "en-US": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
+        "gradcamTitle": "AI Attention Visualization (Grad-CAM Equivalent)",
+        "gradcamSubtitle": "Class Activation Map (CAM)",
+        "gradcamNote": "Grad-CAM-equivalent class activation visualization highlights image regions associated with the model's prediction. It is an explanation aid, not a diagnostic proof.",
+        "gradcamOpacity": "Heatmap Opacity",
+        "downloadPdf": "Download PDF",
+        "viewReport": "View Report",
         "subtitle": "Offline Skin Analysis Assistant",
         "introTitle": "Check a Skin Image",
         "introText": "Upload or capture a clear image of a skin area for AI screening.",
@@ -73,7 +79,13 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "te-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
+        "gradcamTitle": "AI శ్రద్ధ దృశ్యమానం (Grad-CAM)",
+        "gradcamSubtitle": "తరగతి క్రియాశీలత మ్యాప్ (CAM)",
+        "gradcamNote": "Grad-CAM మోడల్ అంచనాతో అనుబంధించబడిన చిత్ర ప్రాంతాలను ముఖ్యాంశం చేస్తుంది. ఇది వివరణ సహాయం, వైద్య నిర్ధారణ కాదు.",
+        "gradcamOpacity": "హీట్‌మ్యాప్ అపారదర్శకత",
+        "downloadPdf": "PDF డౌన్‌లోడ్ చేయండి",
+        "viewReport": "నివేదిక చూడండి",
         "subtitle": "ఆఫ్‌లైన్ చర్మ విశ్లేషణ సహాయకుడు",
         "introTitle": "చర్మ చిత్రాన్ని పరిశీలించండి",
         "introText": "AI స్క్రీనింగ్ కోసం చర్మ ప్రాంతం యొక్క స్పష్టమైన చిత్రాన్ని అప్‌లోడ్ చేయండి లేదా ఫోటో తీయండి.",
@@ -144,7 +156,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "మునుపటి స్కాన్‌తో పోలిస్తే మచ్చలో మార్పు గుర్తించబడింది"
     },
     "hi-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ऑफ़लाइन त्वचा विश्लेषण सहायक",
         "introTitle": "त्वचा की तस्वीर जाँचें",
         "introText": "AI स्क्रीनिंग के लिए त्वचा के क्षेत्र की स्पष्ट तस्वीर अपलोड करें या फोटो लें।",
@@ -215,7 +227,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "पिछले स्कैन की तुलना में बदलाव पाया गया"
     },
     "ta-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ஆஃப்லைன் தோல் பகுப்பாய்வு உதவியாளர்",
         "introTitle": "தோல் படத்தைச் சரிபார்க்கவும்",
         "introText": "AI பரிசோதனைக்காக தோல் பகுதியின் தெளிவான படத்தை பதிவேற்றவும் அல்லது புகைப்படம் எடுக்கவும்.",
@@ -286,7 +298,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "kn-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ಆಫ್‌ಲೈನ್ ಚರ್ಮ ವಿಶ್ಲೇಷಣಾ ಸಹಾಯಕ",
         "introTitle": "ಚರ್ಮದ ಚಿತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ",
         "introText": "AI ಸ್ಕ್ರೀನಿಂಗ್‌ಗಾಗಿ ಚರ್ಮದ ಭಾಗದ ಸ್ಪಷ್ಟ ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಫೋಟೋ ತೆಗೆದುಕೊಳ್ಳಿ.",
@@ -357,7 +369,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "ml-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ഓഫ്‌ലൈൻ ചർമ്മ വിശകലന സഹായി",
         "introTitle": "ചർമ്മ ചിത്രം പരിശോധിക്കുക",
         "introText": "AI സ്ക്രീനിംഗിനായി ചർമ്മ പ്രദേശത്തിന്റെ വ്യക്തമായ ചിത്രം അപ്‌ലോഡ് ചെയ്യുകയോ ഫോട്ടോ എടുക്കുകയോ ചെയ്യുക.",
@@ -428,7 +440,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "mr-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ऑफलाइन त्वचा विश्लेषण सहाय्यक",
         "introTitle": "त्वचेची प्रतिमा तपासा",
         "introText": "AI तपासणीसाठी त्वचेच्या भागाचा स्पष्ट फोटो अपलोड करा किंवा फोटो काढा.",
@@ -499,7 +511,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "bn-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "অফলাইন ত্বক বিশ্লেষণ সহায়ক",
         "introTitle": "ত্বকের ছবি পরীক্ষা করুন",
         "introText": "AI স্ক্রিনিংয়ের জন্য ত্বকের এলাকার একটি পরিষ্কার ছবি আপলোড করুন বা ছবি তুলুন।",
@@ -570,7 +582,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "gu-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ઓફલાઇન ત્વચા વિશ્લેષણ સહાયક",
         "introTitle": "ત્વચાની છબી તપાસો",
         "introText": "AI સ્ક્રિનિંગ માટે ત્વચાના વિસ્તારની સ્પષ્ટ છબી અપલોડ કરો અથવા ફોટો લો.",
@@ -641,7 +653,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "pa-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ਔਫ਼ਲਾਈਨ ਚਮੜੀ ਵਿਸ਼ਲੇਸ਼ਣ ਸਹਾਇਕ",
         "introTitle": "ਚਮੜੀ ਦੀ ਤਸਵੀਰ ਦੀ ਜਾਂਚ ਕਰੋ",
         "introText": "AI ਸਕ੍ਰੀਨਿੰਗ ਲਈ ਚਮੜੀ ਦੇ ਖੇਤਰ ਦੀ ਸਪਸ਼ਟ ਤਸਵੀਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਫੋਟੋ ਲਵੋ।",
@@ -712,7 +724,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "ur-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "آف لائن جلد کے تجزیہ کا معاون",
         "introTitle": "جلد کی تصویر چیک کریں",
         "introText": "AI اسکریننگ کے لیے جلد کے حصے کی واضح تصویر اپ لوڈ کریں یا تصویر لیں۔",
@@ -783,7 +795,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "or-IN": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "ଅଫଲାଇନ୍ ଚର୍ମ ବିଶ୍ଳେଷଣ ସହାୟକ",
         "introTitle": "ଚର୍ମ ଚିତ୍ର ପରୀକ୍ଷା କରନ୍ତୁ",
         "introText": "AI ସ୍କ୍ରିନିଂ ପାଇଁ ଚର୍ମ ଅଞ୍ଚଳର ଏକ ସ୍ପଷ୍ଟ ଚିତ୍ର ଅପଲୋଡ୍ କରନ୍ତୁ କିମ୍ବା ଫୋଟୋ ଉଠାନ୍ତୁ।",
@@ -854,7 +866,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "fr-FR": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "Assistant d'analyse cutanée hors ligne",
         "introTitle": "Vérifier une image cutanée",
         "introText": "Téléchargez ou capturez une image claire d'une zone cutanée pour le dépistage par IA.",
@@ -925,7 +937,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "es-ES": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "Asistente de análisis cutáneo sin conexión",
         "introTitle": "Revisar una imagen de la piel",
         "introText": "Sube o captura una imagen clara de una zona de la piel para la evaluación por IA.",
@@ -996,7 +1008,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "de-DE": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "Offline-Hautanalyse-Assistent",
         "introTitle": "Hautbild überprüfen",
         "introText": "Laden Sie ein klares Bild eines Hautbereichs hoch oder nehmen Sie eines auf.",
@@ -1067,7 +1079,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "it-IT": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "Assistente di analisi cutanea offline",
         "introTitle": "Controlla un'immagine della pelle",
         "introText": "Carica o scatta un'immagine nitida della pelle per lo screening IA.",
@@ -1138,7 +1150,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "pt-PT": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "Assistente de análise cutânea offline",
         "introTitle": "Verificar imagem da pele",
         "introText": "Carregue ou tire uma foto clara de uma área da pele para triagem por IA.",
@@ -1209,7 +1221,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "ja-JP": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "オフライン皮膚解析アシスタント",
         "introTitle": "皮膚画像をチェック",
         "introText": "AIスクリーニングのために皮膚領域の鮮明な画像をアップロードまたは撮影してください。",
@@ -1280,7 +1292,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "ko-KR": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "오프라인 피부 분석 도우미",
         "introTitle": "피부 이미지 확인",
         "introText": "AI 스크리닝을 위해 피부 부위의 선명한 이미지를 업로드하거나 촬영하세요.",
@@ -1351,7 +1363,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "ru-RU": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "Офлайн-помощник по анализу кожи",
         "introTitle": "Проверка изображения кожи",
         "introText": "Загрузите или сделайте четкий снимок участка кожи для ИИ-скрининга.",
@@ -1422,7 +1434,7 @@ const TRANSLATIONS = {
         "abcdeEvolvingChanged": "Lesion change detected vs previous scan"
     },
     "ar-SA": {
-        "appTitle": "SkinCare AI",
+        "appTitle": "Skin Cancer Detection",
         "subtitle": "مساعد تحليل الجلد دون اتصال",
         "introTitle": "فحص صورة الجلد",
         "introText": "قم بتحميل أو التقاط صورة واضحة لمنطقة الجلد لفحص الذكاء الاصطناعي.",

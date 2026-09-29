@@ -7,7 +7,7 @@
     <meta name="theme-color" content="#0f766e">
     <meta name="description" content="Offline AI-assisted clinical skin image screening application">
 
-    <title>SkinCare AI — Professional Dashboard</title>
+    <title>Skin Cancer Detection — Professional Dashboard</title>
 
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
@@ -24,7 +24,7 @@
         <div class="brand-container">
             <div class="brand-icon">🔬</div>
             <div>
-                <h1 class="brand-title" id="appTitle">SkinCare AI</h1>
+                <h1 class="brand-title" id="appTitle">Skin Cancer Detection</h1>
                 <p class="brand-subtitle" id="appSubtitle">AI-assisted skin image screening</p>
             </div>
         </div>
@@ -388,7 +388,7 @@
          FOOTER
     ================================================== -->
     <footer style="text-align: center; margin-top: auto; padding: 20px 0; color: var(--text-muted); font-size: 12px;">
-        <p id="footerText">SkinCare AI • Offline-first clinical screening system</p>
+        <p id="footerText">Skin Cancer Detection • Offline-first clinical screening system</p>
     </footer>
 
 </div>
@@ -400,7 +400,7 @@
     <div class="modal-card">
         <div class="report-header">
             <div>
-                <h2 style="margin: 0; color: var(--primary-dark); font-size: 22px;">SkinCare AI</h2>
+                <h2 style="margin: 0; color: var(--primary-dark); font-size: 22px;">Skin Cancer Detection</h2>
                 <div style="font-size: 12px; color: var(--text-secondary);">Clinical Image Screening Summary</div>
             </div>
             <div style="text-align: right; font-size: 12px; color: var(--text-muted);">
@@ -437,13 +437,20 @@
             <div style="grid-column: 1 / -1;" id="rptAbcdeE"><strong>E - Evolving:</strong> Monitored for changes over time</div>
         </div>
 
+        <div class="report-section-title" id="rptGradcamHeading" style="display: none;">AI ATTENTION VISUALIZATION (GRAD-CAM-EQUIVALENT CAM)</div>
+        <div id="rptGradcamBox" style="display: none; margin-bottom: 20px; text-align: center;">
+            <img id="rptGradcamImg" style="max-width: 100%; max-height: 240px; border-radius: 10px; border: 1px solid var(--border-color);" alt="Grad-CAM Visualization">
+            <div style="font-size: 11px; color: var(--text-secondary); margin-top: 4px;" id="rptGradcamNote">Grad-CAM-equivalent class activation visualization highlights image regions associated with the model's prediction. It is an explanation aid, not a diagnostic proof.</div>
+        </div>
+
         <div class="report-section-title">REGULATORY MEDICAL DISCLAIMER</div>
         <div class="medical-warning-box" style="margin-bottom: 24px;">
             ⚠️ This document provides AI-assisted screening information and does not constitute a confirmed medical diagnosis. Professional examination by a qualified dermatologist or healthcare provider is strongly recommended.
         </div>
 
-        <div class="no-print" style="display: flex; gap: 12px; justify-content: flex-end;">
-            <button onclick="window.print()" class="btn btn-primary">🖨️ Print / Save PDF</button>
+        <div class="no-print" style="display: flex; gap: 12px; justify-content: flex-end; flex-wrap: wrap;">
+            <button onclick="downloadCurrentPdf()" class="btn btn-primary" id="btnReportDownloadPdf">📄 Download PDF</button>
+            <button onclick="window.print()" class="btn btn-secondary">🖨️ Print / Save PDF</button>
             <button onclick="closeReportModal()" class="btn btn-secondary">Close</button>
         </div>
     </div>
@@ -453,6 +460,8 @@
 <!-- =====================================================
      SCRIPTS
 ===================================================== -->
+<script src="./lib/html2canvas.min.js"></script>
+<script src="./lib/jspdf.umd.min.js"></script>
 <script src="./tflite/tf.min.js"></script>
 <script src="./tflite/tf-tflite-alpha9.min.js"></script>
 <script src="translations.js"></script>

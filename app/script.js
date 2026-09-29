@@ -42,6 +42,7 @@ let currentlyViewingReportRecord = null;
 
 let skinGateModel = null;
 let cancerModel = null;
+let gradcamModel = null;
 
 // =====================================================
 // CANCER MODEL CLASS ORDER (Exact Trained EfficientNet order)
@@ -1245,6 +1246,288 @@ async function imageToTensor(file) {
 
 
 // =====================================================
+// REAL OFFLINE GRAD-CAM VISUALIZATION
+// =====================================================
+
+async function loadGradCamModel() {
+    if (gradcamModel) return gradcamModel;
+    console.log("Lazy-loading Grad-CAM model...");
+    if (!window.tflite) {
+        throw new Error("TFLite engine unavailable for Grad-CAM");
+    }
+    window.tflite.setWasmPath("./wasm/");
+    gradcamModel = await window.tflite.loadTFLiteModel("./model/skin_cancer_gradcam.tflite");
+    console.log("Grad-CAM model loaded successfully.");
+    return gradcamModel;
+}
+
+function jetColorMap(val) {
+    const v = Math.max(0, Math.min(1, val));
+    let r = Math.max(0, Math.min(255, Math.floor(255 * (1.5 - Math.abs(v * 4 - 3)))));
+    let g = Math.max(0, Math.min(255, Math.floor(255 * (1.5 - Math.abs(v * 4 - 2)))));
+    let b = Math.max(0, Math.min(255, Math.floor(255 * (1.5 - Math.abs(v * 4 - 1)))));
+    return [r, g, b];
+}
+
+function upscaleHeatmap7x7(grid7x7, outWidth = 224, outHeight = 224) {
+    const out = new Float32Array(outWidth * outHeight);
+    const scaleX = 6 / (outWidth - 1);
+    const scaleY = 6 / (outHeight - 1);
+
+    for (let y = 0; y < outHeight; y++) {
+        const srcY = y * scaleY;
+        const y0 = Math.floor(srcY);
+        const y1 = Math.min(6, y0 + 1);
+        const dy = srcY - y0;
+
+        for (let x = 0; x < outWidth; x++) {
+            const srcX = x * scaleX;
+            const x0 = Math.floor(srcX);
+            const x1 = Math.min(6, x0 + 1);
+            const dx = srcX - x0;
+
+            const v00 = grid7x7[y0 * 7 + x0];
+            const v01 = grid7x7[y0 * 7 + x1];
+            const v10 = grid7x7[y1 * 7 + x0];
+            const v11 = grid7x7[y1 * 7 + x1];
+
+            const val = (1 - dx) * (1 - dy) * v00 +
+                        dx * (1 - dy) * v01 +
+                        (1 - dx) * dy * v10 +
+                        dx * dy * v11;
+
+            out[y * outWidth + x] = val;
+        }
+    }
+    return out;
+}
+
+async function generateGradCamDataUrl(file, classIndex) {
+    try {
+        const model = await loadGradCamModel();
+        const tensor = await imageToTensor(file);
+        const outputTensor = await model.predict(tensor);
+        const camData = await outputTensor.data();
+
+        const rawGrid = new Float32Array(49);
+        let minVal = Infinity;
+        let maxVal = -Infinity;
+
+        for (let r = 0; r < 7; r++) {
+            for (let c = 0; c < 7; c++) {
+                const val = camData[r * 49 + c * 7 + classIndex];
+                rawGrid[r * 7 + c] = val;
+                if (val < minVal) minVal = val;
+                if (val > maxVal) maxVal = val;
+            }
+        }
+
+        const range = (maxVal - minVal) || 1e-6;
+        for (let i = 0; i < 49; i++) {
+            rawGrid[i] = (rawGrid[i] - minVal) / range;
+        }
+
+        const smoothHeatmap = upscaleHeatmap7x7(rawGrid, 224, 224);
+
+        const canvas = document.createElement("canvas");
+        canvas.width = 224;
+        canvas.height = 224;
+        const ctx = canvas.getContext("2d");
+
+        const bitmap = await createImageBitmap(file);
+        ctx.drawImage(bitmap, 0, 0, 224, 224);
+        bitmap.close();
+
+        const overlayCanvas = document.createElement("canvas");
+        overlayCanvas.width = 224;
+        overlayCanvas.height = 224;
+        const oCtx = overlayCanvas.getContext("2d");
+        const imgData = oCtx.createImageData(224, 224);
+
+        for (let i = 0; i < smoothHeatmap.length; i++) {
+            const hVal = smoothHeatmap[i];
+            const [r, g, b] = jetColorMap(hVal);
+            const idx = i * 4;
+            imgData.data[idx] = r;
+            imgData.data[idx + 1] = g;
+            imgData.data[idx + 2] = b;
+            imgData.data[idx + 3] = Math.floor(hVal * 200 + 45);
+        }
+        oCtx.putImageData(imgData, 0, 0);
+
+        ctx.globalAlpha = 0.65;
+        ctx.drawImage(overlayCanvas, 0, 0);
+        ctx.globalAlpha = 1.0;
+
+        tensor.dispose();
+        outputTensor.dispose();
+
+        return canvas.toDataURL("image/png");
+    } catch (err) {
+        console.error("Grad-CAM generation error:", err);
+        return null;
+    }
+}
+
+
+// =====================================================
+// SEPARATE PDF DOWNLOAD GENERATOR
+// =====================================================
+
+async function downloadScanPdf(targetRecord) {
+    const record = targetRecord || currentlyViewingReportRecord || currentScanRecord;
+    if (!record) {
+        alert("No active scan record found to generate PDF.");
+        return;
+    }
+
+    const refNo = record.refNo || record.id || ('SCN-' + Date.now().toString().slice(-6));
+    const filename = `SkinCancerDetection_${refNo}.pdf`;
+
+    const lang = getCurrentTranslations();
+    const profile = getPatientProfile();
+
+    if (!window.html2canvas || !window.jspdf || !window.jspdf.jsPDF) {
+        console.warn("Direct PDF library unavailable, using fallback print.");
+        openReportModal(record);
+        setTimeout(() => window.print(), 300);
+        return;
+    }
+
+    try {
+        const container = document.createElement("div");
+        container.style.position = "absolute";
+        container.style.left = "-9999px";
+        container.style.top = "-9999px";
+        container.style.width = "750px";
+        container.style.padding = "30px";
+        container.style.background = "#ffffff";
+        container.style.fontFamily = "Arial, sans-serif";
+        container.style.color = "#1e293b";
+
+        const localizedResultName = getLocalizedClassName(record.key, record.name, lang);
+        const confidenceStr = ((record.confidence || 0) * 100).toFixed(2) + '%';
+        const localizedMeaning = getLocalizedMeaning(record.key, record.meaning || '', lang);
+
+        let abcdeHtml = '';
+        if (record.abcdeAnalysis) {
+            abcdeHtml = `
+                <div style="font-weight:700; font-size:12px; color:#0f766e; margin-top:15px; margin-bottom:6px; text-transform:uppercase; border-bottom:1px solid #cbd5e1; padding-bottom:3px;">
+                    ${lang.abcdeImageHeading || "ABCDE SCREENING CRITERIA EVALUATION"}
+                </div>
+                <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px; font-size:12px;">
+                    <div><strong>A - ${lang.abcdeATitle || "Asymmetry"}:</strong> ${getLocalizedAbcdeText(record.abcdeAnalysis.asymmetry, 'asymmetry')}</div>
+                    <div><strong>B - ${lang.abcdeBTitle || "Border"}:</strong> ${getLocalizedAbcdeText(record.abcdeAnalysis.border, 'border')}</div>
+                    <div><strong>C - ${lang.abcdeCTitle || "Color"}:</strong> ${getLocalizedAbcdeText(record.abcdeAnalysis.color, 'color')}</div>
+                    <div><strong>D - ${lang.abcdeDTitle || "Diameter"}:</strong> ${getLocalizedAbcdeText(record.abcdeAnalysis.diameter, 'diameter')}</div>
+                    <div style="grid-column:1/-1;"><strong>E - ${lang.abcdeETitle || "Evolving"}:</strong> ${getLocalizedAbcdeText(record.abcdeAnalysis.evolving, 'evolving')}</div>
+                </div>
+            `;
+        }
+
+        let gradcamHtml = '';
+        if (record.gradcamDataUrl) {
+            gradcamHtml = `
+                <div style="font-weight:700; font-size:12px; color:#0f766e; margin-top:15px; margin-bottom:6px; text-transform:uppercase; border-bottom:1px solid #cbd5e1; padding-bottom:3px;">
+                    ${lang.gradcamTitle || "AI ATTENTION VISUALIZATION (GRAD-CAM)"}
+                </div>
+                <div style="display:flex; gap:15px; align-items:center;">
+                    <img src="${record.gradcamDataUrl}" style="width:140px; height:140px; object-fit:contain; border-radius:8px; border:1px solid #e2e8f0;" />
+                    <div style="font-size:11px; color:#64748b; line-height:1.5;">
+                        ${lang.gradcamNote || "Grad-CAM highlights image regions associated with the model's prediction. It is an explanation aid, not a diagnostic proof."}
+                    </div>
+                </div>
+            `;
+        }
+
+        container.innerHTML = `
+            <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:2px solid #0f766e; padding-bottom:10px; margin-bottom:15px;">
+                <div>
+                    <h1 style="margin:0; font-size:22px; color:#0f766e;">Skin Cancer Detection</h1>
+                    <div style="font-size:12px; color:#64748b;">Clinical Image Screening Summary</div>
+                </div>
+                <div style="text-align:right; font-size:12px; color:#64748b;">
+                    <div>Date: ${record.date || new Date().toLocaleDateString()}</div>
+                    <div>Ref: ${refNo}</div>
+                </div>
+            </div>
+
+            <div style="font-weight:700; font-size:12px; color:#0f766e; margin-bottom:6px; text-transform:uppercase; border-bottom:1px solid #cbd5e1; padding-bottom:3px;">
+                PATIENT INFORMATION
+            </div>
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:6px; font-size:12px; margin-bottom:15px;">
+                <div><strong>Patient ID:</strong> ${record.patientId || profile.patientId}</div>
+                <div><strong>Name:</strong> ${record.patientName || profile.name}</div>
+                <div><strong>Age / Sex:</strong> ${(profile.age || 35)} Yrs / ${(profile.sex || 'Female')}</div>
+                <div><strong>Contact:</strong> ${profile.contact || 'N/A'}</div>
+            </div>
+
+            <div style="font-weight:700; font-size:12px; color:#0f766e; margin-bottom:6px; text-transform:uppercase; border-bottom:1px solid #cbd5e1; padding-bottom:3px;">
+                EXAMINATION & AI FINDINGS
+            </div>
+            <div style="display:flex; gap:15px; align-items:flex-start; margin-bottom:15px;">
+                <img src="${record.imageThumb || record.image || ''}" style="width:130px; height:130px; object-fit:contain; border-radius:8px; border:1px solid #e2e8f0;" />
+                <div style="flex:1;">
+                    <div style="font-size:11px; color:#64748b; text-transform:uppercase; font-weight:700;">AI Screening Outcome</div>
+                    <h3 style="margin:4px 0; font-size:18px; color:#0f172a;">${localizedResultName}</h3>
+                    <div style="font-size:13px; margin-bottom:6px;"><strong>Confidence:</strong> ${confidenceStr}</div>
+                    <div style="font-size:12px; color:#475569; line-height:1.4;">${localizedMeaning}</div>
+                </div>
+            </div>
+
+            ${abcdeHtml}
+            ${gradcamHtml}
+
+            <div style="font-weight:700; font-size:12px; color:#0f766e; margin-top:15px; margin-bottom:6px; text-transform:uppercase; border-bottom:1px solid #cbd5e1; padding-bottom:3px;">
+                REGULATORY MEDICAL DISCLAIMER
+            </div>
+            <div style="background:#fff7ed; border:1px solid #ffedd5; color:#9a3412; padding:10px; border-radius:6px; font-size:11px; line-height:1.4;">
+                ⚠️ This document provides AI-assisted screening information and does not constitute a confirmed medical diagnosis. Professional examination by a qualified dermatologist or healthcare provider is strongly recommended.
+            </div>
+        `;
+
+        document.body.appendChild(container);
+
+        const canvas = await window.html2canvas(container, {
+            scale: 2,
+            useCORS: true,
+            logging: false
+        });
+
+        document.body.removeChild(container);
+
+        const imgData = canvas.toDataURL("image/jpeg", 0.95);
+        const pdf = new window.jspdf.jsPDF("p", "mm", "a4");
+
+        const pdfWidth = pdf.internal.pageSize.getWidth();
+        const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
+
+        pdf.addImage(imgData, "JPEG", 0, 0, pdfWidth, pdfHeight);
+        pdf.save(filename);
+        console.log(`PDF saved successfully: ${filename}`);
+
+    } catch (err) {
+        console.error("PDF generation failed:", err);
+        alert("Failed to generate PDF download. Falling back to print preview.");
+        openReportModal(record);
+        setTimeout(() => window.print(), 300);
+    }
+}
+
+function downloadCurrentPdf() {
+    const record = currentlyViewingReportRecord || currentScanRecord;
+    downloadScanPdf(record);
+}
+
+function downloadHistoryPdf(scanId) {
+    const history = JSON.parse(localStorage.getItem("skinAnalysisHistory") || "[]");
+    const item = history.find(i => i.id === scanId);
+    if (!item) return;
+    downloadScanPdf(item);
+}
+
+
+// =====================================================
 // SKIN GATE INFERENCE (100% PRESERVED)
 // =====================================================
 
@@ -1404,6 +1687,7 @@ function updateHistoryLanguage(lang) {
                         ${lang.aiConfidence || "Confidence"}: ${confidence}%
                     </span>
                     <button onclick="viewReportFromHistory('${item.id}')" class="btn btn-secondary" style="padding: 6px 12px; font-size: 11px;">📄 Report</button>
+                    <button onclick="downloadHistoryPdf('${item.id}')" class="btn btn-secondary" style="padding: 6px 12px; font-size: 11px; background: var(--primary-dark); color: white; border: none;">⬇️ PDF</button>
                 </div>
             </div>
         `;
@@ -1470,8 +1754,9 @@ function renderProgressTracker() {
                 <div style="font-weight: 700; font-size: 15px; color: var(--text-primary);">${className}</div>
                 <div style="font-size: 13px; color: var(--text-secondary); margin-top: 2px;">AI Confidence: <strong>${confPercent}%</strong></div>
                 ${comparisonText}
-                <div style="margin-top: 10px; text-align: right;">
+                <div style="margin-top: 10px; display: flex; gap: 6px; justify-content: flex-end;">
                     <button onclick="viewReportFromHistory('${item.id}')" class="btn btn-secondary" style="padding: 4px 10px; font-size: 11px;">📄 View Report</button>
+                    <button onclick="downloadHistoryPdf('${item.id}')" class="btn btn-secondary" style="padding: 4px 10px; font-size: 11px; background: var(--primary-dark); color: white; border: none;">⬇️ Download PDF</button>
                 </div>
             </div>
         `;
@@ -1491,7 +1776,7 @@ if (clearHistoryButton) {
 // DISPLAY RESULT & CLINICAL PATIENT REPORT
 // =====================================================
 
-function displayCancerResult(prediction) {
+function displayCancerResult(prediction, gradcamDataUrl) {
     const lang = getCurrentTranslations();
     const confidencePercent = (prediction.confidence * 100).toFixed(2);
     const className = getLocalizedClassName(prediction.key, prediction.name, lang);
@@ -1514,6 +1799,26 @@ function displayCancerResult(prediction) {
                     <div><strong>C - Color:</strong> <span id="resAbcdeC">${getLocalizedAbcdeText(lastAbcdeAnalysis.color, 'color')}</span></div>
                     <div><strong>D - Diameter:</strong> <span id="resAbcdeD">${getLocalizedAbcdeText(lastAbcdeAnalysis.diameter, 'diameter')}</span></div>
                     <div><strong>E - Evolving:</strong> <span id="resAbcdeE">${getLocalizedAbcdeText(lastAbcdeAnalysis.evolving, 'evolving')}</span></div>
+                </div>
+            </div>
+        `;
+    }
+
+    let gradcamCardHtml = '';
+    if (gradcamDataUrl) {
+        gradcamCardHtml = `
+            <div class="gradcam-card" style="margin-top: 16px; padding: 14px; background: #ffffff; border-radius: 10px; border: 1px solid var(--border-color); text-align: left;">
+                <div style="font-size: 13px; font-weight: 700; color: var(--primary-dark); margin-bottom: 4px;">
+                    🔬 ${lang.gradcamTitle || "AI Attention Visualization (Grad-CAM Equivalent)"}
+                </div>
+                <div style="font-size: 11px; color: var(--text-secondary); margin-bottom: 10px;">
+                    Attention map for predicted class: <strong>${className} (${prediction.key})</strong>
+                </div>
+                <div style="text-align: center; margin-bottom: 10px; background: #f8fafc; padding: 10px; border-radius: 8px; border: 1px solid var(--border-color);">
+                    <img id="gradcamOverlayImg" src="${gradcamDataUrl}" style="max-width: 100%; max-height: 240px; border-radius: 8px; border: 1px solid var(--border-color);" alt="Grad-CAM Visualization" />
+                </div>
+                <div style="font-size: 11px; color: var(--text-muted); line-height: 1.4; background: #f1f5f9; padding: 8px 10px; border-radius: 6px;">
+                    ℹ️ ${lang.gradcamNote || "Grad-CAM-equivalent class activation visualization highlights image regions associated with the model's prediction. It is an explanation aid, not a diagnostic proof."}
                 </div>
             </div>
         `;
@@ -1544,14 +1849,18 @@ function displayCancerResult(prediction) {
             </div>
 
             ${abcdeCardHtml}
+            ${gradcamCardHtml}
 
             <div class="medical-warning-box" style="margin-top: 16px;">
                 <strong>⚠️ Important Notice:</strong> ${lang.screeningNotice || "This result is an AI screening result, not a confirmed diagnosis."} ${lang.consultDoctor || "Please consult a qualified dermatologist for examination."}
             </div>
 
-            <div class="result-actions">
-                <button onclick="openReportModal()" class="btn btn-primary" style="flex: 1;">
-                    📄 Save & View Clinical Patient Report
+            <div class="result-actions" style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 16px;">
+                <button onclick="openReportModal()" class="btn btn-primary" style="flex: 1; min-width: 160px;">
+                    📄 ${lang.viewReport || "View Report"}
+                </button>
+                <button onclick="downloadCurrentPdf()" class="btn btn-secondary" style="flex: 1; min-width: 160px; background: var(--primary-dark); color: white; border: none;">
+                    ⬇️ ${lang.downloadPdf || "Download PDF"}
                 </button>
             </div>
         </div>
@@ -1605,6 +1914,25 @@ function openReportModal(targetRecord) {
     } else {
         readAbcdeSelectionsFromDom();
         updateReportAbcdeValues(currentAbcdeObservation);
+    }
+
+    const gradcamHeading = document.getElementById('rptGradcamHeading');
+    const gradcamBox = document.getElementById('rptGradcamBox');
+    const gradcamImg = document.getElementById('rptGradcamImg');
+    const gradcamNote = document.getElementById('rptGradcamNote');
+    if (record.gradcamDataUrl && gradcamBox && gradcamImg) {
+        gradcamImg.src = record.gradcamDataUrl;
+        if (gradcamHeading) {
+            gradcamHeading.textContent = lang.gradcamTitle || "AI ATTENTION VISUALIZATION (GRAD-CAM)";
+            gradcamHeading.style.display = 'block';
+        }
+        if (gradcamNote) {
+            gradcamNote.textContent = lang.gradcamNote || "Grad-CAM highlights image regions associated with the model's prediction. It is an explanation aid, not a diagnostic proof.";
+        }
+        gradcamBox.style.display = 'block';
+    } else {
+        if (gradcamHeading) gradcamHeading.style.display = 'none';
+        if (gradcamBox) gradcamBox.style.display = 'none';
     }
 
     document.getElementById('patientReportModal').classList.add('active');
@@ -1745,6 +2073,18 @@ analyzeButton.addEventListener("click", async () => {
         }
 
         readAbcdeSelectionsFromDom();
+
+        const predictedClassIdx = CANCER_CLASSES.findIndex(c => c.key === prediction.key);
+        const targetIdx = predictedClassIdx >= 0 ? predictedClassIdx : 0;
+
+        let gradcamDataUrl = null;
+        try {
+            console.log("Generating genuine offline Grad-CAM for class:", prediction.key, targetIdx);
+            gradcamDataUrl = await generateGradCamDataUrl(selectedImage, targetIdx);
+        } catch (gErr) {
+            console.error("Grad-CAM generation error:", gErr);
+        }
+
         const timestamp = Date.now();
         currentScanRecord = {
             id: 'SCN-' + timestamp,
@@ -1758,10 +2098,11 @@ analyzeButton.addEventListener("click", async () => {
             date: new Date().toLocaleString(),
             imageThumb: thumbData || previewObjectURL || '',
             abcde: { ...currentAbcdeObservation },
-            abcdeAnalysis: JSON.parse(JSON.stringify(abcdeRes))
+            abcdeAnalysis: JSON.parse(JSON.stringify(abcdeRes)),
+            gradcamDataUrl: gradcamDataUrl
         };
 
-        displayCancerResult(prediction);
+        displayCancerResult(prediction, gradcamDataUrl);
         saveAnalysisToHistory(currentScanRecord);
 
         voiceButton.disabled = false;
