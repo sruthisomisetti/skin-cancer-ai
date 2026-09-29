@@ -1,424 +1,719 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0f766e">
+    <title>SkinCare AI — Professional Skin Screening</title>
+    
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: linear-gradient(135deg, #0f766e 0%, #0d5c56 50%, #073b37 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            color: #123b39;
+        }
 
-    <meta
-        name="theme-color"
-        content="#0f766e"
-    >
+        /* SPLASH SCREEN */
+        .splash-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #0f766e, #094742);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            transition: opacity 0.5s ease, visibility 0.5s ease;
+        }
 
-    <meta
-        name="description"
-        content="Offline AI-assisted skin image screening application"
-    >
+        .splash-hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
 
-    <title>SkinCare AI</title>
+        .splash-logo {
+            width: 90px;
+            height: 90px;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 26px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 46px;
+            margin-bottom: 20px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+            animation: pulse 2s infinite ease-in-out;
+        }
 
-    <link
-        rel="stylesheet"
-        href="style.css"
-    >
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
 
-    <link
-        rel="manifest"
-        href="manifest.json"
-    >
+        .splash-title {
+            font-size: 32px;
+            font-weight: 800;
+            margin: 0 0 8px;
+            letter-spacing: -0.5px;
+        }
 
+        .splash-subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+            margin-bottom: 28px;
+            text-align: center;
+            max-width: 300px;
+        }
+
+        .splash-badge {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+
+        .splash-btn {
+            background: white;
+            color: #0f766e;
+            border: none;
+            padding: 14px 36px;
+            font-size: 16px;
+            font-weight: 700;
+            border-radius: 30px;
+            cursor: pointer;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+            transition: transform 0.2s, background 0.2s;
+        }
+
+        .splash-btn:hover {
+            transform: translateY(-2px);
+            background: #f0fdfa;
+        }
+
+        /* MAIN CONTAINER */
+        .auth-container {
+            width: 100%;
+            max-width: 440px;
+        }
+
+        .auth-card {
+            background: white;
+            border-radius: 28px;
+            padding: 32px 28px;
+            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.25);
+            border: 1px solid rgba(255, 255, 255, 0.8);
+        }
+
+        .brand-header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .logo-icon {
+            width: 64px;
+            height: 64px;
+            margin: 0 auto 14px;
+            border-radius: 18px;
+            background: linear-gradient(135deg, #0f766e, #149187);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 30px;
+            font-weight: bold;
+            box-shadow: 0 10px 20px rgba(15, 118, 110, 0.3);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 26px;
+            color: #0f2d2a;
+        }
+
+        .subtitle {
+            color: #64748b;
+            margin: 6px 0 0;
+            font-size: 14px;
+        }
+
+        /* TABS */
+        .auth-tabs {
+            display: flex;
+            background: #f1f5f9;
+            border-radius: 14px;
+            padding: 4px;
+            margin-bottom: 22px;
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            background: transparent;
+            font-size: 13px;
+            font-weight: 700;
+            color: #64748b;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .tab-btn.active {
+            background: white;
+            color: #0f766e;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+
+        /* FORMS */
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .field {
+            margin-bottom: 16px;
+        }
+
+        .field-row {
+            display: flex;
+            gap: 12px;
+        }
+
+        .field-row .field {
+            flex: 1;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 600;
+            color: #334155;
+            font-size: 13px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            font-size: 15px;
+            outline: none;
+            transition: border 0.2s, box-shadow 0.2s;
+            background: #f8fafc;
+        }
+
+        input:focus, select:focus {
+            border-color: #0f766e;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.12);
+        }
+
+        .password-wrapper {
+            position: relative;
+        }
+
+        .password-wrapper input {
+            padding-right: 50px;
+        }
+
+        .show-password {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            font-size: 16px;
+            padding: 6px;
+        }
+
+        .submit-btn {
+            width: 100%;
+            border: none;
+            border-radius: 12px;
+            padding: 14px;
+            background: linear-gradient(135deg, #0f766e, #115e59);
+            color: white;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: 8px;
+            transition: all 0.2s;
+            box-shadow: 0 8px 16px rgba(15, 118, 110, 0.25);
+        }
+
+        .submit-btn:hover {
+            background: linear-gradient(135deg, #0d5c56, #0f4e48);
+        }
+
+        .submit-btn:active {
+            transform: scale(0.99);
+        }
+
+        .guest-btn {
+            background: #f0fdfa;
+            color: #0f766e;
+            border: 1px solid #99f6e4;
+            box-shadow: none;
+        }
+
+        .guest-btn:hover {
+            background: #ccfbf1;
+        }
+
+        .error-msg {
+            display: none;
+            margin-top: 14px;
+            padding: 10px;
+            border-radius: 10px;
+            background: #fef2f2;
+            color: #991b1b;
+            text-align: center;
+            font-size: 13px;
+            border: 1px solid #fecaca;
+        }
+
+        .success-msg {
+            display: none;
+            margin-top: 14px;
+            padding: 12px;
+            border-radius: 10px;
+            background: #f0fdf4;
+            color: #166534;
+            text-align: center;
+            font-size: 13px;
+            font-weight: 600;
+            border: 1px solid #bbf7d0;
+        }
+
+        .demo-info {
+            margin-top: 18px;
+            padding: 10px;
+            border-radius: 10px;
+            background: #f8fafc;
+            color: #64748b;
+            font-size: 12px;
+            text-align: center;
+            border: 1px solid #e2e8f0;
+        }
+
+        .medical-disclaimer {
+            margin-top: 18px;
+            padding: 12px;
+            border-radius: 10px;
+            background: #fffbeb;
+            color: #92400e;
+            font-size: 11px;
+            line-height: 1.5;
+            border: 1px solid #fef3c7;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 16px;
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 12px;
+        }
+    </style>
 </head>
-
-
 <body>
 
-<div class="app">
+    <!-- SPLASH SCREEN OVERLAY -->
+    <div id="splashScreen" class="splash-overlay">
+        <div class="splash-logo">🔬</div>
+        <h1 class="splash-title">SkinCare AI</h1>
+        <p class="splash-subtitle">Offline AI-Assisted Clinical Skin Lesion Screening</p>
+        <div class="splash-badge">🔒 100% On-Device & Private</div>
+        <button id="splashStartBtn" class="splash-btn">Get Started →</button>
+    </div>
 
+    <!-- MAIN AUTH CONTAINER -->
+    <div class="auth-container">
+        <div class="auth-card">
+            
+            <div class="brand-header">
+                <div class="logo-icon">S</div>
+                <h1>SkinCare AI</h1>
+                <p class="subtitle">AI Screening & Patient Management System</p>
+            </div>
 
-    <!-- =================================================
-         HEADER
-    ================================================== -->
+            <!-- TABS -->
+            <div class="auth-tabs">
+                <button class="tab-btn active" onclick="switchTab('login')">Sign In</button>
+                <button class="tab-btn" onclick="switchTab('signup')">Sign Up</button>
+                <button class="tab-btn" onclick="switchTab('guest')">Guest Access</button>
+            </div>
 
-    <header class="app-header">
+            <!-- SUCCESS BANNER -->
+            <div id="successNotice" class="success-msg">
+                Account created successfully. Please log in.
+            </div>
 
-        <div class="brand">
+            <!-- LOGIN TAB -->
+            <div id="loginTab" class="tab-content active">
+                <form id="loginForm">
+                    <div class="field">
+                        <label for="username">Username</label>
+                        <input type="text" id="username" placeholder="Enter your username" autocomplete="username" required minlength="4">
+                    </div>
 
-            <h1 id="appTitle">
-                SkinCare AI
-            </h1>
+                    <div class="field">
+                        <label for="password">Password</label>
+                        <div class="password-wrapper">
+                            <input type="password" id="password" placeholder="Enter password" autocomplete="current-password" required>
+                            <button type="button" class="show-password" id="showPassword" aria-label="Show password">👁️</button>
+                        </div>
+                    </div>
 
-            <p id="appSubtitle">
-                AI-assisted skin image screening
-            </p>
+                    <button type="submit" class="submit-btn">Sign In to Dashboard</button>
+                    <div id="loginError" class="error-msg">Invalid username or password.</div>
+                </form>
+
+                <div class="demo-info">
+                    <strong>Demo Login:</strong> Username: <code>admin</code> | Password: <code>admin123</code>
+                </div>
+            </div>
+
+            <!-- SIGN UP TAB -->
+            <div id="signupTab" class="tab-content">
+                <form id="signupForm">
+                    <div class="field">
+                        <label for="regName">Full Name</label>
+                        <input type="text" id="regName" placeholder="e.g. Dr. John Doe / Jane Smith" required>
+                    </div>
+
+                    <div class="field-row">
+                        <div class="field">
+                            <label for="regAge">Age</label>
+                            <input type="number" id="regAge" min="1" max="120" placeholder="e.g. 35" required>
+                        </div>
+                        <div class="field">
+                            <label for="regSex">Sex</label>
+                            <select id="regSex" required>
+                                <option value="Female">Female</option>
+                                <option value="Male">Male</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label for="regContact">Contact (Phone / Email)</label>
+                        <input type="text" id="regContact" placeholder="e.g. +1 555-0192" required>
+                    </div>
+
+                    <div class="field">
+                        <label for="regUsername">Choose Your Username (Min 4 chars)</label>
+                        <input type="text" id="regUsername" placeholder="e.g. jsmith" required minlength="4">
+                    </div>
+
+                    <div class="field">
+                        <label for="regPassword">Choose Your Password (Min 4 chars)</label>
+                        <input type="password" id="regPassword" placeholder="Create password" required minlength="4">
+                    </div>
+
+                    <div class="field">
+                        <label for="regConfirmPassword">Confirm Your Password</label>
+                        <input type="password" id="regConfirmPassword" placeholder="Re-enter password" required minlength="4">
+                    </div>
+
+                    <button type="submit" class="submit-btn">Register Account</button>
+                    <div id="signupError" class="error-msg">Please fix errors.</div>
+                </form>
+            </div>
+
+            <!-- GUEST TAB -->
+            <div id="guestTab" class="tab-content">
+                <form id="guestForm">
+                    <div class="field">
+                        <label for="guestName">Patient / Guest Name (Optional)</label>
+                        <input type="text" id="guestName" placeholder="e.g. Anonymous Patient">
+                    </div>
+
+                    <div class="field-row">
+                        <div class="field">
+                            <label for="guestAge">Age</label>
+                            <input type="number" id="guestAge" min="1" max="120" placeholder="e.g. 40">
+                        </div>
+                        <div class="field">
+                            <label for="guestSex">Sex</label>
+                            <select id="guestSex">
+                                <option value="Not Specified">Not Specified</option>
+                                <option value="Female">Female</option>
+                                <option value="Male">Male</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="submit-btn guest-btn">Continue as Guest Patient →</button>
+                </form>
+            </div>
+
+            <div class="medical-disclaimer">
+                ⚠️ <strong>Clinical Notice:</strong> SkinCare AI provides AI-assisted screening information and does not replace examination or diagnosis by a qualified healthcare professional.
+            </div>
 
         </div>
 
-
-        <select
-            id="languageSelect"
-            aria-label="Select language"
-        >
-
-            <option value="en-US">English</option>
-            <option value="te-IN">తెలుగు</option>
-            <option value="hi-IN">हिन्दी</option>
-            <option value="ta-IN">தமிழ்</option>
-            <option value="kn-IN">ಕನ್ನಡ</option>
-            <option value="ml-IN">മലയാളം</option>
-            <option value="mr-IN">मराठी</option>
-            <option value="bn-IN">বাংলা</option>
-            <option value="gu-IN">ગુજરાતી</option>
-            <option value="pa-IN">ਪੰਜਾਬੀ</option>
-            <option value="ur-IN">اردو</option>
-            <option value="or-IN">ଓଡ଼ିଆ</option>
-
-            <option value="fr-FR">Français</option>
-            <option value="es-ES">Español</option>
-            <option value="de-DE">Deutsch</option>
-            <option value="it-IT">Italiano</option>
-            <option value="pt-PT">Português</option>
-            <option value="ja-JP">日本語</option>
-            <option value="ko-KR">한국어</option>
-            <option value="ru-RU">Русский</option>
-            <option value="ar-SA">العربية</option>
-
-        </select>
-
-    </header>
-
-
-    <!-- =================================================
-         MAIN
-    ================================================== -->
-
-    <main>
-
-
-        <!-- INTRO -->
-
-        <section class="intro-card">
-
-            <div class="intro-icon">
-                🔬
-            </div>
-
-            <h2 id="introTitle">
-                Check a skin image
-            </h2>
-
-            <p id="introText">
-                Upload or capture a clear image
-                of the skin area you want to screen.
-            </p>
-
-        </section>
-
-
-        <!-- =================================================
-             IMAGE
-        ================================================== -->
-
-        <section class="image-card">
-
-            <div
-                id="previewContainer"
-                class="preview-container"
-            >
-
-                <div
-                    id="previewPlaceholder"
-                    class="preview-placeholder"
-                >
-
-                    <span class="preview-icon">
-                        🖼️
-                    </span>
-
-                    <span id="previewText">
-                        No image selected
-                    </span>
-
-                </div>
-
-
-                <img
-                    id="previewImage"
-                    alt="Selected skin image"
-                >
-
-            </div>
-
-
-            <div class="image-actions">
-
-                <label
-                    for="imageInput"
-                    class="primary-button"
-                    id="chooseImageButton"
-                >
-                    🖼️ Choose Image
-                </label>
-
-                <input
-                    type="file"
-                    id="imageInput"
-                    accept="image/*"
-                    hidden
-                >
-
-
-                <label
-                    for="cameraInput"
-                    class="secondary-button"
-                    id="takePhotoButton"
-                >
-                    📷 Take Photo
-                </label>
-
-                <input
-                    type="file"
-                    id="cameraInput"
-                    accept="image/*"
-                    capture="environment"
-                    hidden
-                >
-
-            </div>
-
-        </section>
-
-
-        <!-- =================================================
-             ANALYZE
-        ================================================== -->
-
-        <section class="analyze-section">
-
-            <button
-                id="analyzeButton"
-                class="analyze-button"
-                type="button"
-                disabled
-            >
-                🔍 Analyze Image
-            </button>
-
-            <p
-                id="offlineStatus"
-                class="offline-status"
-            >
-                🟢 Offline AI ready
-            </p>
-
-        </section>
-
-
-        <!-- =================================================
-             RESULT
-        ================================================== -->
-
-        <section
-            id="result"
-            class="result-card"
-        >
-
-            <div class="result-placeholder">
-
-                <span class="result-placeholder-icon">
-                    📊
-                </span>
-
-                <h2 id="resultTitle">
-                    Result
-                </h2>
-
-                <p id="resultPlaceholderText">
-                    Your screening result will
-                    appear here.
-                </p>
-
-            </div>
-
-        </section>
-
-
-        <!-- =================================================
-             VOICE
-        ================================================== -->
-
-        <section class="voice-section">
-
-            <button
-                id="voiceButton"
-                class="voice-button"
-                type="button"
-                disabled
-            >
-                🔊 Listen
-            </button>
-
-        </section>
-
-
-        <!-- =================================================
-             HISTORY
-        ================================================== -->
-
-        <section class="history-card">
-
-            <div class="section-heading">
-
-                <div>
-
-                    <h2 id="historyTitle">
-                        Previous History
-                    </h2>
-
-                    <p id="historySubtitle">
-                        Your recent screening results
-                    </p>
-
-                </div>
-
-
-                <button
-                    id="clearHistoryButton"
-                    class="clear-button"
-                    type="button"
-                >
-
-                    🗑️
-
-                    <span id="clearHistoryText">
-                        Clear
-                    </span>
-
-                </button>
-
-            </div>
-
-
-            <div
-                id="historyList"
-                class="history-list"
-            >
-
-                <p id="noHistoryText">
-                    No previous results.
-                </p>
-
-            </div>
-
-        </section>
-
-
-        <!-- =================================================
-             MEDICAL NOTICE
-        ================================================== -->
-
-        <section class="notice-card">
-
-            <h3 id="noticeTitle">
-                ⚠️ Important
-            </h3>
-
-            <p id="noticeText">
-                This application provides an
-                AI-assisted screening result.
-                It does not replace examination
-                or diagnosis by a qualified
-                healthcare professional.
-            </p>
-
-        </section>
-
-
-    </main>
-
-
-    <!-- =================================================
-         FOOTER
-    ================================================== -->
-
-    <footer>
-
-        <p id="footerText">
-            SkinCare AI • Offline-first screening
-        </p>
-
-    </footer>
-
-
-</div>
-
-
-<!-- =====================================================
-     TENSORFLOW
-===================================================== -->
-
-<script src="./tflite/tf.min.js"></script>
-
-
-<!-- =====================================================
-     TFLITE
-===================================================== -->
-
-<script src="./tflite/tf-tflite-alpha9.min.js"></script>
-
-
-<!-- =====================================================
-     TRANSLATIONS
-===================================================== -->
-
-<script src="translations.js"></script>
-
-<script src="lesionTranslations.js"></script>
-
-
-<!-- =====================================================
-     MAIN APP
-===================================================== -->
-
-<script src="script.js"></script>
-
-
-<script>
-
-if ("serviceWorker" in navigator) {
-
-    window.addEventListener("load", () => {
-
-        navigator.serviceWorker
-            .register("./service-worker.js")
-            .then(registration => {
-
-                console.log(
-                    "SkinCare AI service worker registered:",
-                    registration.scope
-                );
-
-            })
-            .catch(error => {
-
-                console.error(
-                    "Service worker registration failed:",
-                    error
-                );
-
+        <div class="footer">
+            SkinCare AI • Offline-First Clinical Screening
+        </div>
+    </div>
+
+    <script>
+        // =====================================================
+        // LOCAL ACCOUNTS DICTIONARY (localStorage: skinCareAccounts)
+        // =====================================================
+        function getAccounts() {
+            const raw = localStorage.getItem('skinCareAccounts');
+            if (raw) {
+                try { return JSON.parse(raw); } catch (e) { console.error(e); }
+            }
+            // Default demo account: admin / admin123
+            const defaults = {
+                'admin': {
+                    username: 'admin',
+                    password: 'admin123',
+                    name: 'Admin Clinician',
+                    age: 38,
+                    sex: 'Not Specified',
+                    contact: 'admin@skincare.ai',
+                    patientId: 'PAT-100001'
+                }
+            };
+            localStorage.setItem('skinCareAccounts', JSON.stringify(defaults));
+            return defaults;
+        }
+
+        function saveAccount(account) {
+            const accounts = getAccounts();
+            accounts[account.username.toLowerCase().trim()] = account;
+            localStorage.setItem('skinCareAccounts', JSON.stringify(accounts));
+        }
+
+        // =====================================================
+        // SPLASH SCREEN DISMISSAL
+        // =====================================================
+        const splashScreen = document.getElementById('splashScreen');
+        const splashStartBtn = document.getElementById('splashStartBtn');
+
+        if (sessionStorage.getItem('splashShown') === 'true') {
+            splashScreen.classList.add('splash-hidden');
+        }
+
+        splashStartBtn.addEventListener('click', () => {
+            splashScreen.classList.add('splash-hidden');
+            sessionStorage.setItem('splashShown', 'true');
+        });
+
+        // =====================================================
+        // TAB SWITCHING
+        // =====================================================
+        function switchTab(tabName) {
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+
+            // Clear errors
+            document.getElementById('loginError').style.display = 'none';
+            document.getElementById('signupError').style.display = 'none';
+
+            if (tabName === 'login') {
+                document.querySelectorAll('.tab-btn')[0].classList.add('active');
+                document.getElementById('loginTab').classList.add('active');
+            } else if (tabName === 'signup') {
+                document.querySelectorAll('.tab-btn')[1].classList.add('active');
+                document.getElementById('signupTab').classList.add('active');
+                document.getElementById('successNotice').style.display = 'none';
+            } else if (tabName === 'guest') {
+                document.querySelectorAll('.tab-btn')[2].classList.add('active');
+                document.getElementById('guestTab').classList.add('active');
+                document.getElementById('successNotice').style.display = 'none';
+            }
+        }
+
+        // =====================================================
+        // SHOW/HIDE PASSWORD
+        // =====================================================
+        const showPasswordBtn = document.getElementById('showPassword');
+        const passwordInput = document.getElementById('password');
+
+        if (showPasswordBtn && passwordInput) {
+            showPasswordBtn.addEventListener('click', () => {
+                if (passwordInput.type === 'password') {
+                    passwordInput.type = 'text';
+                    showPasswordBtn.textContent = '🙈';
+                } else {
+                    passwordInput.type = 'password';
+                    showPasswordBtn.textContent = '👁️';
+                }
             });
+        }
 
-    });
+        // =====================================================
+        // LOGIN FORM SUBMISSION
+        // =====================================================
+        document.getElementById('loginForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const enteredUser = document.getElementById('username').value.trim();
+            const enteredPass = document.getElementById('password').value;
+            const loginError = document.getElementById('loginError');
 
-}
+            loginError.style.display = 'none';
+            document.getElementById('successNotice').style.display = 'none';
 
-</script>
+            if (!enteredUser || enteredUser.length < 4) {
+                loginError.textContent = 'Username must be at least 4 characters.';
+                loginError.style.display = 'block';
+                return;
+            }
 
+            const accounts = getAccounts();
+            const accountKey = enteredUser.toLowerCase();
+            const matchedAccount = accounts[accountKey];
 
+            if (!matchedAccount) {
+                loginError.textContent = 'Username not found. Please register or check your spelling.';
+                loginError.style.display = 'block';
+                return;
+            }
+
+            if (matchedAccount.password !== enteredPass) {
+                loginError.textContent = 'Incorrect password. Please try again.';
+                loginError.style.display = 'block';
+                return;
+            }
+
+            // SUCCESSFUL LOGIN
+            sessionStorage.setItem('skinCareLoggedIn', 'true');
+            
+            const profile = {
+                patientId: matchedAccount.patientId || ('PAT-' + Math.floor(100000 + Math.random() * 900000)),
+                name: matchedAccount.name || matchedAccount.username,
+                age: matchedAccount.age || 'N/A',
+                sex: matchedAccount.sex || 'Not Specified',
+                contact: matchedAccount.contact || 'N/A',
+                username: matchedAccount.username,
+                mode: 'registered'
+            };
+            localStorage.setItem('skinCarePatientProfile', JSON.stringify(profile));
+            
+            window.location.href = './app.html';
+        });
+
+        // =====================================================
+        // SIGN UP FORM SUBMISSION
+        // =====================================================
+        document.getElementById('signupForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const name = document.getElementById('regName').value.trim();
+            const age = document.getElementById('regAge').value;
+            const sex = document.getElementById('regSex').value;
+            const contact = document.getElementById('regContact').value.trim();
+            const username = document.getElementById('regUsername').value.trim();
+            const password = document.getElementById('regPassword').value;
+            const confirmPassword = document.getElementById('regConfirmPassword').value;
+            const signupError = document.getElementById('signupError');
+
+            signupError.style.display = 'none';
+
+            if (!username || username.length < 4) {
+                signupError.textContent = 'Username must be at least 4 characters long.';
+                signupError.style.display = 'block';
+                return;
+            }
+
+            if (!password || password.length < 4) {
+                signupError.textContent = 'Password must be at least 4 characters long.';
+                signupError.style.display = 'block';
+                return;
+            }
+
+            if (password !== confirmPassword) {
+                signupError.textContent = 'Passwords do not match. Please re-enter.';
+                signupError.style.display = 'block';
+                return;
+            }
+
+            const accounts = getAccounts();
+            if (accounts[username.toLowerCase()]) {
+                signupError.textContent = 'Username already taken. Please choose another username.';
+                signupError.style.display = 'block';
+                return;
+            }
+
+            // REGISTER ACCOUNT
+            const newAccount = {
+                username: username,
+                password: password,
+                name: name || username,
+                age: age || 'N/A',
+                sex: sex || 'Not Specified',
+                contact: contact || 'N/A',
+                patientId: 'PAT-' + Math.floor(100000 + Math.random() * 900000)
+            };
+
+            saveAccount(newAccount);
+
+            // SHOW SUCCESS & SWITCH TO LOGIN
+            document.getElementById('signupForm').reset();
+            const successNotice = document.getElementById('successNotice');
+            successNotice.textContent = 'Account created successfully. Please log in.';
+            successNotice.style.display = 'block';
+
+            switchTab('login');
+            document.getElementById('username').value = username;
+            document.getElementById('password').focus();
+        });
+
+        // =====================================================
+        // GUEST FORM SUBMISSION
+        // =====================================================
+        document.getElementById('guestForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const name = document.getElementById('guestName').value.trim();
+            const age = document.getElementById('guestAge').value;
+            const sex = document.getElementById('guestSex').value;
+
+            const profile = {
+                patientId: 'GST-' + Math.floor(100000 + Math.random() * 900000),
+                name: name || 'Guest Patient',
+                age: age || 'N/A',
+                sex: sex || 'Not Specified',
+                contact: 'Guest Mode',
+                mode: 'guest'
+            };
+
+            localStorage.setItem('skinCarePatientProfile', JSON.stringify(profile));
+            sessionStorage.setItem('skinCareLoggedIn', 'true');
+            window.location.href = './app.html';
+        });
+
+        // Initialize accounts dictionary
+        getAccounts();
+    </script>
 </body>
-
 </html>

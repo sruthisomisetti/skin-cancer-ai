@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0f766e">
+    <meta name="description" content="Offline AI-assisted clinical skin image screening application">
+
+    <title>SkinCare AI — Professional Dashboard</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+</head>
+
+<body>
+
+<div class="app-wrapper">
+
+    <!-- =================================================
+         HEADER
+    ================================================== -->
+    <header class="app-header">
+        <div class="brand-container">
+            <div class="brand-icon">🔬</div>
+            <div>
+                <h1 class="brand-title" id="appTitle">SkinCare AI</h1>
+                <p class="brand-subtitle" id="appSubtitle">AI-assisted skin image screening</p>
+            </div>
+        </div>
+
+        <div class="header-actions">
+            <!-- PATIENT PROFILE BADGE -->
+            <div class="patient-badge" id="patientBadgeBtn" title="View Patient Profile">
+                <div class="patient-avatar" id="patientAvatar">P</div>
+                <div class="patient-info-text">
+                    <div class="patient-name-str" id="headerPatientName">Patient Profile</div>
+                    <div class="patient-id-str" id="headerPatientId">ID: Loading...</div>
+                </div>
+            </div>
+
+            <!-- LANGUAGE SELECTOR -->
+            <select id="languageSelect" class="lang-select" aria-label="Select language">
+                <option value="en-US">English</option>
+                <option value="te-IN">తెలుగు</option>
+                <option value="hi-IN">हिन्दी</option>
+                <option value="ta-IN">தமிழ்</option>
+                <option value="kn-IN">ಕನ್ನಡ</option>
+                <option value="ml-IN">മലയാളം</option>
+                <option value="mr-IN">మరాఠీ</option>
+                <option value="bn-IN">বাংলা</option>
+                <option value="gu-IN">ગુજરાતી</option>
+                <option value="pa-IN">ਪੰਜਾਬੀ</option>
+                <option value="ur-IN">اردو</option>
+                <option value="or-IN">ଓଡ଼ିଆ</option>
+                <option value="fr-FR">Français</option>
+                <option value="es-ES">Español</option>
+                <option value="de-DE">Deutsch</option>
+                <option value="it-IT">Italiano</option>
+                <option value="pt-PT">Português</option>
+                <option value="ja-JP">日本語</option>
+                <option value="ko-KR">한국어</option>
+                <option value="ru-RU">Русский</option>
+                <option value="ar-SA">العربية</option>
+            </select>
+        </div>
+    </header>
+
+    <!-- =================================================
+         TOP NAVIGATION TABS
+    ================================================== -->
+    <nav class="nav-tabs-bar">
+        <button class="nav-tab-btn active" onclick="switchMainTab('scanTab')">
+            🔬 <span id="navScanText">Scan & Analyze</span>
+        </button>
+        <button class="nav-tab-btn" onclick="switchMainTab('historyTab')">
+            📋 <span id="navHistoryText">Patient History</span>
+        </button>
+        <button class="nav-tab-btn" onclick="switchMainTab('progressTab')">
+            📈 <span id="navProgressText">Progress Tracker</span>
+        </button>
+        <button class="nav-tab-btn" onclick="switchMainTab('abcdeTab')">
+            🔍 <span id="navAbcdeText">ABCDE Aid</span>
+        </button>
+        <button class="nav-tab-btn" onclick="switchMainTab('settingsTab')">
+            ⚙️ <span id="navSettingsText">Settings</span>
+        </button>
+    </nav>
+
+    <!-- =================================================
+         TAB 1: SCAN & ANALYZE
+    ================================================== -->
+    <section id="scanTab" class="view-section active">
+
+        <div class="card">
+            <h2 class="card-title" id="introTitle">🔬 Check a skin image</h2>
+            <p class="card-subtitle" id="introText">Upload or capture a clear photograph of the skin area for AI screening.</p>
+
+            <!-- IMAGE PREVIEW -->
+            <div id="previewContainer" class="preview-container">
+                <div id="previewPlaceholder" class="preview-placeholder">
+                    <span class="preview-icon">🖼️</span>
+                    <span id="previewText">No image selected</span>
+                </div>
+                <img id="previewImage" class="preview-image" alt="Selected skin lesion">
+            </div>
+
+            <!-- ACTION BUTTONS -->
+            <div class="action-buttons">
+                <label for="imageInput" class="btn btn-primary" id="chooseImageButton">
+                    🖼️ Choose Image
+                </label>
+                <input type="file" id="imageInput" accept="image/*" hidden>
+
+                <label for="cameraInput" class="btn btn-secondary" id="takePhotoButton">
+                    📷 Take Photo
+                </label>
+                <input type="file" id="cameraInput" accept="image/*" capture="environment" hidden>
+            </div>
+
+            <!-- IMAGE QUALITY PRE-CHECK UI -->
+            <div id="qualityCheckCard" class="quality-card">
+                <strong>📸 Image Quality Pre-Check:</strong>
+                <div class="quality-grid">
+                    <div class="quality-item">
+                        <span>📐 Resolution:</span> <strong id="qualRes">Verified (224px+)</strong>
+                    </div>
+                    <div class="quality-item">
+                        <span>💡 Lighting:</span> <strong id="qualLighting">Good Brightness</strong>
+                    </div>
+                    <div class="quality-item">
+                        <span>🔍 Focus & Clarity:</span> <strong id="qualFocus">Clear Image</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ANALYZE BUTTON & STATUS -->
+        <div class="card" style="text-align: center;">
+            <button id="analyzeButton" class="btn btn-primary" style="width: 100%; max-width: 320px; font-size: 16px; padding: 16px;" disabled>
+                🔍 Analyze Image
+            </button>
+            <p id="offlineStatus" style="margin: 10px 0 0; font-size: 13px; color: var(--success); font-weight: 600;">
+                🟢 100% Offline AI Ready
+            </p>
+        </div>
+
+        <!-- RESULT CONTAINER -->
+        <section id="result" class="card result-card">
+            <div class="preview-placeholder">
+                <span class="preview-icon">📊</span>
+                <h2 id="resultTitle">Result</h2>
+                <p id="resultPlaceholderText">Your screening result will appear here after analysis.</p>
+            </div>
+        </section>
+
+        <!-- VOICE ASSISTANT BAR -->
+        <div class="card" style="display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <strong id="voiceAssistTitle">Spoken Audio Assistant</strong>
+                <p style="margin: 2px 0 0; font-size: 12px; color: var(--text-secondary);" id="voiceAssistSub">
+                    Listen to spoken screening results offline in your selected language.
+                </p>
+            </div>
+            <button id="voiceButton" class="btn btn-secondary" disabled>
+                🔊 Listen
+            </button>
+        </div>
+
+    </section>
+
+    <!-- =================================================
+         TAB 2: PATIENT SCAN HISTORY
+    ================================================== -->
+    <section id="historyTab" class="view-section">
+        <div class="card">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                <div>
+                    <h2 class="card-title" id="historyTitle">Patient Scan History</h2>
+                    <p class="card-subtitle" id="historySubtitle">Historical screening records linked to the current patient profile.</p>
+                </div>
+                <button id="clearHistoryButton" class="btn btn-secondary" style="padding: 8px 14px; font-size: 12px;">
+                    🗑️ <span id="clearHistoryText">Clear History</span>
+                </button>
+            </div>
+
+            <div id="historyList" class="history-list">
+                <p id="noHistoryText" style="color: var(--text-muted); text-align: center; padding: 20px;">
+                    No previous screening records.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- =================================================
+         TAB 3: LESION PROGRESS TRACKER
+    ================================================== -->
+    <section id="progressTab" class="view-section">
+        <div class="card">
+            <h2 class="card-title">📈 Lesion Progress & Longitudinal Tracker</h2>
+            <p class="card-subtitle">Compare past lesion images over time to monitor size, shape, and visual changes.</p>
+
+            <div id="progressComparisonContainer" class="progress-comparison-grid">
+                <div class="comparison-card" style="grid-column: 1 / -1; padding: 30px; color: var(--text-muted);">
+                    📷 Perform multiple scans to build a side-by-side lesion progression timeline.
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- =================================================
+         TAB 4: ABCDE SCREENING AID
+    ================================================== -->
+    <section id="abcdeTab" class="view-section">
+        <div class="card">
+            <h2 class="card-title" id="abcdeMainTitle">🔍 ABCDE Image-Based Screening Aid</h2>
+            <p class="card-subtitle" id="abcdeMainSubtitle">Dermatological criteria evaluated automatically from uploaded lesion photographs.</p>
+            <p class="card-subtitle" id="abcdeFeatureDisclaimer" style="font-weight: 600; color: var(--primary); margin-top: 4px;">AI-assisted image-based ABCDE screening aid — not a medical diagnosis.</p>
+
+            <div class="educational-badge" id="abcdeNoticeBox">
+                ℹ️ <strong>Educational Aid Notice:</strong> The ABCDE guide combines image-based computer vision analysis with dermatological criteria. It does not constitute a medical diagnosis.
+            </div>
+
+            <div class="abcde-grid">
+                <div class="abcde-card">
+                    <div class="abcde-letter">A</div>
+                    <h3 class="abcde-title" id="abcdeATitle">Asymmetry</h3>
+                    <p class="abcde-desc" id="abcdeADesc">One half of the spot or mole does not match the other half in shape or contour.</p>
+                    <div style="margin-top: 12px; padding: 10px; background: white; border-radius: 8px; border: 1px solid var(--border-color);">
+                        <div style="font-size: 11px; font-weight: 700; color: var(--primary); text-transform: uppercase;">Image Analysis Result</div>
+                        <div style="font-size: 13px; font-weight: 700; color: var(--text-primary); margin-top: 3px;" id="abcdeTabResA">Upload or select an image to analyze.</div>
+                    </div>
+                </div>
+
+                <div class="abcde-card">
+                    <div class="abcde-letter">B</div>
+                    <h3 class="abcde-title" id="abcdeBTitle">Border</h3>
+                    <p class="abcde-desc" id="abcdeBDesc">The edges of the lesion are irregular, ragged, notched, blurred, or poorly defined.</p>
+                    <div style="margin-top: 12px; padding: 10px; background: white; border-radius: 8px; border: 1px solid var(--border-color);">
+                        <div style="font-size: 11px; font-weight: 700; color: var(--primary); text-transform: uppercase;">Image Analysis Result</div>
+                        <div style="font-size: 13px; font-weight: 700; color: var(--text-primary); margin-top: 3px;" id="abcdeTabResB">Upload or select an image to analyze.</div>
+                    </div>
+                </div>
+
+                <div class="abcde-card">
+                    <div class="abcde-letter">C</div>
+                    <h3 class="abcde-title" id="abcdeCTitle">Color</h3>
+                    <p class="abcde-desc" id="abcdeCDesc">Color is inconsistent across the lesion, with varying shades of brown, black, pink, or blue.</p>
+                    <div style="margin-top: 12px; padding: 10px; background: white; border-radius: 8px; border: 1px solid var(--border-color);">
+                        <div style="font-size: 11px; font-weight: 700; color: var(--primary); text-transform: uppercase;">Image Analysis Result</div>
+                        <div style="font-size: 13px; font-weight: 700; color: var(--text-primary); margin-top: 3px;" id="abcdeTabResC">Upload or select an image to analyze.</div>
+                    </div>
+                </div>
+
+                <div class="abcde-card">
+                    <div class="abcde-letter">D</div>
+                    <h3 class="abcde-title" id="abcdeDTitle">Diameter</h3>
+                    <p class="abcde-desc" id="abcdeDDesc">The spot is larger than 6 millimeters across (about the size of a pencil eraser).</p>
+                    <div style="margin-top: 12px; padding: 10px; background: white; border-radius: 8px; border: 1px solid var(--border-color);">
+                        <div style="font-size: 11px; font-weight: 700; color: var(--primary); text-transform: uppercase;">Image Analysis Result</div>
+                        <div style="font-size: 13px; font-weight: 700; color: var(--text-primary); margin-top: 3px;" id="abcdeTabResD">Upload or select an image to analyze.</div>
+                    </div>
+                </div>
+
+                <div class="abcde-card" style="grid-column: 1 / -1;">
+                    <div class="abcde-letter">E</div>
+                    <h3 class="abcde-title" id="abcdeETitle">Evolving</h3>
+                    <p class="abcde-desc" id="abcdeEDesc">The mole or lesion is changing in size, shape, color, or elevation over time, or developing new symptoms such as itching, bleeding, or crusting.</p>
+                    <div style="margin-top: 12px; padding: 10px; background: white; border-radius: 8px; border: 1px solid var(--border-color);">
+                        <div style="font-size: 11px; font-weight: 700; color: var(--primary); text-transform: uppercase;">Image Analysis Result</div>
+                        <div style="font-size: 13px; font-weight: 700; color: var(--text-primary); margin-top: 3px;" id="abcdeTabResE">Upload or select an image to analyze.</div>
+                    </div>
+                </div>
+            </div>
+
+            <details style="margin-top: 24px; padding: 14px; background: #f8fafc; border-radius: 10px; border: 1px solid var(--border-color);">
+                <summary style="font-size: 13px; font-weight: 700; color: var(--text-secondary); cursor: pointer;">
+                    📝 Optional User Observation (Clinical Self-Check Override)
+                </summary>
+                <p style="font-size: 12px; color: var(--text-muted); margin: 6px 0 14px;">
+                    Optional manual observations for patient self-examination reference. Primary ABCDE screening is calculated automatically from the uploaded image above.
+                </p>
+                <div class="abcde-grid" style="margin-top: 10px;">
+                    <div>
+                        <label style="display: block; font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text-secondary);">A - Asymmetry:</label>
+                        <select id="abcdeSelectA" style="width: 100%; padding: 8px 10px; font-size: 13px; border-radius: 8px; border: 1px solid var(--border-color); background: white;">
+                            <option value="unknown" id="optA_unknown">Unknown</option>
+                            <option value="observed" id="optA_observed">Observed</option>
+                            <option value="not_observed" id="optA_not_observed">Not observed</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label style="display: block; font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text-secondary);">B - Border:</label>
+                        <select id="abcdeSelectB" style="width: 100%; padding: 8px 10px; font-size: 13px; border-radius: 8px; border: 1px solid var(--border-color); background: white;">
+                            <option value="unknown" id="optB_unknown">Unknown</option>
+                            <option value="observed" id="optB_observed">Observed</option>
+                            <option value="not_observed" id="optB_not_observed">Not observed</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label style="display: block; font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text-secondary);">C - Color:</label>
+                        <select id="abcdeSelectC" style="width: 100%; padding: 8px 10px; font-size: 13px; border-radius: 8px; border: 1px solid var(--border-color); background: white;">
+                            <option value="unknown" id="optC_unknown">Unknown</option>
+                            <option value="observed" id="optC_observed">Observed</option>
+                            <option value="not_observed" id="optC_not_observed">Not observed</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label style="display: block; font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text-secondary);">D - Diameter:</label>
+                        <select id="abcdeSelectD" style="width: 100%; padding: 8px 10px; font-size: 13px; border-radius: 8px; border: 1px solid var(--border-color); background: white;">
+                            <option value="unknown" id="optD_unknown">Unknown</option>
+                            <option value="gt6mm" id="optD_gt6mm">>6 mm</option>
+                            <option value="lte6mm" id="optD_lte6mm">≤6 mm</option>
+                        </select>
+                    </div>
+                    <div style="grid-column: 1 / -1;">
+                        <label style="display: block; font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text-secondary);">E - Evolving:</label>
+                        <select id="abcdeSelectE" style="width: 100%; padding: 8px 10px; font-size: 13px; border-radius: 8px; border: 1px solid var(--border-color); background: white;">
+                            <option value="unknown" id="optE_unknown">Unknown</option>
+                            <option value="changing" id="optE_changing">Changing</option>
+                            <option value="not_changing" id="optE_not_changing">Not changing</option>
+                        </select>
+                    </div>
+                </div>
+            </details>
+        </div>
+    </section>
+
+    <!-- =================================================
+         TAB 5: SETTINGS & PATIENT PROFILE
+    ================================================== -->
+    <section id="settingsTab" class="view-section">
+        <div class="card">
+            <h2 class="card-title">👤 Patient Profile Settings</h2>
+            <p class="card-subtitle">Manage patient record details associated with saved screening reports.</p>
+
+            <form id="editProfileForm">
+                <div class="field" style="margin-bottom: 14px;">
+                    <label>Patient ID (Auto-Generated)</label>
+                    <input type="text" id="settingPatientId" readonly style="background: #e2e8f0; font-weight: bold;">
+                </div>
+
+                <div class="field" style="margin-bottom: 14px;">
+                    <label>Full Patient Name</label>
+                    <input type="text" id="settingPatientName" required>
+                </div>
+
+                <div class="field-row" style="display: flex; gap: 12px; margin-bottom: 14px;">
+                    <div class="field" style="flex: 1;">
+                        <label>Age</label>
+                        <input type="number" id="settingPatientAge" required>
+                    </div>
+                    <div class="field" style="flex: 1;">
+                        <label>Sex</label>
+                        <select id="settingPatientSex" required>
+                            <option value="Female">Female</option>
+                            <option value="Male">Male</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="field" style="margin-bottom: 18px;">
+                    <label>Contact (Phone / Email)</label>
+                    <input type="text" id="settingPatientContact" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save Profile Updates</button>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">⚙️ System & Offline Settings</h2>
+            <div style="font-size: 13px; line-height: 1.8;">
+                <div>• <strong>Offline AI Engine:</strong> TensorFlow Lite WebAssembly (Local)</div>
+                <div>• <strong>PWA Status:</strong> Offline Service Worker Cache Active</div>
+                <div>• <strong>Supported Languages:</strong> 21 Languages Active</div>
+            </div>
+            <div style="margin-top: 20px;">
+                <button id="logoutBtn" class="btn btn-secondary" style="color: var(--danger); border-color: #fecaca;">
+                    🚪 Sign Out & Change Account
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- =================================================
+         FOOTER
+    ================================================== -->
+    <footer style="text-align: center; margin-top: auto; padding: 20px 0; color: var(--text-muted); font-size: 12px;">
+        <p id="footerText">SkinCare AI • Offline-first clinical screening system</p>
+    </footer>
+
+</div>
+
+<!-- =====================================================
+     PATIENT CLINICAL REPORT MODAL
+===================================================== -->
+<div id="patientReportModal" class="modal-overlay">
+    <div class="modal-card">
+        <div class="report-header">
+            <div>
+                <h2 style="margin: 0; color: var(--primary-dark); font-size: 22px;">SkinCare AI</h2>
+                <div style="font-size: 12px; color: var(--text-secondary);">Clinical Image Screening Summary</div>
+            </div>
+            <div style="text-align: right; font-size: 12px; color: var(--text-muted);">
+                <div id="reportDate">Date: --</div>
+                <div id="reportRefNo">Ref: --</div>
+            </div>
+        </div>
+
+        <div class="report-section-title">PATIENT INFORMATION</div>
+        <div class="report-grid">
+            <div><strong>Patient ID:</strong> <span id="rptPatientId">--</span></div>
+            <div><strong>Name:</strong> <span id="rptPatientName">--</span></div>
+            <div><strong>Age / Sex:</strong> <span id="rptPatientAgeSex">--</span></div>
+            <div><strong>Contact:</strong> <span id="rptPatientContact">--</span></div>
+        </div>
+
+        <div class="report-section-title">EXAMINATION & AI FINDINGS</div>
+        <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;">
+            <img id="rptImageThumb" style="width: 140px; height: 140px; object-fit: contain; border-radius: 10px; border: 1px solid var(--border-color);" alt="Screened Lesion">
+            <div style="flex: 1;">
+                <div style="font-size: 12px; color: var(--text-muted); text-transform: uppercase; font-weight: 700;">AI Screening Outcome</div>
+                <h3 id="rptResultTitle" style="margin: 4px 0; font-size: 20px; color: var(--text-primary);">--</h3>
+                <div style="font-size: 14px; margin-bottom: 8px;"><strong>Confidence:</strong> <span id="rptConfidence">--%</span></div>
+                <div style="font-size: 13px; color: var(--text-secondary); line-height: 1.5;" id="rptExplanation">--</div>
+            </div>
+        </div>
+
+        <div class="report-section-title" id="rptAbcdeHeading">ABCDE SCREENING CRITERIA EVALUATION</div>
+        <div class="report-grid" style="grid-template-columns: repeat(2, 1fr); margin-bottom: 20px;">
+            <div id="rptAbcdeA"><strong>A - Asymmetry:</strong> Evaluated for irregular symmetry</div>
+            <div id="rptAbcdeB"><strong>B - Border:</strong> Evaluated for ragged/notched edges</div>
+            <div id="rptAbcdeC"><strong>C - Color:</strong> Evaluated for color variation</div>
+            <div id="rptAbcdeD"><strong>D - Diameter:</strong> Evaluated for size >6mm</div>
+            <div style="grid-column: 1 / -1;" id="rptAbcdeE"><strong>E - Evolving:</strong> Monitored for changes over time</div>
+        </div>
+
+        <div class="report-section-title">REGULATORY MEDICAL DISCLAIMER</div>
+        <div class="medical-warning-box" style="margin-bottom: 24px;">
+            ⚠️ This document provides AI-assisted screening information and does not constitute a confirmed medical diagnosis. Professional examination by a qualified dermatologist or healthcare provider is strongly recommended.
+        </div>
+
+        <div class="no-print" style="display: flex; gap: 12px; justify-content: flex-end;">
+            <button onclick="window.print()" class="btn btn-primary">🖨️ Print / Save PDF</button>
+            <button onclick="closeReportModal()" class="btn btn-secondary">Close</button>
+        </div>
+    </div>
+</div>
+
+
+<!-- =====================================================
+     SCRIPTS
+===================================================== -->
+<script src="./tflite/tf.min.js"></script>
+<script src="./tflite/tf-tflite-alpha9.min.js"></script>
+<script src="translations.js"></script>
+<script src="lesionTranslations.js"></script>
+<script src="script.js"></script>
+
+<script>
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./service-worker.js")
+            .then(reg => console.log("Service worker registered:", reg.scope))
+            .catch(err => console.error("Service worker registration failed:", err));
+    });
+}
+</script>
+
+</body>
+</html>
