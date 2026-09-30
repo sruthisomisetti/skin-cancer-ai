@@ -1,4 +1,4 @@
-const CACHE_NAME = "skincare-ai-v9";
+const CACHE_NAME = "skincare-ai-v11";
 
 const APP_FILES = [
     "./",
@@ -109,32 +109,8 @@ self.addEventListener("fetch", event => {
 
     const url = new URL(request.url);
 
-    // Special handling for offline audio
-    if (url.pathname.includes("/audio/")) {
-        event.respondWith(
-            caches.match(url.pathname)
-                .then(cachedResponse => {
-                    if (cachedResponse) {
-                        return cachedResponse;
-                    }
-                    return fetch(request);
-                })
-                .catch(() => {
-                    return new Response(
-                        "Offline audio unavailable",
-                        {
-                            status: 503,
-                            headers: {
-                                "Content-Type": "text/plain"
-                            }
-                        }
-                    );
-                })
-        );
-        return;
-    }
-
     // Network-First for core application files (HTML, JS, CSS) so code changes reflect immediately
+    // BUT we must fallback to the exact request in the cache.
     if (url.pathname.endsWith(".html") || url.pathname.endsWith(".js") || url.pathname.endsWith(".css") || url.pathname === "/" || url.pathname.endsWith("/")) {
         event.respondWith(
             fetch(request)
@@ -147,14 +123,22 @@ self.addEventListener("fetch", event => {
                     }
                     return networkResponse;
                 })
-                .catch(() => caches.match(request))
+                .catch(() => {
+                    return caches.match(request, { ignoreSearch: true }).then(cached => {
+                        if (cached) return cached;
+                        // Fallback to app.html if it's a navigation
+                        if (request.mode === 'navigate' || (request.headers.get('accept') && request.headers.get('accept').includes('text/html'))) {
+                            return caches.match("./app.html");
+                        }
+                    });
+                })
         );
         return;
     }
 
-    // Cache-First for static models and assets
+    // Cache-First for static models, audio, and all other assets
     event.respondWith(
-        caches.match(request)
+        caches.match(request, { ignoreSearch: true })
             .then(cachedResponse => {
                 if (cachedResponse) {
                     return cachedResponse;
@@ -175,7 +159,12 @@ self.addEventListener("fetch", event => {
                         return networkResponse;
                     })
                     .catch(() => {
-                        return caches.match("./app.html");
+                        if (url.pathname.includes("/audio/")) {
+                            return new Response("Offline audio unavailable", {
+                                status: 503,
+                                headers: { "Content-Type": "text/plain" }
+                            });
+                        }
                     });
             })
     );

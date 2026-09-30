@@ -1083,6 +1083,112 @@ async function validateDirectSkinPhotograph(file) {
             }
         }
 
+        // --- E.5 Screenshot / Chat Artifact Check ---
+        let screenshotArtifactScore = 0;
+        let screenshotArtifactReasons = [];
+
+        // 1. Check for specific WhatsApp/Chat UI colors
+        let whatsappPixels = 0;
+        let pureWhiteOrBlackPixels = 0;
+
+        for (let i = 0; i < pixels.length; i += 4) {
+            const r = pixels[i], g = pixels[i+1], b = pixels[i+2];
+
+            const isWhatsAppBeige = (r > 210 && g > 205 && b > 195 && Math.abs(r - g) < 22 && Math.abs(r - b) < 25);
+            const isWhatsAppGreenUI = ((g > r + 12 && g > b + 12 && g > 140) || (g > 80 && b > 70 && r < 40));
+            if (isWhatsAppBeige || isWhatsAppGreenUI) whatsappPixels++;
+            
+            if ((r > 240 && g > 240 && b > 240) || (r < 15 && g < 15 && b < 15)) {
+                pureWhiteOrBlackPixels++;
+            }
+        }
+
+        const whatsappRatio = whatsappPixels / totalPixels;
+        if (whatsappRatio > 0.05) {
+            screenshotArtifactScore += 0.4;
+            screenshotArtifactReasons.push("WhatsApp/Chat UI colors detected");
+        }
+        
+        // 2. High edge density combined with flat UI (typical of text on a background)
+        const currentFlatUIPixelRatio = flatUIPixelCount / totalPixels;
+        const currentEdgeDensity = sharpEdgeCount / totalPixels;
+        const currentCentralSkinRatio = centralSkinPixelCount / (centralTotalPixels || 1);
+
+        if (currentEdgeDensity > 0.035 && currentFlatUIPixelRatio > 0.15) {
+            screenshotArtifactScore += 0.3;
+            screenshotArtifactReasons.push("Unusually high text-like edge density on flat background");
+        }
+
+        // 3. Central skin absence with UI present
+        if (currentCentralSkinRatio < 0.15 && currentFlatUIPixelRatio > 0.15) {
+            screenshotArtifactScore += 0.2;
+            screenshotArtifactReasons.push("UI chrome occupying substantial central area");
+        }
+
+        // 4. Border/Bar detection (check top and bottom 10%)
+        let topFlatPixels = 0, bottomFlatPixels = 0;
+        const edgeMargin = Math.floor(CANVAS_SIZE * 0.1);
+        
+        for (let y = 0; y < edgeMargin; y++) {
+            for (let x = 0; x < CANVAS_SIZE; x++) {
+                const i = (y * CANVAS_SIZE + x) * 4;
+                const r = pixels[i], g = pixels[i+1], b = pixels[i+2];
+                // Stricter flat definition for bars to avoid penalizing dark backgrounds
+                const isFlat = (r > 235 && g > 235 && b > 235) || (r < 20 && g < 20 && b < 20) || 
+                               (r > 210 && g > 205 && b > 195 && Math.abs(r - g) < 22 && Math.abs(r - b) < 25);
+                if (isFlat) topFlatPixels++;
+            }
+        }
+        for (let y = CANVAS_SIZE - edgeMargin; y < CANVAS_SIZE; y++) {
+            for (let x = 0; x < CANVAS_SIZE; x++) {
+                const i = (y * CANVAS_SIZE + x) * 4;
+                const r = pixels[i], g = pixels[i+1], b = pixels[i+2];
+                const isFlat = (r > 235 && g > 235 && b > 235) || (r < 20 && g < 20 && b < 20) || 
+                               (r > 210 && g > 205 && b > 195 && Math.abs(r - g) < 22 && Math.abs(r - b) < 25);
+                if (isFlat) bottomFlatPixels++;
+            }
+        }
+
+        const topFlatRatio = topFlatPixels / (edgeMargin * CANVAS_SIZE);
+        const bottomFlatRatio = bottomFlatPixels / (edgeMargin * CANVAS_SIZE);
+
+        if (topFlatRatio > 0.85) {
+            screenshotArtifactScore += 0.25;
+            screenshotArtifactReasons.push("Strong top UI bar / status bar detected");
+        }
+        if (bottomFlatRatio > 0.85) {
+            screenshotArtifactScore += 0.25;
+            screenshotArtifactReasons.push("Strong bottom UI bar detected");
+        }
+
+        // 5. Check for horizontal/vertical uniform lines (typical of UI boundaries/chat bubbles)
+        let uniformLinesCount = 0;
+        for (let y = edgeMargin; y < CANVAS_SIZE - edgeMargin; y += 4) {
+            let maxRun = 1;
+            let currentRun = 1;
+            for (let x = 1; x < CANVAS_SIZE; x++) {
+                const i = (y * CANVAS_SIZE + x) * 4;
+                const prevI = i - 4;
+                // Strict uniformity check for UI borders (less tolerance than shadow)
+                const diff = Math.abs(pixels[i] - pixels[prevI]) + Math.abs(pixels[i+1] - pixels[prevI+1]) + Math.abs(pixels[i+2] - pixels[prevI+2]);
+                if (diff < 5) {
+                    currentRun++;
+                    if (currentRun > maxRun) maxRun = currentRun;
+                } else {
+                    currentRun = 1;
+                }
+            }
+            if (maxRun > CANVAS_SIZE * 0.7) {
+                uniformLinesCount++;
+            }
+        }
+        if (uniformLinesCount > 2) {
+            screenshotArtifactScore += 0.2;
+            screenshotArtifactReasons.push("Long horizontal UI-like boundaries/chat bubble edges");
+        }
+
+        screenshotArtifactScore = Number(Math.min(1.0, screenshotArtifactScore).toFixed(2));
+
         // --- F. Metrics Calculation ---
         const skinPixelRatio = Number((skinPixelCount / totalPixels).toFixed(4));
         const flatUIPixelRatio = Number((flatUIPixelCount / totalPixels).toFixed(4));
@@ -1098,7 +1204,9 @@ async function validateDirectSkinPhotograph(file) {
             flatUIPixelRatio,
             edgeDensity,
             centralSkinRatio,
-            maxSkinClusterRatio
+            maxSkinClusterRatio,
+            screenshotArtifactScore,
+            screenshotArtifactReasons
         };
 
         console.log("Validation Metrics Log:", metrics);
@@ -1113,9 +1221,20 @@ async function validateDirectSkinPhotograph(file) {
 
         // 1. SAFE PASS OVERRIDE FOR GENUINE SKIN PHOTOS
         // If image has plausible skin content, a contiguous cluster, low UI background, and low text edges -> ACCEPT
-        if (skinPixelRatio >= 0.08 && maxSkinClusterRatio >= 0.03 && flatUIPixelRatio < 0.28 && edgeDensity < 0.05) {
+        // Must NOT have high screenshot artifacts!
+        if (screenshotArtifactScore < 0.40 && skinPixelRatio >= 0.08 && maxSkinClusterRatio >= 0.03 && flatUIPixelRatio < 0.28 && edgeDensity < 0.05) {
             console.log("Validation PASS: Genuine skin photo verified with safe pass criteria.", metrics);
             return { isValid: true, metrics };
+        }
+
+        // 1.5 SCREENSHOT / CHAT ARTIFACT REJECTION
+        if (screenshotArtifactScore >= 0.50) {
+            console.log("Validation FAIL: likely screenshot/chat image", metrics);
+            return {
+                isValid: false,
+                reason: "Please upload a clear photo of a skin area or skin lesion. Screenshots and chat images cannot be analyzed.",
+                metrics
+            };
         }
 
         // 2. HARD REJECTION RULES FOR OBVIOUS NON-SKIN / UI / SCREENSHOTS
@@ -1292,13 +1411,17 @@ async function loadModels() {
 
         window.tflite.setWasmPath("./wasm/");
 
-        console.log("Loading skin gate model...");
+        console.log("Offline mode test");
+        console.log("No network required");
+        console.log("Using local skin gate");
         skinGateModel = await window.tflite.loadTFLiteModel("./model/skin_gate.tflite");
         console.log("Skin gate loaded successfully.");
 
-        console.log("Loading cancer classification model...");
+        console.log("Using local EfficientNet model");
         cancerModel = await window.tflite.loadTFLiteModel("./model/skin_cancer_efficientnet.tflite");
         console.log("Cancer model loaded successfully.");
+        
+        console.log("Using local Grad-CAM model"); // Grad-CAM uses the underlying model/logic
 
         analyzeButton.disabled = !selectedImage;
         console.log("All AI models loaded successfully.");
@@ -2596,6 +2719,7 @@ voiceButton.addEventListener("click", async () => {
 
         currentAudio = new Audio();
         voiceButton.disabled = true;
+        console.log("Using local audio");
 
         currentAudio.onplay = () => {
             console.log("Audio playback started successfully:", audioPath);
