@@ -11,6 +11,7 @@
 
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="icons/skincare-ai-logo.png">
 </head>
 
 <body>
@@ -22,7 +23,7 @@
     ================================================== -->
     <header class="app-header">
         <div class="brand-container">
-            <div class="brand-icon">🔬</div>
+            <img src="icons/skincare-ai-logo.png" alt="SkinCare AI Logo" class="brand-icon" style="background: none; object-fit: cover; box-shadow: none;">
             <div>
                 <h1 class="brand-title" id="appTitle">Skin Cancer Detection</h1>
                 <p class="brand-subtitle" id="appSubtitle">AI-assisted skin image screening</p>
@@ -223,6 +224,33 @@
             <h2 class="card-title">📈 Lesion Progress & Longitudinal Tracker</h2>
             <p class="card-subtitle">Compare past lesion images over time to monitor size, shape, and visual changes.</p>
 
+            <!-- MODEL CONFIDENCE ACROSS SCANS LINE CHART -->
+            <div style="background: #f8fafc; border: 1px solid var(--border-color); border-radius: 12px; padding: 18px; margin-bottom: 20px;">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
+                    <div>
+                        <h3 style="margin: 0; font-size: 16px; color: var(--primary-dark);">Model Confidence Across Scans</h3>
+                        <div style="font-size: 11px; font-weight: 600; color: #0284c7; margin-top: 2px;">
+                            ℹ️ Model confidence is not the same as clinical severity.
+                        </div>
+                    </div>
+                </div>
+
+                <div id="progressChartContainer" style="position: relative; width: 100%; min-height: 180px;">
+                    <canvas id="confidenceChartCanvas" width="650" height="200" style="width: 100%; height: 200px; display: block;"></canvas>
+                    <div id="progressChartEmptyState" style="display: none; padding: 30px 20px; text-align: center; color: var(--text-muted); font-size: 13px;">
+                        📊 No previous scans available for the progress chart.
+                    </div>
+                </div>
+            </div>
+
+            <!-- HISTORICAL LESION PREDICTION SUMMARY -->
+            <div style="background: #f8fafc; border: 1px solid var(--border-color); border-radius: 12px; padding: 16px; margin-bottom: 20px;">
+                <h4 style="margin: 0 0 10px; font-size: 13px; color: var(--text-primary); text-transform: uppercase; font-weight: 700;">Historical Lesion Prediction Summary</h4>
+                <div id="classSummaryContainer" style="display: flex; gap: 10px; flex-wrap: wrap; font-size: 12px; color: var(--text-secondary);">
+                    <div style="color: var(--text-muted); font-size: 12px;">No historical scan data recorded yet.</div>
+                </div>
+            </div>
+
             <div id="progressComparisonContainer" class="progress-comparison-grid">
                 <div class="comparison-card" style="grid-column: 1 / -1; padding: 30px; color: var(--text-muted);">
                     📷 Perform multiple scans to build a side-by-side lesion progression timeline.
@@ -421,14 +449,17 @@
 ===================================================== -->
 <div id="patientReportModal" class="modal-overlay">
     <div class="modal-card">
-        <div class="report-header">
+        <div class="report-header" style="position: sticky; top: 0; z-index: 100; background: #ffffff; display: flex; justify-content: space-between; align-items: flex-start; padding-bottom: 12px; margin-bottom: 16px; border-bottom: 1px solid var(--border-color);">
             <div>
                 <h2 style="margin: 0; color: var(--primary-dark); font-size: 22px;">Skin Cancer Detection</h2>
                 <div style="font-size: 12px; color: var(--text-secondary);">Clinical Image Screening Summary</div>
             </div>
-            <div style="text-align: right; font-size: 12px; color: var(--text-muted);">
-                <div id="reportDate">Date: --</div>
-                <div id="reportRefNo">Ref: --</div>
+            <div style="text-align: right; font-size: 12px; color: var(--text-muted); display: flex; align-items: center; gap: 12px;">
+                <div>
+                    <div id="reportDate">Date: --</div>
+                    <div id="reportRefNo">Ref: --</div>
+                </div>
+                <button id="btnCloseReport" type="button" onclick="closeReportModal()" class="btn btn-secondary no-print" style="padding: 6px 14px; font-size: 14px; font-weight: bold; cursor: pointer; background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 6px; position: relative; z-index: 101;">✕ Close</button>
             </div>
         </div>
 
@@ -471,13 +502,83 @@
             ⚠️ This document provides AI-assisted screening information and does not constitute a confirmed medical diagnosis. Professional examination by a qualified dermatologist or healthcare provider is strongly recommended.
         </div>
 
-        <div class="no-print" style="display: flex; gap: 12px; justify-content: flex-end; flex-wrap: wrap;">
+        <div class="no-print" style="display: flex; gap: 12px; justify-content: flex-end; flex-wrap: wrap; margin-top: 16px;">
             <button onclick="downloadCurrentPdf()" class="btn btn-primary" id="btnReportDownloadPdf">📄 Download PDF</button>
             <button onclick="window.print()" class="btn btn-secondary">🖨️ Print / Save PDF</button>
-            <button onclick="closeReportModal()" class="btn btn-secondary">Close</button>
+            <button onclick="closeReportModal()" class="btn btn-secondary" id="btnReportCloseBottom" style="font-weight: bold; border-color: #cbd5e1;">✕ Close</button>
         </div>
     </div>
 </div>
+
+<!-- =====================================================
+     GRAD-CAM VISUALIZATION MODAL
+===================================================== -->
+<div id="gradcamModal" class="modal-overlay">
+    <div class="modal-card" style="max-width: 620px;">
+        <div class="report-header" style="margin-bottom: 16px; display: flex; justify-content: space-between; align-items: flex-start;">
+            <div>
+                <h2 style="margin: 0; color: var(--primary-dark); font-size: 20px;" id="gradcamModalTitle">Grad-CAM Explanation</h2>
+                <div style="font-size: 13px; color: var(--text-secondary);" id="gradcamModalSub">AI attention visualization for the current prediction</div>
+            </div>
+            <button onclick="closeGradcamModal()" class="btn btn-secondary" style="padding: 4px 10px; font-size: 14px;">✕</button>
+        </div>
+
+        <!-- SECTION 3: PREDICTION CONTEXT BLOCK -->
+        <div id="gradcamModalContext" style="background: #e0f2fe; border: 1px solid #bae6fd; color: #0369a1; padding: 10px 14px; border-radius: 8px; font-size: 13px; margin-bottom: 14px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+            <div><strong>Condition:</strong> <span id="gradcamCtxClass">—</span></div>
+            <div><strong>Confidence:</strong> <span id="gradcamCtxConf">—</span></div>
+            <div><strong>Ref:</strong> <span id="gradcamCtxRef">—</span></div>
+        </div>
+
+        <!-- SECTION 1 & 2: VISUALIZATIONS & LEGEND -->
+        <div style="display: flex; gap: 16px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 14px; background: #f8fafc; padding: 14px; border-radius: 12px; border: 1px solid var(--border-color);">
+            <div style="text-align: center; flex: 1; min-width: 140px;">
+                <div style="font-size: 12px; font-weight: 700; color: var(--text-secondary); margin-bottom: 6px;" id="gradcamModalOrigLabel">SECTION 1 — ORIGINAL IMAGE</div>
+                <img id="gradcamModalOrigImg" style="max-width: 100%; max-height: 200px; border-radius: 8px; border: 1px solid var(--border-color); object-fit: contain;" alt="Original Image">
+            </div>
+            <div style="text-align: center; flex: 1; min-width: 140px;">
+                <div style="font-size: 12px; font-weight: 700; color: var(--primary-dark); margin-bottom: 6px;" id="gradcamModalHeatmapLabel">SECTION 2 — GRAD-CAM VISUALIZATION</div>
+                <img id="gradcamModalImg" style="max-width: 100%; max-height: 200px; border-radius: 8px; border: 1px solid var(--border-color); object-fit: contain;" alt="Grad-CAM Visualization">
+            </div>
+        </div>
+
+        <!-- JET COLORMAP VISUAL LEGEND -->
+        <div style="margin-bottom: 16px; text-align: center;">
+            <div style="font-size: 11px; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px;">Attention Intensity Scale</div>
+            <div style="height: 10px; border-radius: 5px; background: linear-gradient(to right, blue, cyan, green, yellow, red); margin: 0 auto; max-width: 300px;"></div>
+            <div style="display: flex; justify-content: space-between; max-width: 300px; margin: 2px auto 0; font-size: 10px; color: var(--text-secondary);">
+                <span>Low Attention (Blue)</span>
+                <span>High Attention (Red)</span>
+            </div>
+        </div>
+
+        <!-- SECTION 4: WHAT THE VISUALIZATION MEANS -->
+        <div style="background: #f1f5f9; padding: 10px 12px; border-radius: 8px; margin-bottom: 10px; font-size: 12px; color: #334155; line-height: 1.4;">
+            <strong style="color: #0f172a;">What the Visualization Means:</strong>
+            <div id="gradcamModalMeans" style="margin-top: 2px;">
+                The highlighted regions represent image areas associated with the model's classification of this image.
+            </div>
+        </div>
+
+        <!-- SECTION 5: MODEL ATTENTION INTERPRETATION -->
+        <div style="background: #f1f5f9; padding: 10px 12px; border-radius: 8px; margin-bottom: 14px; font-size: 12px; color: #334155; line-height: 1.4;">
+            <strong style="color: #0f172a;">Model Attention Interpretation:</strong>
+            <div id="gradcamModalInterpretation" style="margin-top: 2px;">
+                The highlighted regions indicate where the classification model placed greater attention when producing its prediction.
+            </div>
+        </div>
+
+        <!-- SECTION 6: DISCLAIMER -->
+        <div style="background: #fff7ed; border: 1px solid #ffedd5; color: #9a3412; padding: 10px 12px; border-radius: 8px; font-size: 11px; line-height: 1.4; margin-bottom: 16px;" id="gradcamModalDisclaimer">
+            ⚠️ <strong>Medical Disclaimer:</strong> Grad-CAM-equivalent class activation visualization is an explanation aid, not diagnostic proof. The highlighted regions show model-associated attention and should not be interpreted as a clinical diagnosis.
+        </div>
+
+        <div class="no-print" style="display: flex; justify-content: flex-end;">
+            <button onclick="closeGradcamModal()" class="btn btn-secondary">Close</button>
+        </div>
+    </div>
+</div>
+
 
 
 <!-- =====================================================
@@ -495,7 +596,10 @@
 if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
         navigator.serviceWorker.register("./service-worker.js")
-            .then(reg => console.log("Service worker registered:", reg.scope))
+            .then(reg => {
+                console.log("Service worker registered:", reg.scope);
+                reg.update();
+            })
             .catch(err => console.error("Service worker registration failed:", err));
     });
 }

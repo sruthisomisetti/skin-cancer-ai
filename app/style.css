@@ -640,6 +640,51 @@ body {
     visibility: visible;
 }
 
+#gradcamModal {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    visibility: visible;
+    opacity: 1;
+    z-index: 2147483647 !important;
+    background: rgba(0,0,0,0.8);
+    overflow: auto;
+}
+
+#gradcamModal.active {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+#patientReportModal {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    visibility: visible;
+    opacity: 1;
+    z-index: 2147483646 !important;
+    background: rgba(15, 23, 42, 0.75);
+    backdrop-filter: blur(4px);
+    overflow: auto;
+}
+
+#patientReportModal.active {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+
+
 .modal-card {
     background: white;
     border-radius: var(--radius-lg);

@@ -1,10 +1,9 @@
-"use strict";
-
-const CACHE_NAME = "skincare-ai-v4";
+const CACHE_NAME = "skincare-ai-v9";
 
 const APP_FILES = [
     "./",
     "./index.html",
+    "./app.html",
     "./style.css",
     "./script.js",
     "./translations.js",
@@ -72,18 +71,36 @@ const AUDIO_FILES = [
 
 function getAudioFiles() {
     const files = [];
-
     for (const language of LANGUAGES) {
-        for (const audioFile of AUDIO_FILES) {
-            files.push(`./audio/${language}/${audioFile}`);
-        }
+        files.push(`./audio/${language}/result.wav`);
     }
-
     return files;
 }
 
-self.addEventListener("fetch", event => {
+self.addEventListener("install", event => {
+    self.skipWaiting();
+    event.waitUntil(
+        caches.open(CACHE_NAME).then(async cache => {
+            await cache.addAll(APP_FILES);
+            const audioFiles = getAudioFiles();
+            await Promise.allSettled(audioFiles.map(file => cache.add(file).catch(err => {
+                console.warn("Optional audio file cache skipped:", file);
+            })));
+        })
+    );
+});
 
+self.addEventListener("activate", event => {
+    event.waitUntil(
+        caches.keys().then(keys => {
+            return Promise.all(
+                keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))
+            );
+        }).then(() => self.clients.claim())
+    );
+});
+
+self.addEventListener("fetch", event => {
     const request = event.request;
 
     if (request.method !== "GET") {
@@ -92,19 +109,14 @@ self.addEventListener("fetch", event => {
 
     const url = new URL(request.url);
 
-    // Special handling for offline audio.
-    // Browsers may request WAV files using HTTP Range requests.
-    // We return the complete cached WAV file instead.
+    // Special handling for offline audio
     if (url.pathname.includes("/audio/")) {
-
         event.respondWith(
             caches.match(url.pathname)
                 .then(cachedResponse => {
-
                     if (cachedResponse) {
                         return cachedResponse;
                     }
-
                     return fetch(request);
                 })
                 .catch(() => {
@@ -119,45 +131,52 @@ self.addEventListener("fetch", event => {
                     );
                 })
         );
-
         return;
     }
 
-    // Normal application requests
-    event.respondWith(
+    // Network-First for core application files (HTML, JS, CSS) so code changes reflect immediately
+    if (url.pathname.endsWith(".html") || url.pathname.endsWith(".js") || url.pathname.endsWith(".css") || url.pathname === "/" || url.pathname.endsWith("/")) {
+        event.respondWith(
+            fetch(request)
+                .then(networkResponse => {
+                    if (networkResponse && networkResponse.status === 200 && networkResponse.type !== "opaque") {
+                        const responseClone = networkResponse.clone();
+                        caches.open(CACHE_NAME).then(cache => {
+                            cache.put(request, responseClone);
+                        });
+                    }
+                    return networkResponse;
+                })
+                .catch(() => caches.match(request))
+        );
+        return;
+    }
 
+    // Cache-First for static models and assets
+    event.respondWith(
         caches.match(request)
             .then(cachedResponse => {
-
                 if (cachedResponse) {
                     return cachedResponse;
                 }
 
                 return fetch(request)
                     .then(networkResponse => {
-
                         if (
                             networkResponse &&
                             networkResponse.status === 200 &&
                             networkResponse.type !== "opaque"
                         ) {
-
-                            const responseClone =
-                                networkResponse.clone();
-
-                            caches.open(CACHE_NAME)
-                                .then(cache => {
-                                    cache.put(request, responseClone);
-                                });
+                            const responseClone = networkResponse.clone();
+                            caches.open(CACHE_NAME).then(cache => {
+                                cache.put(request, responseClone);
+                            });
                         }
-
                         return networkResponse;
                     })
                     .catch(() => {
-
-                        return caches.match("./index.html");
-
+                        return caches.match("./app.html");
                     });
             })
     );
-});
+});
